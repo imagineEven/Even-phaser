@@ -1,6 +1,5 @@
 node_modules/
 www/
-dist/
 .idea/
 *.log
 package-lock.json
