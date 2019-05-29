@@ -1,0 +1,24 @@
+{
+    "pages": [
+        {
+        "sounds": ["7af4913b99af2fc231ac6a5191009c78", "5a9872619bc8f052049353e9f1822b14", "e5b5c7ecc052ff28def6125548d55d32"],
+        "sound":"df40105098f477d2c0cb56a81b5c5667",
+        "word": "big",
+        "wordConfig": [{ "time": 600 }, { "time": 700 }, { "time": 800 }, { "time": 800 },{ "time": 800 }]
+    },
+    {
+        "sounds": ["7af4913b99af2fc231ac6a5191009c78", "5a9872619bc8f052049353e9f1822b14", "e5b5c7ecc052ff28def6125548d55d32"],
+        "sound":"df40105098f477d2c0cb56a81b5c5667",
+        "word": "big",
+        "wordConfig": [{ "time": 600 }, { "time": 700 }, { "time": 800 }, { "time": 800 },{ "time": 800 }],
+        "video":"d29d0545593929a6824a653f1d1f603d"
+    },
+    {
+        "sounds": ["7af4913b99af2fc231ac6a5191009c78", "5a9872619bc8f052049353e9f1822b14", "e5b5c7ecc052ff28def6125548d55d32"],
+        "sound":"df40105098f477d2c0cb56a81b5c5667",
+        "word": "big",
+        "wordConfig": [{ "time": 600 }, { "time": 700 }, { "time": 800 }, { "time": 800 },{ "time": 800 }]
+    }
+    ],
+    "video":"d29d0545593929a6824a653f1d1f603d"
+}

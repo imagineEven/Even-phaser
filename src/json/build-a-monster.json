@@ -1,0 +1,102 @@
+{
+  "allLetters": [
+    {
+      "letter": "B",
+      "sound": "bab00406dc918b1abc14f7be5342453c"
+    },
+    {
+      "letter": "C",
+      "sound": "b25bc9e953cbb636b6d4f62990bf95bf"
+    },
+    {
+      "letter": "D",
+      "sound": "0926917973d18e44eb84bd876d22fae8"
+    },
+    {
+      "letter": "E",
+      "sound": "ddcd827c0a891aa181a8a86042d5ae9e"
+    },
+    {
+      "letter": "F",
+      "sound": "4f0def26e71baa7485dd13734b652d36"
+    },
+    {
+      "letter": "G",
+      "sound": "7188a91fc9d3ac304a228480d8612f46"
+    },
+    {
+      "letter": "H",
+      "sound": "5f227e41bf2ca77c1fa859cdfa481274"
+    },
+    {
+      "letter": "I",
+      "sound": "60eb8f3cfefd839bdc620c0dbf11aa60"
+    },
+    {
+      "letter": "J",
+      "sound": "6990e085f3a53475cd77c45f075a6c27"
+    },
+    {
+      "letter": "K",
+      "sound": "28a4c35e40e5ec3896e89b9c7df36e89"
+    },
+    {
+      "letter": "L",
+      "sound": "e88ac89f21beee1b0c88efc1f31d5aba"
+    },
+    {
+      "letter": "M",
+      "sound": "231f32ac09bae71fab06994575b02b56"
+    },
+    {
+      "letter": "N",
+      "sound": "dcb0acb81acb89d50f03874f6bf449b1"
+    },
+    {
+      "letter": "O",
+      "sound": "6694e4193af119429473eca837b28d11"
+    },
+    {
+      "letter": "P",
+      "sound": "f2ecd78b74cf0f03298f195c1b44aab2"
+    },
+    {
+      "letter": "Q",
+      "sound": "eb369d8d41ea396c1b25447874d9e2ea"
+    },
+    {
+      "letter": "R",
+      "sound": "bc6d03b855f66868cec732a8ecfad372"
+    },
+    {
+      "letter": "S",
+      "sound": "cac58dd6cc97163071c831148e179106"
+    },
+    {
+      "letter": "T",
+      "sound": "418bbe0e67a49210ce1b7b7462c1e000"
+    },
+    {
+      "letter": "U",
+      "sound": "e094482ad3163783d6e101ce64da61a0"
+    },
+    {
+      "letter": "V",
+      "sound": "4d940d66bf4022e7b92c1580152be410"
+    },
+    {
+      "letter": "X",
+      "sound": "5cfabeb92799e9be2c34305b4cbc5748"
+    },
+    {
+      "letter": "Y",
+      "sound": "faaa0805f734c9da87f9f64164062225"
+    },
+    {
+      "letter": "Z",
+      "sound": "dd0c50ab85c3c417775c200d5115a7e7"
+    }
+  ],
+  "letter": "w",
+  "sound": "3163fb5e410785c750ce896ca3065125"
+}

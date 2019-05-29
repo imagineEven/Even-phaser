@@ -1,0 +1,317 @@
+{
+  "contents": [
+    {
+      "text": "Things That Go",
+      "size": 30,
+      "y": 50,
+      "isTitle": true
+    },
+    {
+      "text": "Table Of Contents",
+      "size": 18,
+      "y": 150,
+      "isSubTitle": true
+    },
+    {
+      "key": "section1",
+      "text": "Section 1: How People Go",
+      "size": 14,
+      "x": 410,
+      "y": 200
+    },
+    {
+      "key": "section1",
+      "text": "2",
+      "size": 14,
+      "x": 740,
+      "y": 200
+    },
+    {
+      "key": "section2",
+      "text": "Section 2: Bike Safety",
+      "size": 14,
+      "x": 410,
+      "y": 230
+    },
+    {
+      "key": "section2",
+      "text": "4",
+      "size": 14,
+      "x": 740,
+      "y": 230
+    },
+    {
+      "key": "section3",
+      "text": "Section 3: Kinds of Trucks",
+      "size": 14,
+      "x": 410,
+      "y": 260
+    },
+    {
+      "key": "section3",
+      "text": "8",
+      "size": 14,
+      "x": 740,
+      "y": 260
+    },
+    {
+      "isRight": true,
+      "key": "section4",
+      "text": "Section 4: Places To Go",
+      "size": 14,
+      "x": 410,
+      "y": 290
+    },
+    {
+      "isRight": true,
+      "pageSound": {
+        "sound": "35427f44ca69813a9206dc13db0717e1"
+      },
+      "key": "section4",
+      "text": "12",
+      "size": 14,
+      "x": 730,
+      "y": 290
+    },
+    {
+      "key": "glossary",
+      "text": "Glossary",
+      "size": 14,
+      "x": 410,
+      "y": 320
+    },
+    {
+      "key": "glossary",
+      "text": "18",
+      "size": 14,
+      "x": 730,
+      "y": 320
+    }
+  ],
+  "section": {
+    "title": "Section 1: How People Go",
+    "subTitle": "How do you go to a new place?",
+    "ways": [
+      {
+        "texts": [
+          {
+            "words": "Land",
+            "x": 40,
+            "y": 80,
+            "fontWeight": 550
+          },
+          {
+            "words": "You can go on a\nbicycle. You can\nride on the sidewalk\nor on a bike path.\nYou can go up and\ndown hills.",
+            "x": 40,
+            "y": 110
+          },
+          {
+            "words": "You can go on a\ntrain. Trains go on a\ntrack. They help you\nget to places faster.",
+            "x": 40,
+            "y": 265
+          },
+          {
+            "words": "You can go in a car\nor on a bus. You can\nride to the city or to\nthe country. You \ncan go on the\nhighway or on dirt\nroads.",
+            "x": 40,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "texts": [
+          {
+            "words": "Water",
+            "x": 415,
+            "y": 20,
+            "fontWeight": 550
+          },
+          {
+            "words": "You can go on a boat. Boats floot\ndown a river. They sail across the\nsea. You can even take your car on\na big boat called a ferry.",
+            "x": 415,
+            "y": 45
+          }
+        ]
+      },
+      {
+        "texts": [
+          {
+            "words": "Air",
+            "x": 415,
+            "y": 275,
+            "fontWeight": 550
+          },
+          {
+            "words": "You can go on an\nairplane. Airplanes\ngo in the air. They go\nover land and\noceans. Airplanes\nare the fastest way\nto go.",
+            "x": 415,
+            "y": 305
+          },
+          {
+            "words": "What will you do when you get\nthere?",
+            "x": 415,
+            "y": 490
+          }
+        ]
+      }
+    ],
+    "imgs": [
+      {
+        "image": "cb24899bd45a8ca371bc98a4ab8b5f2c.png",
+        "words": "Riding on a bike path",
+        "x": 255,
+        "y": 93,
+        "wordX": 250
+      },
+      {
+        "image": "6044e385b498500c192fefc48feefae0.png",
+        "words": "A train that carries\npeople",
+        "x": 255,
+        "y": 250,
+        "wordX": 260
+      },
+      {
+        "image": "95b61f368ca5876e26b672203ab40aa9.png",
+        "words": "Cars on the highway",
+        "x": 255,
+        "y": 405,
+        "wordX": 250
+      },
+      {
+        "image": "4fd28c02c8e869fcdbc49756fa120745.png",
+        "words": "River boat",
+        "x": 415,
+        "y": 168,
+        "wordX": 432
+      },
+      {
+        "image": "7c62d84e70315aeaec07591b00132270.png",
+        "words": "Sailboat",
+        "x": 532,
+        "y": 168,
+        "wordX": 557
+      },
+      {
+        "image": "6a5e44771dae1cabda4fe0049e9db458.png",
+        "words": "Ferry",
+        "x": 650,
+        "y": 168,
+        "wordX": 685
+      },
+      {
+        "image": "69d332a8b7080f1d7573681413b8b5e1.jpg",
+        "words": "Airplane flying in the\nair",
+        "x": 636,
+        "y": 318,
+        "wordX": 633
+      }
+    ]
+  },
+  "questions": [
+    {
+      "sounds": [
+        "6026eda5723a60f5ffe89fcab67a8669",
+        "2fc0091429ebb3de10908b467fc3487c"
+      ],
+      "lightIndexs": [
+        [
+          18
+        ],
+        [
+          39
+        ],
+        [
+          77
+        ],
+        [
+          115
+        ]
+      ],
+      "rightIndexs": [
+        77
+      ],
+      "firstWrong": {
+        "sounds": [
+          "33dc08edd634b13012d3a9d5006c656f"
+        ]
+      },
+      "twiceWrong": {
+        "sound": "2995221cbc5b025d83a607e54295fdb7"
+      },
+      "rightSound": {
+        "sound": "79d61da6e58b81f8a65d57af79016e56"
+      }
+    },
+    {
+      "sounds": [
+        "8d7c06d3c8e5fd44df54fe2db9cd484d",
+        "eacd9a6d859bc004a6d23e4bb1c12cf9"
+      ],
+      "lightIndexs": [
+        [
+          0
+        ],
+        [
+          83
+        ],
+        [
+          117
+        ]
+      ],
+      "rightIndexs": [
+        83
+      ],
+      "tryAgain": {
+        "sound": "06800479188ecfbb7de73b1e9d5914d0"
+      },
+      "firstWrong": {
+        "sounds": [
+          "d2cb78d5632040e6b67e8a72ccb8b915",
+          "eacd9a6d859bc004a6d23e4bb1c12cf9"
+        ]
+      },
+      "twiceWrong": {
+        "sound": "c40ab54f24dad582428ed6b0339ff7dd"
+      },
+      "rightSound": {
+        "sound": "6c3608af2baec749730bc51deea6a1f4"
+      }
+    }
+  ],
+  "glossaryList": [
+    {
+      "words": "*ferry:* A boat that carries people\nand things across the water.",
+      "sounds": [
+        "61ba967825355fa299b3dd8ef512e3e9",
+        "e421935bb681134bbc7782c508b4c98f"
+      ],
+      "x": 415,
+      "y": 75
+    },
+    {
+      "words": "*highway:* A wide main road you\ndrive on to go from one town to\nanother.",
+      "sounds": [
+        "79d61da6e58b81f8a65d57af79016e56",
+        "2fc0091429ebb3de10908b467fc3487c"
+      ],
+      "x": 415,
+      "y": 135
+    },
+    {
+      "words": "*path:* A trail or road to travel on.",
+      "sounds": [
+        "a6969a00304ce02e02aa3f4fe653181d",
+        "68b9180463cbbcd7bbd196196a55943f"
+      ],
+      "x": 415,
+      "y": 220
+    },
+    {
+      "words": "*track:* The two metal lines that a\ntrain moves on.",
+      "sounds": [
+        "5893a429d5ff67efc99d094680149dc1",
+        "4e765967719aabb292ac60d1e4db44f8"
+      ],
+      "x": 415,
+      "y": 255
+    }
+  ]
+}

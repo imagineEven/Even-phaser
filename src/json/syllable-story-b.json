@@ -1,0 +1,42 @@
+{
+	"sentenceArray": [
+		"   Tom heard\na sudden\nnoise. His\nrobot was\nbroken."
+	],
+	"nextSentenceArray": [
+		"   Tom heard\na sudden\nnoise. His\nrobot was\nbroken. Tom\nbegan to\npanic."
+	],
+	"wordStyle1": {
+		"font": "Century Gothic",
+		"fontWeight":"bold",
+		"fontSize": "30px",
+		"fill": "#000"
+	},
+	"wordStyle2": {
+		"font": "Century Gothic",
+		"fontWeight":"bold",
+		"fontSize": "35px",
+		"fill": "#000"
+	},
+	"bigWordStyle": {
+		"font": "Century Gothic",
+		"fontWeight":"bold",
+		"fontSize": "40px",
+		"fill": "#000"
+	},
+	"timeList": [
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500
+	]
+}

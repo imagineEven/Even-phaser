@@ -1,0 +1,234 @@
+{
+  "example": {
+    "sentence": "The man used a small pump to\n____________ the balloon.",
+    "sound": "820f3edf91f151e5e1a77b10f468a6cf",
+    "missingSpace": {
+      "x": 170,
+      "y": 346
+    },
+    "means": {
+      "sound": "a3931cc5591b73b8916bc41ef578ef5e"
+    },
+    "options": [
+      {
+        "word": "inside"
+      },
+      {
+        "word": "inflate",
+        "sound": "e730d7a46dd090233c23f8d11031462f",
+        "isRight": true
+      },
+      {
+        "word": "iceberg"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "sentence": "He was ___________ when his sister\ndidn't answer the phone.",
+      "sentences": [
+        {
+          "sentence": "He was ___________ when his sister\ndidn't answer the phone.",
+          "x": 35,
+          "y": 265,
+          "missingSpace": {
+            "width": 220,
+            "x": 296,
+            "y": 300
+          }
+        },
+        {
+          "sentence": "My sister became ___________ when I\ndidn't return her call.",
+          "sound": "c3ee3ae69964ce4d860d211064b41b88",
+          "x": 35,
+          "y": 265,
+          "missingSpace": {
+            "width": 220,
+            "x": 500,
+            "y": 300
+          }
+        }
+      ],
+      "means": {
+        "sound": "0024dfdb0c89c0063f86df24455755df"
+      },
+      "options": [
+        {
+          "word": "fountain"
+        },
+        {
+          "word": "fraction"
+        },
+        {
+          "word": "frustrated",
+          "sound": "f153e8686e5695af9fc409436a26f76c",
+          "isRight": true
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "sentence": "The ___________ fell on the ice.",
+          "x": 35,
+          "y": 288,
+          "missingSpace": {
+            "width": 220,
+            "x": 222,
+            "y": 322
+          }
+        },
+        {
+          "sentence": "The ___________ never fell on the ice.",
+          "sound": "c92f94c0bdc8a839d9d7fa2d405545a9",
+          "x": 35,
+          "y": 288,
+          "missingSpace": {
+            "width": 220,
+            "x": 222,
+            "y": 322
+          }
+        }
+      ],
+      "means": {
+        "sound": "1a4253a552cad8263c602f4b93f4814c"
+      },
+      "options": [
+        {
+          "word": "state"
+        },
+        {
+          "word": "skater",
+          "sound": "1b7dc458f9cc375e23e38f6b2b12d779",
+          "isRight": true
+        },
+        {
+          "word": "stopped"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "sentence": "The whole school ___________ after the\nswim team won.",
+          "x": 35,
+          "y": 265,
+          "missingSpace": {
+            "width": 220,
+            "x": 490,
+            "y": 300
+          }
+        },
+        {
+          "sentence": "The class ___________ when their team\nwon the school race.",
+          "sound": "65e7ccae8d1c3196059556f959af397c",
+          "x": 35,
+          "y": 265,
+          "missingSpace": {
+            "width": 220,
+            "x": 330,
+            "y": 300
+          }
+        }
+      ],
+      "means": {
+        "sound": "a43b28c8d8d24a0b010e1841cc3f8ecf"
+      },
+      "options": [
+        {
+          "word": "cellular"
+        },
+        {
+          "word": "celebrated",
+          "sound": "52a95fd523b5a61a0da38f36b9f7451f",
+          "isRight": true
+        },
+        {
+          "word": "cemetary"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "sentence": "Joe rode his ___________ to work.",
+          "x": 35,
+          "y": 290,
+          "missingSpace": {
+            "width": 220,
+            "x": 390,
+            "y": 325
+          }
+        },
+        {
+          "sentence": "Joe rode his ___________ to the park.",
+          "sound": "64b97aa07d260fa42b4617d8fe830690",
+          "x": 35,
+          "y": 290,
+          "missingSpace": {
+            "width": 220,
+            "x": 390,
+            "y": 325
+          }
+        }
+      ],
+      "means": {
+        "sound": "1dbe4d3ea698f026ac83aad565f2d278"
+      },
+      "options": [
+        {
+          "word": "motors"
+        },
+        {
+          "word": "moonlike"
+        },
+        {
+          "word": "motorbike",
+          "sound": "7b9c32759448295ea7d3c21174e70754",
+          "isRight": true
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "sentence": "The new student was ___________ and\nquickly made friends.",
+          "x": 35,
+          "y": 265,
+          "missingSpace": {
+            "width": 220,
+            "x": 555,
+            "y": 300
+          }
+        },
+        {
+          "sentence": "The students thought the new teacher\nwas very ___________.",
+          "sound": "dd166abd09f3597c69b4473e50df61e4",
+          "x": 35,
+          "y": 265,
+          "missingSpace": {
+            "width": 220,
+            "x": 328,
+            "y": 345
+          }
+        }
+      ],
+      "means": {
+        "sound": "a45c161d1698ab3bc796e2c2adf8b11a"
+      },
+      "options": [
+        {
+          "word": "listen"
+        },
+        {
+          "word": "lighten"
+        },
+        {
+          "word": "likeable",
+          "sound": "e3f273a18144ef4aedbff9ae593c5430",
+          "isRight": true
+        }
+      ]
+    }
+  ]
+}

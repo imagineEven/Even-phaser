@@ -1,0 +1,723 @@
+{
+    "cover": {
+        "image": "73e9a97fd3f210af82d88e6d57c67c16.jpg"
+    },
+    "introSound": {
+        "sound": "3921f728fadf15d6f2ab801339ac7dcc"
+    },
+    "lightColor": "#FC6D19",
+    "textPageFont": {
+        "font": "Century Gothic",
+        "fill": "white",
+        "fontSize": 10
+    },
+    "pages": [{
+        "image": "aa9798ed96a15b6a942ba6270053e60e.jpg",
+        "subtitle": ["Cast of Characters", "Detective Ace,\na smart detective", "Carmen Starr,\na beautiful actress", "Bob,\na stylish costumer", "Bonnie,\na sneezing supporting\nactress", "Barney,\na grumpy cameraman"],
+        "sounds": ["8ecc7d48ea96d2fd7781dc1032d9b519", "a32615ac47395fc36cface5f037cfa89", "442b6ad6addd14355c0354b78ce78eba", "b0eeeca169c808171e2895df61553651", "dfcbd473255109c2721e8350034e84e8", "4f720adf8e96e3fd34a827d6dea57b52"],
+        "positionArr": [{
+            "x": 30,
+            "y": 115
+        }, {
+            "x": 30,
+            "y": 153
+        }, {
+            "x": 30,
+            "y": 221
+        }, {
+            "x": 30,
+            "y": 289
+        }, {
+            "x": 30,
+            "y": 357
+        }, {
+            "x": 30,
+            "y": 455
+        }],
+        "wordTime": [600, 300, 800, 700, 500, 300, 600, 700, 600, 500, 300, 600, 700, 600, 300, 700, 800, 700, 300, 700, 800, 600, 700, 300, 700, 700],
+        "x": 30,
+        "y": 160,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 18
+        },
+        "wordCanClickIndex": []
+    }, {
+        "image": "d45105ea7c8bf0f26d07be747846112d.jpg",
+        "subtitle": ["Scene 1: Detective Ace's\noffice. He is working on the\nCase of the Bottle Bandit,\nsomeone who steals bottles of\nexpensive perfume. The\nphone rings.", "ACE: Hello?", "VOICE: Ace! Ace! Come\nquick! He's gone!", "ACE: Who's gone? Come\nwhere?", "VOICE: To the movie set.\nManny's missing!"],
+        "sounds": ["2d8ba42d53628f6bad272fbd2b93c8e4", "07113f36ae48d4ac7a5806f547db9137", "30360ab6d10514d5f5d4b716de3eba1a", "7e436a81c3af091f476e2191e477f473", "f9b098ce5e98d2794feabcdba0e2b372"],
+        "positionArr": [{
+            "x": 30,
+            "y": 75
+        }, {
+            "x": 30,
+            "y": 243
+        }, {
+            "x": 30,
+            "y": 293
+        }, {
+            "x": 30,
+            "y": 363
+        }, {
+            "x": 30,
+            "y": 433
+        }, {
+            "x": 30,
+            "y": 515
+        }],
+        "wordTime": [500, 600, 800, 500, 600, 300, 300, 500, 200, 300, 400, 200, 300, 500, 500, 500, 200, 350, 350, 200, 800, 800, 300, 400, 600, 600, 600, 600, 600, 700, 400, 600, 600, 800, 600, 800, 200, 300, 800, 700, 600, 1],
+        "x": 30,
+        "y": 110,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 16
+        },
+        "wordCanClickIndex": [
+            [0],
+            [16],
+            [23],
+            [24],
+            [58, 59]
+        ]
+    }, {
+        "image": "99e06d7d743ea966c1e210684a85eabc.jpg",
+        "subtitle": ["Scene 2: The set of a pirate\nmovie. Detective Ace enters.", "CARMEN: I'm so glad you're\nhere. It's just terrible. My own\ncostar—missing! Maybe I'll be\nnext.", "ACE: So Manny is your costar.\nCan you describe him for me,\nMiss—?", "CARMEN: Carmen. Carmen\nStarr. Well, he has nice green\neyes, a loud voice, and stands\nabout 2 feet tall.", "Ace looks surprised.", "CARMEN: Oh, I didn't tell you?\nHe's a parrot."],
+        "sounds": ["5759cccf28cc0952048f48f22f1d92ff", "e25f7412bec984d59f91216d3181ac16", "740275adabeb1178ec45c2b21ba53c94", "fedbcfa98be85053e6d2a389b0790241", "cf12a61764c16e2eafb6d6e8b2b2b7bc", "dec9b5b94aa3ccd946f30a80393f0c53"],
+        "wordTime": [500, 600, 400, 500, 200, 100, 600, 600, 700, 500, 700, 100, 10, 400, 300, 500, 400, 600, 300, 600, 700, 300, 400, 800, 1000, 700, 300, 300, 800, 300, 100, 700, 600, 200, 200, 600, 400, 200, 600, 300, 200, 300, 800, 100, 10, 700, 700, 900, 700, 300, 400, 350, 350, 550, 300, 400, 600, 300, 400, 400, 200, 400, 500, 100, 500, 400, 700, 300, 100, 500, 200, 500, 400, 500, 200, 100, 500, 1],
+        "x": 30,
+        "y": 60,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 17
+        },
+        "positionArr": [{
+            "x": 30,
+            "y": 50
+        }, {
+            "x": 30,
+            "y": 125
+        }, {
+            "x": 30,
+            "y": 240
+        }, {
+            "x": 30,
+            "y": 335
+        }, {
+            "x": 30,
+            "y": 450
+        }, {
+            "x": 30,
+            "y": 495
+        }],
+        "wordCanClickIndex": [
+            [0],
+            [28]
+        ]
+    }, {
+        "image": "cd5392a1d1393fb6df2b666e40325155.jpg",
+        "subtitle": ["CARMEN: He was taken last\nnight. The good news is the\nmovie camera was left on by\nmistake, so we caught his\nkidnapper on tape.", "ACE: So who did it?", "CARMEN: That's the bad news.\nThe camera ran out when\nManny was naming his\nkidnapper!", "Carmen plays the film, and we\nsee Manny say, \"I should have\nknown it would be you, Bah—!\""],
+        "sounds": ["ace0b41bc6cadbb8a028fc27c4b7e646", "a930cb807bb32667e1d5f8f4600e44d8", "4a396e97b1699d977437958041cb0803", "ba13e69d0dec276866c0d453a0213287"],
+        "positionArr": [{
+            "x": 30,
+            "y": 80
+        }, {
+            "x": 30,
+            "y": 220
+        }, {
+            "x": 30,
+            "y": 260
+        }, {
+            "x": 30,
+            "y": 380
+        }],
+        "wordTime": [10, 400, 400, 500, 400, 500, 300, 500, 500, 300, 300, 500, 500, 300, 300, 200, 200, 800, 300, 300, 400, 300, 650, 200, 600, 200, 10, 500, 300, 300, 500, 100, 10, 400, 300, 350, 600, 300, 600, 200, 300, 300, 500, 300, 500, 300, 700, 100, 600, 400, 300, 500, 400, 200, 200, 500, 500, 200, 400, 400, 300, 300, 400, 200, 400, 500, 1],
+        "x": 30,
+        "y": 90,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 17
+        },
+        "wordCanClickIndex": [
+            [25]
+        ]
+    }, {
+        "image": "914882d8cd2bd9dcdd82576f99cf8e1d.jpg",
+        "subtitle": ["ACE: Bah, huh? Get me a list\nof everybody on the set\nwhose name begins with the\nsound  \"bah.\" We'll find that\nbird bandit!"],
+        "sounds": "280d032a9e9dcd48ab64a1826e139e0e",
+        "positionArr": [{
+            "x": 27,
+            "y": 130
+        }],
+        "wordTime": [10, 500, 1400, 500, 200, 100, 300, 200, 500, 200, 200, 300, 300, 300, 400, 300, 300, 350, 500, 400, 350, 400, 350, 400, 1],
+        "x": 30,
+        "y": 180,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 18
+        },
+        "wordCanClickIndex": [
+            [30]
+        ]
+    }, {
+        "image": "e7f74bd50bc0870f1d4a8d96068cce62.jpg",
+        "subtitle": ["Scene 3: Costume shop. There\nare costume pieces\neverywhere. Ace interviews Bob.", "ACE: So, Bob, you made all the\ncostumes for this movie, right?", "BOB: Yeah. Another pirate\nmovie. Big deal.", "Ace raises his eyebrows.", "BOB: Don't get me wrong. I love\nManny. But I hate pirate movies!\nI'd do anything to make some\ncool alien costumes!"],
+        "sounds": ["92bf80ab711fe4314b26772097710c96", "85085581e08257367db6e2f9fa9e70b4", "0126246fe88f34493d79576fde3751a9", "377eb96f70a0db6c1494ebed216eebfb", "bb9f12433b1b81b0b8196478cf5a58c7"],
+        "positionArr": [{
+            "x": 30,
+            "y": 50
+        }, {
+            "x": 30,
+            "y": 140
+        }, {
+            "x": 30,
+            "y": 210
+        }, {
+            "x": 30,
+            "y": 280
+        }, {
+            "x": 30,
+            "y": 330
+        }],
+        "wordTime": [600, 700, 750, 700, 400, 300, 700, 700, 800, 500, 700, 500, 100, 10, 800, 1000, 300, 300, 200, 300, 500, 250, 500, 500, 700, 100, 10, 700, 700, 500, 600, 400, 700, 100, 500, 500, 300, 700, 100, 10, 700, 400, 300, 700, 300, 400, 600, 400, 200, 600, 600, 700, 400, 300, 600, 200, 400, 350, 500, 500, 600, 1],
+        "x": 30,
+        "y": 80,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 16
+        },
+        "wordCanClickIndex": [
+            [0]
+        ]
+    }, {
+        "image": "a0c1e61fee725748a9818a0c433e5b95.jpg",
+        "subtitle": ["Scene 4: Bonnie's dressing\nroom. Bonnie, the supporting\nactress, is allergic to\neverything.", "BONNIE: I didn't do it! Manny\nand I were almost costars!\nUntil I found out I was...\nACHOO!", "ACE: Allergic to feathers?\nSeems like a good reason to\nget rid of a parrot.", "BONNIE: But it couldn't have\nbeen me. I was on vacation\nall week. I just got back today!"],
+        "sounds": ["44dd41d608b5c7d82bb3b0b2890c7b94", "e43dab0f55b59fbe3c632a8c6f1233ed", "0e829c64a2e5f26baedcb9353bfca0d6", "ce24bc2b0a1121324a1a7fcbf869601e"],
+        "positionArr": [{
+            "x": 30,
+            "y": 50
+        }, {
+            "x": 30,
+            "y": 180
+        }, {
+            "x": 30,
+            "y": 310
+        }, {
+            "x": 30,
+            "y": 410
+        }],
+        "wordTime": [600, 700, 700, 600, 600, 700, 300, 600, 600, 300, 600, 200, 700, 100, 10, 200, 600, 200, 400, 600, 300, 200, 400, 500, 700, 600, 200, 500, 400, 200, 600, 800, 100, 10, 800, 200, 800, 600, 400, 200, 400, 500, 200, 300, 300, 200, 100, 800, 100, 10, 400, 400, 600, 400, 300, 500, 200, 300, 200, 500, 300, 500, 200, 400, 300, 350, 500, 1],
+        "x": 30,
+        "y": 80,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 17
+        },
+        "wordCanClickIndex": [
+            [0],
+            [14]
+        ]
+    }, {
+        "image": "642a396bfcabf36ae0938212ac45b68e.jpg",
+        "subtitle": ["Scene 5: Backstage. Ace\ninterviews Barney, the short,\nstubby cameraman.", "ACE: So, Barney. Have you\nalways wanted to be a\ncameraman?", "BARNEY: No way! I wanted to be\nthe director, but they hired me\nas a cameraman instead. They\nwere headed for trouble.", "ACE: So for revenge you got rid\nof the main character?", "BARNEY: Hey! That ain't fair. It\nwasn't me. Besides, why would I\nhave left the camera on if I was\nplanning to steal the bird? It just\ndon't make sense."],
+        "sounds": ["d1e39b26491455e7044eaf63539e0537", "42579b148465a21f3509021b6318776f", "3cfe4aa85b8445ce616c8399de10d2cf", "7a060fdbc2afcec83dbc1742c5569715", "2a14e50a7094ca8a591705cdc5c7b611"],
+        "positionArr": [{
+            "x": 30,
+            "y": 40
+        }, {
+            "x": 30,
+            "y": 135
+        }, {
+            "x": 30,
+            "y": 230
+        }, {
+            "x": 30,
+            "y": 350
+        }, {
+            "x": 30,
+            "y": 420
+        }],
+        "wordTime": [600, 700, 1000, 400, 700, 700, 300, 600, 600, 700, 100, 10, 800, 900, 500, 300, 600, 600, 200, 200, 100, 800, 100, 10, 500, 600, 200, 700, 200, 200, 200, 700, 500, 400, 400, 200, 400, 100, 700, 700, 500, 400, 2000, 100, 10, 500, 300, 700, 300, 300, 300, 200, 300, 1500, 400, 10, 600, 400, 400, 600, 300, 600, 400, 1000, 300, 500, 200, 350, 350, 300, 500, 300, 300, 200, 300, 700, 200, 400, 300, 500, 300, 500, 500, 400, 600, 1],
+        "x": 30,
+        "y": 80,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 16
+        },
+        "wordCanClickIndex": [
+            [0],
+            [53, 54, 55],
+            [67, 68]
+        ]
+    }, {
+        "image": "e6cce33a069d8a2fdadf2efce7cb4093.jpg",
+        "subtitle": ["Just then, Carmen walks by.\nBoth men nearly fall over.", "BARNEY: calling out behind\nher, Nice perfume, Miss Starr.", "Ace laughs, and then stops.\nHe thinks for a minute and\nthen...", "ACE: That's it! I know who did\nit! Barney, gather everybody\ntogether and meet me back\nhere in five minutes!"],
+        "sounds": ["2e151c8b0f6ea9ae5426b8a55d99ba96", "747c505693b23d491e91eefefc42b03d", "ea9ab54c5abb7f682804c7cd2399b4b2", "b8334cc83876778917c77f78bfef6e6a", "63b644be86c94c07601fff4ba9071a3f"],
+        "positionArr": [{
+            "x": 30,
+            "y": 70
+        }, {
+            "x": 30,
+            "y": 150
+        }, {
+            "x": 30,
+            "y": 230
+        }, {
+            "x": 30,
+            "y": 330
+        }],
+        "wordTime": [400, 500, 600, 400, 400, 500, 300, 600, 400, 600, 100, 10, 700, 400, 600, 400, 500, 700, 500, 600, 100, 500, 700, 400, 300, 700, 300, 700, 300, 100, 600, 300, 800, 100, 10, 700, 500, 300, 300, 300, 400, 450, 800, 400, 600, 600, 300, 400, 200, 350, 300, 200, 400, 500, 1],
+        "x": 30,
+        "y": 80,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 18
+        },
+        "wordCanClickIndex": [
+            [21]
+        ]
+    }, {
+        "image": "73e9a97fd3f210af82d88e6d57c67c16.jpg",
+        "subtitle": ["Scene 6: Backstage, five\nminutes later. Bob, Bonnie,\nand Barney are nervous.\nCarmen is excited.", "CARMEN: So, Ace! Did you\nfigure out which one of these\ncrooks took Manny?", "ACE: Yes. It wasn't Bob. Or\nBonnie. Or Barney. No,\nsomeone else had an even\nbetter reason to keep Manny\nquiet.", "The three suspects are\nrelieved. Carmen is confused.", "CARMEN: Well, then who took\nManny?"],
+        "sounds": ["619e07d97d2098375fd82ba72f6b003e", "50702507900cc3b1fb1e0004318d7c1e", "4bccbca3e207493c47525a04e1f0f1d8", "31fc47b579b95cfa853b9274dd257e2f", "53a2966026d43317f8c7446c8995bd4d"],
+        "positionArr": [{
+            "x": 22,
+            "y": 50
+        }, {
+            "x": 22,
+            "y": 170
+        }, {
+            "x": 22,
+            "y": 260
+        }, {
+            "x": 22,
+            "y": 410
+        }, {
+            "x": 22,
+            "y": 480
+        }],
+        "wordTime": [700, 600, 800, 500, 600, 800, 500, 500, 300, 600, 300, 550, 600, 200, 700, 100, 10, 600, 500, 400, 300, 400, 250, 300, 200, 200, 300, 400, 300, 600, 500, 10, 600, 400, 500, 500, 600, 700, 700, 700, 800, 600, 400, 300, 200, 400, 400, 450, 200, 400, 500, 700, 300, 400, 500, 600, 300, 700, 600, 200, 800, 300, 10, 600, 400, 400, 350, 450, 1],
+        "x": 30,
+        "y": 70,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 18
+        },
+        "wordCanClickIndex": [
+            [0],
+            [70]
+        ]
+    }, {
+        "image": "2b1cb25a885d5367582aefd41a6ec679.jpg",
+        "subtitle": ["ACE: You did, Miss Starr. Or\nshould we call you... the Bottle\nBandit?", "Bob, Bonnie, and Barney gasp.", "BONNIE: She's the Bottle Bandit?\nThe one who keeps stealing\nexpensive per-per-per-CHOO!\nPerfumes?", "Carmen tries to escape, but\nthey catch her first.", "CARMEN: Let go! You can't do\nthis to me!"],
+        "sounds": ["a916495f104b25d31c5e0fa3c27372f4", "9e88efd52ef70c2fa8f1d837fcf728c0", "3a300b613ca2876bc2a25937ec4ed46a", "fece153be2e904c4566febac228406c3", "c207c6e1b2c00cd21a8c01cd5f6eb073"],
+        "positionArr": [{
+            "x": 22,
+            "y": 70
+        }, {
+            "x": 22,
+            "y": 170
+        }, {
+            "x": 22,
+            "y": 220
+        }, {
+            "x": 22,
+            "y": 340
+        }, {
+            "x": 22,
+            "y": 415
+        }],
+        "wordTime": [10, 500, 500, 500, 500, 600, 400, 200, 400, 500, 300, 650, 750, 400, 600, 600, 300, 600, 700, 800, 10, 600, 400, 700, 900, 400, 300, 300, 600, 800, 1000, 500, 200, 500, 200, 500, 200, 500, 1000, 1200, 500, 500, 200, 700, 500, 400, 500, 300, 700, 300, 10, 300, 400, 300, 400, 200, 300, 200, 200, 1],
+        "x": 30,
+        "y": 90,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 16
+        },
+        "wordCanClickIndex": [
+            [18],
+            [26],
+            [40],
+            [43],
+            [48]
+        ]
+    }, {
+        "image": "21afefb3f469dbff31f58b94d570945a.jpg",
+        "subtitle": ["ACE: I found this article about\nthe Bottle Bandit under Manny's\ncage. He discovered her\nidentity, so Carmen had to get\nrid of him before he told the\npolice.", "CARMEN: You have no proof!", "ACE: No?", "Ace empties out Carmen's\npurse, and perfume bottles and\nparrot feathers fall out.", "ACE: Manny wasn't saying Bob,\nBonnie, or Barney. He was\ncalling you the \"Bottle Bandit.\""],
+        "sounds": ["ad729adc7580e4d9c08042e5f4d2e68d", "d50ad9e73a6e2a52dfc29127f7b35d76", "936a9dd321b9ccc29b82da42181c0641", "7dec01cf724f9ecd92f9d4ed1c1cf80b", "0cd32124023d987e242c8c3e51bfb933"],
+        "positionArr": [{
+            "x": 22,
+            "y": 70
+        }, {
+            "x": 22,
+            "y": 240
+        }, {
+            "x": 22,
+            "y": 290
+        }, {
+            "x": 22,
+            "y": 340
+        }, {
+            "x": 22,
+            "y": 440
+        }],
+        "wordTime": [10, 300, 500, 400, 600, 500, 300, 600, 600, 350, 500, 600, 300, 700, 300, 700, 300, 600, 300, 200, 300, 300, 200, 300, 400, 200, 350, 300, 600, 200, 10, 400, 400, 200, 500, 200, 10, 600, 100, 400, 600, 400, 650, 600, 300, 600, 600, 300, 600, 600, 400, 600, 100, 10, 500, 500, 600, 500, 600, 500, 600, 200, 400, 600, 500, 300, 600, 600, 1],
+        "x": 30,
+        "y": 80,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 17
+        },
+        "wordCanClickIndex": [
+            [9],
+            [17],
+            [38],
+            [51]
+        ]
+    }, {
+        "image": "75ebe8801f159d1bb0654aebf009930c.jpg",
+        "subtitle": ["BARNEY: So, Bottle Bandit,\nwhere's the bird?", "CARMEN: defeated, At the city\nzoo. I told them he went crazy,\nso they'd ignore everything he\nsaid. They were happy to get a\ntalking parrot. I was happy to\nput him behind bars.", "ACE: And now, you'll be the only\none behind bars. Now that we\nknow where to find Manny, the\nCase of the Missing Manny—\nand the Bottle Bandit—is closed."],
+        "sounds": ["7e15f303ce1ddbca30add8adf255572b", "54680247856519486481b2cb9e80c081", "180269679d3c941b582a8355c51ac52f", "fb6439355dd28bd0b3ce336c5c37430d"],
+        "positionArr": [{
+            "x": 22,
+            "y": 90
+        }, {
+            "x": 22,
+            "y": 170
+        }, {
+            "x": 22,
+            "y": 340
+        }],
+        "wordTime": [10, 600, 700, 700, 550, 300, 800, 100, 10, 700, 400, 300, 500, 800, 300, 400, 350, 200, 300, 500, 300, 300, 300, 500, 200, 500, 400, 300, 350, 200, 300, 100, 400, 600, 300, 400, 500, 200, 400, 300, 450, 500, 200, 10, 600, 500, 400, 200, 300, 400, 200, 500, 700, 700, 400, 200, 300, 400, 200, 300, 500, 300, 400, 200, 300, 450, 500, 300, 300, 500, 700, 450, 1],
+        "x": 30,
+        "y": 100,
+        "picX": 0,
+        "picY": 0,
+        "font": {
+            "font": "Century Gothic",
+            "fill": "#000",
+            "fontSize": 16
+        },
+        "wordCanClickIndex": [
+            [5],
+            [13],
+            [29]
+        ]
+    }],
+    "titles": [{
+        "images": ["3453cd5d4354cb0afcf63e28afd320f9", "9f5935d610768a1146e0d8bc807310e5"],
+        "sound": "86c23615c0a56258235a468ab2a2fe12",
+        "x": 62,
+        "y": 116
+    }, {
+        "images": ["d87e5cd6353badbbeab7a0e5d1275d1d", "7f0ec49b1fa4e1fb24bf70d0ce800ed7"],
+        "sound": "778c75ea43ca693f58eb9be321a1322e",
+        "x": 62,
+        "y": 302
+    }, {
+        "images": ["09929a8debbea33b7c8fb38cfcf3ec2c", "f7573caed0434e066c7054f69a10dd94"],
+        "sound": "60da4421b393e3f0132e6d248560b6b9",
+        "x": 62,
+        "y": 410
+    }],
+    "dictionary": {
+        "Scene": {
+            "sound": "04afa5cd785f9a63a5d01434b179bdee",
+            "image": "",
+            "explain": "A play is divided into scenes. During a scene, there\nis no change in time or location.",
+            "word": "scene",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "f9c121a4cbebac878e78935188e97553"
+            }
+        },
+        "Bandit": {
+            "sound": "02d65b27a83bd1a8ca223d974ed345e3",
+            "image": "dce42e5aaff647a70ed609b4f01dc348",
+            "explain": "Someone who steals\nthings.",
+            "word": "bandit",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "ba16181b587deedd667f508970ceb231"
+            },
+            "idiom": {
+                "word": "synonym: crook",
+                "sounds": ["10aa5aac6cb2144f69d67467e3140f91", "6c85d0014a200ddef4a91025c76de235"]
+            }
+        },
+        "bandit": {
+            "sound": "02d65b27a83bd1a8ca223d974ed345e3",
+            "image": "dce42e5aaff647a70ed609b4f01dc348",
+            "explain": "Someone who steals\nthings.",
+            "word": "bandit",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "ba16181b587deedd667f508970ceb231"
+            },
+            "idiom": {
+                "word": "synonym: crook",
+                "sounds": ["10aa5aac6cb2144f69d67467e3140f91", "6c85d0014a200ddef4a91025c76de235"]
+            }
+        },
+        "expensive": {
+            "sound": "31b9b84184580d7e9ab5bb93d24b39af",
+            "image": "",
+            "explain": "Describes something that costs a lot of money, like\nperfume.",
+            "word": "expensive",
+            "type": "adjective",
+            "typeSound": {
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46"
+            },
+            "explainSound": {
+                "sound": "d588cb3ae34f5dba34ebae3b02878bde"
+            }
+        },
+        "perfume": {
+            "sound": "4380e0ce1be8fdeab49eb868fa39d788",
+            "image": "3c3d118acdc935df6ce54ec474c033ff",
+            "explain": "A liquid used to give\npeople or things a good\nscent.",
+            "word": "perfume",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "d2a0c037f1e7c185cb214718ed46cba1"
+            }
+        },
+        "Perfumes": {
+            "sound": "4380e0ce1be8fdeab49eb868fa39d788",
+            "image": "3c3d118acdc935df6ce54ec474c033ff",
+            "explain": "A liquid used to give\npeople or things a good\nscent.",
+            "word": "perfume",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "d2a0c037f1e7c185cb214718ed46cba1"
+            }
+        },
+        "movie set": {
+            "sound": "5d523e053a239df4bfd180f5117449f3",
+            "image": "",
+            "explain": "Where movies are made.",
+            "word": "movie set",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "ed08ff332dfd241f5e75ea0fc939ad4b"
+            }
+        },
+        "costar": {
+            "sound": "497c6466de8b68c245bebc5e34ef287e",
+            "image": "",
+            "explain": "Actors or actresses who share the two main roles. If\nthere are two main characters in a movie, they are\ncostars.",
+            "word": "costar",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "8628f9a1c2a2b4d16a80952ba1c3b800"
+            }
+        },
+        "kidnapper": {
+            "sound": "24d9875c71fd34015a6ee4e9b3d63166",
+            "image": "",
+            "explain": "Someone who takes a child or other person away\nwithout permission.",
+            "word": "kidnapper",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "996644ad881dc12b003c0f113d76ee2f"
+            }
+        },
+        "allergic": {
+            "sound": "75a0ed96a1397780104f95e0f3e62ac5",
+            "image": "",
+            "explain": "Describes a person who has a bad reaction to\nsomething. If people are allergic to flowers, they\nmight sneeze a lot.",
+            "word": "allergic",
+            "type": "adjective",
+            "typeSound": {
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46"
+            },
+            "explainSound": {
+                "sound": "6122c1ccd3013722ec2a94a2b1bf0c95"
+            }
+        },
+        "headed for trouble": {
+            "sound": "d3de40d7625412a63a977e13c8ddaa58",
+            "image": "",
+            "explain": "An idiom that means something bad is going to\nhappen because of your decisions.",
+            "word": "headed for trouble",
+            "type": "misc",
+            "typeSound": {
+                "sound": ""
+            },
+            "explainSound": {
+                "sound": "d53c4f7b82702b71f9f4939833043072"
+            },
+            "idiom": {
+                "word": "idiom",
+                "sounds": ["db9cd4821ec9333f47cdcb7814f16f1b"]
+            }
+        },
+        "main character": {
+            "sound": "95a3e91c6d6292c978d5ef4d340d842a",
+            "image": "",
+            "explain": "The person who is most important in a play or story.",
+            "word": "main character",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "510a2f2afa713b8a15a0b76ef6de3f5b"
+            }
+        },
+        "suspects": {
+            "sound": "8e3cca35cc5b535035c096154e2220a8",
+            "image": "",
+            "explain": "A person that others think did something bad, like\nbreak the law.",
+            "word": "suspect",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "fa1612d3f09570816791e833469be837"
+            }
+        },
+        "gasp": {
+            "sound": "88969583ee2db6cee9bc7544989e6aa8",
+            "image": "",
+            "explain": "To take a quick, short breath in when you are\nsurprised.",
+            "word": "gasp",
+            "type": "verb",
+            "typeSound": {
+                "sound": "87c995e56b74741ab0c258639f3204a9"
+            },
+            "explainSound": {
+                "sound": "2f1c67e506baa9d7a1be86290d66fd08"
+            }
+        },
+        "escape": {
+            "sound": "45825d9ca77a5a5fc95d9c3786d7ff65",
+            "image": "",
+            "explain": "To get away before someone catches you.",
+            "word": "escape",
+            "type": "verb",
+            "typeSound": {
+                "sound": "87c995e56b74741ab0c258639f3204a9"
+            },
+            "explainSound": {
+                "sound": "45540ca1b2f0fc3181df280c490675c2"
+            }
+        },
+        "identity": {
+            "sound": "0ba070f129a351159e7cf463f2c7a19f",
+            "image": "",
+            "explain": "Your name or other title that describes who you are.",
+            "word": "identity",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "c3697f525ea85b2e633f401b3dffb86e"
+            }
+        },
+        "proof": {
+            "sound": "30fd604c6f66a6d357da10245f6647f8",
+            "image": "",
+            "explain": "Facts that show something is true.",
+            "word": "proof",
+            "type": "noun",
+            "typeSound": {
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            "explainSound": {
+                "sound": "edb159c20b8e32a13d7be218b91a3804"
+            }
+        },
+        "defeated": {
+            "sound": "b96a4cb1ec66a4c1a1818a0a152b0c3b",
+            "image": "",
+            "explain": "Describes someone who has given up.",
+            "word": "defeated",
+            "type": "adjective",
+            "typeSound": {
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46"
+            },
+            "explainSound": {
+                "sound": "8f3f52c5dedcf84b0c8a133b3ea974c8"
+            }
+        },
+        "ignore": {
+            "sound": "a2e289a0a6140110f92e30f651a8696a",
+            "image": "",
+            "explain": "To act like you can't see or hear someone.",
+            "word": "ignore",
+            "type": "verb",
+            "typeSound": {
+                "sound": "87c995e56b74741ab0c258639f3204a9"
+            },
+            "explainSound": {
+                "sound": "ffc2bcf88e342468f30f655ebb195135"
+            },
+            "idiom": {
+                "word": "antonym: pay attention",
+                "sounds": ["093fead679d62c2d71a96bb6c333f76a", "adfd627c0f7b90fe27549541797d2cbd"]
+            }
+        }
+    }
+}

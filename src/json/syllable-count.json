@@ -1,0 +1,52 @@
+{
+  "info": [{
+      "word": "breakfast",
+      "img": "c69f24fd07d9066d01631f6b04b8c032.jpg",
+      "sound": "3ca65c0e3ee98aa378fdd90fb5f0407c",
+      "sword": ["break", "fast"],
+      "sounds": ["551ca92678aa8a4e033230cc5451fd47", "e9023da2b8f590a0b6cebdb6bad701cd"],
+      "slowSound": "2dc0df33b94e4ae2b691bd7c47f4bf17"
+  }, {
+      "word": "magnet",
+      "img": "f9e872ffd514cae96d581291cf806e42.jpg",
+      "sound": "ba3dabb30b4bbb1ed4e14b5f6115986f",
+      "sword": ["mag", "net"],
+      "sounds": ["7153a27ca90e06f91bc6038b09f371b2", "539f998be3cacab43c8f707627815fff"],
+      "slowSound": "aa89a5685ca1eca55b33acd2d07ccd50"
+  }, {
+      "word": "hamburger",
+      "img": "e4cb0b78d2675bf425b0e431403cd82a.jpg",
+      "sound": "18c6588b7ad3dd6061492e218b8cb6fb",
+      "sword": ["ham", "bur", "ger"],
+      "sounds": ["a4923efdf65dfa3fcb99ead487002800", "b4a1b1590eb3a2889154943e62dc929e", "b22545186909d6f2e7c6f369c1950f68"],
+      "slowSound": "93c027822b0924fa36cdeb47b53beb31"
+  }, {
+      "word": "penguin",
+      "img": "bba80033d4fb31a6b4d9b43ce2502807.jpg",
+      "sound": "a1cbebe678398861836e2680baf392f6",
+      "sword": ["pen", "guin"],
+      "sounds": ["fbe964afda073e5271f286636f7e647d", "ed1968a37657b989fe152e9f7c73b32c"],
+      "slowSound": "b5700d90e683e9282c467ea165da6d82"
+  }, {
+      "word": "rhinoceros",
+      "img": "e46e9f6b16acb5fedfa5a721a63fb92b.jpg",
+      "sound": "29469d4d3c5d7331cd643740c1c4aaca",
+      "sword": ["rhi", "no", "cer", "os"],
+      "sounds": ["f50bce43d8523680d1a7ca87dd0355a6", "06658da874288469b64d035b213ace1f", "c04fe6e664d198c94cef539c59b0fb83", "ef1230bbfc0f6396497c5d0303f81fe9"],
+      "slowSound": "0a05ba03db10d075337bb537d15f34f0"
+  }, {
+      "word": "butterfly",
+      "img": "6d0729054499aa7bbf06d268134f9187.jpg",
+      "sound": "2cad94055efd57d0fd09a7c0c3fff95c",
+      "sword": ["but", "ter", "fly"],
+      "sounds": ["9c28557378a5f34c5da488b627cbbefa", "61e30fc4681dfb784835621c614f71bc", "33fe2908beaf48341fc65ae31c3b303c"],
+      "slowSound": "137d041d8d78e8ca37d88c8e2664aedf"
+  }, {
+      "word": "star",
+      "img": "0ea77f702b934fc859e671f977a0e242.jpg",
+      "sound": "6a0c49eb49093b88246f876fed92e81a",
+      "sword": ["star"],
+      "sounds": ["6a0c49eb49093b88246f876fed92e81a"],
+      "slowSound": "6a0c49eb49093b88246f876fed92e81a"
+  }]
+}

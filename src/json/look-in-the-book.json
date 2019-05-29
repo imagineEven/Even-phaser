@@ -1,0 +1,60 @@
+{
+  "firstVideo": {"video": "487e1c1b12ba30ac3f997f376faf2e9f", "sound": "487e1c1b12ba30ac3f997f376faf2e9f"},
+  "literalVideo": {"video": "1556fa52bcda1077fe8a9a504d241377", "sound": "1556fa52bcda1077fe8a9a504d241377"},
+  "lastVideo": {"video": "1033920ce7c9c6984239b1cac1bbce86", "sound": "1033920ce7c9c6984239b1cac1bbce86"},
+  "position": {
+    "imageRightWord": {
+      "x": 550,
+      "y": 148
+    },
+    "imageLeftWord": {
+      "x": 96,
+      "y": 148
+    },
+    "imageMiddleWord": {
+      "x": 320,
+      "y": 148
+    }
+  },
+  "playSound": {
+    "problemTitle": {"sound": "707f0f029391ffe2a0bdfe804cfa192d"},
+    "youLookInTheBook": {"sound": "7677509fa1ad13c827679dc3f1c7f122"},
+    "no": {"sound": ["b83bdd942cd16d45c44a1ee440fa6306", "16a6bd7613901020ae3212ed75568eab", "63a2852f00a21be13b35d8a2c383ee5d"]},
+    "hearIsRightAnswer": {"sound":["fc865d77c033459c76c9ba1cbe2d42b4", "0f672806b7293b9e9d2ed96508668b45"]},
+    "wings": {"sound":"3fffe5eed0ffce8ef8af4c4ebf9cc2f0"},
+    "weToSee": {"sound": "e92119ee406baf251e05ee8fc697fa98"},
+    "nickClick": {"sound": "3446693b55f595dc2a5aa89c2386a773"},
+    "weToSeeToolBar": {"sound": ["e92119ee406baf251e05ee8fc697fa98", "a812946347348e37ca58346c422eb8df"]},
+    "thisIt": {"sound": ["8d346907988682beb083227d927e975c", "0f672806b7293b9e9d2ed96508668b45", "aaff615021a900dcf7c5f7589c6ef9e6"]}
+  },
+  "page": {
+    "videoLastPage": {"image": "c45e24198d80b6f2ab4ac0601adb8f2f.jpg"},
+    "leftImage": {"image": "9dced42b3e60de761c9fcdb96f644fb7.jpg"},
+    "rightImage": {"image": "011f134f5c5fa0ab85c6fd691d132011.jpg"},
+    "middleImage": {"image": "891e8eb9212797d66684c1a8ee4ddd61.jpg"},
+    "titleText": {"value": "What happens to the dragon's wings?"},
+    "hotText": {"value": "wings"},
+    "optionDetail": [
+      {
+        "value": "A. Dragon's wings fall off.",
+        "sound": "1378a4755196c09660ff6e92f2c9b088"
+      },
+      {
+        "value": "B. Dragon's wings are frozen.",
+        "sound": "55972b8b5e1094fe9582137e4450de63"
+      },
+      {
+        "value": "C. Dragon wings melf.",
+        "sound": "e8f90d70d7f70e479a05c0164e7acd99"
+      }
+    ],
+    "imageRightWord": {"value": "dragon is cold. His wings are frozen!"},
+    "imageLeftWord": {"value": "Lightning ashes. Thunder cracks."},
+    "imageMiddleWord": {"value": "Hall pours from the clouds"},
+    "rightKey": {"index": 1},
+    "sentence": [
+      {"value": "Dragon is cold.", "x": 465, "y": 238, "sound":"08d14c53b33da047d0eca0778e4fab93"},
+      {"value": "His wings are frozen!", "x": 570, "y": 238, "sound":"63a2852f00a21be13b35d8a2c383ee5d"}
+    ]
+  }
+}

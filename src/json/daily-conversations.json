@@ -1,0 +1,20 @@
+{
+	"infoArr": [
+		{
+			"img": "57d901f81c71d1c829183847f5563660",
+			"video": "15d2ba090ff5c6cd8b949c85c6efec53",
+			"text":"hello",
+			"titleSound": ""
+		},{
+			"img": "663d7e7b0ea1659f3670aa1b780215e5",
+			"video": "15d2ba090ff5c6cd8b949c85c6efec53",
+			"text":"world",
+			"titleSound": ""
+		},{
+			"img": "7df6884e1a3921522eadfd63663a337f",
+			"video": "15d2ba090ff5c6cd8b949c85c6efec53",
+			"text":"phaser",
+			"titleSound": "97c439d2d426d724a17fc69a32229cf9"
+		}
+	]
+}

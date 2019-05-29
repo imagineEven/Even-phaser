@@ -1,0 +1,747 @@
+{
+  "startSound": "581e0cb738a65c782369bbbde74fc8e3",
+  "secondSound": "aaf6a13cefa7c0f7379d7f5169707ad9",
+  "word": [{
+      "text": "I get",
+      "sound": "e9f37086b447d28ad221d87d0b590e47"
+    },
+    {
+      "text": "I share",
+      "sound": "7ed7ed0ef62ad31affb5ba9d8775bc3d"
+    }
+  ],
+  "titles": [{
+      "pics": [
+        "b398e7d968d72e020c91a03f595ab610.png",
+        "7e0ab3aaad62964bc77ddba0b46c9298.png"
+      ],
+      "position": {
+        "x": 307,
+        "y": 11
+      },
+      "sound": "f7eaa2bcde5a187e191985c479d460a4"
+    },
+    {
+      "pics": [
+        "11f7a503ffb02b097a27bf4573827b8c.png",
+        "cbad4b4975c2c601c598fc62c4265873.png"
+      ],
+      "position": {
+        "x": 468,
+        "y": 160
+      },
+      "sound": "67ddd70a303cbd9e3cfff53ae606016e"
+    },
+    {
+      "pics": [
+        "f1ec501322074bd07923d6ea3509ea4d.png",
+        "8b2daa65dba2562a97544eb6084be193.png"
+      ],
+      "position": {
+        "x": 468,
+        "y": 195
+      },
+      "sound": "8e8fb7640baf5fdd6cbe3853d116880a"
+    }
+  ],
+  "lightColor": "#FF923C",
+  "cover": "a2513456fc374b48b0b65744a446f457.jpg",
+  "book": [{
+      "line": [
+        "On Monday I get\nmangoes."
+      ],
+      "wordSoundDictionary": [{
+          "text": "On",
+          "sound": "7cf303895e46cac37e76de1620709a31"
+        },
+        {
+          "text": "Monday",
+          "sound": "066ce6fef6c7098d90301b14bdf22437"
+        },
+        {
+          "text": "I",
+          "sound": "c5aab315e805b44074f5acc13a9a76e8"
+        },
+        {
+          "text": "get",
+          "sound": "69122bf8e42ea21b663580c5d7f630cd"
+        },
+        {
+          "text": "mangoes",
+          "sound": "b0c578fa906295cbdd36aa663bc0765c"
+        }
+      ],
+      "x": [
+        435
+      ],
+      "y": [
+        315
+      ],
+      "font": [{
+        "fontSize": "40px",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }],
+      "bg": "b684d02b9eff2ca669591f085bf3d3b5.png",
+      "fullSound": "04b7f2c71ec0abbf47217f8327d8733c",
+      "lightTimeArray": [
+        400,
+        950,
+        400,
+        400,
+        600
+      ],
+      "pages": [{
+          "e49615053585148f6f976f5a0ed7042f.png": {
+            "x": 29,
+            "y": 7,
+            "wav": "4f2e16e3a871a5a6b49551ed743f0f47"
+          }
+        },
+        {
+          "18ce06d6593d51b9dc5b59e87c6dd28a.png": {
+            "x": 34,
+            "y": 35,
+            "wav": "73f20e0f6c0edb918592bf3b10aec7c9"
+          }
+        },
+        {
+          "39d78a1284979a1ffd76f3ea3caa56d9.png": {
+            "x": 255,
+            "y": 159,
+            "wav": "f4c3d949be755e849bcf6e987a7770af"
+          }
+        }
+      ]
+    },
+    {
+      "line": [
+        "On Tuesday I\nget tangerines."
+      ],
+      "wordSoundDictionary": [{
+          "text": "On",
+          "sound": "7cf303895e46cac37e76de1620709a31"
+        },
+        {
+          "text": "Tuesday",
+          "sound": "2b53ed13448003e273010d605e66c8db"
+        },
+        {
+          "text": "I",
+          "sound": "c5aab315e805b44074f5acc13a9a76e8"
+        },
+        {
+          "text": "get",
+          "sound": "69122bf8e42ea21b663580c5d7f630cd"
+        },
+        {
+          "text": "tangerines",
+          "sound": "638379be07908722d4564e6c62c5489b"
+        }
+      ],
+      "x": [
+        475
+      ],
+      "y": [
+        55
+      ],
+      "font": [{
+        "fontSize": "40px",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }],
+      "bg": "d8a743f7177d75a6894f03902e5c09a2.png",
+      "fullSound": "ef3bf2f74e0e9dbcfa7c7cf9b46d98f0",
+      "lightTimeArray": [
+        400,
+        950,
+        400,
+        400,
+        650
+      ],
+      "pages": [{
+          "bbd79f75d7177907b4a8684c9800c8d7.png": {
+            "x": 531,
+            "y": 153,
+            "wav": "60f87821e45e6fc0fe0f63b1360da6a4"
+          }
+        },
+        {
+          "a021174c00b8c649d80ac692ef7f9688.png": {
+            "x": 354,
+            "y": 172,
+            "wav": "0024de7baa1a90404bae16f104ed78ff"
+          }
+        },
+        {
+          "9583da6de096fbd74e91d6a66c99fc72.png": {
+            "x": 77,
+            "y": 92,
+            "wav": "188bc77c7ac127a08ba83038d5ce5afb"
+          }
+        }
+      ]
+    },
+    {
+      "line": [
+        "On Wednesday I get\nwatermelons."
+      ],
+      "wordSoundDictionary": [{
+          "text": "On",
+          "sound": "7cf303895e46cac37e76de1620709a31"
+        },
+        {
+          "text": "Wednesday",
+          "sound": "036f47856f0783008d8c3e20ad631274"
+        },
+        {
+          "text": "I",
+          "sound": "c5aab315e805b44074f5acc13a9a76e8"
+        },
+        {
+          "text": "get",
+          "sound": "69122bf8e42ea21b663580c5d7f630cd"
+        },
+        {
+          "text": "watermelons",
+          "sound": "0276684afcc94c9aba40d47a13abc319"
+        }
+      ],
+      "x": [
+        30
+      ],
+      "y": [
+        40
+      ],
+      "font": [{
+        "fontSize": "40px",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }],
+      "bg": "9827446bbf506eb0269aa70c45830878.png",
+      "fullSound": "fdf05d55ea510a2a9b23398e3a75af07",
+      "lightTimeArray": [
+        400,
+        1050,
+        400,
+        400,
+        650
+      ],
+      "pages": [{
+          "e727de38d9b4b3fc35e1850e8b35afd4.png": {
+            "x": 277,
+            "y": 308,
+            "wav": "57b402ec2e545dd39874d42749be9e58"
+          }
+        },
+        {
+          "639f3740cc0342eceb67bb9f33879cf5.png": {
+            "x": 292,
+            "y": 41,
+            "wav": "4f2e16e3a871a5a6b49551ed743f0f47"
+          }
+        },
+        {
+          "64f8d83406c15270c2b892804a58f431.png": {
+            "x": 68,
+            "y": 191,
+            "wav": "4c4bb2b9a9bd74903d44be09e8550f4f"
+          }
+        },
+        {
+          "2e646c0e3698b4af27b6881672c89782.png": {
+            "x": 291,
+            "y": 89,
+            "wav": "60f87821e45e6fc0fe0f63b1360da6a4"
+          }
+        }
+      ]
+    },
+    {
+      "line": [
+        "On Thursday I get\nthree pears."
+      ],
+      "wordSoundDictionary": [{
+          "text": "On",
+          "sound": "7cf303895e46cac37e76de1620709a31"
+        },
+        {
+          "text": "Thursday",
+          "sound": "6d6a7188a2595d58531a83945e733118"
+        },
+        {
+          "text": "I",
+          "sound": "c5aab315e805b44074f5acc13a9a76e8"
+        },
+        {
+          "text": "get",
+          "sound": "69122bf8e42ea21b663580c5d7f630cd"
+        },
+        {
+          "text": "three",
+          "sound": "6f3579f13fba1c093245b8eb2895b67f"
+        },
+        {
+          "text": "pears",
+          "sound": "d0cf3f596bfee1eb3dfc5a9950115e7d"
+        }
+      ],
+      "x": [
+        95
+      ],
+      "y": [
+        50
+      ],
+      "font": [{
+        "fontSize": "40px",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }],
+      "bg": "509f61fba2c7ee8cd66f323c8fa3f189.png",
+      "fullSound": "b45498dfa60194e70c9f6fc1e85646bf",
+      "lightTimeArray": [
+        400,
+        950,
+        400,
+        400,
+        400,
+        600
+      ],
+      "pages": [{
+          "d59a92dd0a1f47ac795686cf8a0253ee.png": {
+            "x": 641,
+            "y": 193,
+            "wav": "63aa191df3beff5f8f1b7d40efded69b"
+          }
+        },
+        {
+          "abe78f0514f522dff1d7d2539ee57d4a.png": {
+            "x": 344,
+            "y": 9,
+            "wav": "2c9ad46a0b6f1e9080acb72c5107cb97"
+          }
+        },
+        {
+          "1bbea0d4fd7dacbdc828158480621989.png": {
+            "x": 207,
+            "y": 251,
+            "wav": "efc698cedd9630ad301539e35dc92e72"
+          }
+        },
+        {
+          "9ba79f36795c4d871290128b59e4f7a4.png": {
+            "x": 517,
+            "y": 155,
+            "wav": "f4c3d949be755e849bcf6e987a7770af"
+          }
+        },
+        {
+          "d535469d05cf16398f830e90a47f3608.png": {
+            "x": 214,
+            "y": 149,
+            "wav": "d0cf3f596bfee1eb3dfc5a9950115e7d"
+          }
+        }
+      ]
+    },
+    {
+      "line": [
+        "On Friday\nI get\nfat figs."
+      ],
+      "wordSoundDictionary": [{
+          "text": "On",
+          "sound": "7cf303895e46cac37e76de1620709a31"
+        },
+        {
+          "text": "Friday",
+          "sound": "68a5acf3e9a6fa91d813105d8656ea8b"
+        },
+        {
+          "text": "I",
+          "sound": "c5aab315e805b44074f5acc13a9a76e8"
+        },
+        {
+          "text": "get",
+          "sound": "69122bf8e42ea21b663580c5d7f630cd"
+        },
+        {
+          "text": "fat",
+          "sound": "e2c1a6ed82d67df66de5cd70cd5beaa6"
+        },
+        {
+          "text": "figs",
+          "sound": "3ce56c038bf2f3fcc0358b6523499338"
+        }
+      ],
+      "x": [
+        46
+      ],
+      "y": [
+        30
+      ],
+      "font": [{
+        "fontSize": "40px",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }],
+      "bg": "aa9a4f344db1266f627683692db38cf6.jpg",
+      "fullSound": "e9ed42e1a4b1800c9bd0cb84fb351517",
+      "lightTimeArray": [
+        400,
+        900,
+        400,
+        400,
+        400,
+        600
+      ],
+      "pages": [{
+          "ed37e3c9cfc757da177362e78e4c6162.png": {
+            "x": 8,
+            "y": 159,
+            "wav": "2c9ad46a0b6f1e9080acb72c5107cb97"
+          }
+        },
+        {
+          "92584f5f795ed92c16eef32cae881241.png": {
+            "x": 208,
+            "y": 216,
+            "wav": "3ce56c038bf2f3fcc0358b6523499338"
+          }
+        },
+        {
+          "27b901c270c356f0780ac0c319adffd9.png": {
+            "x": 473,
+            "y": 215,
+            "wav": "921ed5e2033b318d63344a19ef92a1df"
+          }
+        },
+        {
+          "8f6bff8dc2c0134651e120b5776f420f.png": {
+            "x": 626,
+            "y": 15,
+            "wav": "b1b4fb7bf91384ef5dd609aefea9f8f2"
+          }
+        }
+      ]
+    },
+    {
+      "line": [
+        "On\nSaturday\nI get\nsweet\ncherries."
+      ],
+      "wordSoundDictionary": [{
+          "text": "On",
+          "sound": "7cf303895e46cac37e76de1620709a31"
+        },
+        {
+          "text": "Saturday",
+          "sound": "0f32e7262eba2e804232a8ca3249b34f"
+        },
+        {
+          "text": "I",
+          "sound": "c5aab315e805b44074f5acc13a9a76e8"
+        },
+        {
+          "text": "get",
+          "sound": "69122bf8e42ea21b663580c5d7f630cd"
+        },
+        {
+          "text": "sweet",
+          "sound": "c0b89dd6024d39d26ea333574dcddcfc"
+        },
+        {
+          "text": "cherries",
+          "sound": "af1ea1514af85dadb5911d3984845ff0"
+        }
+      ],
+      "x": [
+        550
+      ],
+      "y": [
+        35
+      ],
+      "font": [{
+        "fontSize": "40px",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }],
+      "bg": "1f7d7c1e0eff694bacd13bb59a6c1191.png",
+      "fullSound": "fe3200b540ede8507d275caf64bb6c2a",
+      "lightTimeArray": [
+        400,
+        950,
+        400,
+        400,
+        400,
+        600
+      ],
+      "pages": [{
+          "1a3573ed9b5f3417f664b9e20d108ae0.png": {
+            "x": 107,
+            "y": 126,
+            "wav": "4ec164af34a4a06eb8a48814583d75d9"
+          }
+        },
+        {
+          "ddeb429a7555c0e7ae5514a6fb3b9671.png": {
+            "x": 418,
+            "y": 263,
+            "wav": "94f87185056cbf1c29c6f9e7f55cf138"
+          }
+        },
+        {
+          "bee43311940a54b1581d8bc798198dd2.png": {
+            "x": 194,
+            "y": 111,
+            "wav": "af1ea1514af85dadb5911d3984845ff0"
+          }
+        },
+        {
+          "342881bb0ffb780ad52e90e30d9d86e3.png": {
+            "x": 431,
+            "y": 6,
+            "wav": "20329c3c1af8594503724d57321c869e"
+          }
+        }
+      ]
+    },
+    {
+      "line": [
+        "On\nSunday\nI make a\nsalad..."
+      ],
+      "wordSoundDictionary": [{
+          "text": "On",
+          "sound": "7cf303895e46cac37e76de1620709a31"
+        },
+        {
+          "text": "Sunday",
+          "sound": "21e99a963b2799f206110aaff7732918"
+        },
+        {
+          "text": "I",
+          "sound": "c5aab315e805b44074f5acc13a9a76e8"
+        },
+        {
+          "text": "make",
+          "sound": "9247cd344177bd89a720cb96666ff780"
+        },
+        {
+          "text": "a",
+          "sound": "a80b7445b340772019b899ecef44688d"
+        },
+        {
+          "text": "salad",
+          "sound": "08b8da7f81f5070e116e676591b42df1"
+        }
+      ],
+      "x": [
+        595
+      ],
+      "y": [
+        225
+      ],
+      "font": [{
+        "fontSize": "40px",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }],
+      "bg": "0050d9158c2c05d60e1a31cc06efa203.png",
+      "fullSound": "d9adb7b78cf807db232deb164810609d",
+      "lightTimeArray": [
+        400,
+        600,
+        400,
+        400,
+        400,
+        600
+      ],
+      "pages": [{
+          "f9b3ae2e19268bdfcc93609e74481c6c.png": {
+            "x": 235,
+            "y": 35,
+            "wav": "5c64a9f50322cec47029925fb715c858"
+          }
+        },
+        {
+          "4598d61d472a0daed8fa933a97192d50.png": {
+            "x": 215,
+            "y": 36,
+            "wav": "4f2e16e3a871a5a6b49551ed743f0f47"
+          }
+        },
+        {
+          "772ac1c27a7a724510babc8f6f9501bd.png": {
+            "x": 160,
+            "y": 240,
+            "wav": "a2021894bd80ae9efec9451bd8bcf6b2"
+          }
+        },
+        {
+          "906e929c8323534bf4936a3797c6000b.png": {
+            "x": 8,
+            "y": 8,
+            "wav": "2c9ad46a0b6f1e9080acb72c5107cb97"
+          }
+        }
+      ]
+    },
+    {
+      "line": [
+        "and share it with\nmy family."
+      ],
+      "wordSoundDictionary": [{
+          "text": "and",
+          "sound": "6d569b0ae84aec8dba8a37e112b1e60d"
+        },
+        {
+          "text": "share",
+          "sound": "77e63de9ed29df71b4c49ee087ea5ee6"
+        },
+        {
+          "text": "it",
+          "sound": "a47227650b1a5301bfc3bb3f9718db83"
+        },
+        {
+          "text": "with",
+          "sound": "35de4c663cc0fbccf7e469cfa2ac92e4"
+        },
+        {
+          "text": "my",
+          "sound": "ee2d8d192082f5fa5a99fddc13d9811d"
+        },
+        {
+          "text": "family",
+          "sound": "b987c932a7ae13dd9bc5124efba1d62a"
+        }
+      ],
+      "x": [
+        435
+      ],
+      "y": [
+        40
+      ],
+      "font": [{
+        "fontSize": "40px",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }],
+      "bg": "7aa6ca4862654117ae642fb6abf6b27f.png",
+      "fullSound": "692a3d9c8abff47547c9c24f8f09f726",
+      "lightTimeArray": [
+        600,
+        400,
+        400,
+        400,
+        400,
+        400
+      ],
+      "pages": [{
+          "77b7cfb5071b97c89511d458911e90b4.png": {
+            "x": 694,
+            "y": 125,
+            "wav": "4c4bb2b9a9bd74903d44be09e8550f4f"
+          }
+        },
+        {
+          "358a55b5dbf1d2ba84142ba7fe77c2dd.png": {
+            "x": 442,
+            "y": 326,
+            "wav": "55a6a157433c6e8b657ed79c85616a4b"
+          }
+        },
+        {
+          "e92f8baa7835f4bbd480ac632f4aae4b.png": {
+            "x": 116,
+            "y": 175,
+            "wav": "f4c3d949be755e849bcf6e987a7770af"
+          }
+        },
+        {
+          "f520f4851b361c492f240c5ce885bc44.png": {
+            "x": 410,
+            "y": 1,
+            "wav": "4d97e6c53deb274ea9f42491ae15dc93"
+          }
+        },
+        {
+          "4b1443375d01f4ec3e31002cac772c26.png": {
+            "x": 257,
+            "y": 50,
+            "wav": "4f2e16e3a871a5a6b49551ed743f0f47"
+          }
+        }
+      ]
+    },
+    {
+      "line": [
+
+      ],
+      "wordSoundDictionary": [
+
+      ],
+      "x": [
+        0
+      ],
+      "y": [
+        0
+      ],
+      "font": [
+
+      ],
+      "bg": "02baa1a186a3eea166ff30296daa5daf.jpg",
+      "fullSound": "",
+      "lightTimeArray": [
+
+      ],
+      "pages": [{
+          "de962f870158812758df6db9a87b7976.png": {
+            "x": 230,
+            "y": 0,
+            "wav": "2b53ed13448003e273010d605e66c8db"
+          }
+        },
+        {
+          "a7fd610b6300cfce78cb91166f0725ea.png": {
+            "x": 682,
+            "y": 0,
+            "wav": "0f32e7262eba2e804232a8ca3249b34f"
+          }
+        },
+        {
+          "7547e33567fbc50a53aa9c363f39c351.png": {
+            "x": 0,
+            "y": 0,
+            "wav": "21e99a963b2799f206110aaff7732918"
+          }
+        },
+        {
+          "6bedc537bb6ad84e7c9f1893fb7ad5c7.png": {
+            "x": 344,
+            "y": 0,
+            "wav": "036f47856f0783008d8c3e20ad631274"
+          }
+        },
+        {
+          "5a249dc7ac1d867731392371b1c97996.png": {
+            "x": 458,
+            "y": 0,
+            "wav": "6d6a7188a2595d58531a83945e733118"
+          }
+        },
+        {
+          "3ecb9663ebd7e1b3fb988cafe28fc0ae.png": {
+            "x": 118,
+            "y": 0,
+            "wav": "066ce6fef6c7098d90301b14bdf22437"
+          }
+        },
+        {
+          "e7c7b3295857984fd4c6c0c3c49f2798.png": {
+            "x": 568,
+            "y": 0,
+            "wav": "68a5acf3e9a6fa91d813105d8656ea8b"
+          }
+        }
+      ]
+    }
+  ]
+}

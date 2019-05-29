@@ -1,0 +1,67 @@
+{
+  "pages": [{
+    "words": ["is", "not"],
+    "isSign": true,
+    "wordDrag": "isn't",
+    "wordVoice": { "sound": "dfc1b0982323531a4e0ad593f6ec637a" },
+    "not": { "sound": "bddc4d7fc8a9bb9eb7270abe82d55928" },
+    "short": { "sound": "7b45de8e075f9cf2dc32b33aeec30833" },
+    "long": { "sound": "3103ad5930ea2784e5dfd739115dde04" }
+  }, {
+    "words": ["do", "not"],
+    "isSign": true,
+    "wordDrag": "don't",
+    "wordVoice": { "sound": "702cc29f68ac120c8563304e64efddcd" },
+    "not": { "sound": "bddc4d7fc8a9bb9eb7270abe82d55928" },
+    "short": { "sound": "cddbd7bf300f14f533769bbecd6503da" },
+    "long": { "sound": "ac6e3b716c90e8dfa816bbad1593805b" }
+  }, {
+    "words": ["are", "not"],
+    "isSign": false,
+    "wordDrag": "aren't",
+    "wordVoice": { "sound": "193e65695e39f76a2c41d9ed54ac747f" },
+    "not": { "sound": "bddc4d7fc8a9bb9eb7270abe82d55928" },
+    "short": { "sound": "ff3870ef019d505d84eb542674411a0d" },
+    "long": { "sound": "e0d3226ccb582a5d7cda9e923875685e" }
+  }, {
+    "words": ["was", "not"],
+    "isSign": false,
+    "wordDrag": "wasn't",
+    "wordVoice": { "sound": "0c70c7051c11c9dd03850c9e9d5a3204" },
+    "not": { "sound": "bddc4d7fc8a9bb9eb7270abe82d55928" },
+    "short": { "sound": "ebeb08ffeac47f3f2b82259f469ec12b" },
+    "long": { "sound": "5436ede9b3ea10e809781f01def59297" }
+  }, {
+    "isSign": false,
+    "words": ["did", "not"],
+    "wordDrag": "didn't",
+    "wordVoice": { "sound": "a7d291575f8ae403a5e12d2520ee791c" },
+    "not": { "sound": "bddc4d7fc8a9bb9eb7270abe82d55928" },
+    "short": { "sound": "1abd22e7fa08352d585014b0406df2af" },
+    "long": { "sound": "75856a8f39b3250a3a5fe4d0a639cdc3" }
+  }, {
+    "isSign": false,
+    "words": ["has", "not"],
+    "wordDrag": "hasn't",
+    "wordVoice": { "sound": "c8e34268f1f6fad6e4af140ed7637b87" },
+    "not": { "sound": "bddc4d7fc8a9bb9eb7270abe82d55928" },
+    "short": { "sound": "aa443690def20cdf6c5a57b4cd8db2dc" },
+    "long": { "sound": "792a4c7dad3b3e4cd23878b4352985b7" }
+  }, {
+    "words": ["could", "not"],
+    "isSign": false,
+    "wordDrag": "couldn't",
+    "wordVoice": { "sound": "009f6ed8e4c114f6f5d1c3634b4afc17" },
+    "not": { "sound": "bddc4d7fc8a9bb9eb7270abe82d55928" },
+    "short": { "sound": "f8f207e3bcfdcec4d12fe9fd81a33233" },
+    "long": { "sound": "64a57dafa04ae0640e80c54778f273ee" }
+  }, {
+    "words": ["would", "not"],
+    "wordDrag": "wouldn't",
+    "isSign": false,
+    "wordVoice": { "sound": "e25f253d1e5ff5aedf3b81de7fd06a7c" },
+    "not": { "sound": "bddc4d7fc8a9bb9eb7270abe82d55928" },
+    "short": { "sound": "bb2184bd2bab16467d8780a658980456" },
+    "long": { "sound": "7fb39d1cc2062c43195b62bb08be72dc" }
+  }]
+}

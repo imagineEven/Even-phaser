@@ -1,0 +1,82 @@
+{
+  "video50":{
+    "video":"995dc3b9ba49de71046bc1412468426d",
+    "sound":"995dc3b9ba49de71046bc1412468426d"
+  },
+    "word": "simile",
+    "wordIntroduce": "Mary had a little\nlamb. Its fleece\nwas white.",
+    "wordIntroduce2": "Mary had a little\nlamb. Its fleece\nwas white as\nsnow.",
+    "wordIntroduce3": "The pond was \nlike a mirror.",
+    "wordIntroduce4": "The pond was like a mirror.",
+    "img": "fd80565c69f548fa3f73dca22428e9c1",
+    "sound": [
+      "463539909260e9320435facac22f333e",
+      "df241e8650390083fe1552b75912c45c"
+    ],
+    "likeAs":["like","as"],
+    "wordIntroduceTimeList": [
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400
+    ],
+    "wordIntroduceTime": [
+      400,
+      300,
+      300,
+      300,
+      200,
+      300,
+      300
+    ],
+    "wordList": [
+      "are flat",
+      "keep you cool",
+      "show your reflection",
+      "are fluffy",
+      "are smooth"
+    ],
+    "rightWordList": [
+      "are smooth",
+      "are flat",
+      "show your reflection"
+    ],
+    "wordSoundList": [
+      {"sound":"b4a58261b99558bffe246d99b3e9db6a"},
+      {"sound":"d22b0e9fbba2ea8eb902fdbe63f342d8"},
+      {"sound":"44ba45b0aa8d2a330aaabc2590ba0598"},
+      {"sound":"322dfdaad119fd44567886cc1556c176"},
+      {"sound":"fc748093a2c71cd8ffd7703985b327a3"}
+    ],
+    "MirrorsText": "Mirrors ________, ________, and\n ________.",
+    "MirrorsTextTime":[
+      0,
+      300,
+      300,
+      0,
+      300
+    ],
+    "which":"Which sentence is a simile?",
+    "iLikeEatTacos":{
+      "text":"I like to eat \ntacos.",
+      "sound":"752636d9fd3fe6bb1946a31715c68c3a"
+    },
+    "iEatLikeABird":{
+      "text":"I eat like a \nbird.",
+      "sound":"4d8d876162885fb7ae891960dd0e00b5"
+    },
+    "theMouse":{
+      "text":"The mouse \nwas quiet \nas it crept\nacross the\nfloor.",
+      "sound":"7d9f80ee47dd5671aa65046486753382"
+    },
+    "walking":{
+      "text":"Walking\ndown the\nhall, I was\nquiet as a \nmouse.",
+      "sound":"4473d8d8052e4cab83abb6495e30cf4b"
+    }
+
+}

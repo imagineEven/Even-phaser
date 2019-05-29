@@ -1,0 +1,78 @@
+{
+  "pages": [
+    {
+      "word": "attraction",
+      "type": "noun",
+      "sound": "171d7442e49f9ab769e316101b6d4fb0",
+      "question": [
+        "SomeThing interesting that brings \nvisitors to a place",
+        "Something used to keep yourself safe",
+        "The daily rise and fall of the water level \nin the ocean",
+        "The constant movement of water or air \nin acertain direction"
+      ],
+      "explain": { "sound": "19926c39a76b5a6c70f968fe9490e583" },
+      "sentence": "The gaint roller\ncoaster is my\nfavorite attraction at\nthe theme park.",
+      "cententWord": 7,
+      "intro": {
+        "pic": { "image": "b182b03ffa1b5543083d8776183e3ada.jpg" },
+        "sound": "258ecc9e0e88a1a81a3289ba4a007ee6",
+        "video": null
+      }
+    },
+    {
+      "word": "experimental",
+      "type": "adjective",
+      "sound": "97c6efb6856325d9799b73ab87375c4a",
+      "question": [
+        "Using new methods or ideas",
+        "Wanting to know more about \nsomething",
+        "Describes something that is very, very \nold",
+        "Something that has to do with the North \nPole or the South Pole"
+      ],
+      "fontSize": 0.6,
+      "explain": { "sound": "7a90a2f3488b683bcdc6730c1541c0cc" },
+      "sentence": "We tried an\nexperimental reecipe \nand were very \nhappy with the \nresults",
+      "cententWord": 3,
+      "intro": {
+        "video": "02735f77ab095fa863c1f7f61066acd5"
+      }
+    },
+    {
+      "word": "sculpture",
+      "type": "noun",
+      "sound": "ba4235e6d19f67addc42491da67df5af",
+      "question": [
+        "An object or piece of art made of stone, clay, \nwood, ice ,or other material",
+        "An exciting experience that could be \ndangerous or strange",
+        "Something that is useful in getting a job done",
+        "A door ro opening that you go through ro get \ninside something"
+      ],
+      "explain": { "sound": "cd0eeaa36156b42086c5e48d27ee3c10" },
+      "sentence": "The aitist used clay \nto make a sculpture \nof a horse.",
+      "cententWord": 8,
+      "intro": {
+        "video": "f8a74c5fc5bfb3756c51c5afb9a58da2"
+      }
+    }, 
+    {
+      "word": "harvest",
+      "type": "verb",
+      "sound": "a89e48d33607e90ae4c40fe40dc34518",
+      "question": [
+        "To gather or bring in",
+        "To keep something safe",
+        "To move from a high place to a low \nplace",
+        "To Throw away, to get rid of"
+      ],
+      "fontSize": 0.6,
+      "explain": { "sound": "d3a64642eeff9977aaeef1f198e33613" },
+      "sentence": "When the wheat is \nready, it is \nharvested by huge \nmachines that cut \ndown and collect \nthe stalks.",
+      "cententWord": 10,
+      "intro": {
+        "pic": { "image": "0ac79e6b9d02c5c55e9f16e37194cd03.jpg" },
+        "sound": "258ecc9e0e88a1a81a3289ba4a007ee6",
+        "video": null
+      }
+    }
+  ]
+}

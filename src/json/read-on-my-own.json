@@ -1,0 +1,22 @@
+{
+  "bgPic": "7aaf97c7db9c48accbd63fe9ecf86944.jpg",
+  "titleX": 528,
+  "titleY": 108,
+  "titlePic1": "51ad5e821d5e688022a62c99131f5068",
+  "titlePic2": "b24c8a821e285a5dc887a7b5311a9ab7",
+  "titleSound": ["d108276ed110ec55192bd4c285c8c987", "b721eaf34e15344e3ef8454b28d41bc9"],
+  "dictionary": {
+    "I'm": ["e1c801b618f82ec976a7ff68d4b54cea"],
+    "Dad": ["24183d79a0d85e67ed07941c5db839be", "dd2093c8b92ef3f4c7def99a9cf22bbc"],
+    "is": ["96d1f91d9d9a8670722a385e9da98011"],
+    "Sam": ["68c68072827f939edb57fdd82d3601e4", "b75da8ca658ab0d05fd91850dd32a932"],
+    "not": ["311350f6d4b55ebed2070c5283cf2b7e"],
+    "good": ["19cc917b2328051ae8d51387f3c47334"],
+    "sad": ["852b0a50e37583e8d0d856800a03415e", "fe36ab7880b7326bf0f9f20b76709d2e"],
+    "practice": ["3c2595a2956d157a86f7c2d759f3683d"],
+    "Now": ["1f6680ae7f2733fb4ce83a2f53eab607"],
+    "and": ["3f1961a471f8f1863429db9369cfd4a5"],
+    "dad": ["24183d79a0d85e67ed07941c5db839be", "dd2093c8b92ef3f4c7def99a9cf22bbc"]
+  },
+  "pages": [{ "pic": "9f159bad5153103b1dc56d974c442115.jpg", "subtitle": "\"I'm Sam.\"", "wordTime": [400, 300], "position": { "x": 530, "y": 160 }, "style": { "fontSize": "21pt", "fill": "#000", "font": "Century Gothic", "fontWeight": "bold" } }, { "pic": "4ad4c609748b1611144c60bcc1652e1a.jpg", "subtitle": "\"I'm Dad.\"", "wordTime": [400, 300], "position": { "x": 480, "y": 100 }, "style": { "fontSize": "21pt", "fill": "#000", "font": "Century Gothic", "fontWeight": "bold" } }, { "pic": "2ec1d424929859f960b8fc26708ee46f.jpg", "subtitle": "Sam is good.", "wordTime": [500, 300, 500], "position": { "x": 530, "y": 200 }, "style": { "fontSize": "21pt", "fill": "#000", "font": "Century Gothic", "fontWeight": "bold" } }, { "pic": "834b2dc6e4ea0998e2c1f70f9e25ed47.jpg", "subtitle": "Dad is not good.", "wordTime": [500, 300, 450, 400], "position": { "x": 530, "y": 100 }, "style": { "fontSize": "21pt", "fill": "#000", "font": "Century Gothic", "fontWeight": "bold" } }, { "pic": "b0d90feff2d39367a68e5778475d75e1.jpg", "subtitle": "Dad is sad.", "wordTime": [500, 350, 500], "position": { "x": 500, "y": 100 }, "style": { "fontSize": "21pt", "fill": "#000", "font": "Century Gothic", "fontWeight": "bold" } }, { "pic": "98bb1721bb5b77d914949868bae60a18.jpg", "subtitle": "Dad and Sam\npractice.", "wordTime": [500, 300, 500, 600], "position": { "x": 100, "y": 50 }, "style": { "fontSize": "21pt", "fill": "#000", "font": "Century Gothic", "fontWeight": "bold" } }, { "pic": "fcddccf0e66004d502087656cdacb100.jpg", "subtitle": "Now dad is\nnot sad.", "wordTime": [500, 450, 300, 400, 400], "position": { "x": 530, "y": 160 }, "style": { "fontSize": "21pt", "fill": "#000", "font": "Century Gothic", "fontWeight": "bold" } }, { "pic": "4d3cf801b24e683394a0aaf1fe7496a4.jpg", "subtitle": "Dad is good.", "wordTime": [500, 300, 500], "position": { "x": 100, "y": 100 }, "style": { "fontSize": "21pt", "fill": "#000", "font": "Century Gothic", "fontWeight": "bold" } }, { "pic": "2265657ef2a730de1b5542423b5378f1.jpg", "subtitle": "Sam is good.", "wordTime": [500, 300, 500], "position": { "x": 100, "y": 120 }, "style": { "fontSize": "21pt", "fill": "#000", "font": "Century Gothic", "fontWeight": "bold" } }]
+}

@@ -1,0 +1,18 @@
+{
+  "vedio": {
+    "beginVideo": {"vedio": "76ca4fbbb83b22744e17cd14471164a7"},
+    "lastVideo": {"vedio": "f8d18373f9c42d571fcbec1358f78293"},
+    "testVideo": {"vedio": "1fae4fbe02c3a05559a7e79f37872b10"}
+  },
+  "page": {
+    "background": {"image": "b59d6c8d1547ab7eb07244340418db04.jpg"},
+    "cats": {"image": "9e55e2f649759a5b411406ebf6a2240f.png"},
+    "dogs": {"image": "f56ee14811095ab5334eba087e5ef39a.png"},
+    "checkBox": {"image": "522ad1c0178a56299d1c90edd39998f8.png"},
+    "lignCheckBox": {"image": "b1e8e482f48f92e1253425e8105f94bc.png"},
+    "kitten": {"image": "957807e8ce86e26b696ed2f5f429cb08.png"},
+    "lastPage": {"image": "994db52fa24f4761b71a00e5efa13306.png"}
+  },
+  "wordShowBg": {"image": "d5e5e97494be33736baebdda559d2292.jpg"},
+  "clickCheckBox": {"sound": "7e75dbf5c4ad2254296ad5d987590705"}
+}

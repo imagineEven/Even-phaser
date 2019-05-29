@@ -1,0 +1,283 @@
+{
+	"stopMapVideo": {
+		"video": "73a7fa1f869c39e07c2d38bf9b5c6c6c"
+	},
+	"alertImage": {
+		"characters": {
+			"image": "62996a793bb8a601a708742a6fd20422",
+			"x": 13,
+			"y": 100,
+			"name": "characters"
+		},
+		"setting": {
+			"image": "a863e6d34f0f221d8df0b93473a0467c",
+			"x": 163,
+			"y": 68,
+			"name": "setting"
+		},
+		"problem": {
+			"image": "5a50d5e393ab96ff104d110578a2ca4a",
+			"x": 182,
+			"y": 47,
+			"name": "problem"
+		},
+		"plot": {
+			"image": "f552e6a3fbc74c121233fd3a370a67d6",
+			"x": 31.5,
+			"y": 30,
+			"name": "plot"
+		},
+		"solution": {
+			"image": "2e5138fea570436c0417ac4a71543b8c",
+			"x": 183,
+			"y": 48,
+			"name": "solution"
+		}
+	},
+	"boxGroup": {
+		"characters": {
+			"image": "5c7e8d540509292e560841418ece41a3",
+			"x": 4,
+			"y": 35,
+			"name": "characters"
+		},
+		"setting": {
+			"image": "74a0113b697cbfafbe551a3169e49358",
+			"x": 57.5,
+			"y": 28,
+			"name": "setting"
+		},
+		"problem": {
+			"image": "1cb6b5b4d9740a9a7166e2e4be063cb7",
+			"x": 107,
+			"y": 28,
+			"name": "problem"
+		},
+		"plot": {
+			"image": "c849d1c8a1a8e3dc61a8b580a3b38a88",
+			"x": 31.5,
+			"y": 28,
+			"name": "plot"
+		},
+		"solution": {
+			"image": "62622e19de47b5369bc5416ef2f47949",
+			"x": 107.5,
+			"y": 28,
+			"name": "solution"
+		}
+	},
+	"readingText": {
+		"readingTextImg": {
+			"image": "1d17f5b35f8a21328a0eae4a905858ca",
+			"x": 530,
+			"y": 383
+		},
+		"questionAndAnswer": {
+			"answerAndQuestion": [{
+					"image": "67b5f589562b27c8d6f57413ece236fa",
+					"x": 111,
+					"y": 0,
+					"yellowImg": {
+						"image": "781c09521fa3d141a3635037a97314bd"
+					},
+					"sound": "26baa8879717e4ba18defc9083f3803b"
+				}, {
+					"image": "79ba89327e72f15470ae50a014650352",
+					"x": 33,
+					"y": 394,
+					"yellowImg": {
+						"image": "faf0b6d2ede319c659e2e1c28b1de1cb"
+					},
+					"sound": "2da89f8ed03d9cd238426199242054e0",
+					"isAnawer": true
+				},
+				{
+					"image": "2bf90cd73694531e789fd049998c6ded",
+					"x": 244,
+					"y": 392,
+					"yellowImg": {
+						"image": "cdd1fecb20d92151b186b53e48421ad8"
+					},
+					"grayImg": {
+						"image": "7629b3c34838341f88954db8e657858f"
+					},
+					"sound": "4a9b9179c0b342cd8c5a7d95d3cb0b75"
+				},
+				{
+					"image": "6a86df13b7b2a2f906aeb070dffd6fe6",
+					"x": 460,
+					"y": 394,
+					"yellowImg": {
+						"image": "829108d5f30a30a4f88e9930ebf4974f"
+					},
+					"grayImg": {
+						"image": "70511eb4e8abe0ef6b7fdd3b905bb6be"
+					},
+					"sound": "1ebfd9d7a2d2c6cecc2ff3de75e0ae79"
+				}
+			]
+		},
+		"article": [{
+			"sounds": ["8c919c46a509098e948b1832ff121305"],
+			"text": "First Place",
+			"posistion": {
+				"x": 350,
+				"y": 45
+			}
+		}, {
+			"sounds": ["0b8d013fefe8e7c5d1a2bb8def30e15e", "b1709fdc16e5c8a8beeb44a388fb907f", "d048e77f45ef5efa627fc6e456d6508a"],
+			"text": "I quickly glanced behind me.I was in first place, but I still had to\nrun two more laps. A few other runners were catching up.",
+			"posistion": {
+				"x": 63,
+				"y": 80
+			}
+		}, {
+			"sounds": ["3d6eb99aa9118a80119d34969e0f218c", "849c5a9e2b3aab7f4c5ceebb30054f7e", "f8a315e1831f57a36d6fba9ac4e955f3"],
+			"text": "I tripped and fell, sprawling on the rubber surface of the track.\nUncool! My shoelaces were untied, and I had stepped on one. I\nwas just unluckey, I thought sadly.",
+			"posistion": {
+				"x": 63,
+				"y": 145
+			}
+		}, {
+			"sounds": ["b806ccb310f48be468eecc3d1b53f821", "222abb5f9b60ffd3bd8c5713993d8906", "b66c2edc8ea62f9a0a10ac5708bab47a"],
+			"text": "I retied my shoes and jumped up. I would have to really move if\n I wanted to retake the lead. I ran like the wind, passing one kid\nand then another.",
+			"posistion": {
+				"x": 63,
+				"y": 235
+			},
+			"lineHeight": true
+		}, {
+			"sounds": ["279cf6bd7e3c1f028264e1b9ffda1969"],
+			"text": "Just an I passed the lead runner, I fell again.",
+			"posistion": {
+				"x": 63,
+				"y": 320
+			}
+		}, {
+			"sounds": ["0850f7d2c1c14789dde86e188af2f29f", "a08c438ebd8a47356c1c605fb37886c8", "f0b1cf678a8820c5fb4a70b61ae3c4a8"],
+			"text": "But I fell over the finish line. And I was in first place. I had won!",
+			"posistion": {
+				"x": 63,
+				"y": 360
+			}
+		}]
+
+	},
+	"sotryMapBoxAnswer": {
+		"characters": {
+			"innerPosition": {
+				"x": 154,
+				"y": 131
+			},
+			"sound": "3c918bd16cd7ac452a94b7e40c7169ef",
+			"chooseBoxSound": {
+				"sound": "2c23e214be49765d056f7c4c2f2809f8"
+			},
+			"rightSound": {
+				"sound": "8fc098d40e6b74caecc9d42f154bee43"
+			},
+			"remeberSound": {
+				"sound": "cf80b4e124e0c06b13b9d7684aa2329b"
+			},
+			"innerText": "A determined girl",
+			"alertText": "A determined girl",
+			"alterPosition": {
+				"x": 149,
+				"y": 254
+			},
+			"name": "characters"
+		},
+		"setting": {
+			"innerPosition": {
+				"x": 457,
+				"y": 131
+			},
+			"sound": "601dcf9bddda4b7d8a7c244ff089e50c",
+			"chooseBoxSound": {
+				"sound": "7bb4caf7a348d78356925b2c20e9fe2b"
+			},
+			"rightSound": {
+				"sound": "241a62dd902626fc7113630868db21da"
+			},
+			"remeberSound": {
+				"sound": "d6d82f85f6c4e7224214b6bd83eb4eba"
+			},
+			"innerText": "A rubber-surfaced\nruning track",
+			"alertText": "A rubber-surfaced runing track",
+			"alterPosition": {
+				"x": 149,
+				"y": 404
+			},
+			"name": "setting"
+		},
+		"problem": {
+			"innerPosition": {
+				"x": 225,
+				"y": 258
+			},
+			"sound": "fc0c59ed32918feb4de6718482d79a7b",
+			"chooseBoxSound": {
+				"sound": "ca1522eaf8f6ac0a5053bad16afe6abe"
+			},
+			"rightSound": {
+				"sound": "b37f87699418386e81b244baed0c9952"
+			},
+			"remeberSound": {
+				"sound": "1b3c55d69af6920b8b765b0ca3b766dc"
+			},
+			"innerText": "The girl falls while trying to win a race",
+			"alertText": "The girl falls while trying to win a race",
+			"alterPosition": {
+				"x": 149,
+				"y": 328
+			},
+			"name": "problem"
+		},
+		"plot": {
+			"innerPosition": {
+				"x": 120,
+				"y": 367
+			},
+			"sound": "b75bc202278e9add50b60ccdc5c6d906",
+			"chooseBoxSound": {
+				"sound": "d1a08078f7f03cbf12a9c60eee98e072"
+			},
+			"rightSound": {
+				"sound": "682a3722fcc6f5b7e706c44de0c33cd0"
+			},
+			"remeberSound": {
+				"sound": "037d7df08a9f7dac29b320e73e19deca"
+			},
+			"innerText": "Other runners pass the girl, but she gets up after falling and tries\nhard to get back in first place.",
+			"alertText": "Other runners pass the girl, but she gets up after\nfalling and tries hard to get back in first place.",
+			"alterPosition": {
+				"x": 149,
+				"y": 88
+			},
+			"name": "plot"
+		},
+		"solution": {
+			"innerPosition": {
+				"x": 226,
+				"y": 498
+			},
+			"sound": "51612974d5d026187bc0e5293ef2aa4c",
+			"chooseBoxSound": {
+				"sound": "1055ed8fb0c922534fa819b29994df59"
+			},
+			"rightSound": {
+				"sound": "31f7d8307a41376a9550abb3555e1621"
+			},
+			"remeberSound": {
+				"sound": "df40458a0a7fa67f1a1ba12414afa454"
+			},
+			"innerText": "The girl passes the other runners again\nand wins the race.",
+			"alertText": "The girl passes the other runners again and wins the\n race.",
+			"alterPosition": {
+				"x": 149,
+				"y": 177
+			},
+			"name": "solution"
+		}
+	}
+}

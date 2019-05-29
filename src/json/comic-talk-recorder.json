@@ -1,0 +1,32 @@
+{
+    "bg": {
+        "image": "1dbb718efa278e249bc76a6f8262e5fe"
+    },
+    "question": {
+        "text": "what's your are name?",
+        "sound": "fd437438632a8dbc6182d35e8c42cea1"
+    },
+    "props": {
+        "image": "044b2a405a1b50e1fbe10ae1441b97a4",
+        "x": 350,
+        "y": 320
+    },
+    "answer": {
+        "text": "my name is tom.",
+        "sound": "97c72425c76c83e305b14121035b2080"
+    },
+    "responder": {
+        "image": "92274a3f7f8be4f7048a202816823d76"
+    },
+    "askerRoles": [
+        {
+            "image": "04796b651449294c0e93d8ad2c5b3c12"
+        },
+        {
+            "image": "10b0f8080094fedae759fc5177d27ae8"
+        },
+        {
+            "image": "98f698b131cc46d4ebf03b2b55713079"
+        }
+    ]
+}

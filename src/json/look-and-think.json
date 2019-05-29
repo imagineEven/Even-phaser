@@ -1,0 +1,206 @@
+{
+  "firstVideo": {"video": "f89bdfbb7314d625a421f7de8a91eadb", "sound": "f89bdfbb7314d625a421f7de8a91eadb"},
+  "middleVideo": {"video": "9aa180894b8fdbe27b55a8aa73663f42", "sound": "9aa180894b8fdbe27b55a8aa73663f42"},
+  "lastVideo": {"video": "c48eaf64427978ecf6d9460ba897324c", "sound": "c48eaf64427978ecf6d9460ba897324c"},
+  "stateOne": {
+    "stateType": 1,
+    "page": {
+      "title": {"value": "How does this girl feel anout her teacher?"},
+      "optionImageArr": [
+        {"image": "29b95442eeb108ff2f6c10374e4a9a59.jpg"},
+        {"image": "443044ff2eef4b99c75d8db0335cf0af.jpg"},
+        {"image": "d3976dd122f9b61bdb26646559d761aa.jpg"}
+      ],
+      "leftThinkImage": {"image": "b0889fdeac0eddaf80afdabb6df9e016.png"},
+      "leftThinkImage_hi": {"image": "38529ee628b83f751de2c79c73c01e15.png"},
+      "rightThinkImage": {"image": "ee6ef9565bdc6770afe41f7a3f4bf45d.png"},
+      "rightThinkImage_hi": {"image": "f9960c6a4807e17bb88ec40193519981.png"},
+      "optionTextArr": [
+        "A. She doesn't like her.",
+        "B. She likes her clothes.",
+        "C. She likes her."
+      ],
+      "rightWord": "C. She likes her.",
+      "redWord": "teacher",
+      "optionImageTextArr": [
+        "",
+        "Were moving today.",
+        "Goodbye, teacher."
+      ]
+    },
+    "position": {
+      "optionImageTextArr": [
+        [0, 0],
+        [-140, -200],
+        [-130, -180]
+      ]
+    },
+    "playSound": {
+      "title": {"sound": "246c12ba6e071ee0a48722f6250be6ef"},
+      "optionArr": [
+        {"sound": "3f22288b8e670f9afecab9cb7a44a1b6"},
+        {"sound": "a9dde5429850a602eb8b8234ca51ff1d"},
+        {"sound": "9a142a7a2e5467bb83edb5fac676c9dc"}
+      ],
+      "first": {"sound": "833ebc5f60d298e464c2eba05af35cbf"},
+      "lookThePage": {"sound": "5f1972eca7beeecdc86610392cbe9a8e"},
+      "goodByTeacher": {"sound": "6fe8afbc3b63809dfa494e8628bfefb9"},
+      "goodByTeacherAfter1": {"sound": "2bdbbb846631aa615d92442924f31050"},
+      "goodByTeacherAfter2": {"sound": "4b3d6a81693b06ecae25dd972da2e876"},
+      "letsThink": {"sound": "209200a57a8e18a3d0b363498746b2f2"},
+      "rightImageSound": {"sound": "fbe50a9e092a80a89000f55a8000c0cb"},
+      "leftImageSound": {"sound": "8f1e39953a0f576903d8fa849dc77d83"},
+      "aha": {"sound": "d11a804186de6bbe43b78de01cc76708"},
+      "ahaAfter": {"sound": "7ef494d03bde74558938b2113015656b"},
+      "ErrMassage1": {"sound": "06c48780043a48f8869fe0a4c2f56199"},
+      "ErrMassage2": {"sound": "9d99999a02a7933f64f83e7eab6cd7ef"},
+      "firefighters": {"sound": "689c8c512063d681d21757a63770d126"},
+      "firefightersMoving": {"sound": "4b3d6a81693b06ecae25dd972da2e876"},
+      "firefightersThinkAbout": {"sound": "5587b31a94d747429c4638b9e6f9e20d"}
+    }
+  },
+  "stateTwo": {
+    "page": {
+      "title": {"value": "Why do you think Mom stopped the car?"},
+      "optionImageArr": [
+        {"image": "58ac75a15f973168cb61a3e136b4eb5b.jpg"},
+        {"image": "200653685fe497cb568a8082ad30f276.jpg"},
+        {"image": "96ab30d36786ea064baf92dff20b202f.jpg"}
+      ],
+      "optionTextArr": [
+        "A. She forgot something.",
+        "B. She is lost.",
+        "C. She wanted to rest."
+      ],
+      "rightWord": "B. She is lost.",
+      "optionImageTextArr": [
+        "",
+        "Are we almost there? I think we're \ngetting close. Be paflent.",
+        "Mom stopped the car and looked at the \nmap."
+      ],
+      "promptImage": {"image": "5b81c94df7ed3006f4107177e4821a05.png"},
+      "map": {"image": "0b7bbda1c74396d05f10e10233f3491d.png"}
+    },
+    "position": {
+      "promptImage": {
+        "x": 413,
+        "y": 100
+      },
+      "map": {
+        "x": 412,
+        "y": 101
+      },
+      "inferential": {
+        "x": 310,
+        "y": 280
+      },
+      "optionImageTextArr": [
+        [0, 0],
+        [0, 200],
+        [0, 200]
+      ],
+      "bigImagePosetion": [
+        [194, 164],
+        [390, 164],
+        [610, 164]
+      ]
+    },
+    "playSound": {
+      "optionImageArr": [
+        {"sound": "f1f8c35667e347a039e1d6828d9d2147"},
+        {"sound": "66e9a038eb4faf914bb0a2a7e737b4cf"},
+        {"sound": "7ae3d3ed48b2556101cd95f06f7f248e"}
+      ],
+      "title": {"sound": "22f62e0ebdc74be10553f40732cd3bc9"},
+      "optionArr": [
+        {"sound": "c7d5184d6acfb77d61d3daa94e4d199c"},
+        {"sound": "c8f79765e1fc235f2eef87ce7d4ff9a1"},
+        {"sound": "51bd1c8dc6c5ba0b06c61d50e011d7cc"}
+      ],
+      "onClickBrainSound": {"sound": "7f95775b848e9f96abc383eecd8db0b6"},
+      "ErrMassage1": {"sound": "66ff481dfcd28bbb597984ce469381c0"},
+      "ErrMassage2": {"sound": "963a325816cad69d52db4c9e3eee96af"},
+      "onClickBrainSound2": {"sound": "c2f9fb4ebc0611e8b252e90c3ac66f67"},
+      "theBookMessage": {"sound": "d3b70d10a9f5820de999ded91f71f4b9"},
+      "theBookMessage2": {"sound": "39e27fcd6579477fcd984a86dc07906c"}
+    }
+  },
+  "stateStree": {
+    "page": {
+      "title": {"value": "Why does Sam get a job?"},
+      "videoLastPage": {"image": "f9ff42744f574e09669dc211f78e5f02.jpg"},
+      "optionImageArr": [
+        {"image": "67255395c701260eef77fb1819aca217.jpg"},
+        {"image": "a0f806ff23fe7bb9f7d3e98ff4614150.jpg"},
+        {"image": "216ab2406673b7d7837d27ca72f86b28.jpg"}
+      ],
+      "optionTextArr": [
+        "A. He wants to get free newspapers.",
+        "B. He likes working for free.",
+        "C. He wants money to buy a new hat."
+      ],
+      "rightWord": "C. He wants money to buy a new hat.",
+      "optionImageTextArr": [
+        "",
+        "Sam wants a new hat.",
+        "He gets a good job."
+      ]
+    },
+    "position": {
+      "optionImageTextArr": [
+        [0, 0],
+        [100, -180],
+        [-50, -180]
+      ],
+      "bigImagePosetion": [
+        [194, 164],
+        [390, 164],
+        [610, 164]
+      ]
+    },
+    "playSound": {
+      "optionImageArr": [
+        {"sound": ""},
+        {"sound": "bdb42f0a36a29f8b997993f75f08f523"},
+        {"sound": "24411890a0b8eb753f17403a3932c78f"}
+      ],
+      "title": {"sound": "9f66c8261c62ce2b4af1fd91c0e61374"},
+      "optionArr": [
+        {"sound": "d9f23697d969027c3b9fd66a9cc4330a"},
+        {"sound": "b2e11ae8e2b4a422f03770da754abb50"},
+        {"sound": "269e7272aa2e3f9ef5c559c733dce028"}
+      ],
+      "ErrMassage1": {"sound": "32fd4a340b70d54711d20e80131f1ce0"},
+      "ErrMassage2": {"sound": "cc0b649481de8f0703cd8a5aeaba63a8"},
+      "samBuyHat": {"sound": "bdb42f0a36a29f8b997993f75f08f523"}
+    }
+  },
+  "fontFamily": {
+    "titleTextStyle": {
+      "fontFamily": "Century Gothic",
+      "fontSize": "26px",
+      "fontWeight": "200",
+      "fill": "#000"
+    },
+    "imageTextStyleOne": {
+      "fontFamily": "Century Gothic",
+      "fontSize": "50px",
+      "fontWeight": "200",
+      "fill": "#000"
+    },
+    "imageTextStyleTwo": {
+      "fontFamily": "Century Gothic",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fill": "#000"
+    },
+    "imageTextStyleStree": {
+      "fontFamily": "Century Gothic",
+      "fontSize": "40px",
+      "fontWeight": "700",
+      "fill": "#000"
+    },
+    "redFont": "#FF4500",
+    "blackFont": "#000"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "background": {
+        "image": "4902ea4352197b1fb22e3a548d488dde.png"
+    },
+    "wrap": {
+        "image": "63218873c40825aa7a74c5ae67b7c90a"
+    },
+    "button": {
+        "right": {
+            "images": [
+                "bca09716cdaf628639ca29c3c8d76448",
+                "e0015ab142d6e3f947af7ae52d3a4e87",
+                "dee17cb26d4c78374502bd6cfca63015"
+            ]
+        },
+        "wrong": {
+            "images": [
+                "a1513ee76176f383afa0341144e3fa74",
+                "ae58b1bf3362649ce5969f769378fa85",
+                "f9801981ad18c329fd1ffa0a27430b95"
+            ]
+        },
+        "next": {
+            "image": "c891ba348071e8582d661f0bff8004c3"
+        },
+        "finish": {
+            "image": "49bbf3b917caea8ba8d800567a9fa368"
+        }
+    },
+    "right": {
+        "sound": "406ff8a67e97315c58fa4235833ee032"
+    },
+    "wrong": {
+        "sound": "fc093116823c02a765e7408f9ade882e"
+    }
+}

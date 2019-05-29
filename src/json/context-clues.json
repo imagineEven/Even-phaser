@@ -1,0 +1,405 @@
+{
+  "explanation": [{
+      "bgImage": { "image": "cb7669477ae5ffbbf7fc6408ca45dedf" },
+      "image": "77fe1b07d5753cbd10d5b0dab3762292",
+      "contentSound": {
+        "sound": "b490ac4f17e3c31cf8577a5072704c32"
+      },
+      "sentenceSound": {
+        "sounds": [
+          "00d640174f658e58d27d2f90db06f6eb"
+        ]
+      },
+      "flsherSentence": [{
+        "sounds": [
+          "8288d9b6c058970938ae053c2c4d6a7e"
+        ]
+      }],
+      "foundedSound": [{
+        "sounds": [
+          "7fb94bb4eadd40ccf4056f3275c4d8e3"
+        ]
+      }],
+      "positions": {
+        "x": 600,
+        "y": 600
+      },
+      "positionImg": {
+        "x": 400,
+        "y": 240,
+        "scale": 0.8
+      },
+      "sentence": "Sharks use their strong olfactory sense to\nfind food. They can smell a few drops of\nblood in the water from far away.",
+      "time": [600, 300, 450, 500, 700, 450, 200, 400, 400,
+        400, 300, 450, 100, 300, 450, 200, 450, 200, 300, 450, 400, 300, 400
+      ],
+      "positionSentence": {
+        "x": 100,
+        "y": 400
+      },
+      "indexWord": 5,
+      "indexSentence": [
+        [
+          12, 13, 14, 15, 16, 17
+        ]
+      ],
+      "positionInfo": {
+        "startX": 60,
+        "startY": 400,
+        "width": 600,
+        "height": 100
+      }
+    },
+    {
+      "bgImage": { "image": "d3df3533090660a5997354337382bfa7" },
+      "image": "866a91bafc7776abd37c9629f5b92ec3.jpg",
+      "contentSound": {
+        "sound": "70900539e22be220be1038052abd4f45"
+      },
+      "sentenceSound": {
+        "sounds": [
+          "d3baffb3de2a5efc7eb504975466c375"
+        ]
+      },
+      "flsherSentence": [{
+          "sounds": [
+            "6590ac05a8cdef22863a885e475fc314"
+          ]
+        },
+        {
+          "sounds": [
+            "52e17c46bec3b96654d9f210d9940366"
+          ]
+        }
+      ],
+      "foundedSound": [{
+          "sounds": [
+            "57c9ad387827a3cd6265f92f04f79a8d"
+          ]
+        },
+        {
+          "sounds": [
+            "b6fc8bf586f148708e77b7df1cd2c48f"
+          ]
+        }
+      ],
+      "positions": {
+        "x": 600,
+        "y": 600
+      },
+      "positionImg": {
+        "x": 190,
+        "y": 246,
+        "scale": 0.8
+      },
+      "sentence": "Alex and her grandma\nenjoyed a picnic lunch.\nThey ate chicken, potato\nsalad, and green beans.\nAlex thought the potato\nsalad was delectable. She\nasked for more.",
+      "time": [400, 300, 300, 550, 550, 100, 500, 450,
+        400, 300, 550,
+        500, 450,
+        300, 450, 450,
+        400, 550, 300, 500, 450, 300, 700,
+        300, 450, 300, 400
+      ],
+      "positionSentence": {
+        "x": 340,
+        "y": 115
+      },
+      "indexWord": 23,
+      "indexSentence": [
+        [
+          20, 21, 22
+        ],
+        [
+          25, 26, 27
+        ]
+      ],
+      "positionInfo": {
+        "startX": 60,
+        "startY": 400,
+        "width": 600,
+        "height": 100
+      },
+      "questionInformation": {
+        "answerSound": {
+          "beforeShining": {
+            "sounds": [
+              "8288d9b6c058970938ae053c2c4d6a7e"
+            ]
+          },
+          "afterShining": {
+            "sounds": [
+              "840287bdc0ddeb76610a5a294baaec84"
+            ]
+          }
+        },
+        "questionSound": {
+          "sounds": [
+            "8288d9b6c058970938ae053c2c4d6a7e"
+          ]
+        },
+        "question": {
+          "sentence": "What does 'delectable' mean?",
+          "positions": {
+            "x": 100,
+            "y": 20
+          }
+        },
+        "answer": [
+          "delicious",
+          "bad"
+        ],
+        "position": [{
+            "x": 30,
+            "y": 100
+          },
+          {
+            "x": 200,
+            "y": 100
+          }
+        ]
+      }
+    }
+  ],
+  "pages": [{
+      "sentence": "A tarantula's belly hairs are a secret\nweapon. They are covered with poison. The\ntarantula shoots these hairs into an enemy's\neyes.",
+      "words": [{
+          "word": "tool for fighting",
+          "sound": "23323442a5bd4e609a05ceaa7fe91aac"
+        },
+        {
+          "word": "way to attract other animals",
+          "sound": "6ed8977dd48b3a8c81353f767fa1d3fd"
+        },
+        {
+          "word": "furry coat",
+          "sound": "67e2d1af7adb34b0bb301a712c6c76c6"
+        },
+        {
+          "word": "medicine",
+          "sound": "bcad74726bd721fadee02bbc2ef817ca"
+        }
+      ],
+      "centenceWordIndex": [
+        8
+      ],
+      "centenceSound": {
+        "sound": "de06e7b30b1f56975c0037ebd89920dc"
+      },
+      "showsentenceSound": {
+        "sounds": [
+          "8288d9b6c058970938ae053c2c4d6a7e",
+          "8288d9b6c058970938ae053c2c4d6a7e"
+        ]
+      },
+      "sounds": [
+        "8288d9b6c058970938ae053c2c4d6a7e",
+        "8288d9b6c058970938ae053c2c4d6a7e",
+        "8288d9b6c058970938ae053c2c4d6a7e"
+      ],
+      "time": [100, 700, 450, 500, 300, 100, 500, 500,
+        400, 300, 550, 400, 500,
+        300, 600, 550, 450, 450, 400, 200, 500, 400
+      ],
+      "clueWord": [
+        12,
+        13,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "sentence": "My dog and I went walking in the forest. We\nsaw a tree with someone's name carved\ninto the bark.",
+      "words": [{
+          "word": "the outside of a tree",
+          "sound": "d7a65778fe5e33eda15fa53df45fdd26"
+        },
+        {
+          "word": "the sound a dog makes",
+          "sound": "398e48bbdaa7cdee08e530c051d12e07"
+        },
+        {
+          "word": "group of trees",
+          "sound": "a613a1dfbb47c9d6fd1d8b4310e03708"
+        },
+        {
+          "word": "leaves",
+          "sound": "c3396666094e50b6ab23d79fe07d65b1"
+        }
+      ],
+      "centenceWordIndex": [
+        20
+      ],
+      "centenceSound": {
+        "sound": "15efe698e710cff618cafcdf58775fc7"
+      },
+      "showsentenceSound": {
+        "sounds": [
+          "8288d9b6c058970938ae053c2c4d6a7e",
+          "8288d9b6c058970938ae053c2c4d6a7e"
+        ]
+      },
+      "sounds": [
+        "8288d9b6c058970938ae053c2c4d6a7e",
+        "8288d9b6c058970938ae053c2c4d6a7e",
+        "8288d9b6c058970938ae053c2c4d6a7e"
+      ],
+      "time": [200, 300, 300, 100, 400, 550, 200, 300, 500,
+        200, 300, 100, 400, 400, 600, 400, 500, 400, 300, 400
+      ],
+      "clueWord": [
+        13,
+        16,
+        17
+      ]
+    },
+    {
+      "sentence": "Dad told me to be careful in the pool. I told\nhim not to worry because the water is\nshallow. It noly comes up to my knees.",
+      "words": [{
+          "word": "not deep",
+          "sound": "5eddb2fdf9491a586c00341612064a9e"
+        },
+        {
+          "word": "warm",
+          "sound": "5447442aae35a7dfec8ddbbd07d21fcb"
+        },
+        {
+          "word": "safe",
+          "sound": "86775647dfcdc77d00d749c1a004c40a"
+        },
+        {
+          "word": "drinkable",
+          "sound": "0ec832b3615a57579d985938447687c4"
+        }
+      ],
+      "centenceWordIndex": [
+        20
+      ],
+      "centenceSound": {
+        "sound": "78eab7fde9c196e3601bb7290e6dceb0"
+      },
+      "showsentenceSound": {
+        "sounds": [
+          "8288d9b6c058970938ae053c2c4d6a7e",
+          "8288d9b6c058970938ae053c2c4d6a7e"
+        ]
+      },
+      "sounds": [
+        "8288d9b6c058970938ae053c2c4d6a7e",
+        "8288d9b6c058970938ae053c2c4d6a7e",
+        "8288d9b6c058970938ae053c2c4d6a7e"
+      ],
+      "time": [300, 400, 200, 200, 200, 550, 200, 300, 400,
+        100, 400, 300, 300, 200, 450, 550, 300, 450, 200, 500,
+        200, 400, 450, 200, 200, 200, 450
+      ],
+      "clueWord": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "sentence": "The banner was blue and red. I put it on the\npole and watched it flap in the wind.",
+      "words": [{
+          "word": "flag",
+          "sound": "18fb05002381bbc02d7885ee939220ea"
+        },
+        {
+          "word": "food",
+          "sound": "322a2f366f25d2f0f5da8c54bd371a93"
+        },
+        {
+          "word": "candy",
+          "sound": "d300b1c04a9c8702132f5d5ba4d48be9"
+        },
+        {
+          "word": "sky",
+          "sound": "da64773d7fe2391386cd6a23037f4c41"
+        }
+      ],
+      "centenceWordIndex": [
+        2
+      ],
+      "centenceSound": {
+        "sound": "e6f1b909ae960b3a72d7661ed6919f33"
+      },
+      "showsentenceSound": {
+        "sounds": [
+          "8288d9b6c058970938ae053c2c4d6a7e",
+          "8288d9b6c058970938ae053c2c4d6a7e"
+        ]
+      },
+      "sounds": [
+        "8288d9b6c058970938ae053c2c4d6a7e",
+        "8288d9b6c058970938ae053c2c4d6a7e",
+        "8288d9b6c058970938ae053c2c4d6a7e"
+      ],
+      "time": [300, 500, 300, 400, 300, 300,
+        100, 300, 200, 200, 300, 400, 300, 550, 200, 300, 400
+      ],
+      "clueWord": [
+        10,
+        11,
+        12,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "sentence": "When our team won the game, the cheers\nof the crowd were deafening. I had to cover\nmy ears.",
+      "words": [{
+          "word": "very loud",
+          "sound": "898891a086ecb8e14c8c6b269d3aa72b"
+        },
+        {
+          "word": "unable to hear",
+          "sound": "5bd2ddaf387402ffb2bb97f8689ee551"
+        },
+        {
+          "word": "upset",
+          "sound": "15588d8848bc412475b28b6d36496006"
+        },
+        {
+          "word": "excited",
+          "sound": "b1e5a14fb9ee1a65ff76012d77acf160"
+        }
+      ],
+      "centenceWordIndex": [
+        13
+      ],
+      "centenceSound": {
+        "sound": "2d2eb9b512214f5a0275cde2c7a94777"
+      },
+      "showsentenceSound": {
+        "sounds": [
+          "8288d9b6c058970938ae053c2c4d6a7e",
+          "8288d9b6c058970938ae053c2c4d6a7e"
+        ]
+      },
+      "sounds": [
+        "8288d9b6c058970938ae053c2c4d6a7e",
+        "8288d9b6c058970938ae053c2c4d6a7e",
+        "8288d9b6c058970938ae053c2c4d6a7e"
+      ],
+      "time": [400, 300, 400, 300, 300, 400,
+        300, 500, 200, 300, 450, 400, 650,
+        100, 300, 200, 450, 200, 400
+      ],
+      "clueWord": [
+        8,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    }
+  ]
+}

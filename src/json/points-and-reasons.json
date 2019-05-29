@@ -1,0 +1,133 @@
+{
+  "questions": [
+    {
+      "question": "Cats make better pets because...",
+      "setences": "Cats make better pets\nbecause cats are smart. Cats\nare clean. Cats are soft and\ncute. Cats can take care of\nthemselves.",
+      "sound": "a7875f999f8ee573333efb0f701db42b",
+      "tipSound": {
+        "sound": "92c006f2bc397d8a2d03ea2521670cdb"
+      },
+      "answers": {
+        "sound": "2c21fb9fa453bb13ff536f7de6b73337"
+      },
+      "rightAnswer": [
+        "bf74fe789a14b0c44ecc2c9e2d0fc6e5",
+        "ffd4ebcf9468954b10936127b34b4238",
+        "4c3c2a4eefd7585552eeaf01ee2d5c06",
+        "abf2c7881c0b74316801ba7c995718e0"
+      ],
+      "options": [
+        {
+          "word": "Cats are clean.",
+          "sound": "bf74fe789a14b0c44ecc2c9e2d0fc6e5"
+        },
+        {
+          "word": "Dogs and cats\nfight sometimes.",
+          "sound": "dfac5f5334ad5b15b873e432f9eb6bdb"
+        },
+        {
+          "word": "Cats are smart.",
+          "sound": "ffd4ebcf9468954b10936127b34b4238"
+        },
+        {
+          "word": "Cats can take\ncare of\nthemselves.",
+          "sound": "4c3c2a4eefd7585552eeaf01ee2d5c06"
+        },
+        {
+          "word": "Cats are soft and\ncute.",
+          "sound": "abf2c7881c0b74316801ba7c995718e0"
+        },
+        {
+          "word": "Hamsters live in\ncages.",
+          "sound": "855c6fae8149958fad10e31ffade00b1"
+        }
+      ]
+    },
+    {
+      "question": "Summer is my favorite season because...",
+      "setences": "Summer is my favorite season\nbecause there is no school,\nwe can go swimming, and I\nenjoy the warm weather. My\nfamily goes camping in the\nsummer.",
+      "sound": "f195ac3c9d120e55784ff7dc03149fbe",
+      "tipSound": {
+        "sound": "92c006f2bc397d8a2d03ea2521670cdb"
+      },
+      "answers": {
+        "sound": "9a91aa97d6050f4828f1ba65bc223822"
+      },
+      "rightAnswer": [
+        "49eb96dafba7f8151417d5f8561bd0e0",
+        "3c9338a3f1346606eac022d8a5c86665",
+        "bd299245d5f2a926bfd51aedf5297b0c",
+        "c65cc1fbac726257f587b39b705f3cff"
+      ],
+      "options": [
+        {
+          "word": "Summer is one of\nthe four seasons.",
+          "sound": "a40195652730e7f3ed26140a32629458"
+        },
+        {
+          "word": "There is no school.",
+          "sound": "49eb96dafba7f8151417d5f8561bd0e0"
+        },
+        {
+          "word": "We can go\nswimming.",
+          "sound": "3c9338a3f1346606eac022d8a5c86665"
+        },
+        {
+          "word": "Summer comes\nafter spring.",
+          "sound": "298fa2ce27465178548055e02c7e514d"
+        },
+        {
+          "word": "My family goes\ncamping in the\nsummer.",
+          "sound": "c65cc1fbac726257f587b39b705f3cff"
+        },
+        {
+          "word": "I enjoy the warm\nweather.",
+          "sound": "bd299245d5f2a926bfd51aedf5297b0c"
+        }
+      ]
+    },
+    {
+      "question": "Markets are the best things to color with\nbecause...",
+      "setences": "Markets are the best things to\ncolor with beacuse markers\ncome in lots of colors and\ndon't erase away. Markers\ncan make thin lines and fat\nlines. Markers make the\ncolors bright.",
+      "sound": "4f5cc2e684079ee2c7876aebead3b36e",
+      "tipSound": {
+        "sound": "92c006f2bc397d8a2d03ea2521670cdb"
+      },
+      "answers": {
+        "sound": "68093a12177e9489a7dfa2951346725e"
+      },
+      "rightAnswer": [
+        "449ac8d0841fe67da43253fad36d655e",
+        "0b1d9d9b4c822d81d09aaba15065c6db",
+        "75441cc1b8128d020283b68e39411a0e",
+        "cea8759cf4bef1f43f965e5b0d674a37"
+      ],
+      "options": [
+        {
+          "word": "Markers are made\nin factories.",
+          "sound": "4c7adec6f32fb6743c5b877f5b048953"
+        },
+        {
+          "word": "Markers can make\nthin lines and\nfat lines.",
+          "sound": "75441cc1b8128d020283b68e39411a0e"
+        },
+        {
+          "word": "Markers don't erase\naway.",
+          "sound": "0b1d9d9b4c822d81d09aaba15065c6db"
+        },
+        {
+          "word": "Markers come in\nlots of colors.",
+          "sound": "449ac8d0841fe67da43253fad36d655e"
+        },
+        {
+          "word": "The first marker was\nmade in 1953.",
+          "sound": "7a0bc06370d6c349c6e075a8f0ba0000"
+        },
+        {
+          "word": "Markers make the\ncolors bright.",
+          "sound": "cea8759cf4bef1f43f965e5b0d674a37"
+        }
+      ]
+    }
+  ]
+}

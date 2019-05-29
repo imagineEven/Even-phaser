@@ -1,0 +1,46 @@
+{
+	"redDotPositions": [
+		{
+			"x": 304,
+			"y": 487
+		}, {
+			"x": 478,
+			"y": 487
+		}
+	],
+	"preffix": {
+		"sound": "392382467f11b0dbd875b6a128d5ba84",
+		"image": "9be424aa786ff71c81fd7c282be741fd",
+		"x": 100,
+		"y": 400,
+		"startScale": 0.3
+	},
+	"preffixHighLight": {
+		"image": "845090689eda751084750da8cf668a62"
+	},
+	"suffix": {
+		"sound": "372447ce64e8f3df7286431880ba08ff",
+		"image": "98c8ede2c46994f685b3f64eec94a1c9",
+		"x": 500,
+		"y": 400,
+		"startScale": 0.3
+	},
+	"suffixHighLight": {
+		"image": "b9041f2eb8467fb34b9daa3c663bfc34"
+	},
+	"finalState": [
+		{
+			"text": "1. Realize you don't know",
+			"sound": "b1ab5f01332669119aaa7da353e0da96"
+		}, {
+			"text": "1. Realize you don't know",
+			"sound": "b1ab5f01332669119aaa7da353e0da96"
+		}, {
+			"text": "1. Realize you don't know",
+			"sound": "b1ab5f01332669119aaa7da353e0da96"
+		}, {
+			"text": "1. Realize you don't know",
+			"sound": "b1ab5f01332669119aaa7da353e0da96"
+		}
+	]
+}

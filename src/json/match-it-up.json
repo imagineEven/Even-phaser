@@ -1,0 +1,34 @@
+{
+    "words": [{
+        "word": "rules",
+        "sound": "2b750d925f625d406ab3b55687e875a9",
+        "explain": {
+            "word": "Ideas taht .....",
+            "sound": "b329fb44b4c48f1868ab3a848b397ce2"
+        }
+
+    }, {
+        "word": "brakes",
+        "sound": "49a371b157b1848a5ecc57bcaef30a14",
+        "explain": {
+            "word": "Stop .....",
+            "sound": "493157d133ecce213aabff2c78149502"
+        }
+    }, {
+        "word": "brakes222",
+        "sound": "49a371b157b1848a5ecc57bcaef30a14",
+        "explain": {
+            "word": "Stop .....",
+            "sound": "493157d133ecce213aabff2c78149502"
+        }
+    }],
+    "matches": [{
+        "word": "Help you make a good choice.",
+        "sound": "d3649eae63765d3a93a32e24bf91f417",
+        "answer": 0
+    }, {
+        "word": "Help you make a good choice1.",
+        "sound": "d3649eae63765d3a93a32e24bf91f417",
+        "answer": 0
+    }]
+}

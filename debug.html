@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			html,
+			body {
+				margin: 0;
+				padding: 0;
+				width: 100%;
+				height: 100%;
+			}
+			
+			canvas {
+				position: fixed;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+			}
+		</style>
+	</head>
+
+	<body>
+		<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+		<script type="text/javascript" src="dist/vendor.bundle.js"></script>
+		<script>
+			var coursewareId = '1-2-1';
+			var jsonData = {
+				"song": "f725fa35140aced4341a40582730387c"
+			};
+			$.getScript("dist/" + coursewareId + "/bundle.js", function(data, status, jqxhr) {
+				new window["Courseware" + coursewareId.replaceAll("-","_")](jsonData);
+			}, function(e) {
+				alert("脚本引用地址错误")
+			});
+
+			String.prototype.replaceAll = function(s1, s2) {
+				return this.replace(new RegExp(s1, "gm"), s2);
+			}
+		</script>
+	</body>
+
+</html>

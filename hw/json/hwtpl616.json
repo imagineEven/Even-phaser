@@ -1,0 +1,75 @@
+{
+  "firstAudio": {
+    "sound": "da2312fd286e6ff521151a0f605107b7",
+    "soundAlias": "Not_Mice_STP12_The_cats_and_the_kittens_ran_around_the_throne.mp3"
+  },
+  "detail": "wo shi yi ge he xie fen jie xian.",
+  "isRandom": false,
+  "passage": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2018px%3B%22%3E1Read%20the%20passage%20and%20choose%20the%20correct%20answer%20for%20each%20question.%20Mr.%20Smith%20is%20our%20Chinese%20teacher.%20He%20always%20asks%20the%20same%20student%20to%20answer%20his%20questions%20because%20he%20doesn%27t%20look%20at%20the%20students%20at%20all.%20Yesterday%20he%20questioned%20Tom%20three%20times.%20Tom%20was%20very%20angry.%20After%20class%20Tom%20asked%20me%2C%20%22What%20shall%20l%20do%3F%22%20I%20told%20him%20a%20good%20idea.%20Now%20we%20are%20having%20a%20Chinese%20class.%20Mr%20Smith%20wants%20one%20of%20us%20to%20read%20the%20text.%20%22Tom%2C%20please%20read%20the%20text%2C%22%20%22Tom%20isn%27t%20here%20today.%22%20Tom%20stands%20up%20and%20says.%20%22Oh%2C%20I%20see.%20you%20read%20it%2C%20please.%22%3C/span%3E%3C/p%3E",
+  "msg": 0,
+  "pages": [
+    {
+      "msg": 0,
+      "question": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cstrong%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3E1Yesterday%20%2C%20how%20many%20times%20did%20Mr.%20Smith%20question%20Tom%3C/span%3E%3C/strong%3E%3C/p%3E",
+      "options": [
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3E111111Mr.%20Smith%20questioned%20Tom%20once%20yesterday.%3C/span%3E%3C/p%3E"
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3EHe%20always%20asks%20the%20same%20student%20to%20answer%20his%20questions.%3C/span%3E%3C/p%3E"
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3EMr%20Smith%20wants%20one%20of%20us%20to%20read%20the%20text.%3C/span%3E%3C/p%3E"
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3EMr.%20Smith%20questioned%20Tom%20once%20yesterday%3C/span%3E%3C/p%3E"
+        }
+      ]
+    },
+    {
+      "msg": 0,
+      "question": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cstrong%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3E2Mei%20yi%20ci%20dou%20zai%20pai%20huai%20gu%20dan%20zhong%20jian%20qiang.%3C/span%3E%3C/strong%3E%3Cbr%3E%3C/p%3E",
+      "options": [
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3E11111Mr.%20Smith%20questioned%20Tom%20once%20yesterday.%3C/span%3E%3C/p%3E"
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3EHe%20always%20asks%20the%20same%20student%20to%20answer%20his%20questions%3C/span%3E%3C/p%3E"
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3EMr%20Smith%20wants%20one%20of%20us%20to%20read%20the%20text.%3C/span%3E%3C/p%3E"
+        }
+      ]
+    },
+    {
+      "msg": 0,
+      "question": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3E%3Cstrong%3E3Wu%20xing%20hong%20qi%2C%20ni%20shi%20wo%20de%20jiao%20ao%2C%20wu%20xing%20hong%20qi%20wo%20wei%20ni%20zi%20hao.%3C/strong%3E%3C/span%3E%3C/p%3E",
+      "options": [
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3E11111Mr.%20Smith%20questioned%20Tom%20once%20yesterday.%3C/span%3E%3C/p%3E"
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3EHe%20always%20asks%20the%20same%20student%20to%20answer%20his%20questions%3C/span%3E%3C/p%3E"
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3EMr%20Smith%20wants%20one%20of%20us%20to%20read%20the%20text.%3C/span%3E%3C/p%3E"
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3EMr.%20Smith%20questioned%20Tom%20once%20yesterday%3C/span%3E%3C/p%3E"
+        }
+      ]
+    },
+    {
+      "msg": 0,
+      "question": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cstrong%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3E4Wei%20ni%20huan%20hu%2C%20wo%20wei%20ni%20zhu%20fu%2C%20ni%20de%20ming%20zi%2C%20bi%20wo%20sheng%20ming%20geng%20zhong%20yao.%3C/span%3E%3C/strong%3E%3C/p%3E",
+      "options": [
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3E11111Mr.%20Smith%20questioned%20Tom%20once%20yesterday.%3C/span%3E%3C/p%3E"
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2016px%3B%22%3EHe%20always%20asks%20the%20same%20student%20to%20answer%20his%20questions%3C/span%3E%3C/p%3E"
+        }
+      ]
+    }
+  ]
+}

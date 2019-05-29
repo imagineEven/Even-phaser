@@ -1,0 +1,119 @@
+{
+    "pages": [{
+            "video": { "sound": "1b361e7db1cdcfa6be18b7b002f99379" },
+            "samplePic": { "image": "37892898ee2cc840de56d0cdefb1a47e.jpg" },
+            "sampleWav": { "sound": "2c940cf1415041427adcc6365beb57e8" },
+            "word": "qu",
+            "sound": "13fb474622148d2135f99ae5d6038353",
+            "sounds": [
+                "83aad50c461b3bb649f2ce8974fc8d0d",
+                "b40382114c2d31051fbbe7856f7d0c28"
+            ],
+            "songs": [{
+                    "str": "q,quail q q quail",
+                    "sound": "0cd45e510303a0b56af6c65284fa3a61",
+                    "image": "31b3fce78600b9b8e0ea59da92aa7c95.jpg"
+                },
+                {
+                    "str": "q,queen q q queen",
+                    "sound": "fa9d3fc00dd9c49f50d687faf4f0e759",
+                    "image": "c6b753cb6efed10f27a71ab3a48270eb.jpg"
+                }
+            ],
+            "sels": [{
+                    "image": "0d9d71b10dbd4d86a600c8eead462700.jpg",
+                    "sound": "65b1dff3bc84999be4da81609f093793"
+                },
+                {
+                    "image": "cf7c9aeab233cde0ff53976d3f6a404d.png",
+                    "sound": "9d83f2e60234f706ef14fbcee188fae5",
+                    "firstSound": { "sound": "25c3194dcdaea96de6991805d539dcc1" },
+                    "sound2": { "sound": "624cde30746d8ba065a4d3fbee994fce" }
+                },
+                {
+                    "image": "f59c9bdc8552ab0a0bfd5c9e480a35ea.jpg",
+                    "sound": "dfaad8f0114ff1561a9f8d1e0909781a",
+                    "firstSound": { "sound": "d4bc16372b817685ba795109c5a6fb35" },
+                    "sound2": { "sound": "d505a01250407e7a35c940219c69a9a3" }
+                }
+            ],
+            "sels2": [{
+                    "image": "c6b753cb6efed10f27a71ab3a48270eb.jpg",
+                    "sound": "86b55064bbb4f18ed46520de0b606397"
+                },
+                {
+                    "image": "51bcbca66a6669785ced92f613974468.jpg",
+                    "sound": "a2b733006ca4d88408e3a614461f6327",
+                    "firstSound": { "sound": "0f1c95f45a32120102af3fadd9e90d84" },
+                    "sound2": { "sound": "b15d57e97e3226313ddd2721d598b31d" }
+                },
+                {
+                    "image": "ddb2c1a881c1aba113e96be8a22e4b5a.jpg",
+                    "sound": "698c05095d563d250d9382654f5806aa",
+                    "firstSound": { "sound": "c813197f9878aa410c2e7b3408ff9b12" },
+                    "sound2": { "sound": "b9a98ee23767fca550d3d34b0dfbf276" }
+                }
+            ],
+            "rightSound": { "sound": "9ebc7b901ade29d30c9945ee71ed6995" },
+            "leftSound": { "sound": "4cbcea53f953a2aa5bbd128a8b487d38" }
+        },
+        {
+            "isNotBegin": true,
+            "video": { "sound": "96aa3aaa63a6889ad7e3b3805e723bad" },
+            "samplePic": { "image": "07e9328f8bf0f59c54c482d388670f4a.jpg" },
+            "sampleWav": { "sound": "a299af65cbfe709fab9286e0b0250d4e" },
+            "word": "x",
+            "sound": "f8ad939b689a977b2abde41c645a8223",
+            "sounds": [
+                "5f14d33ee53de16a120a4eda4b42781c"
+            ],
+            "songs": [{
+                    "str": "x,six x x six",
+                    "sound": "c35123ec2c1cbf56374ce0d527db4a63",
+                    "image": "07e9328f8bf0f59c54c482d388670f4a.jpg"
+                },
+                {
+                    "str": "x,ox x x ox",
+                    "sound": "5312a3813c6d255c0595508fe189f997",
+                    "image": "bd25cd00d1b882471d8a599e6f24e89e.jpg"
+                }
+            ],
+            "sels": [{
+                    "image": "927b6f243da25345d3c078ebf7a0a5b5.jpg",
+                    "sound": "805621d2a41c373eaa29045dcb80355b"
+                },
+                {
+                    "image": "0d9d71b10dbd4d86a600c8eead462700.jpg",
+                    "sound": "65b1dff3bc84999be4da81609f093793",
+                    "firstSound": { "sound": "02356976990d002579e40510261811b1" },
+                    "sound2": { "sound": "483e6d54134b50862b5715ae7f421e70" }
+                },
+                {
+                    "image": "b844652002cfe880110238bd1c5722fb.png",
+                    "sound": "361a321174ea2d6ceec54cd116506f97",
+                    "firstSound": { "sound": "d4bc16372b817685ba795109c5a6fb35" },
+                    "sound2": { "sound": "7b14f21ea96b1fc08afb8777006fc590" }
+                }
+            ],
+            "sels2": [{
+                    "image": "de43c9f8ea7727433d01e984dbb9dc10.jpg",
+                    "sound": "1d9a33a15259ae23d7f72d51320f5e0e"
+                },
+                {
+                    "image": "128b70d80593076b42f09d8fbfcfd1b6.png",
+                    "sound": "6535564d690aaf31fd2bb9ca8034b695",
+                    "firstSound": { "sound": "d4bc16372b817685ba795109c5a6fb35" },
+                    "sound2": { "sound": "504ef15fd086ec3fb49a7f2730abdaa0" }
+                },
+                {
+                    "image": "72e9f5211ec8e7fc29431cd2daad6f9c.jpg",
+                    "sound": "28d3d93e1fcb961cb00d1945f88d6222",
+                    "firstSound": { "sound": "35e50e51b0d8fe9489f3278d463cfb43" },
+                    "sound2": { "sound": "8f1186d99bc9a6697898789dc6f2d091" }
+                }
+            ],
+            "rightSound": { "sound": "a69fee9e18d53212c7a91427b806ea0e" },
+            "leftSound": { "sound": "4307cbf1235c834429bcdc32f02e7bcb" }
+        }
+    ]
+}

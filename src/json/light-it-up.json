@@ -1,0 +1,116 @@
+{
+  "position": {
+    "words": [
+      [-10, -10],
+      [0, 0],
+      [0, 0]
+    ]
+  },
+  "pages": [
+    {
+      "words": [
+        {
+          "word": "Mice make good \npets because...",
+          "sound": "c0a812e8e56fc1d01664833ff1f4d29b"
+        },
+        {
+          "word": "Mick are not very \nclean because...",
+          "sound": "e54a6267eb6333ea7161e220908f784e"
+        },
+        {
+          "word": "Mick scare some \npeople \nbecause...",
+          "sound": "8dceee855420a04a837f3133f5a79806"
+        }
+      ],
+      "so": {
+        "word": "mice are cute \nand fun to watch",
+        "sound": "a5c7bddb155f7b534ac11c40cac76740"
+      },
+      "answer": "Mice make good pets because mice are \ncute and fun to watch."
+    },
+    {
+      "words": [
+        {
+          "word": "I like watching \ncartoons \nbecause...",
+          "sound": "0cca3e8106f46842eb533f88cade063c"
+        },
+        {
+          "word": "Some cartoons \nare not for kids \nbecause...",
+          "sound": "ae20001d6bb8f44151af53e4400d6179"
+        },
+        {
+          "word": "Cartoons play on \nTV because...",
+          "sound": "ec6581ddde1f0b0c9913893bbf20f43b"
+        }
+      ],
+      "so": {
+        "word": "Cartoons make \nme laugh",
+        "sound": "223a4fc5289783d92b8aaf03563ec0a4"
+      },
+      "answer": "I like watching cartoons because Cartoons \nmake me laugh."
+    },
+    {
+      "words": [
+        {
+          "word": "Spiders are fun to \nwatch because...",
+          "sound": "eb39483295ded855d07cf312f7a93a64"
+        },
+        {
+          "word": "Spiders are boring \nbecause...",
+          "sound": "2183ede93db366701011bb789d5c8fcb"
+        },
+        {
+          "word": "Spiders are scary \nbecause...",
+          "sound": "fe76097e85402ec4cd67e32e76604621"
+        }
+      ],
+      "so": {
+        "word": "spiders spin \namazing webs",
+        "sound": "8a42907fe6cbefa25408de9d7c10c3bc"
+      },
+      "answer": "Spiders are fun to watch because spiders \nspin amazing webs."
+    },
+    {
+      "words": [
+        {
+          "word": "Soccer is fun to \nplay because...",
+          "sound": "5434efff646f43dd3ec495a6270847c2"
+        },
+        {
+          "word": "Soccer has too \nmany rules \nbecause...",
+          "sound": "9348ba204983cf1c2a4d7c9e7972f88f"
+        },
+        {
+          "word": "Soccer isn't a \ngood game because...",
+          "sound": "f9a19a74c1bc6f5771c6d4bd8fe57cad"
+        }
+      ],
+      "so": {
+        "word": "you get to \nkick the ball",
+        "sound": "2389a44337d250a0dc12be7cb0ae88e8"
+      },
+      "answer": "Soccer is fun to play because you get to \nkick the ball."
+    },
+    {
+      "words": [
+        {
+          "word": "Kids should eat \nfruit because...",
+          "sound": "616c70560e1715db1104cd6ffaeaf6c0"
+        },
+        {
+          "word": "You should not \neat fruit for lunch \nbecause...",
+          "sound": "9b0cd20cc570797b9329d9ab0f6a6bfa"
+        },
+        {
+          "word": "Fruit tastes really \ngood because...",
+          "sound": "9e094a3baff873998f69bc2a951727e8"
+        }
+      ],
+      "so": {
+        "word": "fruit is good for \nkids' bodies",
+        "sound": "9e094a3baff873998f69bc2a951727e8"
+      },
+      "answer": "Kids should eat fruit because fruit is \ngood for kids' bodies."
+    }
+  ]
+}

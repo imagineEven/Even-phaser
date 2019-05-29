@@ -1,0 +1,67 @@
+{
+  "topic": "76e7435dca1d737b1a802ab683bfcee8",
+  "bg": "3d722105391129a7119b07db1f7f96d9.jpg",
+  "info": [{
+      "word": "board",
+      "img": "027d2760a60c5172d60fb5d5131c8364",
+      "audio": "d864f71c202260efb28571a4a67aff0f",
+      "scale": 0.35,
+      "scale2": 0.45,
+      "targetPosition": {
+        "x": 0.62,
+        "y": 0.3106666666666667
+      }
+    },
+    {
+      "word": "computer",
+      "img": "261a3f2f8ca7eba2cdb7f0f2a1e1678a",
+      "audio": "946e43fad7fbcf984620fa2b5a51baef",
+      "scale": 0.55,
+      "scale2": 0.65,
+      "targetPosition": {
+        "x": 0.33,
+        "y": 0.41333333333333333
+      }
+    },
+    {
+      "word": "desk",
+      "img": "a18dc24103384e0f17e13fbc75b879d3",
+      "audio": "4baf17402067ea5d57808322f090ddc9",
+      "bgImg": "14e507ca7a479476e40ec28027c54957",
+      "correctPosition": {
+        "x": 0.67,
+        "y": 0.87
+      },
+      "scale": 0.4,
+      "scale2": 0.55,
+      "targetPosition": {
+        "x": 0.67,
+        "y": 0.9
+      },
+      "zIndex": -1
+    },
+    {
+      "word": "shelves",
+      "img": "61de5b16f2f27eaa8ddd8086c6e2e8f5",
+      "audio": "118c147a9b8a0eaca93ba3b01681bc02",
+      "scale": 0.3,
+      "scale2": 0.4,
+      "targetPosition": {
+        "x": 0.91,
+        "y": 0.448
+      }
+    },
+    {
+      "word": "teacher",
+      "img": "1051a6a14e69691e8388e04cd90c87c5",
+      "audio": "b38319d7921b02a924d025bd719253ec",
+      "scale": 0.35,
+      "scale2": 0.45,
+      "targetPosition": {
+        "x": 0.684,
+        "y": 0.46399999999999997
+      },
+      "zIndex": 2
+    }
+  ]
+}

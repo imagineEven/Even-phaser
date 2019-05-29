@@ -1,0 +1,347 @@
+{
+  "home": {
+    "image": "9bf4c0d777e5266271ee578a591a078b",
+    "sound": "6304798d5c1fcd9e4bd45e329fcf7cfc"
+  },
+  "pages": [
+    {
+      "bg": {
+        "image": "5403605bff2f242c8400b02fdd7050b3",
+        "imageAlias": "family_STRUA-1_IF1_U1.png"
+      },
+      "msg": 0,
+      "jsonIndex": "1",
+      "sentences": [
+        {
+          "sentenceIndex": "0",
+          "fontSize": "26px",
+          "text": "%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%20x%3D%2240.5%22%20y%3D%2283.5%22%3EHello%2C%20I%27m%20Sam.%3C/p%3E%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%3EWhat%27s%20your%20name%3F%3C/p%3E",
+          "sound": "f944fae831bef3c8b0ece5287f5d195a",
+          "soundAlias": "Hello_Im_Sam_Whats_your_name_STRU_IF_MCA.mp3",
+          "x": 40.5,
+          "y": 83.5,
+          "shapeConfig": [
+            {
+              "x": 156.66668701171875,
+              "y": 115.77780151367188,
+              "type": 0,
+              "scale": 1,
+              "width": 257,
+              "height": 85,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 0
+            },
+            {
+              "x": 215.99996948242188,
+              "y": 152.88888549804688,
+              "type": 3,
+              "scale": 1,
+              "width": 32,
+              "height": 28,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 27,
+              "rotateValue": 0
+            }
+          ]
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%20x%3D%22515.6667175292969%22%20y%3D%22111%22%3EMy%20name%20is%20Kim.%3C/p%3E%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%3ENice%20to%20meet%20you.%3C/p%3E",
+          "fontSize": "26px",
+          "sentenceIndex": "1",
+          "sound": "07e5ff4a4a3a2fa62936bbac0617ed61",
+          "soundAlias": "My_name_is_Kim_Nice_to_meet_you_STRU_IF_FCA.mp3",
+          "x": 515.6667175292969,
+          "y": 111,
+          "shapeConfig": [
+            {
+              "x": 623.3333740234375,
+              "y": 144.66668701171875,
+              "type": 0,
+              "scale": 1,
+              "width": 249,
+              "height": 79,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 0
+            },
+            {
+              "x": 632.6665649414062,
+              "y": 184,
+              "type": 3,
+              "scale": 1,
+              "width": 32,
+              "height": 28,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 92,
+              "rotateValue": 0
+            }
+          ]
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%20x%3D%2256.5%22%20y%3D%22419.5%22%3ENice%20to%20meet%20you%2C%20too.%3C/p%3E",
+          "fontSize": "26px",
+          "sentenceIndex": "2",
+          "sound": "5b73ad8665b072597b5a29adf978342f",
+          "soundAlias": "Nice_to_meet_you_too_STRU_IF_MCA.mp3",
+          "x": 56.5,
+          "y": 419.5,
+          "shapeConfig": [
+            {
+              "x": 194.44442749023438,
+              "y": 433.55560302734375,
+              "type": 0,
+              "scale": 1,
+              "width": 302,
+              "height": 56,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 0
+            },
+            {
+              "x": 163.77789306640625,
+              "y": 402.88885498046875,
+              "type": 3,
+              "scale": 1,
+              "width": 32,
+              "height": 28,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 34,
+              "rotateValue": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bg": {
+        "image": "110de2d2876c05585a111695ca3f43f9",
+        "imageAlias": "family_STRUA-2_IF1_U1.png"
+      },
+      "msg": 0,
+      "jsonIndex": "2",
+      "sentences": [
+        {
+          "sentenceIndex": "0",
+          "fontSize": "26px",
+          "text": "%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%20x%3D%2274.49609375%22%20y%3D%2230.2421875%22%3EHi%2C%20Sam%21%20This%20is%3C/p%3E%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%3Emy%20brother.%3C/p%3E",
+          "sound": "eab46520d5ba6c4bac77909ec6cfed65",
+          "soundAlias": "Hi_Sam!_This_is_my_brother_STRU_IF_MCA.mp3",
+          "x": 74.49609375,
+          "y": 30.2421875,
+          "shapeConfig": [
+            {
+              "x": 155.55551147460938,
+              "y": 60.22221374511719,
+              "type": 0,
+              "scale": 1,
+              "width": 197,
+              "height": 76,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 0
+            },
+            {
+              "x": 119.72225952148438,
+              "y": 93.88888549804688,
+              "type": 3,
+              "scale": 1,
+              "width": 32,
+              "height": 28,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 44,
+              "rotateValue": 0
+            }
+          ]
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%20x%3D%22418.99609375%22%20y%3D%2265.2421875%22%3EWhat%27s%20his%20name%3F%3C/p%3E",
+          "fontSize": "26px",
+          "sentenceIndex": "1",
+          "sound": "8a8892d3ea071ea1fef301ed8cd43762",
+          "soundAlias": "Whats_his_name_STRU_IF_MCA2.mp3",
+          "x": 418.99609375,
+          "y": 65.2421875,
+          "shapeConfig": [
+            {
+              "x": 523.3333740234375,
+              "y": 80.22219848632812,
+              "type": 0,
+              "scale": 1,
+              "width": 243,
+              "height": 51,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 0
+            },
+            {
+              "x": 534.1666870117188,
+              "y": 106.22222900390625,
+              "type": 3,
+              "scale": 1,
+              "width": 32,
+              "height": 28,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 44,
+              "rotateValue": 0
+            }
+          ]
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%20x%3D%22184.49609375%22%20y%3D%22395.2421875%22%3EHis%20name%20is%20Jerry.%3C/p%3E",
+          "fontSize": "26px",
+          "sentenceIndex": "2",
+          "sound": "0ea2427921c230f363cebfc233265ce5",
+          "soundAlias": "His_name_is_Jerry_STRU_IF_MCA.mp3",
+          "x": 184.49609375,
+          "y": 395.2421875,
+          "shapeConfig": [
+            {
+              "x": 286.50006103515625,
+              "y": 409.38885498046875,
+              "type": 0,
+              "scale": 1,
+              "width": 246,
+              "height": 48,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 0
+            },
+            {
+              "x": 211.44448852539062,
+              "y": 386.16668701171875,
+              "type": 3,
+              "scale": 1,
+              "width": 32,
+              "height": 28,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 101,
+              "rotateValue": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bg": {
+        "image": "8b23a59feab000fc639c3da18221f5b5",
+        "imageAlias": "family_STRUA-3_IF1_U1.png"
+      },
+      "msg": 0,
+      "jsonIndex": "3",
+      "sentences": [
+        {
+          "sentenceIndex": "0",
+          "fontSize": "26px",
+          "text": "%3Cp%20x%3D%2263.49609375%22%20y%3D%2269.2421875%22%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%3EHi%2C%20Kim.%20This%20is%26nbsp%3B%3C/p%3E%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%3Emy%20sister.%3C/p%3E",
+          "sound": "6b88e2375b328795212cce26ee1a1793",
+          "soundAlias": "Hi_Kim_This_is_my_sister_STRU_IF_FCA.mp3",
+          "x": 63.49609375,
+          "y": 69.2421875,
+          "shapeConfig": [
+            {
+              "x": 142.5555419921875,
+              "y": 98.05557250976562,
+              "type": 0,
+              "scale": 1,
+              "width": 199,
+              "height": 77,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 0
+            },
+            {
+              "x": 192.77780151367188,
+              "y": 139.61111450195312,
+              "type": 3,
+              "scale": 1,
+              "width": 32,
+              "height": 28,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 68,
+              "rotateValue": 0
+            }
+          ]
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%20x%3D%22456.99609375%22%20y%3D%22180.7421875%22%3EWhat%27s%20her%20name%3F%3C/p%3E",
+          "fontSize": "26px",
+          "sentenceIndex": "1",
+          "sound": "aa44d5fcded8fb8f5d4370aa4f557201",
+          "soundAlias": "Whats_her_name_STRU_IF_FCA.mp3",
+          "x": 456.99609375,
+          "y": 180.7421875,
+          "shapeConfig": [
+            {
+              "x": 565.5555419921875,
+              "y": 194.66665649414062,
+              "type": 0,
+              "scale": 1,
+              "width": 249.00000000000003,
+              "height": 51,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 0
+            },
+            {
+              "x": 510.4444580078125,
+              "y": 216.22222900390625,
+              "type": 3,
+              "scale": 1,
+              "width": 32,
+              "height": 28,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 27,
+              "rotateValue": 0
+            }
+          ]
+        },
+        {
+          "text": "%3Cp%20style%3D%22font-size%3A26px%3Bfont-family%3ACentury%20Gothic%3B%22%20x%3D%22242.4444580078125%22%20y%3D%22474.6667022705078%22%3EHer%20name%20is%20Amy.%3C/p%3E",
+          "fontSize": "26px",
+          "sentenceIndex": "2",
+          "sound": "7e0064856e4893f923361ca58b6cdfd1",
+          "soundAlias": "Her_name_is_Amy__STRU_IF_FCA.mp3",
+          "x": 242.4444580078125,
+          "y": 474.6667022705078,
+          "shapeConfig": [
+            {
+              "x": 348.88885498046875,
+              "y": 490.22222900390625,
+              "type": 0,
+              "scale": 1,
+              "width": 234,
+              "height": 50,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 0
+            },
+            {
+              "x": 265.9999084472656,
+              "y": 461.77777099609375,
+              "type": 3,
+              "scale": 1,
+              "width": 32,
+              "height": 28,
+              "color": "#ffffff",
+              "alpha": 1,
+              "rotation": 95,
+              "rotateValue": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "beginSound": "e3b450c96c8f8e92bca7e25815c80c69",
+  "beginSoundAlias": "DIR_Listen_and_say.mp3",
+  "detail": "Listen and say."
+}

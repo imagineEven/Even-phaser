@@ -1,0 +1,132 @@
+{
+	"pages": [
+		{
+		"syllableInfo": {
+			"correctIndex": 1,
+			"word": "total",
+			"HighlightLetter":[[2],[1]],
+			"soundType" : 2
+		},
+		"sentence": {
+			"options": [{
+				"word": "total",
+				"sound": "0a0650316b482fdb93cbc76996d0736e"
+			}, {
+				"word": "tool",
+				"sound": "05d77fd218ae7c7516b0b7b3fd3de3c2"
+			}, {
+				"word": "today",
+				"sound": "eb2d5cbbe3290b61a07f73d8e2d17856"
+			}],
+      "example": "Can you _ this homework\nto me?",
+			"sounds": ["b5cb083382598e4850f7d9a6c538d7d7"]
+		}
+	},{
+		"syllableInfo": {
+			"correctIndex": 2,
+			"word": "panther",
+			"HighlightLetter":[[3,4]],
+			"soundType" : 4
+		},
+		"sentence": {
+			"options": [
+				{
+				"word": "panther",
+				"sound": "f4fc30bad08b372a6d099804313f0ce7"
+			},  {
+				"word": "painter",
+				"sound": "d3ad7f1c0a18af7b88572c991ca1aa80"
+			},  {
+				"word": "pancake",
+				"sound": "cf8a7010fb05ed2023ad5f14412eb281"
+			}],
+			"example": "My favorite animal is a black\n_.",
+			"sounds": ["c008ef54173ca114e1f2eefcf6a3c420"]
+		}
+	},{
+		"syllableInfo": {
+			"correctIndex": 2,
+			"word": "explain",
+			"HighlightLetter":[[2,3]],
+			"soundType" : 5
+		},
+		"sentence": {
+			"options": [{
+				"word": "explain",
+				"sound": "a6f929d253065151ff1d9bdc54f8c276"
+			}, {
+				"word": "expert",
+				"sound": "69db9a1b6967e0523e4763515019c880"
+			}, {
+				"word": "expand",
+				"sound": "110b8de0558048b7218929397a56fc06"
+			}],
+			"example": "Can you _ this homework\nto me?",
+			"sounds": ["7575f8676d8471f17b33d770f3ecd9bc", "853ae1e0e0e909ec468c44b432754396"]
+		}
+	},{
+		"syllableInfo": {
+			"correctIndex": 2,
+			"word": "number",
+			"HighlightLetter":[[2,3],[1,4],[2,3]],
+			"soundType" : 1
+		},
+		"sentence": {
+			"options": [{
+				"word": "number",
+				"sound": "ba870ea5f9353bc0499912bb852d08cd"
+			}, {
+				"word": "member",
+				"sound": "656ee7e2f068539de239214aa076bf20"
+			}, {
+				"word": "neighbor",
+				"sound": "0c09403a3c0a98f4d73a1cc7b98c616e"
+			}],
+			"example": "My telephone _ is easy\nto remember.",
+			"sounds": ["72b9e43279cf7f7ace9541c5df6d95a9", "575bd046c9b5a499a727636ce5b73ba3"]
+		}
+	},{
+		"syllableInfo": {
+			"correctIndex": 2,
+			"word": "river",
+			"HighlightLetter":[[2],[1]],
+			"soundType" : 3
+		},
+		"sentence": {
+			"options": [{
+				"word": "river",
+				"sound": "1ad2d444a87d66d19844c5bb4bed090a"
+			}, {
+				"word": "rival",
+				"sound": "38f54ac69686df2aa6da3e530cedd33d"
+			}, {
+				"word": "ribbon",
+				"sound": "c05bd94e3e7deb517ae641aeb77cd5bb"
+			}],
+			"example": "The water rushed down the\n _.",
+			"sounds": ["0bff431cef4895a72c5a780be69d3bbb"]
+		}
+	},{
+		"syllableInfo": {
+			"correctIndex": 2,
+			"word": "purchase",
+			"HighlightLetter":[[3,4]],
+			"soundType" : 4
+		},
+		"sentence": {
+			"options": [{
+				"word": "purchase",
+				"sound": "a02ab187dea7529a106623623c8cd735"
+			}, {
+				"word": "perform",
+				"sound": "f4d2e2a4fd0f6a8c0c02d3afe1736154"
+			}, {
+				"word": "purses",
+				"sound": "76db3b4add0a68d5d31d2fe9cbf9b014"
+			}],
+			"example": "I used my birthday money to\n_ a new book.",
+			"sounds": ["ee4d58ea94661fe773acbf0acd587ccb", "522430a8ac9edd03205dff504ddf9ad9"]
+		}
+	}
+	]
+}

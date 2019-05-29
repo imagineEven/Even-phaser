@@ -1,0 +1,153 @@
+{
+	"info": [
+		{
+			"sentence": "The airplane rose off the  ground.",
+			"time": [
+				200,
+				500,
+				250,
+				250,
+				200,
+				400
+			],
+			"sound": "e1f41fc1a1639210d862c1f694cfa70d",
+			"whatIsIt": {
+				"sound": "0b2d5a50fe51a20e6a85910c413b6841"
+			},
+			"itIs": {
+				"sound": "4dfd434513c4bcb19e2a5ecd71514f70"
+			},
+			"choices": [
+				{
+					"sentence": "A vehicle that flies",
+					"sound": "988269a75006803600001e3e8033758a"
+				}, {
+					"sentence": "A vehicle made of air",
+					"sound": "17437057c2c0b7071521de0337ef7076"
+				}, {
+					"sentence": "The wind that blows across a long flat surface",
+					"sound": "ea17e74b0bc799ccb677af6396b428c0"
+				}, {
+					"sentence": "Air that is not interesting",
+					"sound": "2e5eb80ec392540b61691e65776a991d"
+				}
+			],
+			"compound": {
+				"word": "airplane",
+				"sound": "086a77b0d5c3b6ecb6959d33026a2922",
+				"split": [
+					{
+						"word": "air",
+						"sound": "3c6b3e1af858e7a200161a6b4cde8884"
+					}, {
+						"word": "plane",
+						"sound": "65d9e61e3fa413c2d3a1227416e7e6ca"
+					}
+				]
+			},
+			"read": {
+				"image": "e9be513b7bf08716d56d270b3316dbe8.jpg",
+				"x": 100,
+				"y": 400
+			}
+		}, {
+			"sentence": "The lion didn't see the net in the \novergrown  grass.",
+			"time": [
+				200,
+				500,
+				250,
+				250,
+				200,
+				400
+			],
+			"sound": "e1f41fc1a1639210d862c1f694cfa70d",
+			"whatIsIt": {
+				"sound": "0b2d5a50fe51a20e6a85910c413b6841"
+			},
+			"itIs": {
+				"sound": "4dfd434513c4bcb19e2a5ecd71514f70"
+			},
+			"choices": [
+				{
+					"sentence": "When plants have grown in a wild way",
+					"sound": "697af0ee8ae1638cf18f946ae05084ab"
+				},
+				{
+					"sentence": "When plants trap animals",
+					"sound": "56f48e57cd9208ad9a055749ba3e5a27"
+				}, {
+					"sentence": "When plants grow in an orderly way",
+					"sound": "406dc5f5f8051267c23a6c5bcff71fe8"
+				}, {
+					"sentence": "When plants grow in the air",
+					"sound": "37cdc9f24aac8c71005df282d2440125"
+				}
+			],
+			"compound": {
+				"word": "overgrown",
+				"sound": "7f2c13fc06fc55c4483754e2858fd0c4",
+				"split": [
+					{
+						"word": "over",
+						"sound": "087b40affe69a3841fe61643107b4311"
+					}, {
+						"word": "grown",
+						"sound": "9141683e840cd2415de8c70bf85a22c6"
+					}
+				]
+			},
+			"read": {
+				"image": "02665ab378db28c5b8664a298ee595b8.jpg"
+			}
+		}, {
+			"sentence": "At sunset, the bird rested in the \ntree.",
+			"time": [
+				200,
+				500,
+				250,
+				250,
+				200,
+				400
+			],
+			"sound": "e1f41fc1a1639210d862c1f694cfa70d",
+			"whatIsIt": {
+				"sound": "ba8b53c603b7219351282a1ea2db90cf"
+			},
+			"itIs": {
+				"sound": "84d3c90cd5ee373177267c0f5d266d8d"
+			},
+			"choices": [
+				{
+					"sentence": "The time of day when the sun goes down",
+					"sound": "09750834757f1e52ff1318646d15e9da"
+				}, 
+				{
+					"sentence": "The time of day when the sun is the birghtest",
+					"sound": "d4643081f1f48efb28c48ddd399218e9"
+				}, {
+					"sentence": "The time of day where the sun stops moving",
+					"sound": "5fb09ef1f6cc8a49c19092b2fb7a2831"
+				},{
+					"sentence": "The time of day when the sun appears",
+					"sound": "dd549da9d793e3c40dbcc636962e3e61"
+				}
+			],
+			"compound": {
+				"word": "sunset",
+				"sound": "f94d898a252d484107466753f0fbffef",
+				"split": [
+					{
+						"word": "sun",
+						"sound": "4cfd99114ec5c99f9dc43d77ffbd4870"
+					}, {
+						"word": "set",
+						"sound": "fa368a3f5952974564125a5b10f30c11"
+					}
+				]
+			},
+			"read": {
+				"image": "1d4fa3827bb682015e2a5fb36e8373e1.jpg"
+			}
+		}
+	]
+}

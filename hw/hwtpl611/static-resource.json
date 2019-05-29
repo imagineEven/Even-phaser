@@ -1,0 +1,15 @@
+{
+  "imageObj":{
+    "bg":"ad62150e8b096b7b5bb00a7a25272764",
+    "bg_pic":"9ed91315c5754a0e15d11d0f6e9d540f",
+    "bg_text_normal":"a31710bbbbc33b5e813c2c57bbd3e9e2",
+    "icon_submit_01":"f85762e40695dd9514c6ffa5373fccf4",
+    "icon_submit_02":"9e7837127168effca395c4b5888fa345",
+    "btn_finish":"49bbf3b917caea8ba8d800567a9fa368",
+    "btn_next":"c891ba348071e8582d661f0bff8004c3"
+  },
+  "soundObj":{
+    "correctSound":"406ff8a67e97315c58fa4235833ee032",
+    "errorSound":"fc093116823c02a765e7408f9ade882e"
+  }
+}

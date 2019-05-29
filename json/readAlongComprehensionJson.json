@@ -1,0 +1,25 @@
+{
+    "wordSoundArray":[
+        "3ab7c8ed29c563de8bb79d501fb0bdc7", 
+        "3db3c04bd99c2dd396e2147dd1a3e589", 
+        "5fd3ff4d2d78d26d993bb607fa593c6f", 
+        "cd0f2ff53e4577f3596e28f86414352", 
+        "d65b09260d5afae76b0c2de122d7cfeb", 
+        "3ce844f5e55cacc063a93f3deb6ba386",
+        "c55f8a31c5ad467ea6a60526714df878",
+        "f83aa2f18a2cea4bd336c0510e3fb476", 
+        "28bc55932a3ca3fcd21d165e76f900dd",
+        "6598082a5d91878506ed24b9bd01c513",
+        "2de99b12ab64329232f848e3ee349db1",
+        "5fde3f8dc7f36bca598b0ae75d36f72f",
+        "0d50def4e2e49b64490abe3d89095ddc"
+      ],
+      "wordImg":{
+        "treeback": "da80167d0a46628941ac9043b460918b.jpg",
+        "bnt": "aef08734b406cb9cfed617d20de8a9ac",
+        "flasharea": "1777db6a48a31b3663722a4766fe1ddc",
+        "pixborder": "11f6bcfafd1ccb97c9a18f22b9b96348.png",
+        "book": "595b6e63a1b3753a02da74efd220a7c5",
+        "bookback": "7f49dfbbf097dce1274e4db317c9bf8e"
+      }
+}

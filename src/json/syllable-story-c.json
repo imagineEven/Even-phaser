@@ -1,0 +1,96 @@
+{
+	"wordStyle": [
+		{
+			"font": "Century Gothic",
+			"fontSize": "30px",
+			"fontWeight":"bold",
+			"fill": "#000"
+		},
+		{
+			"font": "Century Gothic",
+			"fontSize": "30px",
+			"fontWeight":"bold",
+			"fill": "#000"
+		},
+		{
+			"font": "Century Gothic",
+			"fontSize": "25px",
+			"fontWeight":"bold",
+			"fill": "#000"
+		}
+	],
+	"bigWordStyle":{
+		"font": "Century Gothic",
+		"fontSize": "75px",
+		"fontWeight":"bold",
+		"fill": "#000"
+	},
+	"sentenceArray": [
+		"   Tom heard a\nsudden noise.\nHis robot was\nbroken. Tom\nbegan to panic.\nIts lobster claws\nwere bent.",
+		"   Tom heard a\nsudden noise. His\nrobot was broken.\nTom began to\npanic. Its lobster\nclaws were bent.\nParts of the robot\nwere all over the\nkitchen floor.",
+		"   Tom heard a sudden\nnoise. His robot was\nbroken. Tom began to\npanic. Its lobster claws\nwere bent. Parts of the\nrobot were all over the\nkitchen floor. Peanut,\nTom's dog, was\nchewing on the wheel."
+	],
+	"imgList":[
+		"robotHands",
+		"kitchen",
+		"dog"
+	],
+	"imgPositionArr":[
+		{"x":0.8,"y":0.75},
+		{"x":0.735,"y":0.465},
+		{"x":0.735,"y":0.465}
+	],
+	"storySound":[
+		"b9bd8b9484fbe45018b31bb8def79f23",
+		"a13aa16084500d8a759e0654b715e69e",
+		"54d89bc6992d283a22a640a1d4f323b7"
+	],
+	"storyAgainSound":[
+		"0a5c641381fe66db6cc92ef36acf2a96",
+		"dac7bc0ca3482a628f8f2c068b690701",
+		"c89b9b476251eb37c8d4eb22e70d95e5"
+	],
+	"timeList": [
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500,
+		400,
+		300,
+		600,
+		500,
+		600,
+		500,
+		400,
+		400,
+		600,
+		200,
+		300,
+		500,
+		500,
+		500,
+		500,
+		500,
+		500
+	]
+}

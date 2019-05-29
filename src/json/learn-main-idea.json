@@ -1,0 +1,27 @@
+{
+	"title": {
+		"text": "Two amazing words: I'm sorry",
+		"sound": "13e357b2745a5645c96c3e20f8204f48",
+		"x": 0.3,
+		"y": 0.1,
+		"time": []
+	},
+	"introVideo": {
+		"video": "2df49a9c59a5f70746cb8fb4950251f7"
+	},
+	"article": [
+		{
+			"text": "Help power smile better the minute the words  \" I'm sorry\"\nleave your mouth .",
+			"sound": "1c9b9b74b21c80b7dc1bc780f7d61ca5",
+			"x": 0.1,
+			"y": 0.2,
+			"time": []
+		}, {
+			"text": "Help your friend feel better too. She will probably smile.",
+			"sound": "595a8071c74ec47384053598a1d6238e",
+			"x": 0.1,
+			"y": 0.4,
+			"time": []
+		}
+	]
+}

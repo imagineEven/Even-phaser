@@ -1,0 +1,223 @@
+{
+  "showCardSound":{
+    "sound":"c3bdda96b8f4df7a0c082b7d426a550f"
+  },
+  "pages":[
+    {
+      "image": "e3aaefdae18df703e0a094d2dfc6003a",
+      "text": "Counting is fun. One,\ntwo, three, four.",
+      "stroySound": { "sounds": ["1263c8f3cdde28309ea93ea72c111016","eaf7625a0a5580dd8deef101fb9f6c97"] },
+      "times": [400, 300, 800, 650, 650, 650, 650]
+    },
+    {
+      "image": "2c331b862beffe13ca92649032423cf1",
+      "text": "You have one ball\nand I have one.",
+      "stroySound": { "sounds": ["6748dc20b0dbea59739664d73a7bd76a"] },
+      "times": [300,300,300,300,300,300,300,300]
+    },
+    {
+      "image": "9f34f4a5f83edd2ddd2acdfaeffa20a1",
+      "text": "Now we have two\nballs; let's have some\nfun!",
+      "stroySound": { "sounds": ["f007f5e95717a6da9d03118413d747c6"] },
+      "times": [300,300,300,300,600,300,300,300,300,300]
+    },
+    {
+      "image": "c24644f7bf6779500649dd44f27e1dcc",
+      "text": "You have one flower\nand I have two.",
+      "stroySound": { "sounds": ["4d87d8dbb315652d6d1e0198923dc929"] },
+      "times": [ 300,300,300,300,300,300,300,300]
+    },
+    {
+      "image": "fa68e3705af6d6ede416e828def29b77",
+      "text": "Now we have three\nflowers to give to Sue.",
+      "stroySound": { "sounds": ["2d92a0a4d4e4dda1e520f9b63e9e078d"] },
+      "times": [300,300,300,300,300,300,300,300,300]
+    },
+    {
+      "image": "88b3d72e3ac3ed658dc8e99b47fd4d07",
+      "text": "You have one\nmonkey and I have\nthree.",
+      "stroySound": { "sounds": ["98049227f3014ba6de2958290732949e"] },
+      "times": [300,300,300,300,300,300,300,300]
+    },
+    {
+      "image": "ce547f8f2600b75cb8232c837a80632c",
+      "text": "Now we have four\nmonkeys swinging in\nthe tree.",
+      "stroySound": { "sounds": ["04747c40b1732665d1ee72501247eacb"] },
+      "times": [300,300,300,300,300,300,300,300,300]
+    },
+    {
+      "image": "8c3821cd24c14fad929b19a77f90146f",
+      "text": "You have one friend\nand I have four.",
+      "stroySound": { "sounds": ["f227c1f1ecd6eb7f8581072f94b9430a"] },
+      "times": [300,300,300,300,300,300,300,300]
+    },
+    {
+      "image": "39ce9322ce05e6462163bc8ebafec011",
+      "text": "Now we have five\nfriends to play some\nmore.",
+      "stroySound": { "sounds": ["b0ee86de5bd78da85d08a49068990ca9"] },
+      "times": [300,300,300,300,300,300,300,300,300]
+    }
+  ],
+  "storyPosition":[
+    {
+      "x": 200,
+      "y": 70
+    },
+    {
+      "x": 200,
+      "y": 70
+    },
+    {
+      "x": 200,
+      "y": 70
+    },
+    {
+      "x": 200,
+      "y": 70
+    },
+    {
+      "x": 200,
+      "y": 70
+    },
+    {
+      "x": 200,
+      "y": 70
+    },
+    {
+      "x": 200,
+      "y": 70
+    },
+    {
+      "x": 200,
+      "y": 70
+    },
+    {
+      "x": 200,
+      "y": 70
+    }
+  ],
+  "singular":"singular plural",
+  "snos":"s no s",
+  "monsterPurple":{
+    "x":0,
+    "y":0,
+    "json": "daefb6d2ea69718940037fddd77f5969",
+    "jsonImage":{"image":"daefb6d2ea69718940037fddd77f5969"}
+  },
+  "monsterGreen":{
+    "x":0,
+    "y":0,
+    "json": "e56f095e4f67032597d479ba07bd621d",
+    "jsonImage":{"image":"e56f095e4f67032597d479ba07bd621d"}
+  },
+  "boxTime":1000,
+  "question": [
+    {"text":"You have one ____ and l have one.",
+     "questionTimeList": [300,300,300,300,300,300,300,300]
+    },
+   {"text":"Now we have two ____ ; let's have some fun!",
+    "questionTimeList": [300,300,300,300,300,300,300,300,300]
+   },
+   {"text":"You have one ____ and l have two.",
+    "questionTimeList": [300,300,300,300,300,300,300,300]
+   },
+   {"text":"Now we have three ____ to give to Sue.",
+    "questionTimeList": [300,300,300,300,300,300,300,300]
+   },
+   {"text":"You have one ____ and l have three.",
+    "questionTimeList": [300,300,300,300,300,300,300,300]
+   },
+   {"text":"Now we have four ____ swinging in the tree.",
+    "questionTimeList": [300,300,300,300,300,300,300,300]
+   },
+   {"text":"You have one ____ and l have four.",
+    "questionTimeList": [300,300,300,300,300,300,300,300]
+   },
+   {"text":"Now we have five ____ to play some more.",
+    "questionTimeList": [300,300,300,300,300,300,300,300]
+   }
+  ],
+  "questionSound": [
+    "6748dc20b0dbea59739664d73a7bd76a",
+    "f007f5e95717a6da9d03118413d747c6",
+    "4d87d8dbb315652d6d1e0198923dc929",
+    "2d92a0a4d4e4dda1e520f9b63e9e078d",
+    "98049227f3014ba6de2958290732949e",
+    "04747c40b1732665d1ee72501247eacb",
+    "f227c1f1ecd6eb7f8581072f94b9430a",
+    "b0ee86de5bd78da85d08a49068990ca9"
+  ],
+  "answer": [
+      {"text":"ball",
+      "sound":"beda42df1ace1f074ee7dec1c78f381f"},
+      {"text":"balls",
+       "sound":"093a68074c1fbab09520df2bbfc62d18"},
+       {"text":"flower",
+       "sound":"bc5cd1273501e9225400575f0b87153d"},
+       {"text":"flowers",
+       "sound":"88e7d86b2913979c9a39525ff6b4a03d"},
+       {"text":"monkey",
+       "sound":"3bef196ddbf58ad7320fcdcf5134a361"},
+       {"text":"monkeys",
+       "sound":"ba1af6cabc5859a5708bb6c10b273678"},
+       {"text":"friend",
+       "sound":"e4e0bdb92a2be2cbb82f009d57c7c10e"},
+       {"text":"friends",
+       "sound":"8ee76b7ccff94f4034dace68f8110329"}
+  ],
+  "correctAnswer": [
+      {"text":"ball",
+      "sound":"beda42df1ace1f074ee7dec1c78f381f"},
+      {"text":"balls",
+       "sound":"093a68074c1fbab09520df2bbfc62d18"},
+       {"text":"flower",
+       "sound":"bc5cd1273501e9225400575f0b87153d"},
+       {"text":"flowers",
+       "sound":"88e7d86b2913979c9a39525ff6b4a03d"},
+       {"text":"monkey",
+       "sound":"3bef196ddbf58ad7320fcdcf5134a361"},
+       {"text":"monkeys",
+       "sound":"ba1af6cabc5859a5708bb6c10b273678"},
+       {"text":"friend",
+       "sound":"e4e0bdb92a2be2cbb82f009d57c7c10e"},
+       {"text":"friends",
+       "sound":"8ee76b7ccff94f4034dace68f8110329"}
+  ],
+  "bigWord":[
+    {"text":"ball",
+      "sound":"beda42df1ace1f074ee7dec1c78f381f"},
+      {"text":"balls",
+       "sound":"093a68074c1fbab09520df2bbfc62d18"},
+       {"text":"flower",
+       "sound":"bc5cd1273501e9225400575f0b87153d"},
+       {"text":"flowers",
+        "sound":"88e7d86b2913979c9a39525ff6b4a03d"}
+  ],
+  "coord":[
+		{"x":100,"y":320},
+		{"x":500,"y":320},
+		{"x":100,"y":390},
+		{"x":500,"y":390},
+		{"x":100,"y":450},
+		{"x":500,"y":450}
+  ],
+  "overSound":{
+    "sounds":[
+      "422439ebf48c2aada07beb91faf7fda1",
+      "1728570ca5b47ef0f1d3de2e29cbbac2",
+      "76610b3beb167d107d1444c457dc206d"
+    ]
+  },
+  "singleAndDouble":true,
+  "allWords":false,
+  "wordBright":[
+    [3,4],[],[],[3,4],[7,8],[7,8],[3,4],[3,4]
+  ],
+  "click":{
+    "sound":"7ff3a499dd1dab84bfcf2c2f09a98ae6"
+  },
+  "overVideo":{
+    "video":"52c0f2747b12e152a493a78b116e8782",
+    "sound":"52c0f2747b12e152a493a78b116e8782"
+  }
+}

@@ -1,0 +1,272 @@
+{
+	"singular": "singular plural",
+	"singularAndPlural": "singular and plural nouns",
+	"hooray": [
+		"Hooray!",
+		"Good job!",
+		"Yay"
+	],
+	"topic": {
+		"sound": "66f666d5511f7090599e7dbabce5ed75"
+	},
+	"titleSound": {
+		"sound": "c3bdda96b8f4df7a0c082b7d426a550f"
+	},
+	"genericPurpleLeoSign": {
+		"x": 0,
+		"y": 0,
+		"json": "bfbeb635179283f966cd4165f5dfb282",
+		"jsonImage": {
+			"image": "bfbeb635179283f966cd4165f5dfb282"
+		}
+	},
+	"introduceSound": {
+		"sounds": [
+			"f6d43977cc4052f44e5735193b0b1e22",
+			"b48f61b05a051030b99d2d0123522586"
+		]
+	},
+	"wordsList": [
+		{
+			"word": "mother, father",
+			"highIndex": [
+				0,
+				14
+			],
+			"sound": "f2f339d52f2f3fc58335a835c0337d8a"
+		},
+		{
+			"word": "people",
+			"highIndex": [
+				0
+			],
+			"sound": "28bba72bb46b54477df7b8c81ba0216f"
+		},
+		{
+			"word": "beach, circus",
+			"highIndex": [
+				0,
+				1
+			],
+			"sound": "9536542f723164673bca6409c6f440aa"
+		},
+		{
+			"word": "places",
+			"highIndex": [
+				0
+			],
+			"sound": "48b35e9ad7929460fa598bc0d28e2a4a"
+		},
+		{
+			"word": "snakes,\nlollipops",
+			"highIndex": [
+				0,
+				1,
+				2
+			],
+			"sound": "a6f965f6f3c916616f2269aed0746194"
+		},
+		{
+			"word": "things",
+			"highIndex": [
+				0
+			],
+			"sound": "5064f4ec97dd3dec93c634b2025650dc"
+		}
+	],
+	"followMe": {
+		"sound": "f6e93bae3253f62d30404aff6e567131"
+	},
+	"singularOne": {
+		"sound": "593d1a7afe8fc2495e17d12ade597226"
+	},
+	"tableAudio1": {
+		"sound": "e16f8af7e3e93ddec052520cb0b9925e"
+	},
+	"tableAudio2": {
+		"sound": "f8f28db8d6717947bb467b4df78a96d4"
+	},
+	"wordsListSoundArray": [
+		[
+			"e16f8af7e3e93ddec052520cb0b9925e",
+			"f8f28db8d6717947bb467b4df78a96d4"
+		],
+		[
+			"04cb7890c6dd526d86c53cc544cc210c"
+		]
+	],
+	"wordConfig": [
+		0,
+		0
+	],
+	"wordConfig1": [
+		0,
+		0,
+		0
+	],
+	"wordConfig2": [
+		0,
+		0,
+		1
+	],
+	"wordConfig3": [
+		0,
+		0,
+		1
+	],
+	"defaultStep": 3,
+	"defaultStep1": 4,
+	"defaultStep2": 5,
+	"defaultStep3": 5,
+	"defaultStep4": 5,
+	"defaultStep5": 5,
+	"different": {
+		"sound": "04cb7890c6dd526d86c53cc544cc210c"
+	},
+	"wordsImage": [
+		{
+			"image": "51f3f789dbb3cb96d9c9079a58d509f5",
+			"y": 100
+		},
+		{
+			"image": "86aa3a1acacb4cc36ccd945daaea5eb6.jpg",
+			"y": 210
+		},
+		{
+			"image": "7bed748f33ac06c1038750beb455b377.jpg",
+			"y": 320
+		}
+	],
+	"wordsImageLeft": [
+		{
+			"image": "51f3f789dbb3cb96d9c9079a58d509f5",
+			"y": 100
+		},
+		{
+			"image": "86aa3a1acacb4cc36ccd945daaea5eb6.jpg",
+			"y": 210
+		},
+		{
+			"image": "7bed748f33ac06c1038750beb455b377.jpg",
+			"y": 320
+		}
+	],
+	"different": {
+		"sound": "04cb7890c6dd526d86c53cc544cc210c"
+	},
+	"wordsImage": [{
+		"image": "f1fc28782766296523f44195e44796bc.jpg",
+		"y": 100
+	}, {
+		"image": "6d6720b04d0dca09e9912443fd18118a.jpg",
+		"y": 210
+	}, {
+		"image": "8d95ed9e6c705156b1c8ea8941366e73.jpg",
+		"y": 320
+	}],
+	"wordsImageLeft": [],
+	"question": "How do you use question words in English?",
+	"questionSound": {
+		"sound": "087a08f95b3da2554e829a04607a745f"
+	},
+	"answerList": [
+		{
+			"text": "Add s to the end of the noun.",
+			"sound": "82a6941f2f10cd1e174e4cab56994e15",
+			"image": "6b41a164843a6a0ba685fdc467ca1062"
+		},
+		{
+			"text": "Underline x the noun.",
+			"sound": "dffd0af0b368063e36d9e3dced8cc097",
+			"image": "6b41a164843a6a0ba685fdc467ca1062"
+		},
+		{
+			"text": "Write the es noun in capital letters.",
+			"sound": "107039606b549f2329ed15ee65308735",
+			"image": "6b41a164843a6a0ba685fdc467ca1062"
+		}
+	],
+	"finallySound": {
+		"sound": "eea766881ef21f388fd07f0b9d90b387"
+	},
+	"letter": [
+		"who",
+		"what",
+		"where",
+		"when",
+		"how",
+		"why"
+	],
+	"wordS": {
+		"sounds": [
+			"6960dff05cbc203c83fce59718790f72",
+			"6960dff05cbc203c83fce59718790f72",
+			"6960dff05cbc203c83fce59718790f72",
+			"6960dff05cbc203c83fce59718790f72",
+			"6960dff05cbc203c83fce59718790f72",
+			"6960dff05cbc203c83fce59718790f72"
+		]
+	},
+	"lettersSoundList": [
+		"6960dff05cbc203c83fce59718790f72",
+		"6960dff05cbc203c83fce59718790f72"
+	],
+	"wordsList1": [
+		{
+			"word": "ball - balls",
+			"sound": "e0531f33bc496275ecb90b110c55556c",
+			"image": "e67e20838f9410f70444502cbddd6d0f.jpg",
+			"highIndex":[7, 12]
+		},
+		{
+			"word": "flower - flowers",
+			"sound": "854c4e0793ca45027b339714144bbb2e",
+			"image": "86aa3a1acacb4cc36ccd945daaea5eb6.jpg",
+			"highIndex":[7, 12]
+		},
+		{
+			"word": "friend - friends",
+			"sound": "56932b7ff5f5c2762a6849ee9c86a4ef",
+			"image": "7bed748f33ac06c1038750beb455b377.jpg",
+			"highIndex":[7, 12]
+		}
+	],
+	"coord": [
+		{
+			"x": 160,
+			"y": 220
+		},
+		{
+			"x": 600,
+			"y": 220
+		},
+		{
+			"x": 160,
+			"y": 280
+		},
+		{
+			"x": 600,
+			"y": 280
+		},
+		{
+			"x": 160,
+			"y": 340
+		},
+		{
+			"x": 600,
+			"y": 340
+		}
+	],
+	"plural1": "s ",
+	"plural2": "x ",
+	"plural3": "es ",
+	"questionWord": "singular ",
+	"questionWord1": "plural ",
+	"questionWord2": "noun ",
+	"questionWord3": "plural2 ",
+	"questionWord4": "plural3 ",
+	"leftAllHightWord": "Where",
+	"blueBox": 0,
+	"boxes": "boxes",
+	"cross": false
+}

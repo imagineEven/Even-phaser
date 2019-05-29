@@ -1,0 +1,39 @@
+{
+  "pages": [{
+    "word": "finally",
+    "wordSound": { "sound": "f592977eb88a30540b47c0c1c9760fc8" },
+    "sentence": "The mouse began gnawing the\nfinally found the lion.",
+    "sentenceSound": { "sound": "dd59e19aed9b8061c77fe34184d2f63f" },
+    "times": [300, 500, 300, 300, 300, 300, 500, 400, 300, 400]
+  }, {
+    "word": "gnawing",
+    "wordSound": { "sound": "a376b8658eb1c659bd80414ab1291be6" },
+    "sentence": "The mouse began gnawing the\nrope with his teeth.",
+    "sentenceSound": { "sound": "e946e5413111cbb5ae03f161158f7383" },
+    "times": [300, 500, 300, 400, 200, 300, 300, 300, 400]
+  }, {
+    "word": "through",
+    "wordSound": { "sound": "2b774ae361311961ae274842c2046486" },
+    "sentence": "The mouse chewed through the\nrope.",
+    "sentenceSound": { "sound": "cb51451a0f781763e1e45c361f83f3e7" },
+    "times": [300, 500, 400, 400, 300, 400]
+  }, {
+    "word": "voice",
+    "wordSound": { "sound": "d5b8a2a55e85a858c540a9859e43fb06" },
+    "sentence": "The mouse said in a little voice,\n\"Please don't eat me!\"",
+    "sentenceSound": { "sound": "351f864a81203f174101837a8bbc48a9" },
+    "times": [300, 500, 300, 200, 200, 400, 400, 500, 400, 300, 400]
+  }, {
+    "word": "prey",
+    "wordSound": { "sound": "8c162571956a8098f5ea2c8db6ff6b44" },
+    "sentence": "The lion was hunting his prey.",
+    "sentenceSound": { "sound": "1f9fb0848a89dc1a8170ed4ba350ac80" },
+    "times": [300, 500, 300, 500, 300, 400]
+  }, {
+    "word": "prey",
+    "wordSound": { "sound": "8c162571956a8098f5ea2c8db6ff6b44" },
+    "sentence": "The lion was hunting his prey.",
+    "sentenceSound": { "sound": "1f9fb0848a89dc1a8170ed4ba350ac80" },
+    "times": [300, 500, 300, 500, 300, 400]
+  }]
+}

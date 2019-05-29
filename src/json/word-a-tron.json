@@ -1,0 +1,311 @@
+{
+  "pages": [
+    {
+      "text": "sigh",
+      "objectSound": {
+        "sound": "7c15fb0620e1eb991d74cd20d98c9855"
+      },
+      "sound": "d59fb1a105568319e88f174997bf0f71",
+      "explainSound": {
+        "sound": "693a5f08f048b7b315e11bd92c32e886"
+      },
+      "define": {
+        "text": "To make a long sound by breathing in and\nout, usually to show that you are bored,\ndisappointed, or tired",
+        "textPosition": {
+          "x": 100,
+          "y": 330
+        },
+        "scale": 0.9,
+        "fontSize": 28,
+        "picPosition": {
+          "x": 75,
+          "y": 325
+        },
+        "sound": "3e50c64bc042c676e4dd1be12f3a0946"
+      },
+      "match": {
+        "sound": "939e366b6395977d554248457f5cd025",
+        "choices": [
+          {
+            "word": "disappointment",
+            "pic": null,
+            "sound": "54345baef77873d791745372b0be5584"
+          },
+          {
+            "word": "boredom",
+            "pic": null,
+            "sound": "26e867eddd46e52366df9d6d99b0e358"
+          },
+          {
+            "word": "fear",
+            "pic": null,
+            "sound": "037ddb91e3a3d87867d8c7549ae6daf5"
+          },
+          {
+            "word": "happiness",
+            "pic": null,
+            "sound": "64e24dc270d4daad8e90cf5fb756cfcb"
+          }
+        ]
+      },
+      "sentence": [
+        {
+          "word": "I heard Marco ____ as he looked at his test score.",
+          "wordcontent": "I heard Marco sigh as he looked at his test score.",
+          "time": [
+            400,
+            400,
+            400,
+            40,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            40
+          ],
+          "color": [
+            3
+          ],
+          "sounds": [
+            "a149d495f23fcf4c173095218c6e1ee2"
+          ],
+          "trueSound": {
+            "sounds": [
+              "9400bf675e42b3f59ae6aaab670ed60a"
+            ]
+          }
+        },
+        {
+          "word": "I always ____ as loud as i can for my favorite\nteam.",
+          "color": [
+            2,
+            3,
+            4
+          ],
+          "wordcontent": "I always sigh as loud as i can for my favorite\nteam.",
+          "time": [
+            400,
+            400,
+            40,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            40
+          ],
+          "sounds": [
+            "87e75cedb1004f19bfcede2cfbdaa349"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "chore",
+      "objectSound": {
+        "sound": "dbc34e3b62615280d2f7f81d90ff05b8"
+      },
+      "sound": "78e6afbc945b0a4def2412e4aaebacc9",
+      "explainSound": {
+        "sound": "828477b183cbb4fd76f01d689c2eb51b"
+      },
+      "define": {
+        "text": "A small job that you have to do often",
+        "textPosition": {
+          "x": 100,
+          "y": 380
+        },
+        "scale": 0.7,
+        "fontSize": 20,
+        "picPosition": {
+          "x": 75,
+          "y": 325
+        },
+        "sound": "7a44f29f41d228197578ba0731611240"
+      },
+      "match": {
+        "sound": "939e366b6395977d554248457f5cd025",
+        "choices": [
+          {
+            "word": "everyday",
+            "pic": null,
+            "sound": "5f70e6327a3681159549899e574bad4a"
+          },
+          {
+            "word": "job",
+            "pic": null,
+            "sound": "9e50156e573c8854a0b633e7cdae0901"
+          },
+          {
+            "word": "game",
+            "pic": null,
+            "sound": "93121d84bd44f9e4b17b07e9878fa37b"
+          },
+          {
+            "word": "play",
+            "pic": null,
+            "sound": "08c31029ca68125e88183790557657f0"
+          }
+        ]
+      },
+      "sentence": [
+        {
+          "word": "My main ___ is washing the dinner dishes.",
+          "wordcontent": "My main chore is washing the dinner dishes.",
+          "time": [
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            40
+          ],
+          "color": [
+            2
+          ],
+          "sounds": [
+            "5cc85ad5dfc1b83b55b6db3d08090316"
+          ],
+          "trueSound": {
+            "sounds": [
+              "67fa4d5f55f20e4cc2dcd81a3a0f077a"
+            ]
+          }
+        },
+        {
+          "word": "Football is my favorite ____ to play with my\n friends",
+          "color": [
+              4
+          ],
+          "wordcontent": "Football is my favorite chore to play with my\n friends.",
+          "time": [
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            40
+          ],
+          "sounds": [
+            "56ea3d580b60917cdcaad1705bbfb18a"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "wrinkle",
+      "objectSound": {
+        "sound": "dbc34e3b62615280d2f7f81d90ff05b8"
+      },
+      "sound": "a3e2df8ddf0c3cff4edf9f7cf69344ab",
+      "explainSound": {
+        "sound": "70011e5a4d042e1d498e83eaa75fe550"
+      },
+      "define": {
+        "text": "To make something have small lines or folds\nin it. For example, you can wrinkle paper by\ncrumpling it, or you can wrinkle your nose\nby scrunching it.",
+        "textPosition": {
+          "x": 100,
+          "y": 320
+        },
+        "pic": "87c6a10187bd9b9df917e1a1a6b43e66.jpg",
+        "scale": 1.3,
+        "picPosition": {
+          "x": 75,
+          "y": 325
+        },
+        "sound": "20aeed93ee516f2545ca8a417f275066"
+      },
+      "match": {
+        "sound": "70011e5a4d042e1d498e83eaa75fe550",
+        "choices": [
+          {
+            "word": "lines",
+            "pic": null,
+            "sound": "49e9c8612bd245a789921634ec1cdd9d"
+          },
+          {
+            "word": "small",
+            "pic": null,
+            "sound": "b9428406662da7bf6e32ffa41c4152ca"
+          },
+          {
+            "word": "fix",
+            "pic": null,
+            "sound": "63926b3651365db1427c8af61288e917"
+          },
+          {
+            "word": "smooth",
+            "pic": null,
+            "sound": "1cef991afd061546908939318f502b45"
+          }
+        ]
+      },
+      "sentence": [
+        {
+          "word": "Did Josh ____ up the paper and throw it in the\ngarbage?",
+          "color": [
+            2
+          ],
+          "wordcontent": "Did Josh winkle up the paper and throw it in the\ngarbage?",
+          "time": [
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            40
+          ],
+          "sounds": [
+            "bdd0eccbb2bba4f79b52ac76f3a63d13"
+          ],
+          "trueSound": {
+            "sounds": [
+              "ff1ff25d31fae950ac0a65dab2898ea8"
+            ]
+          }
+        },
+        {
+          "word": "We need to ____ my soccer shirt before the next\ngame.",
+          "wordcontent": "We need to wrinkle my soccer shirt before the next\ngame.",
+          "time": [
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            40
+          ],
+          "sounds": [
+            "bb9e996e064ba0c0fa181ff7d6e0920d"
+          ]
+        }
+      ]
+    }
+  ]
+}

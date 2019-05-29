@@ -1,0 +1,120 @@
+ {
+    "detail": "",
+    "beginSound": "",
+    "beginSoundAlias": "",
+    "questions": [
+      {
+        "msg": 0,
+        "word": "away",
+        "sound": "74154ea2c2f98a18df8de68f8c5d15fb",
+        "soundAlias": "dog_B1U1.mp3",
+        "question2": {
+          "imageAlias": "One_glance_at_the_cats_and_the_mice_will_run_away_NT.png",
+          "image": "28dc87dcc27ae91d84c27a502f407468",
+          "imageUrl": "/upload/Image/28dc87dcc27ae91d84c27a502f407468.png",
+          "sentence": {
+            "text": "\"One glance at the cats, and the mice will dfsdffaseger sdgagr dgaege run ____.\"",
+            "sound": "4f671910256a1e6fb904a387a71ffcf1",
+            "soundAlias": "One_glance_at_the_cats_and_the_mice_will_run_away_NT.mp3"
+          },
+          "time": [
+            296,
+            296,
+            296,
+            296,
+            296,
+            296,
+            296,
+            296,
+            296,
+            296,
+            296
+          ]
+        }
+      },
+      {
+        "msg": 0,
+        "word": "One",
+        "sound": "2741a03960a6de7012a8c481ea655075",
+        "soundAlias": "one_NT.mp3",
+        "question2": {
+          "imageAlias": "One_glance_at_the_cats_and_the_mice_will_run_away_NT.png",
+          "image": "28dc87dcc27ae91d84c27a502f407468",
+          "imageUrl": "/upload/Image/28dc87dcc27ae91d84c27a502f407468.png",
+          "sentence": {
+            "text": "\"____ glance at the cats, and the mice will run away.\"",
+            "sound": "4f671910256a1e6fb904a387a71ffcf1",
+            "soundAlias": "One_glance_at_the_cats_and_the_mice_will_run_away_NT.mp3"
+          },
+          "time": [
+            296,
+            296,
+            296,
+            296,
+            296,
+            296,
+            296,
+            296,
+            296,
+            296,
+            296
+          ]
+        }
+      },
+      {
+        "msg": 0,
+        "word": "there",
+        "sound": "1860af5b2fbfc0e8de473bc93bd2cd29",
+        "soundAlias": "there_NT.mp3",
+        "question2": {
+          "imageAlias": "Soon_there_were_no_mice_NT.png",
+          "image": "914879a9061ed0b086378466cc775dba",
+          "imageUrl": "/upload/Image/914879a9061ed0b086378466cc775dba.png",
+          "sentence": {
+            "text": "Soon ____ were no mice.",
+            "sound": "617e29e0ad1565f1248831ac69924ff0",
+            "soundAlias": "Soon_there_were_no_mice_NT.mp3"
+          },
+          "time": [
+            386,
+            386,
+            386,
+            386,
+            386
+          ]
+        }
+      },
+      {
+        "msg": 0,
+        "word": "these",
+        "sound": "f930cd4ac3f2a1ef1b3e821202e0c1ed",
+        "soundAlias": "these_NT.mp3",
+        "question2": {
+          "imageAlias": "Is_there_a_chance_we_can_get_rid_of_these_cats_asked_the_prince_NT.png",
+          "image": "4c08d959d525f2a5acae983866b15e7a",
+          "imageUrl": "/upload/Image/4c08d959d525f2a5acae983866b15e7a.png",
+          "sentence": {
+            "text": "\"Is there a chance we can get rid of ____ cats?\" asked the prince.",
+            "sound": "0915274d4e852817b614a13c994443d4",
+            "soundAlias": "Is_there_a_chance_we_can_get_rid_of_these_cats_asked_the_prince_NT.mp3"
+          },
+          "time": [
+            313,
+            313,
+            313,
+            313,
+            313,
+            313,
+            313,
+            313,
+            313,
+            313,
+            313,
+            313,
+            313,
+            313
+          ]
+        }
+      }
+    ]
+  }

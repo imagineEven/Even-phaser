@@ -1,0 +1,27 @@
+{
+  "imageObj":{
+    "submitBtn":"9033d107867997c2f1a27fca65d432d3",
+    "submitBtnH":"3b9db3da720eb6307359aa140add0d91",
+    "finishBtn":"056793a68e59feed572f90db78403158",
+    "finishBtnH":"298b3876c7006205e2f62a09d29f86df",
+    "coilPage":"12da094fd0de738d73e70af924453b5f",
+    "bg":"50d319fb06bea5b812d0f0d82ba083f9",
+    "wallow":"2031d5f69af97f2947f879f034d34c18",
+    "hill":"3436d35b94d4e07b9a09a4dc070fe55b",
+    "optionBg":"6279c1c32c26c5580550fa26429fbaf8",
+    "optionBgH":"d1bf98eee52713d8e40ebd988015597d",
+    "coil":"43e243b4604a5f730844ca203efe4b91",
+    "oneGrass":"15bac89ee0161921089947c5f0fa7cbf",
+    "twoGrass":"fc2840aa7b8570cde0e126ff88e15156",
+    "bgMaskL":"5e933e9c14f455639c73d7bf20e9482a",
+    "bgMaskR":"4f010631091f9681329c65ebe3e0622f",
+    "scrollBarBg":"a4a1a09d76ad8b5a92f3373d976722c9",
+    "scrollCen":"8e3c9f439f2687ef8dc3457531cae706"
+  },
+  "soundObj":{
+    "birds":"8b5ccabb2bfc7bde93c2e7f45f07c93d",
+    "openPage":"1dd1bf5c547893829dd4251d7a8c0fb4",
+    "wrongSound":"fc093116823c02a765e7408f9ade882e",
+    "correctSound":"406ff8a67e97315c58fa4235833ee032"
+  }
+}

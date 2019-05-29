@@ -1,0 +1,176 @@
+{
+  "order": 0,
+  "word": [
+    "ee",
+    "ea",
+    "ue",
+    "ew"
+  ],
+  "wordLongSound": [
+    {
+      "sound": "149f10ceea2ce20ac85c6027ed81c082"
+    },
+    {
+      "sound": "9698099d4845c5cadd98c422094bbcb2"
+    },
+    {
+      "sound": "67f89c0dfda32f9ca447026759cb5da5"
+    },
+    {
+      "sound": "886f40150926ffbfbc501627f683fc6f"
+    }
+  ],
+  "wordSound": [
+    {
+      "sound": "829f8300bd72824894abbdf545591aec"
+    },
+    {
+      "sound": "829f8300bd72824894abbdf545591aec"
+    },
+    {
+      "sound": "ca919bbfe2a9adcd8edbdf36f71fa73b"
+    },
+    {
+      "sound": "ca919bbfe2a9adcd8edbdf36f71fa73b"
+    }
+  ],
+  "cue": [
+    {
+      "sound": "11ff8d4cfe8aedea7adcdd90357c76b3",
+      "id": 0
+    },
+    {
+      "sound": "11ff8d4cfe8aedea7adcdd90357c76b3",
+      "id": 0
+    },
+    {
+      "sound": "7905c0ca26d53db32510b4fa9f97a7d4",
+      "id": 1
+    },
+    {
+      "sound": "7905c0ca26d53db32510b4fa9f97a7d4",
+      "id": 1
+    }
+  ],
+  "box": [
+    {
+      "word": "chew",
+      "img": "",
+      "fontSize": 32,
+      "sound": "b9337c8b8d9a5ea59628e5cb1c3ae884",
+      "name": 1
+    },
+    {
+      "word": "seed",
+      "img": "",
+      "fontSize": 32,
+      "sound": "bf3f4523b06cd2ae7e0a38fa47d1905a",
+      "name": 0
+    },
+    {
+      "word": "true",
+      "img": "",
+      "fontSize": 32,
+      "sound": "04c5291fe5a1d733a0e9c8ae0c78e6e0",
+      "name": 1
+    },
+    {
+      "word": "few",
+      "img": "",
+      "fontSize": 32,
+      "sound": "f032b6a106df4791080d36f15cd17211",
+      "name": "w"
+    },
+    {
+      "word": "dream",
+      "img": "",
+      "fontSize": 32,
+      "sound": "da91f89f3dc4985c9e866b957d6f753b",
+      "name": 0
+    },
+    {
+      "word": "blew",
+      "img": "",
+      "fontSize": 32,
+      "sound": "9f7447dec46897cd4d491ea17d740cf1",
+      "name": 1
+    },
+    {
+      "word": "clue",
+      "img": "",
+      "fontSize": 32,
+      "sound": "4f1760d9cd32a75e0dfc326a172d47de",
+      "name": 1
+    },
+    {
+      "word": "feed",
+      "img": "",
+      "fontSize": 32,
+      "sound": "ca02db7ee6bdc35c347ce91960e6ec63",
+      "name": 0
+    },
+    {
+      "word": "leap",
+      "img": "",
+      "fontSize": 32,
+      "sound": "7fb529444b2baef29b2d02fc1a30e0ec",
+      "name": 0
+    },
+    {
+      "word": "tree",
+      "img": "",
+      "fontSize": 32,
+      "sound": "16b11a7da5be33eee65469a33af0e7b4",
+      "name": 0
+    },
+    {
+      "word": "heel",
+      "img": "",
+      "fontSize": 32,
+      "sound": "fbee54ec604e66cc7b4875695ff1a830",
+      "name": 0
+    },
+    {
+      "word": "heat",
+      "img": "",
+      "fontSize": 32,
+      "sound": "18bc419bbcbab6bdcd90ef63a1e34752",
+      "name": 0
+    },
+    {
+      "word": "few",
+      "img": "",
+      "fontSize": 32,
+      "sound": "f032b6a106df4791080d36f15cd17211",
+      "name": 1
+    },
+    {
+      "word": "lean",
+      "img": "",
+      "fontSize": 32,
+      "sound": "0471b6e7081ba383fc9d96eae359cd4d",
+      "name": 0
+    },
+    {
+      "word": "grew",
+      "img": "",
+      "fontSize": 32,
+      "sound": "19e35ebf8e02618f10e759756c0276ad",
+      "name": 1
+    },
+    {
+      "word": "blue",
+      "img": "",
+      "fontSize": 32,
+      "sound": "c21f8af0a5cad626eb3d70c2b4306b92",
+      "name": 1
+    },
+    {
+      "word": "glue",
+      "img": "",
+      "fontSize": 32,
+      "sound": "49df0f648248502642025d3d1fd50c04",
+      "name": 1
+    }
+  ]
+}

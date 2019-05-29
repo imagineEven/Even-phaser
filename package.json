@@ -1,0 +1,80 @@
+{
+  "name": "Even",
+  "version": "1.1.1",
+  "description": "",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "hwdev": "webpack --config webpack.hw-dev.config.js",
+    "hwUat": "webpack --config webpack.hw-uat.js",
+    "ilabUat": "webpack --config webpack.ilab-prod.js",
+    "ilabProd": "webpack --config webpack.ilab.js",
+    "deploy": "webpack --config webpack.production.config.js",
+    "lint": "eslint ./src/**/**.js",
+    "lintf": "eslint ./framework/**/**.js",
+    "unit": "karma start"
+  },
+  "eslintConfig": {
+    "extends": "mdcs"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.25.0",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.1",
+    "babel-plugin-istanbul": "^5.1.2",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.18.13",
+    "browser-sync-webpack-plugin": "^1.2.0",
+    "clean-webpack-plugin": "^0.1.17",
+    "copy-webpack-plugin": "^4.2.0",
+    "css-loader": "^2.1.0",
+    "eslint": "^4.13.1",
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-mdcs": "^4.2.2",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "expose-loader": "^0.7.3",
+    "file-loader": "^3.0.1",
+    "html-webpack-plugin": "^2.30.1",
+    "istanbul-instrumenter-loader": "^3.0.0",
+    "jasmine-core": "^2.8.0",
+    "jquery": "^3.2.1",
+    "json-loader": "^0.5.7",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage-istanbul-reporter": "^1.3.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-webpack": "^2.0.4",
+    "style-loader": "^0.23.1",
+    "uglifyjs-webpack-plugin": "^1.1.4",
+    "url-loader": "^1.1.2",
+    "webpack": "^3.4.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cordova-android": "^6.2.3",
+    "cordova-browser": "^4.1.0",
+    "cordova-ios": "^4.4.0",
+    "cordova-plugin-whitelist": "^1.3.2",
+    "phaser": "^3.6.0",
+    "phaser-ce": "^2.8.3",
+    "webfontloader": "^1.6.28"
+  },
+  "cordova": {
+    "platforms": [
+      "android",
+      "browser",
+      "ios"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    }
+  }
+}

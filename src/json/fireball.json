@@ -1,0 +1,264 @@
+{
+  "keys": {
+    "word": "-ate",
+    "length": 3,
+    "sound": "b37b6a740dbf5d889780a8674aed86f3"
+  },
+  "words": [
+    [
+      {
+        "word": "frustrated",
+        "sound": "a19c112cbb0b41c31aff38294e911b63"
+      },
+      {
+        "word": "debate",
+        "sound": "989e06cfa51469076bef3a98f75bfb43"
+      },
+      {
+        "word": "stately",
+        "sound": "ab8f06a2e2bab32a799cf6a3715d75e7"
+      }
+    ],
+    [
+      {
+        "word": "training"
+      },
+      {
+        "word": "tailgate",
+        "sound": "aa3f30c01e13ff3220b988d85faec74c",
+        "startIndex": 5
+      },
+      {
+        "word": "trailing"
+      }
+    ],
+    [
+      {
+        "word": "revise"
+      },
+      {
+        "word": "rebate",
+        "sound": "be43e6da6b51614c958301266e9dd9b9",
+        "startIndex": 3
+      },
+      {
+        "word": "rebound"
+      }
+    ],
+    [
+      {
+        "word": "creap"
+      },
+      {
+        "word": "cream"
+      },
+      {
+        "word": "create",
+        "sound": "58d1fa2ea45e74bcaceded01479c8b8d",
+        "startIndex": 3
+      }
+    ]
+  ],
+  "questions": [
+    [
+      {
+        "word": "relived"
+      },
+      {
+        "word": "rebate"
+      },
+      {
+        "word": "related",
+        "sound": "3e0810ddcecab323fabcbf5c4e35969a",
+        "isRight": true
+      }
+    ],
+    [
+      {
+        "word": "grater",
+        "sound": "8bbbaf227d732ea760935f488d5c32f2"
+      },
+      {
+        "word": "gutters",
+        "sound": "ac0c977df5657b2422ae57c253e8145e"
+      },
+      {
+        "word": "grateful",
+        "sound": "072bdfeeabc80678cf2c8d64927ecd2a",
+        "isRight": true
+      }
+    ],
+    [
+      {
+        "word": "inflame",
+        "sound": "abba20e9c87af3e610f0a39d53768b05"
+      },
+      {
+        "word": "inflate",
+        "sound": "e730d7a46dd090233c23f8d11031462f",
+        "isRight": true
+      },
+      {
+        "word": "innate",
+        "sound": "e47425f7ceeeee660af410eb2aaa74cd"
+      }
+    ],
+    [
+      {
+        "word": "created",
+        "sound": "613f14a07d81d6baced779e07123aed5"
+      },
+      {
+        "word": "create",
+        "sound": "58d1fa2ea45e74bcaceded01479c8b8d",
+        "isRight": true
+      },
+      {
+        "word": "cream",
+        "sound": "336e146fa0839c0a21b2b097d0602e4f"
+      }
+    ],
+    [
+      {
+        "word": "stately",
+        "sound": "ab8f06a2e2bab32a799cf6a3715d75e7"
+      },
+      {
+        "word": "stopped",
+        "sound": "08e615d6d5d62e62029da819a12a3b36"
+      },
+      {
+        "word": "skater",
+        "sound": "1b7dc458f9cc375e23e38f6b2b12d779",
+        "isRight": true
+      }
+    ],
+    [
+      {
+        "word": "rotten",
+        "sound": "81430eab79f8c8e190a7aed4c2cab68d"
+      },
+      {
+        "word": "rated",
+        "sound": "26c39dc74aa484c77dcdeb8d1c31c31c"
+      },
+      {
+        "word": "rotate",
+        "sound": "12edee5a06c74f8e7b6ca8caa7737b1a",
+        "isRight": true
+      }
+    ],
+    [
+      {
+        "word": "separate",
+        "sound": "c101d7518c9361b9e282dc2b92463384"
+      },
+      {
+        "word": "started",
+        "sound": "8830861fcc34d7440d09a918d3570fbe"
+      },
+      {
+        "word": "statement",
+        "sound": "4c9f5d0d159df957f9bc5869ff5e0ab6",
+        "isRight": true
+      }
+    ],
+    [
+      {
+        "word": "celebrated",
+        "sound": "52a95fd523b5a61a0da38f36b9f7451f",
+        "isRight": true
+      },
+      {
+        "word": "celebrity",
+        "sound": "6b027255b99e91ccbe00d2d2d38d5ecb"
+      },
+      {
+        "word": "cellular",
+        "sound": "8bb576865543a576cc4cfeccf9279ffb"
+      }
+    ],
+    [
+      {
+        "word": "repeated",
+        "sound": "dfc7735d794ee19e2404cb4e2e001999"
+      },
+      {
+        "word": "related",
+        "sound": "3e0810ddcecab323fabcbf5c4e35969a",
+        "isRight": true
+      },
+      {
+        "word": "replayed",
+        "sound": "51e338e7984e96b94a34226fec7e6035"
+      }
+    ],
+    [
+      {
+        "word": "frustrated",
+        "sound": "f153e8686e5695af9fc409436a26f76c",
+        "isRight": true
+      },
+      {
+        "word": "fraction",
+        "sound": "28cb32c10b86431c2a5b87cdacf39d28"
+      },
+      {
+        "word": "frightened",
+        "sound": "9eaf412931c61fee5e42a84538fe5fad"
+      }
+    ]
+  ],
+  "questionPos": [
+    {
+      "x": 15,
+      "y": 505
+    },
+    {
+      "x": 92,
+      "y": 505
+    },
+    {
+      "x": 172,
+      "y": 505
+    },
+    {
+      "x": 252,
+      "y": 505
+    },
+    {
+      "x": 332,
+      "y": 505
+    },
+    {
+      "x": 15,
+      "y": 550
+    },
+    {
+      "x": 92,
+      "y": 550
+    },
+    {
+      "x": 172,
+      "y": 550
+    },
+    {
+      "x": 252,
+      "y": 550
+    }
+  ],
+  "egPlates": [
+    {
+      "x": 15,
+      "y": 504
+    },
+    {
+      "x": 92,
+      "y": 504
+    },
+    {
+      "x": 172,
+      "y": 505
+    }
+  ]
+}

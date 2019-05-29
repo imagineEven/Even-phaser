@@ -1,0 +1,80 @@
+{
+  "pages": {
+    "scroll": {"image": "f9a960bac7d48ad8305a44111ebb91c5.png"},
+    "checkButton": {"image": "c1d631ba93b29278a4ad163b4b3e37e9.png"},
+    "checkButton_hi": {"image": "85efe3e657419be8a638b8bc30ad258c.png"},
+    "bulletPoint_hi": {"image": "8df1a2118595d7d7bc575e2f39ae19e8.png"},
+    "sentence": [
+      "My dog was lying on \nthe floor.",
+      " She looked \nas gentle as a lamb.",
+      "\nThen someone \nknocked in the door,",
+      "\nand she started \nbarking wildly."
+    ],
+    "sentenceRightIndex": 1,
+    "optionRightIndex": 0,
+    "sentenceIndex": [
+      [0, 1, 2, 3, 4, 6, 7, 8],
+      [9, 10, 12, 13, 14, 15, 16, 17],
+      [18, 19, 21, 22, 23, 24, 25],
+      [26, 27, 28, 30, 31, 32]
+    ],
+    "singleChangeColor": [3, 4, 5, 6],
+    "subTitle": "What does this simile mean?",
+    "title": "She looked as gentle as a lamb.",
+    "optionText": [
+      "kind and peaceful",
+      "angry and mean",
+      "silly and playful",
+      "tired and lazy"
+    ],
+    "optionTextIndex": 0
+  },
+  "playVideo": {
+    "end": {"video": "50c6249b100752dcc58895dae3d53795", "sound": "50c6249b100752dcc58895dae3d53795"},
+    "splashScreen": {"video": "cdc4c6c454a9bada0a9075cb62ae871e", "sound": "cdc4c6c454a9bada0a9075cb62ae871e"}
+  },
+  "position": {
+    "literal": {
+      "x": 288,
+      "y": 265
+    },
+    "sentence": {
+      "x": 166,
+      "y": 77
+    }
+  },
+  "playSound": {
+    "everySound": [
+      {"sound": "d4c12255d89561410c976a98254c3c97"},
+      {"sound": "a560bfa6762fb7fda593b422299269c6"},
+      {"sound": "65ad76a747fec6ab351e61dd60a5a85c"},
+      {"sound": "c5bbe877202537921f01b53dd8bb76a5"}
+    ],
+    "simileMean": {"sound": "8419f8c8fa3489b970a4a4845f1ef70e"},
+    "then": {"sound": "5864a4402f52d819ada919b8ef5b3a99"},
+    "kindAandPeaceful": {"sound": "f0abbb688acf3a5d462703805b331026"}
+  },
+  "fontFamily": {
+    "sentence": {
+      "fontFamily": "Century Gothic",
+      "fontSize": "42px",
+      "fontWeight": "550",
+      "fill": "#000"
+    },
+    "title": {
+      "fontFamily": "Century Gothic",
+      "fontSize": "40px",
+      "fontWeight": "550",
+      "fill": "#000"
+    },
+    "optionTextStyle": {
+      "fontFamily": "Century Gothic",
+      "fontSize": "28px",
+      "fontWeight": "550",
+      "fill": "#000"
+    },
+    "redFont": "#4196E1",
+    "blackFont": "#000",
+    "gragFont": "#808080"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "words": [
+    {
+      "word": "sample",
+      "wordType": "noun",
+      "wordMeans": "a small part of\nsomething that shows\nwhat the whole thing\nis like",
+      "wordDes": "a small part of something that shows what the whole thing is\nlike",
+      "sound": [
+        "4cb9a6c347da2b5de3249f3bb88d8090",
+        "3c8548dc3152b4101125727bd4aa824d",
+        "8ba5d165c5393dd7835ea7de6dc755e2"
+      ],
+      "bgPosition": {
+        "x": 365,
+        "y": 166
+      },
+      "textPosition": {
+        "x": 340,
+        "y": 160
+      },
+      "audioImage": [
+        {
+          "image": "79a6b30a991031a2e8006fe9c992d213.jpg",
+          "video": "360280e91a5211b5f4c8ca46fcf988cb"
+        },
+        {
+          "image": "6eaf5a300136c343f89c8febc18de88a.png",
+          "video": "76a8d309bf6c0412a2469a258fd20a3a"
+        },
+        {
+          "image": "7cfd9732df6eb787f232cd69ee0b0df3.jpg",
+          "video": "fc79235bcc12b197501408638dbbe669"
+        }
+      ]
+    },
+    {
+      "word": "period",
+      "wordType": "noun",
+      "wordMeans": "a length of time that\nstarts and ends",
+      "wordDes": "a length of time that starts and ends",
+      "sound": [
+        "e17c94cc19b904c89bc51b515535b9ed",
+        "3c8548dc3152b4101125727bd4aa824d",
+        "117dcdbccd489402b364d0d236ea51f3"
+      ],
+      "bgPosition": {
+        "x": 365,
+        "y": 363
+      },
+      "textPosition": {
+        "x": 340,
+        "y": 350
+      },
+      "audioImage": [
+        {
+          "image": "fe09fc24c9b378a020a32e3788bf8c6b.jpg",
+          "video": "da5686199a8f9d36d6b0cd1cbf94fa34"
+        },
+        {
+          "image": "5a2051a7de47f597df373dfd4872017f.jpg",
+          "video": "7ddcde96d3b77205261c5df748db0af2"
+        },
+        {
+          "image": "326fb7eafedcf342e86a282b49b163ee.jpg",
+          "video": "103675c37b2a5a39dabf85b13b39f0a1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "currentWordType": "aboutThings",
+  "data": {
+    "aboutThings": [{
+        "words": ["rough", "smooth"],
+        "sounds": ["5ab42f65411cd2ae836aad6d418a3999", "ab3eb70c1883b1bd3c1f3fa45541308e"],
+        "image": "2f1c585e84bc4f81f593f3dddbb3d416.jpg",
+        "json": "adebfbdb47e10bf62c9172638c9cd8e8",
+        "jsonimg": { "image": "adebfbdb47e10bf62c9172638c9cd8e8" },
+        "x": -58,
+        "y": -53,
+        "scale": 0.76,
+        "speed": 2
+      },
+      {
+        "words": ["sew"],
+        "sounds": ["f411fc06d15b96e9c2c94c4d250f2103", "4429e97af8620e867b45c5576b6d8b7a"],
+        "image": "c71728e848501e2d2e3380c78079cdc5.jpg",
+        "json": "e822284e1f4ee79d26774e4ac9faf6ac",
+        "jsonimg": { "image": "e822284e1f4ee79d26774e4ac9faf6ac" },
+        "x": -58,
+        "y": -52,
+        "scale": 0.77,
+        "speed": 2
+      },
+      {
+        "words": ["kick"],
+        "sounds": ["cb196cf306366d6b4152e689d5d41862", "54465b618114df4dd0519b62efa46e0e"],
+        "image": "7907859c13297d83e8a3c62e7c3799b6.jpg",
+        "json": "538473478b17a9bbb9ae0c276941aa0d",
+        "jsonimg": { "image": "538473478b17a9bbb9ae0c276941aa0d" },
+        "x": -56,
+        "y": -50,
+        "scale": 0.61,
+        "speed": 2
+      },
+      {
+        "words": ["slow", "fast"],
+        "sounds": ["e2fd7303334b6c4ec368997217417172", "8b0957741b25b42ee8a7cf1b4696799d"],
+        "image": "edae093d29dadc832209b3033d9028bd",
+        "json": "393f6496cc01683d6933430b50bbb3b6",
+        "jsonimg": { "image": "393f6496cc01683d6933430b50bbb3b6" },
+        "x": -63,
+        "y": -40,
+        "scale": 0.4,
+        "speed": 6
+      },
+      {
+        "words": ["go"],
+        "sounds": ["30b55ae23f2b1de1cacc7603a19cb763", "9896044a76fa0c7ded7a40d1c1968b8d"],
+        "image": "b75639a420650ee0f7712fc235f042c3",
+        "json": "9e0398278ada51625bf661814a6b3b55",
+        "jsonimg": { "image": "9e0398278ada51625bf661814a6b3b55" },
+        "x": -74,
+        "y": -50,
+        "scale": 0.8,
+        "speed": 6
+      },
+      {
+        "words": ["crawl"],
+        "sounds": ["ad942821ba2a468c00a5583d09a34820", "50dfc6a524ad919cb878f3de8da566ed"],
+        "image": "adaf87541288f218f48739af08e35982",
+        "json": "25aaadd08aee92440e59a9391798fc8e",
+        "jsonimg": { "image": "25aaadd08aee92440e59a9391798fc8e" },
+        "x": -32,
+        "y": -40,
+        "scale": 0.4,
+        "speed": 6
+      },
+      {
+        "words": ["rough", "smooth"],
+        "sounds": ["5ab42f65411cd2ae836aad6d418a3999", "ab3eb70c1883b1bd3c1f3fa45541308e"],
+        "image": "2f1c585e84bc4f81f593f3dddbb3d416.jpg",
+        "json": "adebfbdb47e10bf62c9172638c9cd8e8",
+        "jsonimg": { "image": "adebfbdb47e10bf62c9172638c9cd8e8" },
+        "x": -58,
+        "y": -53,
+        "scale": 0.76,
+        "speed": 2
+      },
+      {
+        "words": ["sew"],
+        "sounds": ["f411fc06d15b96e9c2c94c4d250f2103", "4429e97af8620e867b45c5576b6d8b7a"],
+        "image": "c71728e848501e2d2e3380c78079cdc5.jpg",
+        "json": "e822284e1f4ee79d26774e4ac9faf6ac",
+        "jsonimg": { "image": "e822284e1f4ee79d26774e4ac9faf6ac" },
+        "x": -58,
+        "y": -52,
+        "scale": 0.77,
+        "speed": 2
+      },
+      {
+        "words": ["kick"],
+        "sounds": ["cb196cf306366d6b4152e689d5d41862", "54465b618114df4dd0519b62efa46e0e"],
+        "image": "7907859c13297d83e8a3c62e7c3799b6.jpg",
+        "json": "538473478b17a9bbb9ae0c276941aa0d",
+        "jsonimg": { "image": "538473478b17a9bbb9ae0c276941aa0d" },
+        "x": -56,
+        "y": -50,
+        "scale": 0.61,
+        "speed": 2
+      },
+      {
+        "words": ["slow", "fast"],
+        "sounds": ["e2fd7303334b6c4ec368997217417172", "8b0957741b25b42ee8a7cf1b4696799d"],
+        "image": "edae093d29dadc832209b3033d9028bd",
+        "json": "393f6496cc01683d6933430b50bbb3b6",
+        "jsonimg": { "image": "393f6496cc01683d6933430b50bbb3b6" },
+        "x": -63,
+        "y": -40,
+        "scale": 0.4,
+        "speed": 6
+      },
+      {
+        "words": ["go"],
+        "sounds": ["30b55ae23f2b1de1cacc7603a19cb763", "9896044a76fa0c7ded7a40d1c1968b8d"],
+        "image": "b75639a420650ee0f7712fc235f042c3",
+        "json": "9e0398278ada51625bf661814a6b3b55",
+        "jsonimg": { "image": "9e0398278ada51625bf661814a6b3b55" },
+        "x": -74,
+        "y": -50,
+        "scale": 0.8,
+        "speed": 6
+      },
+      {
+        "words": ["crawl"],
+        "sounds": ["ad942821ba2a468c00a5583d09a34820", "50dfc6a524ad919cb878f3de8da566ed"],
+        "image": "adaf87541288f218f48739af08e35982",
+        "json": "25aaadd08aee92440e59a9391798fc8e",
+        "jsonimg": { "image": "25aaadd08aee92440e59a9391798fc8e" },
+        "x": -32,
+        "y": -40,
+        "scale": 0.4,
+        "speed": 6
+      }
+    ],
+    "people": [{
+      "words": ["rough", "smooth"],
+      "sounds": ["5ab42f65411cd2ae836aad6d418a3999", "ab3eb70c1883b1bd3c1f3fa45541308e"],
+      "image": "2f1c585e84bc4f81f593f3dddbb3d416.jpg",
+      "json": "adebfbdb47e10bf62c9172638c9cd8e8",
+      "jsonimg": { "image": "adebfbdb47e10bf62c9172638c9cd8e8" },
+      "x": -58,
+      "y": -53,
+      "scale": 0.76,
+      "speed": 2
+    },
+    {
+      "words": ["sew"],
+      "sounds": ["f411fc06d15b96e9c2c94c4d250f2103", "4429e97af8620e867b45c5576b6d8b7a"],
+      "image": "c71728e848501e2d2e3380c78079cdc5.jpg",
+      "json": "e822284e1f4ee79d26774e4ac9faf6ac",
+      "jsonimg": { "image": "e822284e1f4ee79d26774e4ac9faf6ac" },
+      "x": -58,
+      "y": -52,
+      "scale": 0.77,
+      "speed": 2
+    },
+    {
+      "words": ["kick"],
+      "sounds": ["cb196cf306366d6b4152e689d5d41862", "54465b618114df4dd0519b62efa46e0e"],
+      "image": "7907859c13297d83e8a3c62e7c3799b6.jpg",
+      "json": "538473478b17a9bbb9ae0c276941aa0d",
+      "jsonimg": { "image": "538473478b17a9bbb9ae0c276941aa0d" },
+      "x": -56,
+      "y": -50,
+      "scale": 0.61,
+      "speed": 2
+    },
+    {
+      "words": ["slow", "fast"],
+      "sounds": ["e2fd7303334b6c4ec368997217417172", "8b0957741b25b42ee8a7cf1b4696799d"],
+      "image": "edae093d29dadc832209b3033d9028bd",
+      "json": "393f6496cc01683d6933430b50bbb3b6",
+      "jsonimg": { "image": "393f6496cc01683d6933430b50bbb3b6" },
+      "x": -63,
+      "y": -40,
+      "scale": 0.4,
+      "speed": 6
+    },
+    {
+      "words": ["go"],
+      "sounds": ["30b55ae23f2b1de1cacc7603a19cb763", "9896044a76fa0c7ded7a40d1c1968b8d"],
+      "image": "b75639a420650ee0f7712fc235f042c3",
+      "json": "9e0398278ada51625bf661814a6b3b55",
+      "jsonimg": { "image": "9e0398278ada51625bf661814a6b3b55" },
+      "x": -74,
+      "y": -50,
+      "scale": 0.8,
+      "speed": 6
+    },
+    {
+      "words": ["crawl"],
+      "sounds": ["ad942821ba2a468c00a5583d09a34820", "50dfc6a524ad919cb878f3de8da566ed"],
+      "image": "adaf87541288f218f48739af08e35982",
+      "json": "25aaadd08aee92440e59a9391798fc8e",
+      "jsonimg": { "image": "25aaadd08aee92440e59a9391798fc8e" },
+      "x": -32,
+      "y": -40,
+      "scale": 0.4,
+      "speed": 6
+    },
+    {
+      "words": ["rough", "smooth"],
+      "sounds": ["5ab42f65411cd2ae836aad6d418a3999", "ab3eb70c1883b1bd3c1f3fa45541308e"],
+      "image": "2f1c585e84bc4f81f593f3dddbb3d416.jpg",
+      "json": "adebfbdb47e10bf62c9172638c9cd8e8",
+      "jsonimg": { "image": "adebfbdb47e10bf62c9172638c9cd8e8" },
+      "x": -58,
+      "y": -53,
+      "scale": 0.76,
+      "speed": 2
+    },
+    {
+      "words": ["sew"],
+      "sounds": ["f411fc06d15b96e9c2c94c4d250f2103", "4429e97af8620e867b45c5576b6d8b7a"],
+      "image": "c71728e848501e2d2e3380c78079cdc5.jpg",
+      "json": "e822284e1f4ee79d26774e4ac9faf6ac",
+      "jsonimg": { "image": "e822284e1f4ee79d26774e4ac9faf6ac" },
+      "x": -58,
+      "y": -52,
+      "scale": 0.77,
+      "speed": 2
+    },
+    {
+      "words": ["kick"],
+      "sounds": ["cb196cf306366d6b4152e689d5d41862", "54465b618114df4dd0519b62efa46e0e"],
+      "image": "7907859c13297d83e8a3c62e7c3799b6.jpg",
+      "json": "538473478b17a9bbb9ae0c276941aa0d",
+      "jsonimg": { "image": "538473478b17a9bbb9ae0c276941aa0d" },
+      "x": -56,
+      "y": -50,
+      "scale": 0.61,
+      "speed": 2
+    },
+    {
+      "words": ["slow", "fast"],
+      "sounds": ["e2fd7303334b6c4ec368997217417172", "8b0957741b25b42ee8a7cf1b4696799d"],
+      "image": "edae093d29dadc832209b3033d9028bd",
+      "json": "393f6496cc01683d6933430b50bbb3b6",
+      "jsonimg": { "image": "393f6496cc01683d6933430b50bbb3b6" },
+      "x": -63,
+      "y": -40,
+      "scale": 0.4,
+      "speed": 6
+    },
+    {
+      "words": ["go"],
+      "sounds": ["30b55ae23f2b1de1cacc7603a19cb763", "9896044a76fa0c7ded7a40d1c1968b8d"],
+      "image": "b75639a420650ee0f7712fc235f042c3",
+      "json": "9e0398278ada51625bf661814a6b3b55",
+      "jsonimg": { "image": "9e0398278ada51625bf661814a6b3b55" },
+      "x": -74,
+      "y": -50,
+      "scale": 0.8,
+      "speed": 6
+    },
+    {
+      "words": ["crawl"],
+      "sounds": ["ad942821ba2a468c00a5583d09a34820", "50dfc6a524ad919cb878f3de8da566ed"],
+      "image": "adaf87541288f218f48739af08e35982",
+      "json": "25aaadd08aee92440e59a9391798fc8e",
+      "jsonimg": { "image": "25aaadd08aee92440e59a9391798fc8e" },
+      "x": -32,
+      "y": -40,
+      "scale": 0.4,
+      "speed": 6
+    }
+  ]
+  }
+}

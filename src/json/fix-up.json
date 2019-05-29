@@ -1,0 +1,95 @@
+{
+  "ffix": {
+    "type": "Preffix",
+    "selectedIndex": 0,
+    "text": "dis",
+    "sound": "ec19236aea7bd1f1651e8467d25844bf",
+    "soundAlias": "when_you_add_dis.mp3",
+    "wholeWord": ["dis", "cov", "er"],
+    "stones": [{
+      "stone": {
+        "image": "2c31bf5dd21bb150fb04e8777b49cab4",
+        "x": 300
+      }
+    }, {
+      "stone": {
+        "image": "71650ebe866a7b666bdbbf98af1a8550",
+        "x": 550
+      }
+    }]
+  },
+  "practice": {
+    "anchorx": 1,
+    "x": 450,
+    "amount": 3,
+    "arr": [{
+      "no": false,
+      "question": "__cover",
+      "prtWord": "cover",
+      "word": "discover",
+      "splita": "cover",
+      "splitb": "",
+      "fix": ["dis", "cover"],
+      "fixIndex": 0,
+      "sound": "f2ac496a79784f5f7fe749771caa63b7",
+      "soundAlias": "discover.mp3"
+    }, {
+      "no": false,
+      "question": "__appear",
+      "prtWord": "appear",
+      "word": "disappear",
+      "splita": "appear",
+      "splitb": "",
+      "fix": ["dis", "appear"],
+      "fixIndex": 0,
+      "sound": "88847ccdccddc89d0fab614278d70324",
+      "soundAlias": "disappear.mp3"
+    }, {
+      "no": false,
+      "question": "__trust",
+      "prtWord": "trust",
+      "word": "distrust",
+      "splita": "trust",
+      "splitb": "",
+      "fix": ["dis", "trust"],
+      "fixIndex": 0,
+      "sound": "2b0922567bcfb6a31305afc97f860417",
+      "soundAlias": "distrust.mp3"
+    }, {
+      "no": true,
+      "prtWord": "sail",
+      "question": "__sail"
+    }]
+  },
+  "reading": {
+    "image": "a30769c3b26f2b0c193b7fce2310adb0.jpg",
+    "imageAlias": "a30769c3b26f2b0c193b7fce2310adb0.jpg",
+    "questionArticle": {
+      "sound": "df4de8bac40fee63d195a125b484735a",
+      "soundAlias": "dis_incomplete_passage_text.mp3",
+      "time": [381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381],
+      "helpWords": [
+        ["crocodile"],
+        ["sly smile"],
+        ["can't see where"]
+      ],
+      "text": "If you explore the rainforest, you might _______ a crocodile. If you see one, you should _______ its sly smile. One moment it will be there and then... it will ______. And you can't see where it might be."
+    },
+    "article": {
+      "sound": "8d265f72398a1a0c4b4f79a09d6d86db",
+      "soundAlias": "dis_complete_passage_text.mp3",
+      "time": [381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381, 381],
+      "text": "If you explore the rainforest, you might discover a crocodile. If you see one, you should distrust its sly smile. One moment it will be there and then... it will disappear. And you can't see where it might be."
+    },
+    "choice": [{
+      "text": "discover",
+      "answer": 0
+    }, {
+      "text": "distrust",
+      "answer": 1
+    }, {
+      "text": "disappear",
+      "answer": 2
+    }]
+  }
+}

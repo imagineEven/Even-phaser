@@ -1,0 +1,81 @@
+{
+  "bookPages": [
+      {
+        "text": "    A bike is fun .Are you safe\nwhen you ride your bike? Here are\nsome **rules** to keep you safe:\n∗ Wear a **helmet**.\n∗ Do not ride your bike in the\nstreet.\n∗ Before you cross the street, look\nfor cars. Look left and right.\n∗ Ride on the sidewalk or on a\nbike **path**.\n∗ Keep both hands on your bike.\n∗ Know how to use the **brakes**.\n∗ Do not ride your bike in the\ndark."
+      },
+      {
+        "text": "   Be safe and have fun!"
+      }
+    ],
+  "question":[
+    {
+      "str": "How do you know you should pay attention to the word helmet\nand path?",
+      "choices": [
+        {"text":"They are bold words.",
+        "sound":"7a0a2857de914977d1a9887c029af6bc"},
+        {"text":"They are in the middle of the passage.",
+        "sound":"dc11329d605bdbf8fba8c02ce2a7cb6f"},
+        {"text":"They are in a list.",
+        "sound":"d61a95ace28e7b47633406189b84a79a"}
+      ],
+      "picId": 1
+    },
+    {
+      "str": "Why should you look left and right before you cross the street?",
+      "choices": [
+        {"text":"to look for cars.",
+          "sound":"e9f0870b0154953031c8e65fd061111a"},
+        {"text":"to stretch your neck.",
+        "sound":"41310cb756eff03f5eaeb1f086651bc4"},
+        {"text":"to look for your friends.",
+        "sound":"fcf1d072f6815ad22e98ddcf1665498c"}
+      ],
+      "picId": 2
+    },
+    {
+      "str": "What would be the best title for this passage?",
+      "choices": [
+        {"text":"Bike Safety.",
+        "sound":"2b22cadf03f320c2c134e6abd9925f72"},
+        {"text":"Wear a Helmet.",
+        "sound":"7d9c853d480da8450a5a620b52788f07"},
+        {"text":"Do Not Ride.",
+        "sound":"e047bce24a8b3ddf7e4cf4865800d6b8"}
+      ],
+      "picId": 3
+    }
+  ],
+  "questionSound":[
+    {"sound":"2c91dcaa21fdb979fff131be80625294"},
+    {"sound":"37e71390634f4dded1ef7cb721549f15"},
+    {"sound":"41e1e4ff3b362f6084c2cc5c6712776b"}
+  ],
+  "no":{
+    "sound":"2a47408f234e0ebad8265ef7f743819a"
+  },
+  "noLong":{
+    "sound":"f523f4fbf34b85fc243f723c7a3117e9"
+  },
+  "correct":{
+    "sound":"b2d948571d95eb5ccd66ea5c6b43e3cb"
+  },
+  "nextquestion":{
+    "sound":"8e83c059d59433d90d4c29dbe6e60491"
+  },
+  "letsTryAnother":{
+    "sound":"de52added91be1dee3134c30e44d72ef"
+  },
+  "clickRate":{
+    "sound":"b2d948571d95eb5ccd66ea5c6b43e3cb"
+  },
+  "clickeHere":{
+    "sound":"137c9641786f56a4d5843670335954b5"
+  },
+  "letsGo":{
+    "sound":"7f4cc729fdb959e35ea7c18692255010"
+  },
+  "clickAnswer":{
+    "sound":"3e01d3f41ea337c4316f4fa4cc054553"
+  }
+  
+}

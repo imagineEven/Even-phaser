@@ -1,0 +1,74 @@
+{
+  "bg": {
+    "image": "20af8f80fad61b246e85d5ecf501d97c.png"
+  },
+  "bg_pic": {
+    "image": "18868aa9de0bbeb34a9501163488cbdc.png"
+  },
+  "btn_finish": {
+    "image": "49bbf3b917caea8ba8d800567a9fa368.png"
+  },
+  "btn_finish_disable": {
+    "image": "ee84702caa19a5c66194b66ee02994ab.png"
+  },
+  "btn_next": {
+    "image": "c891ba348071e8582d661f0bff8004c3.png"
+  },
+  "btn_next_disable": {
+    "image": "411cb613b8a3db212f6114c617975dae.png"
+  },
+  "falseAudio": {
+    "sound": "fc093116823c02a765e7408f9ade882e.mp3"
+  },
+  "hl_center": {
+    "image": "0874a39bae1cc6785013da5bfc472ce3.png"
+  },
+  "hl_left": {
+    "image": "1cd3b0b312663c07360017edadb81e52.png"
+  },
+  "hl_right": {
+    "image": "ac1e5a7e14d5603c977c3cec07c0ee55.png"
+  },
+  "normal_center": {
+    "image": "7c71ab66037fc38db4f132406b02dd73.png"
+  },
+  "normal_left": {
+    "image": "ac4f3620ae624340b9c7576f22199ea1.png"
+  },
+  "normal_right": {
+    "image": "8490d2b65e6d34cfb1f0bf0ce82845b5.png"
+  },
+  "trueAudio": {
+    "sound": "406ff8a67e97315c58fa4235833ee032.mp3"
+  },
+  "wrong_center": {
+    "image": "869ebf56323d953f9a04175a745c6e5f.png"
+  },
+  "wrong_left": {
+    "image": "4670754044ab8dc57039d9cad42b666c.png"
+  },
+  "wrong_right": {
+    "image": "9c2f623595052f0851da34d280c0baa2.png"
+  },
+  "audiobg": {
+    "xml": "f0881fa6d412574fb7b6a3f512ecd69c"
+  },
+  "normal": {
+    "xml": "7181ee4286c488b2def711759f3ef3e2"
+  },
+  "right": {
+    "xml": "46a61446a5c7d08a1ef93d69fa42dc1f"
+  },
+  "wrong": {
+    "xml": "8d3144a952f3ea3f1dcd38b308f0d5a7"
+  },
+  "submit": {
+    "images": [
+      "9e7837127168effca395c4b5888fa345",
+      "f85762e40695dd9514c6ffa5373fccf4"
+    ]
+  },
+  "select": {
+    "xml": "18fa595fb93e2c45e922ec4b45d85578"
+  }
+}

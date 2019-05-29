@@ -1,0 +1,49 @@
+[{
+    "key": "wallow",
+    "oriPosition": {
+      "x": -50,
+      "y": 72
+    },
+    "targetPosition": {
+      "x": 148,
+      "y": 72
+    },
+    "delay": 0
+  },
+  {
+    "key": "hill",
+    "oriPosition": {
+      "x": -150,
+      "y": 160
+    },
+    "targetPosition": {
+      "x": -20,
+      "y": 160
+    },
+    "delay": 0
+  },
+  {
+    "key": "oneGrass",
+    "oriPosition": {
+      "x": 800,
+      "y": 196
+    },
+    "targetPosition": {
+      "x": 566,
+      "y": 196
+    },
+    "delay": 200
+  },
+  {
+    "key": "twoGrass",
+    "oriPosition": {
+      "x": 800,
+      "y": 91
+    },
+    "targetPosition": {
+      "x": 531,
+      "y": 91
+    },
+    "delay": 0
+  }
+]

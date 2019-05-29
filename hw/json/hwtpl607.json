@@ -1,0 +1,49 @@
+{
+    "firstAudio": {
+      "sound": "ce1537040d2b49f2dad87066f8899ed4",
+      "soundAlias": "DIR_Listen_to_the_sentence_and_find__the_missing_word.mp3"
+    },
+    "detail": "Listen to the sentence, and find  the missing word.",
+    "isRandom": true,
+    "pages": [
+      {
+        "msg": 0,
+        "sound": "b553783f4428a5a6541ce896101b98c3",
+        "soundAlias": "Stop_Bob_Stop!_STP1_Mat_is_mad.mp3",
+        "isHorizontal": false,
+        "sentence": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2024px%3B%22%3EMat%20is%20_____.%3C/span%3E%3C/p%3E",
+        "answer": 0,
+        "items": [
+          "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Emad%3C/p%3E",
+          "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Edad%3C/p%3E",
+          "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Efat%3C/p%3E"
+        ]
+      },
+      {
+        "msg": 0,
+        "sound": "de54cbf75942863ce1b855cba18b4340",
+        "soundAlias": "Stop_Bob_Stop!_STP2_Stop_Bob_That_is_bad!.mp3",
+        "isHorizontal": false,
+        "sentence": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2024px%3B%22%3E%22Stop%2C%20Bob.%20That%20is%20_____%21%22%3C/span%3E%3C/p%3E",
+        "answer": 0,
+        "items": [
+          "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Ebad%3C/p%3E",
+          "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Esad%3C/p%3E",
+          "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Emad%3C/p%3E"
+        ]
+      },
+      {
+        "msg": 0,
+        "sound": "8298e0b1fd9c7dbc65c488144c9d0a96",
+        "soundAlias": "Stop_Bob_Stop!_STP10_Mat_pats_Bob_and_Tom.mp3",
+        "isHorizontal": false,
+        "sentence": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2024px%3B%22%3EMat%20_____%20Bob%20and%20Tom.%3C/span%3E%3C/p%3E",
+        "answer": 0,
+        "items": [
+          "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Epats%3C/p%3E",
+          "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Emeets%3C/p%3E",
+          "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Esaw%3C/p%3E"
+        ]
+      }
+    ]
+  }

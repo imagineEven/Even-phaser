@@ -1,0 +1,1416 @@
+{
+    "graphic": [{
+            "title": true,
+            "image": "73e9a97fd3f210af82d88e6d57c67c16.jpg",
+            "text": [{
+                    "image": "3453cd5d4354cb0afcf63e28afd320f9",
+                    "sound": "86c23615c0a56258235a468ab2a2fe12",
+                    "x": 62,
+                    "y": 116
+                },
+                {
+                    "image": "d87e5cd6353badbbeab7a0e5d1275d1d",
+                    "sound": "778c75ea43ca693f58eb9be321a1322e",
+                    "x": 62,
+                    "y": 302
+                },
+                {
+                    "image": "09929a8debbea33b7c8fb38cfcf3ec2c",
+                    "sound": "60da4421b393e3f0132e6d248560b6b9",
+                    "x": 62,
+                    "y": 410
+                }
+            ]
+        },
+        {
+            "image": "aa9798ed96a15b6a942ba6270053e60e.jpg",
+            "wordIndex": [],
+            "fontSize": "12pt",
+            "text": [{
+                    "words": "Cast of Characters",
+                    "x": 30,
+                    "y": 115,
+                    "italic": false
+                },
+                {
+                    "words": "Detective Ace,\na smart detective",
+                    "x": 30,
+                    "y": 153,
+                    "italic": true
+                },
+                {
+                    "words": "Carmen Starr,\na beautiful actress",
+                    "x": 30,
+                    "y": 221
+                },
+                {
+                    "words": "Bob,\na stylish costumer",
+                    "x": 30,
+                    "y": 289
+                },
+                {
+                    "words": "Bonnie,\na sneezing supporting\nactress",
+                    "x": 30,
+                    "y": 357
+                },
+                {
+                    "words": "Barney,\na grumpy cameraman",
+                    "x": 30,
+                    "y": 455
+                }
+            ],
+            "keyWords": [{
+                "wordIndex": [],
+                "wordInfo": []
+            }]
+        },
+        {
+            "image": "d45105ea7c8bf0f26d07be747846112d.jpg",
+            "wordIndex": [
+                0,
+                16,
+                23,
+                24,
+                58,
+                59
+            ],
+            "fontSize": "12pt",
+            "text": [{
+                    "words": "Scene 1: Detective Ace's\noffice. He is working on the\nCase of the Bottle Bandit,\nsomeone who steals bottles of\nexpensive perfume. The\nphone rings.",
+                    "x": 30,
+                    "y": 75
+                },
+                {
+                    "words": "ACE: Hello?",
+                    "x": 30,
+                    "y": 243
+                },
+                {
+                    "words": "VOICE: Ace! Ace! Come\nquick! He's gone!",
+                    "x": 30,
+                    "y": 293
+                },
+                {
+                    "words": "ACE: Who's gone? Come\nwhere?",
+                    "x": 30,
+                    "y": 363
+                },
+                {
+                    "words": "VOICE: To the movie set.\nManny's missing!",
+                    "x": 30,
+                    "y": 433
+                }
+            ],
+            "keyWords": [{
+                    "wordIndex": [
+                        0
+                    ],
+                    "wordInfo": [{
+                            "text": "scene",
+                            "sound": [
+                                "04afa5cd785f9a63a5d01434b179bdee"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "A play is divided into scenes. During a scene, there\nis no change in time or\nlocation.",
+                            "sound": [
+                                "f9c121a4cbebac878e78935188e97553"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        16
+                    ],
+                    "wordInfo": [{
+                            "text": "bandit",
+                            "sound": [
+                                "02d65b27a83bd1a8ca223d974ed345e3"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "Someone who steals things.",
+                            "sound": [
+                                "ba16181b587deedd667f508970ceb231"
+                            ]
+                        },
+                        {
+                            "text": "synonym: crook",
+                            "sound": [
+                                "10aa5aac6cb2144f69d67467e3140f91",
+                                "6c85d0014a200ddef4a91025c76de235"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        23
+                    ],
+                    "wordInfo": [{
+                            "text": "expensive",
+                            "sound": [
+                                "31b9b84184580d7e9ab5bb93d24b39af"
+                            ]
+                        },
+                        {
+                            "text": "adjective",
+                            "sound": [
+                                "6eaf337aa8603cc8f9138b6077fa5c46"
+                            ]
+                        },
+                        {
+                            "text": "Describes something that costs a lot\nof money, like perfume.",
+                            "sound": [
+                                "d588cb3ae34f5dba34ebae3b02878bde"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        24
+                    ],
+                    "wordInfo": [{
+                            "text": "perfume",
+                            "sound": [
+                                "4380e0ce1be8fdeab49eb868fa39d788"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "A liquid used to give people or things\na good scent.",
+                            "sound": [
+                                "d2a0c037f1e7c185cb214718ed46cba1"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        58,
+                        59
+                    ],
+                    "wordInfo": [{
+                            "text": "movie set",
+                            "sound": [
+                                "5d523e053a239df4bfd180f5117449f3"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "Where movies are made.",
+                            "sound": [
+                                "ed08ff332dfd241f5e75ea0fc939ad4b"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image": "99e06d7d743ea966c1e210684a85eabc.jpg",
+            "wordIndex": [
+                0,
+                28
+            ],
+            "fontSize": "12pt",
+            "text": [{
+                    "words": "Scene 2: The set of a pirate\nmovie. Detective Ace enters.",
+                    "x": 30,
+                    "y": 50
+                },
+                {
+                    "words": "CARMEN: I'm so glad you're\nhere. It's just terrible. My own\ncostar—missing! Maybe I'll be\nnext.",
+                    "x": 30,
+                    "y": 125
+                },
+                {
+                    "words": "ACE: So Manny is your costar.\nCan you describe him for me,\nMiss—?",
+                    "x": 30,
+                    "y": 240
+                },
+                {
+                    "words": "CARMEN: Carmen. Carmen\nStarr. Well, he has nice green\neyes, a loud voice, and stands\nabout 2 feet tall.",
+                    "x": 30,
+                    "y": 335
+                },
+                {
+                    "words": "Ace looks surprised.",
+                    "x": 30,
+                    "y": 450
+                },
+                {
+                    "words": "CARMEN: Oh, I didn't tell you?\nHe's a parrot.",
+                    "x": 30,
+                    "y": 495
+                }
+            ],
+            "keyWords": [{
+                    "wordIndex": [
+                        0
+                    ],
+                    "wordInfo": [{
+                            "text": "scene",
+                            "sound": [
+                                "04afa5cd785f9a63a5d01434b179bdee"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "A play is divided into scenes. During a\nscene, there is no change in time or\nlocation.",
+                            "sound": [
+                                "f9c121a4cbebac878e78935188e97553"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        28
+                    ],
+                    "wordInfo": [{
+                            "text": "costar",
+                            "sound": [
+                                "497c6466de8b68c245bebc5e34ef287e"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "Actors or actresses who share the two\nmain roles. If there are two main\ncharacters in a movie, they are\ncostars.",
+                            "sound": [
+                                "8628f9a1c2a2b4d16a80952ba1c3b800"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image": "cd5392a1d1393fb6df2b666e40325155.jpg",
+            "wordIndex": [
+                25
+            ],
+            "fontSize": "12pt",
+            "text": [{
+                    "words": "CARMEN: He was taken last\nnight. The good news is the\nmovie camera was left on by\nmistake, so we caught his\nkidnapper on tape.",
+                    "x": 30,
+                    "y": 80
+                },
+                {
+                    "words": "ACE: So who did it?",
+                    "x": 30,
+                    "y": 220
+                },
+                {
+                    "words": "CARMEN: That's the bad news.\nThe camera ran out when\nManny was naming his\nkidnapper!",
+                    "x": 30,
+                    "y": 260
+                },
+                {
+                    "words": "Carmen plays the film, and we\nsee Manny say, \"I should have\nknown it would be you, Bah—!\"",
+                    "x": 30,
+                    "y": 380
+                }
+            ],
+            "keyWords": [{
+                "wordIndex": [
+                    25
+                ],
+                "wordInfo": [{
+                        "text": "kidnapper",
+                        "sound": [
+                            "24d9875c71fd34015a6ee4e9b3d63166"
+                        ]
+                    },
+                    {
+                        "text": "noun",
+                        "sound": [
+                            "c8aff4b9e3f399f49a8cb064518da7c9"
+                        ]
+                    },
+                    {
+                        "text": "Someone who takes a child or other\nperson away without permission.",
+                        "sound": [
+                            "996644ad881dc12b003c0f113d76ee2f"
+                        ]
+                    }
+                ]
+            }]
+        },
+        {
+            "image": "914882d8cd2bd9dcdd82576f99cf8e1d.jpg",
+            "wordIndex": [
+                30
+            ],
+            "fontSize": "12pt",
+            "text": [{
+                "words": "ACE: Bah, huh? Get me a list\nof everybody on the set\nwhose name begins with the\nsound  \"bah.\" We'll find that\nbird bandit!",
+                "x": 27,
+                "y": 130
+            }],
+            "keyWords": [{
+                "wordIndex": [
+                    30
+                ],
+                "wordInfo": [{
+                        "text": "bandit",
+                        "sound": [
+                            "02d65b27a83bd1a8ca223d974ed345e3"
+                        ]
+                    },
+                    {
+                        "text": "noun",
+                        "sound": [
+                            "c8aff4b9e3f399f49a8cb064518da7c9"
+                        ]
+                    },
+                    {
+                        "text": "Someone who steals things.",
+                        "sound": [
+                            "ba16181b587deedd667f508970ceb231"
+                        ]
+                    },
+                    {
+                        "text": "synonym: crook",
+                        "sound": [
+                            "10aa5aac6cb2144f69d67467e3140f91",
+                            "6c85d0014a200ddef4a91025c76de235"
+                        ]
+                    }
+                ]
+            }]
+        },
+        {
+            "image": "e7f74bd50bc0870f1d4a8d96068cce62.jpg",
+            "wordIndex": [
+                0
+            ],
+            "fontSize": "12pt",
+            "text": [{
+                    "words": "Scene 3: Costume shop. There\nare costume pieces\neverywhere. Ace interviews Bob.",
+                    "x": 30,
+                    "y": 50
+                },
+                {
+                    "words": "ACE: So, Bob, you made all the\ncostumes for this movie, right?",
+                    "x": 30,
+                    "y": 140
+                },
+                {
+                    "words": "BOB: Yeah. Another pirate\nmovie. Big deal.",
+                    "x": 30,
+                    "y": 210
+                },
+                {
+                    "words": "Ace raises his eyebrows.",
+                    "x": 30,
+                    "y": 280
+                },
+                {
+                    "words": "BOB: Don't get me wrong. I love\nManny. But I hate pirate movies!\nI'd do anything to make some\ncool alien costumes!",
+                    "x": 30,
+                    "y": 330
+                }
+            ],
+            "keyWords": [{
+                "wordIndex": [
+                    0
+                ],
+                "wordInfo": [{
+                        "text": "scene",
+                        "sound": [
+                            "04afa5cd785f9a63a5d01434b179bdee"
+                        ]
+                    },
+                    {
+                        "text": "noun",
+                        "sound": [
+                            "c8aff4b9e3f399f49a8cb064518da7c9"
+                        ]
+                    },
+                    {
+                        "text": "A play is divided into scenes. During a\nscene, there is no change in time or\nlocation.",
+                        "sound": [
+                            "f9c121a4cbebac878e78935188e97553"
+                        ]
+                    }
+                ]
+            }]
+        },
+        {
+            "image": "a0c1e61fee725748a9818a0c433e5b95.jpg",
+            "wordIndex": [
+                0,
+                14
+            ],
+            "fontSize": "12pt",
+            "text": [{
+                    "words": "Scene 4: Bonnie's dressing\nroom. Bonnie, the supporting\nactress, is allergic to\neverything.",
+                    "x": 30,
+                    "y": 50
+                },
+                {
+                    "words": "BONNIE: I didn't do it! Manny\nand I were almost costars!\nUntil I found out I was...\nACHOO!",
+                    "x": 30,
+                    "y": 180
+                },
+                {
+                    "words": "ACE: Allergic to feathers?\nSeems like a good reason to\nget rid of a parrot.",
+                    "x": 30,
+                    "y": 310
+                },
+                {
+                    "words": "BONNIE: But it couldn't have\nbeen me. I was on vacation\nall week. I just got back today!",
+                    "x": 30,
+                    "y": 410
+                }
+            ],
+            "keyWords": [{
+                    "wordIndex": [
+                        0
+                    ],
+                    "wordInfo": [{
+                            "text": "scene",
+                            "sound": [
+                                "04afa5cd785f9a63a5d01434b179bdee"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "A play is divided into scenes. During a\nscene, there is no change in time or\nlocation.",
+                            "sound": [
+                                "f9c121a4cbebac878e78935188e97553"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        14
+                    ],
+                    "wordInfo": [{
+                            "text": "allergic",
+                            "sound": [
+                                "b4a6f337865854069c7bc72933d73291"
+                            ]
+                        },
+                        {
+                            "text": "adjective",
+                            "sound": [
+                                "6eaf337aa8603cc8f9138b6077fa5c46"
+                            ]
+                        },
+                        {
+                            "text": "Describes a person who has a bad\nreaction to something. If people are\nallergic to flowers, they might sneeze\na lot.",
+                            "sound": [
+                                "6122c1ccd3013722ec2a94a2b1bf0c95"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image": "642a396bfcabf36ae0938212ac45b68e.jpg",
+            "fontSize": "12pt",
+            "wordIndex": [
+                0,
+                53,
+                54,
+                55,
+                67,
+                68
+            ],
+            "text": [{
+                    "words": "Scene 5: Backstage. Ace\ninterviews Barney, the short,\nstubby cameraman.",
+                    "x": 30,
+                    "y": 40
+                },
+                {
+                    "words": "ACE: So, Barney. Have you\nalways wanted to be a\ncameraman?",
+                    "x": 30,
+                    "y": 135
+                },
+                {
+                    "words": "BARNEY: No way! I wanted to be\nthe director, but they hired me\nas a cameraman instead. They\nwere headed for trouble.",
+                    "x": 30,
+                    "y": 230
+                },
+                {
+                    "words": "ACE: So for revenge you got rid\nof the main character?",
+                    "x": 30,
+                    "y": 350
+                },
+                {
+                    "words": "BARNEY: Hey! That ain't fair. It\nwasn't me. Besides, why would I\nhave left the camera on if I was\nplanning to steal the bird? It just\ndon't make sense.",
+                    "x": 30,
+                    "y": 420
+                }
+            ],
+            "keyWords": [{
+                    "wordIndex": [
+                        0
+                    ],
+                    "wordInfo": [{
+                            "text": "scene",
+                            "sound": [
+                                "04afa5cd785f9a63a5d01434b179bdee"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "A play is divided into scenes. During a\nscene, there is no change in time or\nlocation.",
+                            "sound": [
+                                "f9c121a4cbebac878e78935188e97553"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        53,
+                        54,
+                        55
+                    ],
+                    "wordInfo": [{
+                            "text": "headed for trouble",
+                            "sound": [
+                                "d3de40d7625412a63a977e13c8ddaa58"
+                            ]
+                        },
+                        {
+                            "text": "misc",
+                            "sound": [
+                                ""
+                            ]
+                        },
+                        {
+                            "text": "An idiom that means something bad is\ngoing to happen because of your\ndecisions.",
+                            "sound": [
+                                "d53c4f7b82702b71f9f4939833043072"
+                            ]
+                        },
+                        {
+                            "text": "idiom",
+                            "sound": [
+                                "db9cd4821ec9333f47cdcb7814f16f1b"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        67,
+                        68
+                    ],
+                    "wordInfo": [{
+                            "text": "main character",
+                            "sound": [
+                                "95a3e91c6d6292c978d5ef4d340d842a"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "The person who is most important in a\nplay or story.",
+                            "sound": [
+                                "510a2f2afa713b8a15a0b76ef6de3f5b"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image": "e6cce33a069d8a2fdadf2efce7cb4093.jpg",
+            "wordIndex": [
+                21
+            ],
+            "fontSize": "12pt",
+            "text": [{
+                    "words": "Just then, Carmen walks by.\nBoth men nearly fall over.",
+                    "x": 30,
+                    "y": 70
+                },
+                {
+                    "words": "BARNEY: calling out behind\nher, Nice perfume, Miss Starr.",
+                    "x": 30,
+                    "y": 150
+                },
+                {
+                    "words": "Ace laughs, and then stops.\nHe thinks for a minute and\nthen...",
+                    "x": 30,
+                    "y": 230
+                },
+                {
+                    "words": "ACE: That's it! I know who did\nit! Barney, gather everybody\ntogether and meet me back\nhere in five minutes!",
+                    "x": 30,
+                    "y": 330
+                }
+            ],
+            "keyWords": [{
+                "wordIndex": [
+                    21
+                ],
+                "wordInfo": [{
+                        "text": "perfume",
+                        "sound": [
+                            "4380e0ce1be8fdeab49eb868fa39d788"
+                        ]
+                    },
+                    {
+                        "text": "noun",
+                        "sound": [
+                            "c8aff4b9e3f399f49a8cb064518da7c9"
+                        ]
+                    },
+                    {
+                        "text": "A liquid used to give people or things a\ngood scent.",
+                        "sound": [
+                            "d2a0c037f1e7c185cb214718ed46cba1"
+                        ]
+                    }
+                ]
+            }]
+        },
+        {
+            "image": "73e9a97fd3f210af82d88e6d57c67c16.jpg",
+            "wordIndex": [
+                0,
+                70
+            ],
+            "fontSize": "12pt",
+            "text": [{
+                    "words": "Scene 6: Backstage, five\nminutes later. Bob, Bonnie,\nand Barney are nervous.\nCarmen is excited.",
+                    "x": 22,
+                    "y": 50
+                },
+                {
+                    "words": "CARMEN: So, Ace! Did you\nfigure out which one of these\ncrooks took Manny?",
+                    "x": 22,
+                    "y": 170
+                },
+                {
+                    "words": "ACE: Yes. It wasn't Bob. Or\nBonnie. Or Barney. No,\nsomeone else had an even\nbetter reason to keep Manny\nquiet.",
+                    "x": 22,
+                    "y": 260
+                },
+                {
+                    "words": "The three suspects are\nrelieved. Carmen is confused.",
+                    "x": 22,
+                    "y": 410
+                },
+                {
+                    "words": "CARMEN: Well, then who took\nManny?",
+                    "x": 22,
+                    "y": 480
+                }
+            ],
+            "keyWords": [{
+                    "wordIndex": [
+                        0
+                    ],
+                    "wordInfo": [{
+                            "text": "scene",
+                            "sound": [
+                                "04afa5cd785f9a63a5d01434b179bdee"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "A play is divided into scenes. During a\nscene, there is no change in time or\nlocation.",
+                            "sound": [
+                                "f9c121a4cbebac878e78935188e97553"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        70
+                    ],
+                    "wordInfo": [{
+                            "text": "suspect",
+                            "sound": [
+                                "8e3cca35cc5b535035c096154e2220a8"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "A person that others think did\nsomething bad, like break the law.",
+                            "sound": [
+                                "fa1612d3f09570816791e833469be837"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image": "2b1cb25a885d5367582aefd41a6ec679.jpg",
+            "wordIndex": [
+                18,
+                26,
+                40,
+                43,
+                48
+            ],
+            "fontSize": "12pt",
+            "text": [{
+                    "words": "ACE: You did, Miss Starr. Or\nshould we call you... the Bottle\nBandit?",
+                    "x": 22,
+                    "y": 70
+                },
+                {
+                    "words": "Bob, Bonnie, and Barney gasp.",
+                    "x": 22,
+                    "y": 170
+                },
+                {
+                    "words": "BONNIE: She's the Bottle Bandit?\nThe one who keeps stealing\nexpensive per-per-per-CHOO!\nPerfumes?",
+                    "x": 22,
+                    "y": 220
+                },
+                {
+                    "words": "Carmen tries to escape, but\nthey catch her first.",
+                    "x": 22,
+                    "y": 340
+                },
+                {
+                    "words": "CARMEN: Let go! You can't do\nthis to me!",
+                    "x": 22,
+                    "y": 415
+                }
+            ],
+            "keyWords": [{
+                    "wordIndex": [
+                        18
+                    ],
+                    "wordInfo": [{
+                            "text": "bandit",
+                            "sound": [
+                                "02d65b27a83bd1a8ca223d974ed345e3"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "Someone who steals things.",
+                            "sound": [
+                                "ba16181b587deedd667f508970ceb231"
+                            ]
+                        },
+                        {
+                            "text": "synonym: crook",
+                            "sound": [
+                                "10aa5aac6cb2144f69d67467e3140f91",
+                                "6c85d0014a200ddef4a91025c76de235"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        26
+                    ],
+                    "wordInfo": [{
+                            "text": "gasp",
+                            "sound": [
+                                "88969583ee2db6cee9bc7544989e6aa8"
+                            ]
+                        },
+                        {
+                            "text": "verb",
+                            "sound": [
+                                "87c995e56b74741ab0c258639f3204a9"
+                            ]
+                        },
+                        {
+                            "text": "To take a quick, short breath in when\nyou are surprised.",
+                            "sound": [
+                                "2f1c67e506baa9d7a1be86290d66fd08"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        40
+                    ],
+                    "wordInfo": [{
+                            "text": "expensive",
+                            "sound": [
+                                "31b9b84184580d7e9ab5bb93d24b39af"
+                            ]
+                        },
+                        {
+                            "text": "adjective",
+                            "sound": [
+                                "6eaf337aa8603cc8f9138b6077fa5c46"
+                            ]
+                        },
+                        {
+                            "text": "Describes something that costs a lot\nof money, like perfume.",
+                            "sound": [
+                                "d588cb3ae34f5dba34ebae3b02878bde"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        43
+                    ],
+                    "wordInfo": [{
+                            "text": "perfume",
+                            "sound": [
+                                "4380e0ce1be8fdeab49eb868fa39d788"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "A liquid used to give people or things\na good scent.",
+                            "sound": [
+                                "d2a0c037f1e7c185cb214718ed46cba1"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        48
+                    ],
+                    "wordInfo": [{
+                            "text": "escape",
+                            "sound": [
+                                "45825d9ca77a5a5fc95d9c3786d7ff65"
+                            ]
+                        },
+                        {
+                            "text": "verb",
+                            "sound": [
+                                "87c995e56b74741ab0c258639f3204a9"
+                            ]
+                        },
+                        {
+                            "text": "To get away before someone catches you.",
+                            "sound": [
+                                "45540ca1b2f0fc3181df280c490675c2"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image": "21afefb3f469dbff31f58b94d570945a.jpg",
+            "fontSize": "12pt",
+            "wordIndex": [
+                9,
+                17,
+                38,
+                51
+            ],
+            "text": [{
+                    "words": "ACE: I found this article about\nthe Bottle Bandit under Manny's\ncage. He discovered her\nidentity, so Carmen had to get\nrid of him before he told the\npolice.",
+                    "x": 22,
+                    "y": 70
+                },
+                {
+                    "words": "CARMEN: You have no proof!",
+                    "x": 22,
+                    "y": 240
+                },
+                {
+                    "words": "ACE: No?",
+                    "x": 22,
+                    "y": 290
+                },
+                {
+                    "words": "Ace empties out Carmen's\npurse, and perfume bottles and\nparrot feathers fall out.",
+                    "x": 22,
+                    "y": 340
+                },
+                {
+                    "words": "ACE: Manny wasn't saying Bob,\nBonnie, or Barney. He was\ncalling you the \"Bottle Bandit.\"",
+                    "x": 22,
+                    "y": 440
+                }
+            ],
+            "keyWords": [{
+                    "wordIndex": [
+                        9
+                    ],
+                    "wordInfo": [{
+                            "text": "bandit",
+                            "sound": [
+                                "02d65b27a83bd1a8ca223d974ed345e3"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "Someone who steals things.",
+                            "sound": [
+                                "ba16181b587deedd667f508970ceb231"
+                            ]
+                        },
+                        {
+                            "text": "synonym: crook",
+                            "sound": [
+                                "10aa5aac6cb2144f69d67467e3140f91",
+                                "6c85d0014a200ddef4a91025c76de235"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        17
+                    ],
+                    "wordInfo": [{
+                            "text": "identity",
+                            "sound": [
+                                "0ba070f129a351159e7cf463f2c7a19f"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "Your name or other title that describes\nwho you are.",
+                            "sound": [
+                                "c3697f525ea85b2e633f401b3dffb86e"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        38
+                    ],
+                    "wordInfo": [{
+                            "text": "proof",
+                            "sound": [
+                                "30fd604c6f66a6d357da10245f6647f8"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "Facts that show something is true.",
+                            "sound": [
+                                "edb159c20b8e32a13d7be218b91a3804"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        51
+                    ],
+                    "wordInfo": [{
+                            "text": "perfume",
+                            "sound": [
+                                "4380e0ce1be8fdeab49eb868fa39d788"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "A liquid used to give people or things\na good scent.",
+                            "sound": [
+                                "d2a0c037f1e7c185cb214718ed46cba1"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image": "21afefb3f469dbff31f58b94d570945a.jpg",
+            "fontSize": "12pt",
+            "wordIndex": [
+                5,
+                13,
+                29
+            ],
+            "text": [{
+                    "words": "BARNEY: So, Bottle Bandit,\nwhere's the bird?",
+                    "x": 22,
+                    "y": 90
+                },
+                {
+                    "words": "CARMEN: defeated, At the city\nzoo. I told them he went crazy,\nso they'd ignore everything he\nsaid. They were happy to get a\ntalking parrot. I was happy to\nput him behind bars.",
+                    "x": 22,
+                    "y": 170
+                },
+                {
+                    "words": "ACE: And now, you'll be the only\none behind bars. Now that we\nknow where to find Manny, the\nCase of the Missing Manny—\nand the Bottle Bandit—is closed.",
+                    "x": 22,
+                    "y": 340
+                }
+            ],
+            "keyWords": [{
+                    "wordIndex": [
+                        5
+                    ],
+                    "wordInfo": [{
+                            "text": "bandit",
+                            "sound": [
+                                "02d65b27a83bd1a8ca223d974ed345e3"
+                            ]
+                        },
+                        {
+                            "text": "noun",
+                            "sound": [
+                                "c8aff4b9e3f399f49a8cb064518da7c9"
+                            ]
+                        },
+                        {
+                            "text": "Someone who steals things.",
+                            "sound": [
+                                "ba16181b587deedd667f508970ceb231"
+                            ]
+                        },
+                        {
+                            "text": "synonym: crook",
+                            "sound": [
+                                "10aa5aac6cb2144f69d67467e3140f91",
+                                "6c85d0014a200ddef4a91025c76de235"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        13
+                    ],
+                    "wordInfo": [{
+                            "text": "defeated",
+                            "sound": [
+                                "b96a4cb1ec66a4c1a1818a0a152b0c3b"
+                            ]
+                        },
+                        {
+                            "text": "adjective",
+                            "sound": [
+                                "6eaf337aa8603cc8f9138b6077fa5c46"
+                            ]
+                        },
+                        {
+                            "text": "Describes someone who has given\nup.",
+                            "sound": [
+                                "8f3f52c5dedcf84b0c8a133b3ea974c8"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "wordIndex": [
+                        29
+                    ],
+                    "wordInfo": [{
+                            "text": "ignore",
+                            "sound": [
+                                "a2e289a0a6140110f92e30f651a8696a"
+                            ]
+                        },
+                        {
+                            "text": "verb",
+                            "sound": [
+                                "87c995e56b74741ab0c258639f3204a9"
+                            ]
+                        },
+                        {
+                            "text": "To act like you can't see or hear\nsomeone.",
+                            "sound": [
+                                "ffc2bcf88e342468f30f655ebb195135"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "questions": [{
+            "question": "Why does Ace suspect Bob, Barney, and Bonnie of taking\nManny?",
+            "tipIndex": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "tipSound": {
+                "sound": "6ea43d518fdb6f771dfa4888908a3f1b"
+            },
+            "tipImg": {
+                "image": "c65c14e11a96afa255a55bb45d7b9c7d.png",
+                "y": 500
+            },
+            "tipPopIndex": [
+                10
+            ],
+            "secondTipPop": [{
+                    "popIndex": 10,
+                    "readIndex": [
+                        22,
+                        23,
+                        24,
+                        25,
+                        26,
+                        27,
+                        28,
+                        29,
+                        30,
+                        31,
+                        32,
+                        33,
+                        34,
+                        35,
+                        36,
+                        37,
+                        38,
+                        39
+                    ],
+                    "sound": [
+                        "50702507900cc3b1fb1e0004318d7c1e"
+                    ]
+                },
+                {
+                    "popIndex": 10,
+                    "readIndex": [
+                        40,
+                        41,
+                        42,
+                        43,
+                        44,
+                        45,
+                        46,
+                        47,
+                        48,
+                        49,
+                        50,
+                        51,
+                        52,
+                        53,
+                        54,
+                        55,
+                        56,
+                        57,
+                        58,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        64,
+                        65,
+                        66,
+                        67
+                    ],
+                    "sound": [
+                        "4bccbca3e207493c47525a04e1f0f1d8"
+                    ]
+                }
+            ],
+            "options": [{
+                    "isRight": true,
+                    "words": "They each had a reason to want Manny gone."
+                },
+                {
+                    "words": "They each needed the money they could get from selling\nManny."
+                },
+                {
+                    "words": "They each had read the article about the Bottle Bandit."
+                }
+            ]
+        },
+        {
+            "question": "When you read the play The Case of Missing Manny, what\nshows you that a character is speaking?",
+            "tipIndex": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "tipSound": {
+                "sound": "cccb9939719481e48f6d4b6f9a892d02"
+            },
+            "tipImg": {
+                "image": "1d5bb374d0462d2a0e446f078d660f93.png",
+                "y": 500
+            },
+            "secondTipPop": [{
+                    "popIndex": 2,
+                    "readIndex": [],
+                    "sound": [
+                        "2d8ba42d53628f6bad272fbd2b93c8e4"
+                    ]
+                },
+                {
+                    "popIndex": 2,
+                    "readIndex": [
+                        30,
+                        31,
+                        32,
+                        33
+                    ],
+                    "sound": [
+                        "07113f36ae48d4ac7a5806f547db9137"
+                    ]
+                }
+            ],
+            "options": [{
+                    "words": "capital letters.",
+                    "isRight": true
+                },
+                {
+                    "words": "lowercase letters."
+                },
+                {
+                    "words": "bolded letters."
+                }
+            ]
+        },
+        {
+            "question": "What clues did Ace find in Carmen's purse?",
+            "tipIndex": [
+                1,
+                5,
+                6,
+                7
+            ],
+            "tipSound": {
+                "sound": "79cb9e605b8238b163fd0f7a0844981d"
+            },
+            "tipImg": {
+                "image": "c65c14e11a96afa255a55bb45d7b9c7d.png",
+                "y": 500
+            },
+            "secondTipPop": [{
+                "popIndex": 12,
+                "readIndex": [
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58
+                ],
+                "sound": [
+                    "7dec01cf724f9ecd92f9d4ed1c1cf80b"
+                ]
+            }],
+            "options": [{
+                    "words": "a newspaper article about the Bottle Bandit"
+                },
+                {
+                    "words": "bird seed and a zoo ticket"
+                },
+                {
+                    "isRight": true,
+                    "words": "feathers and perfume bottles"
+                }
+            ]
+        }
+    ]
+}

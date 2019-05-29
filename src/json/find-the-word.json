@@ -1,0 +1,113 @@
+{
+  "pageSizeFill": "#000000",
+  "highLightFill": "#FC6D19",
+  "pages": [
+    {
+      "bg": "14b8ade81a008f8e15a1f244b261df99.jpg",
+      "str": "Flying Seeds\nSome seeds have wings like an airplane's. They glide *through *the air*. The seed of\nan Asian climbing gourd has **long wings**. It glides in large, **wide circles**. Other\nseeds **fly *like *a *helicopter** or drift like a parachute.",
+      "wavboy": "f0a69d61e7e761afe4c20d0efef9174e",
+      "wavgirl": ["c8ad1d5af369fba054cf7440b2bd90bb"],
+      "sample": {
+        "pic": "",
+        "str": [
+          "sad",
+          "mad"
+        ],
+        "word-wavs": [
+          "622d17b77c2dc1243c786854bb199346",
+          "ccb769e8142564e91ccd117504ffd4b3"
+        ]
+      },
+      "correct-word": "Favorite",
+      "position": {
+        "x": 30,
+        "y": 450
+      },
+      "style": {
+        "fontSize": "14pt",
+        "fill": "#000000",
+        "font": "Century Gothic"
+      }
+    },
+    {
+      "bg": "12ae2a429d76847988e429905480005e.jpg",
+      "str": "    Rosa walked into the kitchen the next morning to check on\nher poster. It was **missing**！ **Panicked**, she yelled, \"Mom, I can't\nfind my **favorite** things poster!\"\n   \"Where did you leave it?\"Mom asked.\n   \"On the **kitchen** table, \"Rosa said.\n   \"What does it look like ？\"Mom asked.",
+      "wavboy": "3b78f8575de41fd3d804a912dca4a1c2",
+      "wavgirl": "86d5f753f7728635383fc4e36713aa6e",
+      "sample": {
+        "pic": "23f1ca5b102a53fa2dc507213663c271",
+        "str": [
+          "sad",
+          "mad"
+        ],
+        "word-wavs": [
+          "622d17b77c2dc1243c786854bb199346",
+          "ccb769e8142564e91ccd117504ffd4b3"
+        ]
+      },
+      "correct-word": "Panicked",
+      "position": {
+        "x": 50,
+        "y": 35
+      },
+      "style": {
+        "fontSize": "16pt",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }
+    },
+    {
+      "bg": "083a26f58e2ad62cab14a910f686f01c.jpg",
+      "str": "    \"It has some of my favorite things glued to it, \"Rosa said.\n    \"You glued your favorite things?\" Mom cried.\n    \"Well, I **couldn't** glue Max, so I glued his old toy, Mr. Fuzzy. I also\n **included** a daisy and **pictures** of you, Dad, and Joel,\" Rosa said.",
+      "wavboy": "613c937e78a430584b6aba9d97d411d5",
+      "wavgirl": "c94b7b34192e984a274328c9beb76693",
+      "sample": {
+        "pic": "",
+        "str": [
+          "is"
+        ],
+        "word-wavs": [
+          "613c937e78a430584b6aba9d97d411d5"
+        ]
+      },
+      "correct-word": "included",
+      "position": {
+        "x": 35,
+        "y": 35
+      },
+      "style": {
+        "fontSize": "16pt",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }
+    },
+    {
+      "bg": "99c2a37f98eafd22c96001ed50cf8cd5.jpg",
+      "str": "  So Rosa took her posten to school. When she **presented** it to her\nclass, she said \"My poster shows my favorite things: my family and\nmy dog. But since I couldn't glue my dog to the **poster**, I glued his\nold **favorite** toy, Mr. Fuzzy. Max liked the poster so much he \ndecided to chew it. I hope you like the poster too!\"",
+      "wavboy": "ee73f4356dca231815c9ede3f798234b",
+      "wavgirl": "156e0530ffd0056305f46799df9ac350",
+      "sample": {
+        "pic": "23f1ca5b102a53fa2dc507213663c271",
+        "str": [
+          "Dad",
+          "mad"
+        ],
+        "word-wavs": [
+          "ee73f4356dca231815c9ede3f798234b",
+
+          "ccb769e8142564e91ccd117504ffd4b3"
+        ]
+      },
+      "correct-word": "presented",
+      "position": {
+        "x": 35,
+        "y": 35
+      },
+      "style": {
+        "fontSize": "16pt",
+        "fill": "#000",
+        "font": "Century Gothic"
+      }
+    }
+  ]
+}

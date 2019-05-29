@@ -1,0 +1,225 @@
+{
+  "background": {
+    "image": "e464e6657ba09f0b3c576159c04b9d29.jpg"
+  },
+  "intro": {
+    "sound": "40ac4636d6ceca9c50bbe1257b4e3f8e"
+  },
+  "fireworksStill": {
+    "image": "61e84b42c70e11a3246afc51a21fb4a7.jpg",
+    "video":"4091ab77184d79f41447ee5ddf47a32e",
+    "sound":"4091ab77184d79f41447ee5ddf47a32e"
+  },
+  "staticPieces": [{
+    "image": "64ffa4edd1772090fe10fff949857e64",
+    "pos": {
+      "x": 0,
+      "y": 197
+    }
+  }, {
+    "image": "a74db05fcb9aa6e5a243d2707178c632",
+    "pos": {
+      "x": 34,
+      "y": 337
+    }
+  }],
+  "pages": [{
+    "target": {
+      "sound": "488c1f23b1bc990cbcb55d749b647479",
+      "image": "2fe05933b19417c1c9afdcb1e11aa7af",
+      "pos": {
+        "x": 0,
+        "y": 352
+      }
+    },
+
+    "order": {
+      "text": "on",
+      "sound": "015b1c4d949eec8919eddb2e699479ab",
+      "x": 383,
+      "y": 551
+    },
+
+    "artifact": {
+      "default": {
+        "image": "b0b7e3582c05adea50bf89121ed50f70"
+      },
+      "hover": {
+        "image": "9fc9da80b1a4b827f72d989223760772"
+      },
+      "icon": {
+        "image": "7cea6fc8ca71d38be3827042d4103f95"
+      },
+      "iconHover": {
+        "image": "49be07e8b94fc6e9c44e0c3085788014"
+      },
+      "name": {
+        "sound": "3eab110d2e15e6061cf1f8a98e1e95bd"
+      },
+      "pos": {
+        "x": 620,
+        "y": 480
+      }
+    },
+    "artifactCorrect": {
+      "default": {
+        "image": "ea3dd275d3f79bd995731afd86962209",
+        "pos": {
+          "x": 418,
+          "y": 407
+        }
+      },
+      "hover": {
+        "image": "9f87ea92030aa0c5e69aa2a9a1931951",
+        "pos": {
+          "x": 420,
+          "y": 395
+        }
+      }
+    },
+    "video": "df068c4c74ea49383d6d5d6993ba32fe",
+    "sound": "df068c4c74ea49383d6d5d6993ba32fe",
+    "slots": [{
+      "text": "on",
+      "sound": "015b1c4d949eec8919eddb2e699479ab",
+      "default": {
+        "image": "3505836e20547abbac5d87137d713cb4"
+      },
+      "hover": {
+        "image": "0f586316c832a135e5ec345767d6b38f"
+      },
+      "pos": {
+        "x": 418,
+        "y": 407  
+      },
+      "isCorrect": true
+    }, {
+      "text": "top",
+      "sound": "0b2cef5c359474bdb97682bf4ab3ccf1",
+      "default": {
+        "image": "724943a51023f15c6983059fc522158a"
+      },
+      "hover": {
+        "image": "6fdd3164abd8e2ec700fcb884479ae66"
+      },
+      "pos": {
+        "x": 90,
+        "y": 137
+      },
+      "isCorrect": false
+    }, {
+      "text": "away from",
+      "sound": "fccb144afefa18517b0b2f8bf53b8aa1",
+      "default": {
+        "image": "a01611a8aa58395b58144d93cc159bc6"
+      },
+      "hover": {
+        "image": "ca73c2f413d7249e4c922f341de1ebfd"
+      },
+      "pos": {
+        "x": 395,
+        "y": 231
+      },
+      "isCorrect": false
+    }]
+  }, {
+    "target": {
+      "sound": "dc19cccd74efd5eb1d5b8d4ac7a0b89e",
+      "image": "ce8027dddc37ad7f4b0faa160609eaad",
+      "pos": {
+        "x": 446,
+        "y": 151
+      }
+    },
+
+    "order": {
+      "text": "away from",
+      "sound": "0b2cef5c359474bdb97682bf4ab3ccf1",
+      "x": 335,
+      "y": 551
+    },
+
+    "artifact": {
+      "default": {
+        "image": "537107aaa6225cc1a67082064175c41a"
+      },
+      "hover": {
+        "image": "d436a194f5266def05606ab751a519a9"
+      },
+      "icon": {
+        "image": "ac1dbbe477bd02897091e3a8abdf6f46"
+      },
+      "iconHover": {
+        "image": "27a363ed1ce17dccc21c72ceb17f0468"
+      },
+      "name": {
+        "sound": "2eb4b6aa4470639ade66e91c97a3303a"
+      },
+      "pos": {
+        "x": 620,
+        "y": 480
+      }
+    },
+    "artifactCorrect": {
+      "default": {
+        "image": "bdc53b81648256fe8dbb9991eb0d095a",
+        "pos": {
+          "x": 391,
+          "y": 312
+        }
+      },
+      "hover": {
+        "image": "32fe862c669603a5513e7be3affcbf93",
+        "pos": {
+          "x": 391,
+          "y": 312
+        }
+      }
+    },
+    "video": "df068c4c74ea49383d6d5d6993ba32fe",
+    "sound": "df068c4c74ea49383d6d5d6993ba32fe",
+    "slots": [{
+      "text": "off",
+      "sound": "015b1c4d949eec8919eddb2e699479ab",
+      "default": {
+        "image": "ff9e5552088944baa17dc383b90f42eb"
+      },
+      "hover": {
+        "image": "2440b8b7b24365781f8ddd1938531eb4"
+      },
+      "pos": {
+        "x": 391,
+        "y": 312
+      },
+      "isCorrect": true
+    }, {
+      "text": "top",
+      "sound": "015b1c4d949eec8919eddb2e699479ab",
+      "default": {
+        "image": "88ad6489d055ebf1bd59529effc80de6"
+      },
+      "hover": {
+        "image": "44c5edf52615bfd106caea1ea458c5d4"
+      },
+      "pos": {
+        "x": 461,
+        "y": 285  
+      },
+      "isCorrect": false
+    }, {
+      "text": "away from",
+      "sound": "015b1c4d949eec8919eddb2e699479ab",
+      "default": {
+        "image": "af3194cd72fa859397b959a3c25c7604"
+      },
+      "hover": {
+        "image": "a391b9c2ab082184822169873795b03d"
+      },
+      "pos": {
+        "x": 460,
+        "y": 134
+      },
+      "isCorrect": false
+    }]
+  }]
+}

@@ -1,0 +1,149 @@
+{
+  "article": [
+    {
+      "words": "One evening as Marie Mallard\nwas bobbing for a dinner of\ntasty water plants in Peterson\nPone, she heard her parents say\na word that she didn't\nunderstand. They said that they\nwere going to be migrating in a\nfew days."
+    },
+    {
+      "words": "The next day, she asked her best\nfriend, a frog named Robert, if\nhe knew what migrating meant."
+    },
+    {
+      "words": "Robert puffed his throat\nthoughtfully. \"I think that when\nanimals migrate, they move to a\nnew place. Sometimes they\nmove somewhere when it gets\ncold so that they can find more\nfood to eat.\""
+    },
+    {
+      "words": "\"Last night, my parents said that\nwe would be migrating,\" Marie\nsaid."
+    },
+    {
+      "words": "Robert's eyes widened. \"You are\ngoing to be leaving Peterson\nPond? Oh, no!\" He ducked his\nhead under the water like he\noften did when he was sad.\nMarie could barely see him,\nwhich made her think of\nsomething."
+    },
+    {
+      "words": "\"Wait a second,\" she quacked.\n\"If my family can't find me, they\ncan't leave.\""
+    },
+    {
+      "words": "Robert's eyes lit up. \"That's a\ngreat idea. Can you hide\nunderwater like me?\""
+    },
+    {
+      "words": "\"I'll give it a try,\" she said. She\nput her head under the water,\nbut her tail stuck straight up into\nthe air."
+    },
+    {
+      "words": "\"I don't think that's going to\nwork,\" Robert said with a\ncroaking laugh."
+    },
+    {
+      "words": "They found some other places to\nhide, but when it was time for\ndinner, Marie's dad found them\nwithout any trouble."
+    },
+    {
+      "words": "\"What are you two doing hiding\nin those bushes?\" he asked."
+    },
+    {
+      "words": "Marie sighed and waddled out\nof the bushes. \"We were trying\nto hide so I wouldn't have to\nleave home. I guess it didn't\nwork very well.\""
+    },
+    {
+      "words": "Her dad wrapped a kind wing\naround her. \"I understand how\nhard this is. But Marie, we're not\ngoing to be leaving forever.\nWe'll go south until winter is over,\nbut return when the weather's\nwarm again. You'll see each\nother again before you know it.\""
+    },
+    {
+      "words": "That made Marie feel a little bit\nbetter. That night, she let herself\nimagine her new home—a\nwarm place full of food and\nmaybe even some new friends."
+    },
+    {
+      "words": "To Marie, Peterson Pone was still\nthe best place in the whole\nworld. But as she fell asleep, she\nhoped that her new home might\njust be the second-best place."
+    }
+  ],
+  "questions": [
+    {
+      "words": "Who are the *two* main\ncharacters in this passage?",
+      "optionY": 105,
+      "type": 2,
+      "options": [
+        {
+          "words": "Marie's Dad"
+        },
+        {
+          "isRight": true,
+          "words": "Marie"
+        },
+        {
+          "words": "Mrs. Peterson"
+        },
+        {
+          "isRight": true,
+          "words": "Robert"
+        },
+        {
+          "words": "Marie's new friends"
+        }
+      ],
+      "tipBtn": {
+        "sounds": [
+          "7d6f25efc417ab575ec1d7b8d36576e4",
+          "aa6d5aa1ab6263a0419a53df18708dea"
+        ]
+      },
+      "fisrtWrongTips": {
+        "sounds": [
+          "7a269a71e65f81e8c0c59700f3ed6ed1"
+        ]
+      }
+    },
+    {
+      "words": "What is the main problem in\nthis passage?",
+      "optionY": 105,
+      "type": 1,
+      "options": [
+        {
+          "words": "Marie's dad can't find Marie\nand Robert"
+        },
+        {
+          "words": "Marie can't get her whole\nbody under water"
+        },
+        {
+          "words": "Robert is jealous because he\nwants to migrate"
+        },
+        {
+          "isRight": true,
+          "words": "Marie doesn't want to leave\nthe pond"
+        }
+      ],
+      "tipBtn": {
+        "sounds": [
+          "3a6e80518b22dbad9b2c79bac2a78d2c"
+        ]
+      },
+      "fisrtWrongTips": {
+        "sounds": [
+          "7a269a71e65f81e8c0c59700f3ed6ed1"
+        ]
+      }
+    },
+    {
+      "words": "Arrange the events from the\npassage in the order in which\nthey happen. Click the\nsentences to drag them into\nthe correct locations.",
+      "type": 3,
+      "optionY": 185,
+      "options": [
+        {
+          "words": "Marie asked what migrating\nmeant.",
+          "sequence": 1
+        },
+        {
+          "words": "Marie imagined what her\nnew home would be like.",
+          "sequence": 4
+        },
+        {
+          "words": "Marie heard her parents say\nthey would be migrating.",
+          "sequence": 0
+        },
+        {
+          "words": "Marie and Robert hid in the\nbushes.",
+          "sequence": 2
+        },
+        {
+          "words": "Marie's dad explained that\nthey would be coming back\nto Peterson Pond.",
+          "sequence": 3
+        }
+      ],
+      "tipBtn": {
+        "sounds": [
+          "f8fb24fc4b3cf2d8b8694dd0d914884c",
+          "b3de63ec56ae37b300b913c3e3247fc3"
+        ]
+      }
+    }
+  ]
+}

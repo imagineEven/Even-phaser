@@ -1,0 +1,12 @@
+node_modules/
+www/
+dist/
+.idea/
+*.log
+package-lock.json
+.project
+coverage/
+node_modules/*
+.DS_Store
+defs/
+jsconfig.json

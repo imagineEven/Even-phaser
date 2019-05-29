@@ -1,0 +1,175 @@
+{
+  "videoData": {
+    "start": "4984e9a40d5b80ec278ed841f4959900",
+    "end": "6396dcb03d6bf87a42e8af98e1dfe845"
+  },
+  "staticResource": {
+    "keyword": "plural|singular",
+    "repeatSound": { "sound": "d2c00c68bdd5baf65313350844ff37a5" },
+    "startStage": {
+      "sounds": [
+        "8b44c15fad89d959121c07adecd1f150",
+        "b27b7f89b247f3fd9c8341627806fd5c",
+        "d2c00c68bdd5baf65313350844ff37a5",
+        "9d3cc19153dbd7cf948c65d763c650f5"
+      ]
+    },
+    "answerWrong": { "sound": "8a8db43ce3b294ee9d03020c052b74bf" },
+    "lastPageCommon": { "sound": "b27b7f89b247f3fd9c8341627806fd5c" },
+    "choiceSound": {
+      "positive": { "sound": "1217941051a63eecd35ad4b7f212e325" },
+      "reverse": { "sound": "9e43f571797ec86431ce5af88f97f18c" }
+    },
+    "finishChoiceSound": {
+      "reverse": {
+        "text": "Plural",
+        "sound": "8bf337813d1d6b24a200f513104f847d"
+      },
+      "positive": {
+        "text": "Singular",
+        "sound": "2cd605c4cb6e9a69b5b6f5599c7591b8"
+      }
+    },
+    "options": [
+      {
+        "text": "Singular",
+        "sound": "9a737bfba1fcdd7d3b23947109669ffd",
+        "position": {
+          "x": 27,
+          "y": 515
+        }
+      },
+      {
+        "text": "Plural",
+        "sound": "adb69ffb28ff66b7f06e3d5cb4914b27",
+        "position": {
+          "x": 435,
+          "y": 515
+        }
+      }
+    ]
+  },
+  "keyword": "plural|singular",
+  "pages": [
+    {
+      "letter": "cars",
+      "paradox": 1,
+      "sound": "6291a68b56a2aefaf64a37250b050243",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "lollipops",
+      "paradox": 1,
+      "sound": "ee1945247ca68498583c53effde83952",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "flowers",
+      "paradox": 1,
+      "sound": "ade281f725f427ca707b8ae4e87e4957",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "boy",
+      "paradox": 0,
+      "sound": "0ff074539965b5154d0e3bf6f5ffd841",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "snake",
+      "paradox": 0,
+      "sound": "76628f898df8433a87f531ce362cc0b0",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "bed",
+      "paradox": 0,
+      "sound": "0e30c4e6400b30ab9dc13370d8bf256f",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "monkey",
+      "paradox": 0,
+      "sound": "016607ef2fd63bdfc153cb1f8c02e337",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "ball",
+      "paradox": 0,
+      "sound": "60a8565f03f0e87c0d5909c6b8a09189",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "friend",
+      "paradox": 0,
+      "sound": "0df3b3424ce4f177789319fa18eab235",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "girls",
+      "paradox": 1,
+      "sound": "82134c74b36febd945444cb7dd941874",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "lamps",
+      "paradox": 1,
+      "sound": "699239dfb293dab1d46a1c6f455ce6c2",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      },
+      "image": ""
+    },
+    {
+      "letter": "birds",
+      "paradox": 1,
+      "sound": "bbed7a67013b6e2305e8379ad686caed",
+      "image": "",
+      "lightHight": {
+        "text": "",
+        "sound": ""
+      }
+    }
+  ]
+}

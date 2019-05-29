@@ -1,0 +1,43 @@
+{
+    "title": "For safe's sake: a call for free swimming instruction",
+    "subtitle": "Deon Sheppard",
+    "startArtical": "l have been thinking a lot lately about water safety. You see, my little brother fell\noff the dock at Linda Lake last month. l was terrifeid, but then he finally swam to\nshore. Now l get it. EveryBody should learn how to swim.",
+    "artical": "On average,two children drown in this country every day. That's terrible,so how\ndo we stop it? liz cho,a local swimming coach,says,'kids who take swimming\nlesson are much less likely to drown. 'lt seems to me that not learning how to swim\nis very dangerous. \n\nCentral Park has large swimming pools and many swimming instructors on staff.\nIt would be a good idea for the park to offer kids free swimming lessons. l think it \nminght just save their lives.",
+    "pointIndex": 4,
+    "evidenceIndex": [
+        0,
+        2
+    ],
+    "evidenceKindIndex": [
+        2,
+        1
+    ],
+    "articalPosition": [{
+            "x": 16,
+            "y": 60
+        },
+        {
+            "x": 16,
+            "y": 170
+        }
+    ],
+    "articalPosition1": [{
+            "x": 0.02,
+            "y": 0.1
+        },
+        {
+            "x": 0.02,
+            "y": 0.25
+        }
+    ],
+    "evidenceSentenceIndex": [
+        [
+            0,
+            1
+        ],
+        [
+            2,
+            3
+        ]
+    ]
+}

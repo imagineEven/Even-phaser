@@ -1,0 +1,21 @@
+{
+    "pages":[
+        {
+            "answers":["sample","graph","symbol"],
+            "wordSound":{ "sound":"4cb9a6c347da2b5de3249f3bb88d8090" },
+            "sentence":"We looked at a {{word}} of our hair under the\nmicroscope.",
+            "sentenceSound":{"sounds":["0781fd64921ef85fb39518e55f55e7ff","142fbc39f3706599e25e16884a8eaaac"]},
+            "vedio":"360280e91a5211b5f4c8ca46fcf988cb",
+            "hidePos":[1,3]
+        },
+        {
+            "answers":["sample","graph","symbol"],
+            "wordSound":{ "sound":"4cb9a6c347da2b5de3249f3bb88d8090" },
+            "sentence":"We looked at a xiaogaogao {{word}} of our hair under the\nmicroscope.",
+            "sentenceSound":{"sounds":["0781fd64921ef85fb39518e55f55e7ff","142fbc39f3706599e25e16884a8eaaac"]},
+            "vedio":"360280e91a5211b5f4c8ca46fcf988cb",
+            "hidePos":[0,3]
+        }
+    ],
+    "isNeedDemo":false
+}

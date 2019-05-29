@@ -1,0 +1,49 @@
+{
+  "background": {
+    "image": "4b939e095d60f1bbbd945f50a3b0aefc"
+  },
+  "container": {
+    "image": "a4a10bbae3cd9af974c5f920f79c7ba6",
+    "images": [
+      "82897c0fb3b494bacefb204a25951b1a",
+      "aa1f09df8cca147b0fa073e17ec78347"
+    ]
+  },
+  "btns": {
+    "default": {
+      "image": "aedd516e270f020f91ac4f025f2e87de"
+    },
+    "current": {
+      "image": "5990eb7d2ae5d8214de5e54a5a7bb4b2"
+    },
+    "finished": {
+      "image": "bac48c9d3ae914670d09cfaaacbf8454"
+    },
+    "right": {
+      "image": "c0c549c87047582b3e2d9079755c2b18"
+    },
+    "wrong": {
+      "image": "33d793d53aad514fef7ef9d6b197f1e1"
+    },
+    "next": {
+      "image": "c1e905735ca375113c4ab2c260d6f017"
+    },
+    "submit": {
+      "image": "82bb0431d893e9ea09f70e39576f9f9c"
+    },
+    "finish": {
+      "image": "49bbf3b917caea8ba8d800567a9fa368"
+    }
+  },
+  "wrongSound": {
+    "sound": "fc093116823c02a765e7408f9ade882e"
+  },
+  "rightSound": {
+    "sound": "406ff8a67e97315c58fa4235833ee032"
+  },
+  "color": {
+    "black": "#000000",
+    "white": "#ffffff"
+  },
+  "test": "Read the passage and choose the correct answer for each question. Mr. Smith is our Chinese teacher. He always asks the same student to answer his questions because he doesn't look at the students at all. Yesterday he questioned Tom three times. Tom was very angry. After class Tom asked me, What shall l do? I told him a good idea. Now we are having a Chinese class. Mr Smith wants one of us to read the text. Tom, please read the text,Tom isn't here today. Tom stands up and says. Oh, I see. you read it, please."
+}

@@ -1,0 +1,187 @@
+{
+    "firstBg": {
+        "image": "dc1ec3785ad227bf7ec8b58a72f34650"
+    },
+    "isMixed": true,
+    "clickon": {
+        "sound": "7b5b9d131f469559ecf329fd6e00801f"
+    },
+    "firstBg2": {
+        "image": "72c55bb97c9dd0a280611f8039030ccd"
+    },
+    "presentingVideo": {
+        "video": "0e48b545520a333e7ee5c20e60ce0643",
+        "sound": "0e48b545520a333e7ee5c20e60ce0643"
+    },
+    "presentingVowels": {
+        "sound": "54cf39c58924b1d75ef4f33dddba27db"
+    },
+    "a": {
+        "sound": "6974166839411422ea208c246fe80070"
+    },
+    "ima": {
+        "sound": "0d7334469de839bd77f124903ab97901"
+    },
+    "say": {
+        "sound": [
+            "5a413118626b31d62c58c94e7807034f",
+            "d012b868e14755e921d57e048e7764e1",
+            "3b97d352f60023a60050562edba01c99",
+            "db9a0aed10f396fb656962f297c532dd",
+            "6fb1a495fa351f93baf41cf550f5a2e8"
+        ]
+    },
+    "imSay": {
+        "sound": [
+            "6e90e91197d2fb4bb30d5e5cabf50a31",
+            "e9b4a6e10cef5f7d866f8ca0125fe160",
+            "58e67e9e626d5e2ae2ea81e6ffb8147d",
+            "107145122c48ca62f964ed969fef0155",
+            "0c08cf5d1b150d63fc54e63e93948b8d"
+        ]
+    },
+    "aeiou": {
+        "sound": [
+            "6974166839411422ea208c246fe80070",
+            "5b79304881322ed5d4073f400dbf2e37",
+            "828db41b9ee15f34c18204f74d09f6d1",
+            "bc69fe9107f6d6f04d20b17556e2383e",
+            "c6f9abdb6bca2aa1819448dd371bad94"
+        ]
+    },
+    "vowels": {
+        "sound": "a543bfb80956dc454428d4ab9581d507"
+    },
+    "learntThatAEIOU": {
+        "sound": "f61a8235bded3a70f192fea0363e0472"
+    },
+    "imageAeiou": [
+        {
+            "images": [
+                "a533eaf957dd60f17c3594ea00ab1c2f.jpg",
+                "069907761921d91cc945aaa67acc1b81",
+                "5e6fcb78aa617c1b310485f6ca8cb846.jpg"
+            ]
+        },
+        {
+            "images": [
+                "b62c578ef497a7afc512b767c57017a0.jpg",
+                "f14029b0752c3e57b733232d332e2af0",
+                "0255e206f3855102693922764f50f12d"
+            ]
+        },
+        {
+            "images": [
+                "c880fa7b6cd606da9d950d795a427fe5",
+                "5492f3417b676b81918bd851ddf65a68.jpg",
+                "b72ded0d6e1ae66869a2666f937112a2"
+            ]
+        },
+        {
+            "images": [
+                "0f2f30eb3e0e9eff5537042271012731",
+                "6922e415ac2fc551dda55c901f3c9655",
+                "e5c754c3b6403f7de66f0432471c6242"
+            ]
+        },
+        {
+            "images": [
+                "fb2986d5890bb73c254a892b41815e4c",
+                "965adb5e6a02c3c6098016a9e3599065.jpg",
+                "6bc0f47c3c768b7f32c685b2633a532e.jpg"
+            ]
+        }
+    ],
+    "wordAeiou": [
+        {
+            "images": [
+                "e7579f52f56bfaedd0c7f0b3ad9f1400",
+                "c2e992d562550430b32905c6fef57dbc",
+                "3d134168a71735c319427c910a7b3c99"
+            ]
+        },
+        {
+            "images": [
+                "a8855283937afdb4ba7f16fe699c3524",
+                "21e40748fc9f8601a465bbe9c8369567",
+                "38da340b8f15bd2b9f39d50913c6c6d2"
+            ]
+        },
+        {
+            "images": [
+                "6786a6795ed982da6242a2a5359538fc",
+                "21418d299802c2175e086a9f3006cbf9",
+                "e9386ef9b0b39cafe2987c13c9258658"
+            ]
+        },
+        {
+            "images": [
+                "14471858b00e45a12dda0d37135d6d52",
+                "c40c71a80fdb7a19411b3eff8aa98590",
+                "9214b3faa5e2edf67e56bab14de36e8e"
+            ]
+        },
+        {
+            "images": [
+                "31305301fe97d661d71d6ef6382e861a",
+                "3bd3ffee5146444974b033cd2244d8f6",
+                "1d25302c2b957272d198c11fd0d66737"
+            ]
+        }
+    ],
+    "soundAeiou": [
+        {
+            "sounds": [
+                "37064af53e17b7deb27ceac179a152c2",
+                "c5bfba32b3a811a0e9d65a966e874404",
+                "2893698636c7e12ae0736522e694d05f"
+            ]
+        },
+        {
+            "sounds": [
+                "ece2c47f272fec5b393842e3126bc7b7",
+                "222e1f63f39ff836dcb900099e548f9a",
+                "6a7b6b6bb1a1048f814736e3c7f3c4c6"
+            ]
+        },
+        {
+            "sounds": [
+                "29bca4293a4daa2b4d8311f1a2f337a8",
+                "d5514b2e3d650058e53de6abcc3d02c1",
+                "7ee2d90a7f5808924f2e4fb21c5006fb"
+            ]
+        },
+        {
+            "sounds": [
+                "396b8c6940f85190a3faf3dda9fe9bb6",
+                "a162add6af01a1dc22550f75f11bddba",
+                "895a33d33e77bceb57c3064cc15d006c"
+            ]
+        },
+        {
+            "sounds": [
+                "5207fc2fd89d0475e68806686b3735e2",
+                "ff0608706cb2755106d2b3f68fb1c254",
+                "d9ea3a65308931815a7c59fa7480075d"
+            ]
+        }
+    ],
+    "word": {
+        "image": [
+            "f2e1a1a471c18b08fb7e22d1d31081e6",
+            "1caeb741b04dbf58b42eceb4b1bbd659",
+            "77211858ce6ec8b6523b7b63128b5d01",
+            "2688ec68fb8f6f3bcdef7db52c45397b",
+            "c0698c7021dd1ca0b7750b39e24799b3"
+        ]
+    },
+    "wordYellow": {
+        "image": [
+            "ee3271d437c5aff3a1e27858e0c3178a",
+            "a35e8c04e00f3f20c9d14d3d4352b750",
+            "68f75695bdea2f5a636546e2e6156e9c",
+            "724ca5c92f8fb1c22093766647d08b3e",
+            "f6b7f30d4098a5a2abef606dde72375d"
+        ]
+    }
+}

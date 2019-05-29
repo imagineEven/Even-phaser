@@ -1,0 +1,400 @@
+{
+	"book": [
+		{
+			"pageDef": "页面文字和图片等各类元素的布局和样式",
+			"page": [
+				{
+					"def": "类似标题这种读句子，单词逐个高亮部分",
+					"type": "title",
+					"autoPlay": true,
+					"text": "My Painting",
+					"time": [
+						400,
+						500
+					],
+					"font": {
+						"fontSize": "32px",
+						"fontWeight": "bolder",
+						"fill": "#000"
+					},
+					"x": 100,
+					"y": 20,
+					"sound": "f009fb4a69f3a876d5e6504b9021063a"
+				}, {
+					"def": "图片的配置",
+					"type": "image",
+					"image": "f34bebd56b06c635c5ec90868d668e36",
+					"x": 100,
+					"y": 100
+				}, {
+					"def": "第一页的点击单词会下方出现单词解释",
+					"type": "newWord",
+					"text": "imagination",
+					"sound": "4974ddeaf826cbf9507b5999f56b3177",
+					"lineHeight": 24,
+					"font": {
+						"fontSize": "24px",
+						"fontWeight": "bolder",
+						"fill": "#FFA500"
+					},
+					"x": 60,
+					"y": 150,
+					"explanation": {
+						"text": "The ability to form ideas\n and pictures in your\n mind.",
+						"time": [
+							400,
+							500
+						],
+						"font": {
+							"fontSize": "24px",
+							"fontWeight": "normal",
+							"fill": "#000"
+						},
+						"x": 60,
+						"y": 200,
+						"lineHeight": 24,
+						"sound": "3040847d45e13f24782edd18b4f6262a"
+					}
+				},
+				{
+					"def": "第一页的点击单词会下方出现单词解释",
+					"type": "newWord",
+					"text": "interesting",
+					"sound": "4974ddeaf826cbf9507b5999f56b3177",
+					"lineHeight": 24,
+					"font": {
+						"fontSize": "24px",
+						"fontWeight": "bolder",
+						"fill": "#FFA500"
+					},
+					"x": 60,
+					"y": 350,
+					"explanation": {
+						"text": "Describes something that \nyou want to look at or\n pay attention to.",
+						"time": [
+							400,
+							500
+						],
+						"font": {
+							"fontSize": "24px",
+							"fontWeight": "normal",
+							"fill": "#000"
+						},
+						"x": 60,
+						"y": 400,
+						"lineHeight": 24,
+						"sound": "bc9d17e44ecfb668a14390aef323892a"
+					}
+				}
+			]
+		}, {
+			"sound": "ff6f4ff72911317261127551616f762e",
+			"page": [
+				{
+					"def": "大段文字",
+					"type": "article",
+					"lineHeight": 20,
+					"text": "I love to paint. When i paint, i\nuse my hands to hold the\n brush. I mix the paint to create\n my own colors. The i dip the\n brush in my bright colors and\n swirl it noto the canvas. I\n, create an animal from my\n {{imagination}}. I add details so\n that my animal is {{interesting}} to\n look at. I hang my painting on\n the wall when i am finished.",
+					"time": [
+						400,
+						500
+					],
+					"font": {
+						"fontSize": "24px",
+						"fontWeight": "normal",
+						"fill": "#000"
+					},
+					"x": 40,
+					"y": 120,
+					"sound": "e48564c362197f5ac56e713eb7683f01"
+				},
+				{
+					"def": "图片的配置",
+					"type": "image",
+					"image": "4479b0cd12c2f9920255f8783efff1a0.jpg",
+					"x": 450,
+					"y": 60
+				}
+			]
+		}, 
+		{
+			"pageDef": "页面文字和图片等各类元素的布局和样式",
+			"sound": "8842e2ad7e28916ddd0a62cfb10cc471",
+			"page": [
+				{
+					"def": "类似标题这种读句子，单词逐个高亮部分",
+					"type": "title",
+					"autoPlay": true,
+					"text": "My Sculpture",
+					"time": [
+						400,
+						500
+					],
+					"font": {
+						"fontSize": "32px",
+						"fontWeight": "bolder",
+						"fill": "#000"
+					},
+					"x": 100,
+					"y": 20,
+					"sound": "0cb3cc2d30300eca9e0ab4932ff1d1b1"
+				}, {
+					"def": "图片的配置",
+					"type": "image",
+					"image": "f34bebd56b06c635c5ec90868d668e36",
+					"x": 100,
+					"y": 100
+				}, {
+					"def": "点击单词会下方出现单词解释",
+					"type": "newWord",
+					"text": "carve",
+					"sound": "5e3bb8b50d73192f9804170f512345e6",
+					"lineHeight": 24,
+					"font": {
+						"fontSize": "24px",
+						"fontWeight": "bolder",
+						"fill": "#FFA500"
+					},
+					"x": 60,
+					"y": 150,
+					"explanation": {
+						"text": "To cut carefully into clay,\nstone,or wood.",
+						"time": [
+							400,
+							500
+						],
+						"font": {
+							"fontSize": "24px",
+							"fontWeight": "normal",
+							"fill": "#000"
+						},
+						"x": 60,
+						"y": 200,
+						"lineHeight": 24,
+						"sound": "bd63bc531ce5165be2bfb6c6d1b0c87e"
+					}
+        },
+        {
+					"def": "点击单词会下方出现单词解释",
+					"type": "newWord",
+					"text": "sculpture",
+					"sound": "c25ffc9bac9b12e6489694421623bd19",
+					"lineHeight": 24,
+					"font": {
+						"fontSize": "24px",
+						"fontWeight": "bolder",
+						"fill": "#FFA500"
+					},
+					"x": 60,
+					"y": 350,
+					"explanation": {
+						"text": "An object an artist makes\nout of clay,stone,or wood.",
+						"time": [
+							400,
+							500
+						],
+						"font": {
+							"fontSize": "24px",
+							"fontWeight": "normal",
+							"fill": "#000"
+						},
+						"x": 60,
+						"y": 400,
+						"lineHeight": 24,
+						"sound": "e8f75458321e48f266301565968ea8c7"
+					}
+        },
+        {
+					"def": "点击单词会下方出现单词解释",
+					"type": "newWord",
+					"text": "shape",
+					"sound": "7f194e8cb53ea8dfa21edbfde32948f5",
+					"lineHeight": 24,
+					"font": {
+						"fontSize": "24px",
+						"fontWeight": "bolder",
+						"fill": "#FFA500"
+					},
+					"x": 450,
+					"y": 150,
+					"explanation": {
+						"text": "To change something to\n make it look the way you\n want it to.",
+						"time": [
+							400,
+							500
+						],
+						"font": {
+							"fontSize": "24px",
+							"fontWeight": "normal",
+							"fill": "#000"
+						},
+						"x": 450,
+						"y": 200,
+						"lineHeight": 24,
+						"sound": "6d56b32f8e5e37ecaba7b5d824a64cb1"
+					}
+				}
+			]
+		}, {
+			"sound": "ff6f4ff72911317261127551616f762e",
+			"page": [
+				{
+					"def": "大段文字",
+					"type": "article",
+					"lineHeight": 24,
+					"text": "I love to make {{sculptures}}. I use\nmy hands to {{shape}} the clay. I\n squish and fold it to make\n different things. I use black\n and white clay to make an\n animal from real life. I {{carve}}\n details with my sculpting tool\n to give my animal a face. I put\n my sculpture on the table\n when i am finished.",
+					"time": [
+						400,
+						500
+					],
+					"font": {
+						"fontSize": "20px",
+						"fontWeight": "normal",
+						"fill": "#000"
+					},
+					"x": 40,
+					"y": 100,
+					"sound": "c5a387f711ee0db4fa923bf82c95383c"
+        },
+        {
+					"def": "图片的配置",
+					"type": "image",
+					"image": "bfb5592dd1dc101befbd720ea37f02ca.jpg",
+					"x": 450,
+					"y": 65
+				}
+			]
+		}
+	],
+	"dictionaryDef": "点击粗体单词弹出解释框，这边配置所有需要这个功能的单词",
+	"dictionary": {
+		"imagination": {
+			"text": "imagination",
+			"sound": "4974ddeaf826cbf9507b5999f56b3177",
+			"type": "noun",
+			"explanation": {
+				"text": "The ability to form ideas\n and pictures in your\n mind.",
+				"sound": "3040847d45e13f24782edd18b4f6262a"
+			}
+		}
+	},
+	"leftIco": {
+		"image": "4a7875c6f066251f7db7a823f6b652e2"
+	},
+	"rightIco": {
+		"image": "1c54da8b69b5bab13386ace9dce92178"
+	},
+	"choiceArr": [
+		{
+			"image": "299014f059baf8511834f835c1664159",
+			"highlight": {
+				"image": "299014f059baf8511834f835c166415a"
+			},
+			"textArr": [
+				{
+					"text": "imagination",
+					"y": 0
+				}
+			],
+			"x": 100,
+			"y": 500,
+			"sound": "4974ddeaf826cbf9507b5999f56b3177",
+			"target": "left",
+			"wrong":{
+				"sound":"576c45d12684587523d9c07044706bdf"
+			}
+		}, {
+			"image": "e97a52112a079cd8a682f75cc274f2c4",
+			"highlight": {
+				"image": "e97a52112a079cd8a682f75cc274f2c5"
+			},
+			"textArr": [
+				{
+					"text": "real life",
+					"y": 0
+				}
+			],
+			"x": 300,
+			"y": 500,
+			"sound": "fc7e160f52eb222547e14deeb8f5a9a0",
+			"target": "left",
+			"wrong":{
+				"sound":"576c45d12684587523d9c07044706bdf"
+			}
+		}, {
+			"image": "e97a52112a079cd8a682f75cc274f2c4",
+			"highlight": {
+				"image": "e97a52112a079cd8a682f75cc274f2c5"
+			},
+			"textArr": [
+				{
+					"text": "I use my hands",
+					"y": 0
+				}
+			],
+			"x": 600,
+			"y": 500,
+			"sound": "3a4c39269a80ad39d9ac2d73545a98de",
+			"target": "left",
+			"wrong":{
+				"sound":"576c45d12684587523d9c07044706bdf"
+			}
+		}, {
+			"image": "2393f8691ac2ef29ae9f8e478704ac79",
+			"highlight": {
+				"image": "2393f8691ac2ef29ae9f8e478704ac7a"
+			},
+			"textArr": [
+				{
+					"text": "bright colors",
+					"y": 0
+				}
+			],
+			"x": 100,
+			"y": 550,
+			"sound": "18a95336adb7987a62042ec1c20d5f01",
+			"target": "left",
+			"wrong":{
+				"sound":"576c45d12684587523d9c07044706bdf"
+			}
+		},
+		{
+			"image": "2393f8691ac2ef29ae9f8e478704ac79",
+			"highlight": {
+				"image": "2393f8691ac2ef29ae9f8e478704ac7a"
+			},
+			"textArr": [
+				{
+					"text": "black and white",
+					"y": 0
+				}
+			],
+			"x": 300,
+			"y": 550,
+			"sound": "3040847d45e13f24782edd18b4f6262a",
+			"target": "left",
+			"wrong":{
+				"sound":"576c45d12684587523d9c07044706bdf"
+			}
+		},
+		{
+			"image": "2393f8691ac2ef29ae9f8e478704ac79",
+			"highlight": {
+				"image": "2393f8691ac2ef29ae9f8e478704ac7a"
+			},
+			"textArr": [
+				{
+					"text": "animal",
+					"y": 0
+				}
+			],
+			"x": 600,
+			"y": 550,
+			"sound": "67b7a9e276dac681870c11a224bb64e1",
+			"target": "left",
+			"wrong":{
+				"sound":"576c45d12684587523d9c07044706bdf"
+			}
+		}
+	]
+}

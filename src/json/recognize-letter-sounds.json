@@ -1,0 +1,13 @@
+{
+  "pages": [{ "letter": "y", "video": "c5af093b61fda9ae3275cb174890ae5a", "sounds": ["ff78bd6a7b51f420f56ee923c5114606", "e857ed1b6f8f88f201bc90968aa311f0", "6748269b5bf6a01ddae3e23b6a366e79"] }, { "letter": "ight", "video": "75efff3a72cf162804e8db171ff60e91", "sounds": ["67f15a588113ae0b0f71a823b1510e8a", "2708ad141c189e536c616b7e62d90099", "55a8b29efbeaec1b6e1f1dfde92dc902"] }, { "letter": "fl", "video": "9d58c1b801aa83eca100b3e1ac8a7534", "sounds": ["1ce24e822e63c3de198837d31f6c99cc", "79a79bdef8e950458b35354c5db10bda", "d7c10459c61f82262a38a8792f07236d"] }, { "letter": "cr", "video": "b862fa77f2ced75fa9cdd3e38880938a", "sounds": ["36175cd832b96a0727c4acb41cc38edb", "ffd7f61c23d57f1f50f8e9e0fdfc7b81", "e7c87ab39346fed4140c1d94ec18e6ef"] }],
+  "free": [{
+    "letter": "y",
+    "video": "c5af093b61fda9ae3275cb174890ae5a"
+  }, {
+    "letter": "ight",
+    "video": "75efff3a72cf162804e8db171ff60e91"
+  }, { "letter": "fl", "video": "9d58c1b801aa83eca100b3e1ac8a7534" }, {
+    "letter": "cr",
+    "video": "b862fa77f2ced75fa9cdd3e38880938a"
+  }]
+}

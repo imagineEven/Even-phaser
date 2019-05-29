@@ -1,0 +1,780 @@
+{
+  "passages": [
+    {
+      "beginSound": {
+        "sound": "2173cdbdaec8d2dda15c58a5a3ef3b32"
+      },
+      "horn": {
+        "image": "1efb461633484726e2539482bcc3b6eb.png"
+      },
+      "text": [
+        {
+          "words": "Luz walked through the sand",
+          "x": 235,
+          "y": 130
+        },
+        {
+          "words": "With ice cream in hand,",
+          "x": 235,
+          "y": 155
+        },
+        {
+          "words": "Licking her frozen threat.",
+          "x": 235,
+          "y": 180
+        },
+        {
+          "words": "But a seagull so sly",
+          "x": 235,
+          "y": 205
+        },
+        {
+          "words": "Just like lightning flew by.",
+          "x": 235,
+          "y": 230
+        },
+        {
+          "words": "Now Luz has nothing to eat.",
+          "x": 235,
+          "y": 255
+        }
+      ],
+      "readIndex": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        [
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      ],
+      "optionIndex": [
+        [
+          6,
+          7,
+          8,
+          9
+        ],
+        [
+          11,
+          12,
+          13,
+          14
+        ],
+        [
+          21,
+          22,
+          23
+        ],
+        [
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      ],
+      "comparingIndex": [
+        [],
+        [
+          23
+        ]
+      ],
+      "rightChoiceIndex": 2,
+      "hasTitle": true,
+      "sentences": [
+        {
+          "text": "The Ice Cream Cone",
+          "sound": "0dc98a314e7af213846a6b17112371de"
+        },
+        {
+          "text": "By Sharlene Peterson",
+          "sound": "c74c38f7a6a8923387a35e17608bd058"
+        },
+        {
+          "text": "Luz walked through the sand",
+          "sound": "57d62616049f904cac52885cf995fc88"
+        },
+        {
+          "text": "With ice cream in hand,",
+          "sound": "85c749275efc86dfa831ad229c113306"
+        },
+        {
+          "text": "Licking her frozen threat.",
+          "sound": "a574846084f3c116494f4b565e957e14"
+        },
+        {
+          "text": "But a seagull so sly",
+          "sound": "198555ddab3279bd28a1ec9583ffbf07"
+        },
+        {
+          "text": "Just like lightning flew by.",
+          "sound": "15f9661df4f74a6a51a167da51fd5b05"
+        },
+        {
+          "text": "Now Luz has nothing to eat.",
+          "sound": "d6cceb166de6d0e77b1d32c63f0d8b6f"
+        }
+      ],
+      "rightChoice": {
+        "sound": "2e81a9f6a9c1a410e67730537c5ca618"
+      },
+      "wrongChoice": {
+        "sounds": [
+          "87c88ffaec742ad5c7be80f862a9291a",
+          "412102b26c66a1e8c7ae81c85b5bbef5"
+        ],
+        "btn": {
+          "sounds": [
+            "aa91d2b2c46f2388d153c9602f5f06f9",
+            "ece7ab2c2e7255c3c153692f94ef1bd0"
+          ]
+        }
+      },
+      "comparingTo": {
+        "sound": "09ab0c90cdb9f21db84baa14a74041c7"
+      },
+      "choices": [
+        {
+          "text": "ice cream in hand",
+          "sound": "d9d9799efe0ff683fef79f27f841429f"
+        },
+        {
+          "text": "Licking her frozen threat",
+          "sound": "708d021a3ac91a9e686e930e96983710"
+        },
+        {
+          "isRight": true,
+          "text": "Just like lightning",
+          "sound": "8e92c96d1e1fdc172be403ab21504cf0"
+        },
+        {
+          "text": "Luz has nothing to eat",
+          "sound": "16adac604a204278c252dcd5d93ee749"
+        }
+      ],
+      "options": [
+        {
+          "text": "It scared her.",
+          "sound": "77cdd6c331e6efde7d129af0987d88dd"
+        },
+        {
+          "text": "It made loud noises.",
+          "sound": "1ccb323b26b016e28741316439397857"
+        },
+        {
+          "isRight": true,
+          "text": "It was fast.",
+          "sound": "716ea6b00951bcd212bdbd0db45793ba"
+        },
+        {
+          "text": "It was dangerous.",
+          "sound": "0d6415a80b3ac86ee10569186744cf64"
+        }
+      ]
+    },
+    {
+      "beginSound": {
+        "sound": "1e50e750b49aeea3ad9159e688c40ac3"
+      },
+      "horn": {
+        "image": "d8dd33035a47d143cb40c43be6482edf.png"
+      },
+      "text": [
+        {
+          "words": "I grabbed the green vines and swung across the muddy river. As I",
+          "x": 75,
+          "y": 100
+        },
+        {
+          "words": "swung, I saw a flash of teeth. I barely avoided the alligator. Now, I",
+          "x": 75,
+          "y": 125
+        },
+        {
+          "words": "could see my hard work had paid off. I reached for the treasure.",
+          "x": 75,
+          "y": 150
+        },
+        {
+          "words": "\"Herbert Westfield, you get out here right this moment!\" Mom called",
+          "x": 75,
+          "y": 195
+        },
+        {
+          "words": "out.",
+          "x": 75,
+          "y": 220
+        },
+        {
+          "words": "I was so focused that I hadn't noticed mom approaching like a",
+          "x": 75,
+          "y": 270
+        },
+        {
+          "words": "thundercloud.",
+          "x": 75,
+          "y": 295
+        }
+      ],
+      "readIndex": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ],
+        [
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ],
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63
+        ],
+        [
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77
+        ]
+      ],
+      "optionIndex": [
+        [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        [
+          18,
+          19,
+          20,
+          21
+        ],
+        [
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        [
+          72,
+          73,
+          74,
+          75,
+          76
+        ]
+      ],
+      "comparingIndex": [
+        [],
+        [
+          76
+        ]
+      ],
+      "rightChoiceIndex": 3,
+      "hasTitle": true,
+      "sentences": [
+        {
+          "text": "The Adventure",
+          "sound": "f25f44c4e47ac96913746f90c6d7e9b9"
+        },
+        {
+          "text": "By Mason Carter",
+          "sound": "2e9322600c1fec44651e68b11a281a60"
+        },
+        {
+          "text": "I grabbed the green vines and swung across the muddy river.",
+          "sound": "fc08494a376ad0182314aedc83bb0808"
+        },
+        {
+          "text": "As I\nswung, I saw a flash of teeth.",
+          "sound": "c41fed66fe7e5344a95e96be87afb818"
+        },
+        {
+          "text": "I barely avoided the alligatoe.",
+          "sound": "b1f0a5576d8de673671288fc5c415b53"
+        },
+        {
+          "text": "Now, I\ncould see my hard work had paid off.",
+          "sound": "8e30bc5000d3d9a91826f06b8d3f8c60"
+        },
+        {
+          "text": "I reached for the treasure.",
+          "sound": "39344a372c4cefd133d30d268b17f196"
+        },
+        {
+          "text": "\"Herbert Westfield, you get out here right this moment!\" Mom called\nout.\n",
+          "sound": "ff90e2987d767fbde8c92e7901f9fd23"
+        },
+        {
+          "text": "I was so focused that I hadn't noticed mom approaching like a\nthundercloud.",
+          "sound": "21065e2e87dae4a5bd1dc24f6ab4e695"
+        }
+      ],
+      "rightChoice": {
+        "sound": "3930f0053b931db136abce2c4ac5b8f6"
+      },
+      "wrongChoice": {
+        "sounds": [
+          "87c88ffaec742ad5c7be80f862a9291a",
+          "412102b26c66a1e8c7ae81c85b5bbef5",
+          "ea0a53fb955d1b7a19c8d44e92bf33b0"
+        ]
+      },
+      "comparingTo": {
+        "sound": "2ec3772e36d1b2bc1035a646d57849a7"
+      },
+      "choices": [
+        {
+          "text": "swung across the muddy river",
+          "sound": "d3d947f1c3203745e33a098964da3080"
+        },
+        {
+          "text": "a flash of teeth",
+          "sound": "0091fa9e591d8c8fbbbaa7ae2a6fe2dd"
+        },
+        {
+          "text": "I reached for the treasure",
+          "sound": "39344a372c4cefd133d30d268b17f196"
+        },
+        {
+          "isRight": true,
+          "text": "mom approaching like a thundercloud",
+          "sound": "693f230db41c0dd1fce8ff1b3a9bcfaf"
+        }
+      ],
+      "options": [
+        {
+          "text": "Mom was full of energy.",
+          "sound": "82ef93a2136cd4ed4f8c595140284797"
+        },
+        {
+          "text": "Mom was stomping her feet.",
+          "sound": "ba4437c1c14507900e73343c222da371"
+        },
+        {
+          "text": "Mom was crying.",
+          "sound": "fa99557834e1f1597152908b8cc1c090"
+        },
+        {
+          "isRight": true,
+          "text": "Mom was angry.",
+          "sound": "ad9a551a01426f00c3087c6d97aff82d"
+        }
+      ]
+    },
+    {
+      "beginSound": {
+        "sound": "48183d393329e2c2522f786206809085"
+      },
+      "horn": {
+        "image": "d8dd33035a47d143cb40c43be6482edf.png"
+      },
+      "text": [
+        {
+          "words": "I dropped my controller and turned my head away from the game.",
+          "x": 80,
+          "y": 75
+        },
+        {
+          "words": "\"Yes, Mom.\" I moved like a cheetah to her side.",
+          "x": 80,
+          "y": 100
+        },
+        {
+          "words": "\"You forgot to clean your room, and your homework isn't done. You",
+          "x": 80,
+          "y": 150
+        },
+        {
+          "words": "spend too much time playing video games.\"",
+          "x": 80,
+          "y": 175
+        },
+        {
+          "words": "\"Yes, Mom,\" I said, and I darted off to do as she wished.",
+          "x": 80,
+          "y": 225
+        }
+      ],
+      "readIndex": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ],
+        [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ],
+        [
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ]
+      ],
+      "optionIndex": [
+        [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        [
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50
+        ],
+        [
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69
+        ]
+      ],
+      "comparingIndex": [
+        [
+          19
+        ],
+        [
+          23
+        ]
+      ],
+      "rightChoiceIndex": 1,
+      "sentences": [
+        {
+          "text": "I dropped my controller and turned my head away from the game.",
+          "sound": "42f5102ee91b9320d21187e95ea1fdcd"
+        },
+        {
+          "text": "\"Yes, Mom.\"",
+          "sound": "ed1c9ae504b1d0710997ab682d603494"
+        },
+        {
+          "text": "I moved like a cheetah to her side.",
+          "sound": "f60278407984a00a1adb2c7ce3a9f5b2"
+        },
+        {
+          "text": "\"You forgot to clean your room, and your homework isn't done.",
+          "sound": "7e1b86987e6662eeef8df668fe72be49"
+        },
+        {
+          "text": "You'\nspend too much time playing video games.",
+          "sound": "4367da1db21dcee91003a5e1a3a8588d"
+        },
+        {
+          "text": "\"\n\"Yes, Mom,\" I said, and I darted off to do as she wished.",
+          "sound": "0a8d2747484c2497591720a365362fd5"
+        }
+      ],
+      "rightChoice": {
+        "sound": "e7db3df9ae8a439ee2e6d3c01cf95b2f"
+      },
+      "wrongChoice": {
+        "sounds": [
+          "87c88ffaec742ad5c7be80f862a9291a",
+          "412102b26c66a1e8c7ae81c85b5bbef5",
+          "ea0a53fb955d1b7a19c8d44e92bf33b0"
+        ]
+      },
+      "comparingTo": {
+        "sound": "fe0aac60f743add347ff7802d74723fa"
+      },
+      "choices": [
+        {
+          "text": "turned my head away from the game",
+          "sound": "f3d2302a0a9246da0c81adfde128151d"
+        },
+        {
+          "isRight": true,
+          "text": "I moved like a cheetah",
+          "sound": "09a516aa6e272d4954b0e0c5164699fc"
+        },
+        {
+          "text": "You spend too much time playing video games",
+          "sound": "134883af7ed4d39906acba695fd96407"
+        },
+        {
+          "text": "darted off to do as she wished",
+          "sound": "293dd1b360c6ffa4ead5c427d28ed514"
+        }
+      ],
+      "options": [
+        {
+          "text": "Herbert imagined he was in the video game.",
+          "sound": "272257fccd59f8d80302d60c84359235"
+        },
+        {
+          "isRight": true,
+          "text": "Herbert moved quickly and quietly.",
+          "sound": "862688f5a4fd9ff3d606c0fc4302e1aa"
+        },
+        {
+          "text": "Herbert crawled on his hands and knees.",
+          "sound": "12f6114e5a004c472d519ec6c29a4b2b"
+        },
+        {
+          "text": "Herbert snarled and was angry.",
+          "sound": "1930ad5039dcc0b8967d9c5db6df79d0"
+        }
+      ]
+    }
+  ],
+  "preview": [
+    {
+      "title": "The Adventure",
+      "subTitle": "By Mason Carter",
+      "arrowPos": {
+        "x": 630,
+        "y": 465
+      },
+      "text": [
+        {
+          "words": "I grabbed the green vines and swung across the muddy\nriver. As I swung, I saw a flash of teeth. I barely avoided the\nalligatoe. Now, I could see my hard work had paid off. I\nreached for the treasure.",
+          "x": 50,
+          "y": 130
+        },
+        {
+          "words": "\"Herbert Westfield, you get out here right this moment!\" Mom\ncalled out.",
+          "x": 50,
+          "y": 270
+        },
+        {
+          "words": "I was so focused that I hadn't noticed mom approaching\nlike a thundercloud.",
+          "x": 50,
+          "y": 360
+        }
+      ]
+    },
+    {
+      "arrowPos": {
+        "x": 150,
+        "y": 465
+      },
+      "text": [
+        {
+          "words": "I dropped my controller and turned my head away from the\ngame.\"Yes, Mom.\" I moved like a cheetah to her side.",
+          "x": 50,
+          "y": 130
+        },
+        {
+          "words": "\"You forgot to clean your room, and your homework isn't\ndone. You spend too much time playing video games.\"",
+          "x": 50,
+          "y": 220
+        },
+        {
+          "words": "\"Yes, Mom,\" I said, and I darted off to do as she wished.",
+          "x": 50,
+          "y": 310
+        }
+      ],
+      "textPos": {
+        "x": 80,
+        "y": 80
+      }
+    }
+  ]
+}

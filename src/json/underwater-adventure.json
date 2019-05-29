@@ -1,0 +1,42 @@
+{
+	"maxScore": 10,
+	"time": 100000,
+	"letters": [
+	  "D",
+	  "F",
+	  "I",
+	  "P"
+	],
+	"letterSounds": [
+	  "8f61d7a730b8b4bfc8a9f9cd0b71836a",
+	  "799504811208eb50bbc90c1b1e9122cb",
+	  "f5c3bf1a38fbef0fd7dfa4dc6f9f1efa",
+	  "3d04a1a9ded75d2f2a1410712238ccbe"
+	],
+	"allLetters": [
+	  "D",
+	  "F",
+	  "I",
+	  "P",
+	  "D",
+	  "F",
+	  "I",
+	  "P",
+	  "E",
+	  "C",
+	  "D",
+	  "E",
+	  "G",
+	  "H",
+	  "K",
+	  "V",
+	  "Z",
+	  "M",
+	  "P",
+	  "D",
+	  "I",
+	  "P"
+	],
+	"speed": 400,
+	"hz": 5000
+  }

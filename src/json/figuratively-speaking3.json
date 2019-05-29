@@ -1,0 +1,23 @@
+{
+  "similes":"Similes",
+  "wordText":["simile","metaphor"],
+  "metaphors":"Metaphors",
+  "like":"like",
+  "as":"as",
+  "is":"is",
+  "wordList": [
+    "is a rocket",
+    "drove fast as lightning",
+    "went really fast",
+    "is white",
+    "makes a loud noise"
+  ],
+  "wordSoundList":[
+    {"sound":"089bef349aba5e1cf5cbed56926320ab"},
+    {"sound":"bf50b8b4b73dd38af24dfbe6c931f196"},
+    {"sound":"3851306e25e3ea07a735bdb970bd867e"},
+    {"sound":"1ef0bb757865369f5c976c07ec87a9a1"},
+    {"sound":"73c81b73f30ce2c41c8ebe70e4cc98c0"}
+  ],
+  "theCar":"The car ________."
+}

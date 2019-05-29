@@ -1,0 +1,24 @@
+{
+  "firstAudio": {
+    "sound": "49f16cc8196e303bbbaa75cf0ad07468",
+    "soundAlias": "DIR_IF_Lets_learn.mp3"
+  },
+  "pages": [{
+      "msg": 0,
+      "sound": "294b21323af2e0154a5495743bbfeabf",
+      "soundAlias": "fist_VOCAB_IF_MAA.mp3",
+      "text": "%3Cp%20style%3D%22font-size%3A36px%3Bfont-family%3ACentury%20Gothic%3B%22%3Efi%3Cspan%20style%3D%22color%3A%20rgb%28255%2C%200%2C%200%29%3B%22%3Es%3C/span%3Et%3C/p%3E",
+      "imageAlias": "fist_PHONICS_IF1_U1.png",
+      "image": "ddcb615c93cee2776e136568a8776b09"
+    },
+    {
+      "msg": 0,
+      "sound": "49f16cc8196e303bbbaa75cf0ad07468",
+      "soundAlias": "tennis_VOCAB_IF_MAA.mp3",
+      "text": "%3Cp%20style%3D%22font-size%3A36px%3Bfont-family%3ACentury%20Gothic%3B%22%3Etenni%3Cspan%20style%3D%22color%3A%20rgb%28255%2C%200%2C%200%29%3B%22%3Es%3C/span%3E%3C/p%3E",
+      "imageAlias": "tennis_PHONICS_IF1_U1.png",
+      "image": "7f3c73ea8e46465c9403fa54c044fd43"
+    }
+  ],
+  "showType": "0"
+}

@@ -1,0 +1,178 @@
+{
+  "evidence": [
+    [
+      [
+        {
+          "text": "Oranges are the best\nfruit.",
+          "sound": "b75d6881484ef1093299ff8c5a234d87",
+          "correctIndex": 1,
+          "soundArray": [
+            {
+              "sound": "741afc7e2e97cffda40f08412e626488"
+            },
+            {
+              "sound": "e157d07efccc6fc397eb29297d6bfa13"
+            }
+          ]
+        },
+        {
+          "text": "Oranges are a source of\nvitamin C.",
+          "sound": "4e6745547dc28900ca1c5cc98c29fa91",
+          "correctIndex": 0,
+          "soundArray": [
+            {
+              "sound": "38a9d8e82324a7d517e5e882182e2c93"
+            },
+            {
+              "sound": "f846c7bec410b235451dc4ec86059e5e"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "Horses have hooves.",
+          "sound": "7cc0815c47a9d60fb4391fc26dc93b26",
+          "correctIndex": 0,
+          "soundArray": [
+            {
+              "sound": "38a9d8e82324a7d517e5e882182e2c93"
+            },
+            {
+              "sound": "62cee534b5958592e3587d3b85c48250"
+            }
+          ]
+        },
+        {
+          "text": "Horses are beautiful.",
+          "sound": "f2fc736cfbabbada2695fc1101c59c57",
+          "correctIndex": 1,
+          "soundArray": [
+            {
+              "sound": "01fb1a181d247668903184a64e69e51b"
+            },
+            {
+              "sound": "5f06dfa5314b9cfb373ca8afd1de1d7b"
+            }
+          ]
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "The pilot said, \"It takes\nhundreds of hours of\npractice to fly a plane\nwell.\"",
+          "sound": "0cf78c43f6f26ccec2de7c971941aa89",
+          "correctIndex": 0,
+          "soundArray": [
+            {
+              "sound": "fcdf78a459d0d164ab7260cf182f1039"
+            },
+            {
+              "sound": "180b5b8b551f90206ee901e5e7d3dc24"
+            }
+          ]
+        },
+        {
+          "text": "The words to our school\nsong should be, \"O\nImagine Island\nAcademy! I will ever be\nglad of thee!\"",
+          "sound": "914271479f937ca31523cec071075b16",
+          "correctIndex": 1,
+          "soundArray": [
+            {
+              "sound": "f174e5a8e9ffc5d9e3c527ad234289c7"
+            },
+            {
+              "sound": "225ef72e1c3b5209080f81532bdca2f6"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "\"The brideg was badly\nmade and should have\nfallen down long ago,\"\nthe brideg engineer\nadmitted.",
+          "sound": "e340cff481fbb4b6206d92b7ffbae58a",
+          "correctIndex": 0,
+          "soundArray": [
+            {
+              "sound": "38a9d8e82324a7d517e5e882182e2c93"
+            },
+            {
+              "sound": "66e9d96aceb51eeef41d1b615ea75197"
+            }
+          ]
+        },
+        {
+          "text": "The advertisement\nseemed to say, \"If you're\nnot drinking our juice\nyou're not very smart.\"",
+          "sound": "5ac3a54019eee1ae4b1ba864dabd3206",
+          "correctIndex": 1,
+          "soundArray": [
+            {
+              "sound": "92ca90640ced4f6ec05a0c3ea945102d"
+            },
+            {
+              "sound": "d12532a43aee362aaf737fc11ab92c58"
+            }
+          ]
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "She lives at 4200 East 3rd\nStreet.",
+          "sound": "0f52021623b2b4aa8a6d51b910263a66",
+          "correctIndex": 1,
+          "soundArray": [
+            {
+              "sound": "4e159fb6045c23d71a259a0bec1ea89e"
+            },
+            {
+              "sound": "c5274370cf390ab1e204b424f0cdbf51"
+            }
+          ]
+        },
+        {
+          "text": "There are 842 students in\nthis school.",
+          "sound": "41fea8f71aabdd3871cc670ef2159eab",
+          "correctIndex": 0,
+          "soundArray": [
+            {
+              "sound": "ea5ef50a08bfacba4dc92980165feafb"
+            },
+            {
+              "sound": "796e86e805ec4f688972d3e57086c2dc"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "Four out of five parents\nsupported the new\nhomework rule.",
+          "sound": "c4e19347644b3a50c6b665aafec7f144",
+          "correctIndex": 0,
+          "soundArray": [
+            {
+              "sound": "fcdf78a459d0d164ab7260cf182f1039"
+            },
+            {
+              "sound": "99d8ee26dac1fc5a8ffbf51ad862bca0"
+            }
+          ]
+        },
+        {
+          "text": "The best movie of all\ntime came out in 1997.",
+          "sound": "6486cc4121219155f7e7efca4bb67cea",
+          "correctIndex": 1,
+          "soundArray": [
+            {
+              "sound": "a2ab1cce5a454ef07e8cabb9d0ca32dc"
+            },
+            {
+              "sound": "75d1f759cadd5b5e38466ef6989037d7"
+            }
+          ]
+        }
+      ]
+    ]
+  ]
+}

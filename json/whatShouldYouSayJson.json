@@ -1,0 +1,42 @@
+{
+    "imgSource":{
+        "tbg": "fea33702c2facd73df25e1366deab9e1.jpg",
+        "whitePoint": "701c3a3448f6985acdf47a9b04e06d81",
+        "greenPoint": "b7fb19c6006f08de9fe00abfbb0e1191",
+        "yellowPoint": "cda0ec73b32723a67b756f9cdc70a96c",
+        "redPoint": "43825d8d62284c3c582e1d198f4daa21",
+        "plate": "213c3640c9eacd19e5935efa897804f4",
+        "mainVideoPlace": "1d084703442f5d7c03452ffe8fbde719",
+        "playBtnImg": "75cf06acc49eb9f663d68f2c198d1323",
+        "stageBnt": "4c3df7c39f7587527288de9c92a7663e",
+        "whiteSpacePlace": "35eed4bb33c50564510ba4a6253f0c54",
+        "whatShouldYouSay": "637bb6c4fc463aa0c4bb5fe3d0d8c929",
+        "videoBorder": "9215fc6b8c317fbcc13741b259ceb9e2",
+        "grayChooseQuestion": "3e63a7d31f379ce132723ab68363db0b",
+        "blueChooseQuestion": "6b88e64bd83e035d31d6dbad11033d6d",
+        "yellowChooseQuestion": "6a4855e3858442b16badccefea41eb18"
+      },
+    "soundSource": {
+        "choosethevideo": "49ace1a36285de9405443e2b5af353ef",
+        "whatShouldYouSay": "30c4dd5cd9e095e7813e1718d2912569",
+        "flashVideoSound": "ce305b4eafc8b165ed888eaccf30d64c",
+        "startAnswerQuestion": "edaafa1fbbacebb658ae8490e47e9482",
+        "clickHere": "3881f01145450320b07ee22685e977d9",
+        "chooseRightRadio": "10c4745156e2549d5af52516644c2f14",
+        "wrongSound": "c0d1fc574e697d3a7b384ed453f8486a",
+        "rightTips": "0b9de05163f45ebc12ae12042a9eaf23",
+        "oneofthisvideo": "edaafa1fbbacebb658ae8490e47e9482",
+        "correctSound0": "477a1a39566bc4c3785ae1690b73d723",
+        "correctSound1": "4f9c732ea78e99db09ad35327f3639ef",
+        "correctSound2": "6e86b2b0c8208d301780fa636b61b319",
+        "correctSound3": "87971baece8fe8057282cffb43324982",
+        "correctSound4": "a42b3353f26534bf9122a7b715d1bac1",
+        "correctSound5": "dec1942f85acdd6ca12cfd6b81a4aeb0",
+        "correctSound6": "fa187ddfbd90920c446f810f745ddaca",
+        "correctSound7": "fd2626d9ff9eb6c154984109624d8287",
+        "correctSound": "a5582b21b89be02fed914d4313d99926",
+        "chooseThisOne": "d3135036a1ffb6e2875b14eadcbca9fb",
+        "clickLetsGo": "7723a58e4ce75e7a0de1a5707feb33e7",
+        "videoSound": "e3f3b2abc6088fc29546eaad69b10e03"
+      }
+}

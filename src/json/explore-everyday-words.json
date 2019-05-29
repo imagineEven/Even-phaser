@@ -1,0 +1,42 @@
+{
+	"picNum": 3,
+	"type": "dc9e38a056cb27be254c64ca687afaa3",
+	"bg": "6977dad106c6e3de7c473ab9e7123cdf.jpg",
+	"words": [
+	  {
+		"word": "ears",
+		"pic": "df56779e6394fd4ea209dbdbe56575c4",
+		"sound": "f601316580ef172ab1e373b0f1e8887e",
+		"scale1": 0.5,
+		"scale2": 1
+	  },
+	  {
+		"word": "eyes",
+		"pic": "f89bc20d8baef4b9307dee0b526c1c2d",
+		"sound": "bda602b8e4973d78dfc57fe2144639aa",
+		"scale1": 0.5,
+		"scale2": 1
+	  },
+	  {
+		"word": "hair",
+		"pic": "989520ecb38f76fb2d1c74fee9c3cef1",
+		"sound": "3cdb5d59f616e6bf3711b581458b9868",
+		"scale1": 0.5,
+		"scale2": 1
+	  },
+	  {
+		"word": "mouse",
+		"pic": "7f14ed7a1c2696eb78e7121901f55c1d",
+		"sound": "63e70b681c0c90083c3dc235e862d478",
+		"scale1": 0.5,
+		"scale2": 1
+	  },
+	  {
+		"word": "nose",
+		"pic": "aac18cd07a85d2dba1ef0c48188a9a8e",
+		"sound": "41926e4446afb0e342bd99e0cde2c422",
+		"scale1": 0.5,
+		"scale2": 1
+	  }
+	]
+  }

@@ -1,0 +1,275 @@
+{
+  "home": {
+    "image": "c494d4772cba2f50d6b11e0abe4e304e.jpg",
+    "pictures": [
+      {
+        "images": [
+          "b436baaa9b9b586b92b80faa5c65cd98",
+          "6b4cd2a5cb591700c0c9dfa29b427352"
+        ],
+        "sound": "c276a1f0fa68ae99a4ac30dcd5f87dc5",
+        "x": 50,
+        "y": 75,
+        "scale": 1
+      },
+      {
+        "images": [
+          "d38eb61930328819738cd2c842bd0655",
+          "7c9abadceedb4e1be9e7bd28d69241c1"
+        ],
+        "sound": "beaafa7b26a8c53578a29a75575637ac",
+        "x": 80,
+        "y": 380,
+        "scale": 1
+      },
+      {
+        "images": [
+          "ded68242329c07442853aefef119b707",
+          "8f1e25a46a51ae02091094d256148021"
+        ],
+        "sound": "5e2a720ae329ba51a6181c593a9f02a3",
+        "x": 70,
+        "y": 440,
+        "scale": 1
+      }
+    ]
+  },
+  "pages": [
+    {
+      "passages": "  I was *scooting* on my belly under the brush. I had to reach\nthe car before Josh found me. If I could touch it, I'd win the\ngame.",
+      "indent": 2,
+      "x": 70,
+      "y": 375,
+      "times": 20000,
+      "sounds": [
+        "eaccb50e9b97c136770958057224a7ae",
+        "b8c9801351e5b287e2ff5ceb79b4f887",
+        "dbc7e55b16743b05a3fe4ee07f71837e"
+      ],
+      "image": "8505c00be9339ac0a4ec00a158f59f23.jpg",
+      "keyWords": [
+        {
+          "wordIndexs": [
+            2
+          ],
+          "color": "#36D138",
+          "infos": [
+            {
+              "text": "scoot",
+              "sound": "1a398e331e4dfc45c7868aaebbf0018f"
+            },
+            {
+              "text": "verb",
+              "sound": "87c995e56b74741ab0c258639f3204a9"
+            },
+            {
+              "text": "To move quickly in little bursts of speed.",
+              "sound": "ef9e8735aa86fd95fccdb086291342fa"
+            },
+            {
+              "text": "To move quickly in",
+              "sound": "ef9e8735aa86fd95fccdb086291342fa"
+            }
+          ],
+          "word": "scoot"
+        },
+        {
+          "wordIndexs": [
+            32
+          ],
+          "color": "#266D76",
+          "infos": [
+            {
+              "text": "talent",
+              "sound": "e7657f1a7ef8c9e2b548dd3282450742"
+            },
+            {
+              "text": "noun",
+              "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            {
+              "text": "Skill and ability to do something well.",
+              "sound": "4de83482c8f6a821ebd96cf7db74a021"
+            }
+          ],
+          "word": "talent"
+        }
+      ]
+    },
+    {
+      "passages": "  I could hear Josh's *feet* steps just a few feet away from me.\nIf I made any noise at all, he'd find me. I'd be out of the\ngame.",
+      "indent": 2,
+      "x": 70,
+      "y": 375,
+      "times": 20000,
+      "sounds": [
+        "6db57fff5c59f55131e27eb60898f707",
+        "adfb1680c203e88b9b6e0a1a4a73800f",
+        "492581f42c6e0157b4bc5bf3eb9654f4"
+      ],
+      "image": "3948f463b71051159a73856ec0ab8aec.jpg",
+      "keyWords": [
+        {
+          "wordIndexs": [
+            8
+          ],
+          "color": "#266D76",
+          "infos": [
+            {
+              "text": "foot",
+              "sound": "7a85e4e763d89320bd3964edf033397c"
+            },
+            {
+              "text": "nonu",
+              "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            {
+              "text": "A unit of measure, about\nas long as a man's foot.\nThere are twelve inches in\na foot and three feet in a\nyard.",
+              "sound": "2e0d99238a13df2b046f0eea7d047bab"
+            }
+          ],
+          "image": "c9b90adfe4b26ec3102bbe00f23783d7",
+          "word": "foot"
+        },
+        {
+          "wordIndexs": [
+            26,
+            27
+          ],
+          "color": "#266D76",
+          "infos": [
+            {
+              "text": "Latin American",
+              "sound": "c6755520f647a7dc0aa8ac48adef19e7"
+            },
+            {
+              "text": "noun",
+              "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            {
+              "text": "Someone from one of the countries of South America\nand Central America.",
+              "sound": "4f4d9b12eb17b660f80f60a68984bd31"
+            }
+          ],
+          "word": "Latin American"
+        },
+        {
+          "wordIndexs": [
+            39,
+            40,
+            41,
+            42,
+            43
+          ],
+          "color": "#266D76",
+          "infos": [
+            {
+              "text": "Nobel Prize for Literature",
+              "sound": "7dd45f89ead1578ce470a08fa49b1b69"
+            },
+            {
+              "text": "noun",
+              "sound": "c8aff4b9e3f399f49a8cb064518da7c9"
+            },
+            {
+              "text": "A famous prize given each year to someone who\nhas done important writing.",
+              "sound": "abd1eb40280287dd76fc2faf52bae8e7"
+            }
+          ],
+          "word": "Nobel Prize for Literature"
+        }
+      ]
+    },
+    {
+      "passages": "  \"I can hear you, Sandy, and I'm going to find you,\" I heard\nJosh *holler*",
+      "indent": 2,
+      "x": 70,
+      "y": 375,
+      "times": 10000,
+      "sounds": [
+        "f5ed29686e90673f8f0e5589a7fb7911"
+      ],
+      "image": "eac2397fe8681bc8da5d8deab567c9c6.jpg",
+      "keyWords": [
+        {
+          "wordIndexs": [
+            19,
+            20
+          ],
+          "color": "#36D138",
+          "infos": [
+            {
+              "text": "holler",
+              "sound": "891d3f69a62af3ce65fc834569e80e6f"
+            },
+            {
+              "text": "verb",
+              "sound": "87c995e56b74741ab0c258639f3204a9"
+            },
+            {
+              "text": "To yell or speak loudly.",
+              "sound": "b9e65e8a3de6e5a6155c5bbafe035282"
+            },
+            {
+              "text": "antonym: whisper",
+              "sound": "b9e65e8a3de6e5a6155c5bbafe035282"
+            }
+          ],
+          "word": "holler"
+        }
+      ]
+    },
+    {
+      "passages": "  As I *snaked* away from Josh, I made a wrong turn. A solid\nwall of rock blocked my way.",
+      "indent": 2,
+      "x": 70,
+      "y": 375,
+      "times": 10000,
+      "sounds": [
+        "7e2f09ec5bd8c9ce3134886b285cd0f8",
+        "7ce13ceb60f4b7346ee5b53e9fae2d0b"
+      ],
+      "image": "d1c2b8ec3f0ecb7eb3f5b45b992768b5.jpg",
+      "keyWords": [
+        {
+          "wordIndexs": [
+            2
+          ],
+          "color": "#266D76",
+          "infos": [
+            {
+              "text": "snake",
+              "sound": "5634dea10bcd771847af5f5090cf6970"
+            },
+            {
+              "text": "verb",
+              "sound": "87c995e56b74741ab0c258639f3204a9"
+            },
+            {
+              "text": "To move like a snake.",
+              "sound": "506651867f0998876053f0671e05741e"
+            },
+            {
+              "text": "antonym: slither",
+              "sound": "b4a6f337865854069c7bc72933d73291"
+            }
+          ],
+          "word": "snake"
+        }
+      ]
+    },
+    {
+      "passages": "  Quickly, I slid along the wall. There had to be a way around\nit somewhere. Or maybe there was a way through it.",
+      "indent": 2,
+      "x": 70,
+      "y": 375,
+      "times": 20000,
+      "sounds": [
+        "0c7fbc60f08f335d4ac657b1f4a57655",
+        "ea9bfe421e33b7a5f1719de9ca3e4315",
+        "57b9b61e2c2bc70249e92f87e963552e"
+      ],
+      "image": "d1c2b8ec3f0ecb7eb3f5b45b992768b5.jpg"
+    }
+  ]
+}

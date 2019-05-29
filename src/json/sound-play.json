@@ -1,0 +1,15 @@
+{
+	"infos": [
+		{
+			"word": "zoo",
+			"image":"b36ad7195dab9cfcb70069d4f1ec929b",
+			"sound": "e4f8e79f2c3c91464e4c1bbadef52e72",
+			"sounds":["181e53840ecda17c37bcb32bf627a2d1","b235e50e12de23012ec53da059fbfcd2"]
+		},{
+			"word": "bee",
+			"image":"1261ed356444b1239ad6f431bd7bd49b",
+			"sound": "1726e5ac17bbae6fab03481c86921ab3",
+			"sounds":["a427b219266a7affb450bf74a09f8734","69a70ece6dd9e20c5a421f070e1f585c"]
+		}
+	]
+}

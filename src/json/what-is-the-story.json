@@ -1,0 +1,574 @@
+{
+    "viewtitle": {
+        "word": "The Fossil Hunter",
+        "sound": "2b04dad0b3a8c6404dd51bbb728177a0",
+        "position": {
+            "x": 280,
+            "y": 30
+        }
+    },
+    "trueWord": ["Fossil Butte", "a boy", "He needs to find something.", "He got the object back."],
+    "falseSound": {
+        "sounds": ["a88928d80bfd03d69a22eb54226b032a", "8256ee7fd0fb70ca62dfdc53a7ee690b", "69f488fb740bae5811f1589300c6c4c2", "1755f1779064ab61cb98e2e091e6b51e"]
+    },
+    "viewWord": [{
+            "questionsound": {
+                "sound": "9776f442ad2292b10c85f33362aba808"
+            },
+            "options": [ {
+                "selectWord": "Fossil Butte",
+                "sound": "6bc3be81249d1c61519627bf8ad3bf2b"
+            },{
+                    "selectWord": "London",
+                    "sound": "93b8215397c27a21b46f6f16f9610833"
+                }, {
+                    "selectWord": "New York",
+                    "sound": "9b83a1c6188d14c951130fd1ac796c6e"
+                }
+               
+            ]
+        },
+        {
+            "questionsound": {
+                "sound": "9ccd432291a7e600171327d59ec97bbb"
+            },
+            "options": [{
+                    "selectWord": "a boy",
+                    "sound": "15a36b0983745b6f9a5124afdd02c906"
+                }, {
+                    "selectWord": "Aunt Megan",
+                    "sound": "fa37896af466871299c1e07f4d92fe75"
+                },
+                {
+                    "selectWord": "Mom",
+                    "sound": "fb16947602bb856e03804537a8c75d83"
+                }
+            ]
+        },
+        {
+            "questionsound": {
+                "sound": "945db879dd668eca4439edfbb961a805"
+            },
+            "options": [{
+                    "selectWord": "He needs to find something.",
+                    "sound": "325f67e7154884978817fad5cd984354"
+                }, {
+                    "selectWord": "He lost his shoe.",
+                    "sound": "a4004eadf0d0e261397fecc4271691e1"
+                },
+                {
+                    "selectWord": "He is lonely.",
+                    "sound": "faeb46e0ddf47e12024959893b51735f"
+                }
+            ]
+        },
+        {
+            "questionsound": {
+                "sound": "e3163ef3095238b3037ca4eb06484093"
+            },
+            "options": [
+                {
+                    "selectWord": "He likes looking\nfor fossil.",
+                    "sound": "9e14d6ef339af4b3949e5ef76f390004"
+                },
+                {
+                    "selectWord": "He ate his lunch.",
+                    "sound": "b0c1cbf08843e523df59ad8773ed58a9"
+                },{
+                    "selectWord": "He went to a\nmovie.",
+                    "sound": "98e0c64f105ed8d9a3fa2c4f3448a2a9"
+                }
+                
+            ]
+        }
+    ],
+    "contrastWord":{
+        "title": "The Boy Who Cried Wolf",
+        "words": ["a boy", "a hill", "He is bored.", "He decides that his job is not\nboring."]
+    },
+    "titleContent": {
+        "title": {
+            "word": "The Fossil Hunter",
+            "x": 450,
+            "y": 50
+        },
+        "titleWords": [{
+                "word": "investigate",
+                "sentence": "To learn hidden facts about\nsomething.",
+                "time": [400, 400, 400, 400, 400, 400],
+                "sounds": ["3e9f6abf809b332419a79a93434e6925", "195f2075e224bf035971f34b8afd1be1"],
+                "x": 425,
+                "y": 155,
+                "fontSize": 18
+            },
+            {
+                "word": "paleontologist",
+                "sentence": "A scientist who studies the fossils of\nplants and animals",
+                "time": [40, 400, 400, 400, 400, 400, 400, 400, 400, 400],
+                "sounds": ["86d47d80b8a4976c664c748820e610fb", "f87e093c82049bf27edd1a6335eadfd8"],
+                "x": 425,
+                "y": 255,
+                "fontSize": 18
+            },
+            {
+                "word": "fossil",
+                "sentence": "A plant or animal from long ago that\nhas been saved in a rock.",
+                "time": [40, 400, 40, 400, 400, 400, 400, 400, 400, 400, 400, 400, 40, 400],
+                "sounds": ["5d54fe3d5346f43fb66adb92138e3b12", "c0d0e42aa23c63c17d788a9522ca2620"],
+                "x": 425,
+                "y": 355,
+                "fontSize": 18
+            },
+            {
+                "word": "butte",
+                "sentence": "A hill or mountation that has a flat top.",
+                "time": [40, 400, 40, 400, 400, 400, 40, 400, 400, 40],
+                "sounds": ["16b27b80489f0d9ca49d80a0125dca8c", "a310ce01ca7c1b6f135dbb719e5651a4"],
+                "x": 425,
+                "y": 455,
+                "fontSize": 18
+            }
+        ]
+    },
+    "pages": [{
+            "fontSize": 16,
+            "image": "414ac85b471d4732ce954ca52c10d73a.jpg",
+            "imageposition": {
+                "x": 450,
+                "y": 80
+            },
+            "sounds": [
+                "c1d2d62b75afe50e093fb713e30d987f"
+            ],
+            "conterWord": [
+                [{
+                    "index": 39,
+                    "vocabulary": "(noun)",
+                    "introduce": [{
+                            "text": "butte",
+                            "sounds": [
+                                "16b27b80489f0d9ca49d80a0125dca8c"
+                            ]
+                        },
+                        {
+                            "text": "A hill or mountain that has a flat top.",
+                            "sounds": [
+                                "a310ce01ca7c1b6f135dbb719e5651a4"
+                            ]
+                        }
+                    ]
+                }],
+                []
+            ],
+            "sentence": [
+                "I can't believe that i have to stay\nwith Aunt Megan. She's really nice,\nbut she always wants me to go to\nwork with her. She's a ranger at a big\nstate park called Fossil Butte. She\nspends all day hiking up and down\ntrails and showing people around.\nMy idea of a good time is to stay\ninside and play video games."
+            ],
+            "time": [
+                [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    40,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    40,
+                    400,
+                    40,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    40,
+                    400,
+                    400,
+                    400
+                ]
+            ],
+            "sentenceposition": [{
+                    "x": 60,
+                    "y": 80
+                }
+            ]
+        },
+        {
+            "fontSize": 16,
+            "image": "414ac85b471d4732ce954ca52c10d73a.jpg",
+            "imageposition": {
+                "x": 450,
+                "y": 80
+            },
+            "sounds": [
+                "427400dcd713560275c7104997bc3175"
+            ],
+            "conterWord": [
+                []
+            ],
+            "sentence": [
+                "Anut Megan thinks it will be good for\nme to spend the whole day outside\nenjoying the fresh air. What do i\nthinks? I think that walking for miles\nand miles will be very boring."
+            ],
+            "time": [
+                [400, 400, 400, 400, 40, 400, 400, 400, 400, 400, 400, 400, 400, 40, 400, 400, 400, 400, 400, 400, 400, 400, 40, 400, 400, 400, 400, 400, 400, 400, 400, 40, 400]
+            ],
+            "sentenceposition": [{
+                    "x": 60,
+                    "y": 100
+                }
+            ]
+        },
+        {
+            "fontSize": 16,
+            "image": "414ac85b471d4732ce954ca52c10d73a.jpg",
+            "imageposition": {
+                "x": 420,
+                "y": 80
+            },
+            "sounds": [
+                "0b64729183eb2b51b9a0acefcf1a3f58"
+            ],
+            "conterWord": [
+                [{
+                    "index": 7,
+                    "vocabulary": "(noun)",
+                    "introduce": [{
+                            "text": "fossil",
+                            "sounds": [
+                                "5d54fe3d5346f43fb66adb92138e3b12"
+                            ]
+                        },
+                        {
+                            "text": "A plant or animal from long ago that\nhas been saved in a rock.",
+                            "sounds": [
+                                "c0d0e42aa23c63c17d788a9522ca2620"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 20,
+                    "vocabulary": "(verb)",
+                    "introduce": [{
+                            "text": "investigate",
+                            "sounds": [
+                                "3e9f6abf809b332419a79a93434e6925"
+                            ]
+                        },
+                        {
+                            "text": "To learn hidden facts about something.",
+                            "sounds": [
+                                "195f2075e224bf035971f34b8afd1be1"
+                            ]
+                        }
+                    ]
+                }]
+            ],
+            "sentence": [
+                "She wants me to find a fossil. How\ndo you find a fossil? Aunt Megan\nsays i need to investigate rocks very\ncarefully. Looking at rocks is not fun."
+            ],
+            "time": [
+                [400, 400, 400, 40, 400, 400, 400, 400, 40, 400, 40, 400, 400, 400, 400, 40, 400, 400, 400, 400, 400, 40, 400, 400]
+            ],
+            "sentenceposition": [{
+                    "x": 60,
+                    "y": 80
+                }
+            ]
+        },
+        {
+            "fontSize": 16,
+            "image": "414ac85b471d4732ce954ca52c10d73a.jpg",
+            "imageposition": {
+                "x": 450,
+                "y": 80
+            },
+            "sounds": [
+                "3a0078ee247965adcacd04f6376c43fa"
+            ],
+            "conterWord": [
+                [{
+                    "index": 7,
+                    "vocabulary": "(noun)",
+                    "introduce": [{
+                            "text": "fossil",
+                            "sounds": [
+                                "5d54fe3d5346f43fb66adb92138e3b12"
+                            ]
+                        },
+                        {
+                            "text": "A plant or animal from long ago that\nhas been saved in a rock.",
+                            "sounds": [
+                                "c0d0e42aa23c63c17d788a9522ca2620"
+                            ]
+                        }
+                    ]
+                }]
+            ],
+            "sentence": [
+                "But the sooner i find a fossil, the\nsooner i can get back to my video\ngames. I keep my eyes open, but all\ni see is regular old rocks."
+            ],
+            "time": [
+                [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 40, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 40, 400, 400, 400, 400, 400, 400, 400, 40, 400, 400, 400, 400, 400, 400, 400, 400]
+            ],
+            "sentenceposition": [{
+                "x": 60,
+                "y": 100
+            }]
+        },
+        {
+            "fontSize": 16,
+            "image": "b65e79f6d75c1b07945a940c6409489b.jpg",
+            "imageposition": {
+                "x": 450,
+                "y": 80
+            },
+            "sounds": [
+                "da9dceae512e24963be098193e49a67e"
+            ],
+            "conterWord": [
+                []
+            ],
+            "sentence": [
+                "We're pretty high up the mountain\nnow, heading into the tress. Aunt\nMegan shows me jagged lines\nscratched inti the trees where\nmountain lions have sharpened their\nclaws. I have to admit, it would be\ncool to see a mountain lion. I look\naround. Aunt Megan is gone."
+            ],
+            "time": [
+                [400, 400, 400, 400, 40, 400, 400, 400, 400, 400, 400, 400, 400, 40, 400, 400, 400, 400, 400, 400, 400, 400, 40]
+            ],
+            "sentenceposition": [{
+                    "x": 60,
+                    "y": 100
+                }
+            ]
+        },
+        {
+            "fontSize": 16,
+            "image": "b65e79f6d75c1b07945a940c6409489b.jpg",
+            "imageposition": {
+                "x": 450,
+                "y": 80
+            },
+            "sounds": [
+                "23a94bc0773f8fb4f12f7afe07bcf14c"
+            ],
+            "conterWord": [
+                [],
+                []
+            ],
+            "sentence": [
+                "Come on up here!",
+                "I breathe a big sigh of relief. Anut\nMegan is not a mountain lion's\ndinner. I scameble up toward the top\n of the mountain and toward Anut\nMegan."
+            ],
+            "time": [
+                [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    40
+                ],
+                [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    40,
+                    400,
+                    400,
+                    400,
+                    40,
+                    400,
+                    400,
+                    400,
+                    40,
+                    400,
+                    400,
+                    400,
+                    40
+                ]
+            ],
+            "sentenceposition": [{
+                "x": 60,
+                "y": 110
+            },{
+                "x": 60,
+                "y": 150
+            }]
+        },
+        {
+            "fontSize": 16,
+            "image": "b65e79f6d75c1b07945a940c6409489b.jpg",
+            "imageposition": {
+                "x": 450,
+                "y": 80
+            },
+            "sounds": [
+                "0bac0075468201ed917f7c2806ac6956"
+            ],
+            "conterWord": [
+                [{
+                    "index": 4,
+                    "vocabulary": "(noun)",
+                    "introduce": [{
+                            "text": "paleontologist",
+                            "sounds": [
+                                "86d47d80b8a4976c664c748820e610fb"
+                            ]
+                        },
+                        {
+                            "text": "A scientist who studies the fossils of\nplants and animals",
+                            "sounds": [
+                                "f87e093c82049bf27edd1a6335eadfd8"
+                            ]
+                        }
+                    ]
+                },{
+                    "index": 12,
+                    "vocabulary": "(noun)",
+                    "introduce": [{
+                            "text": "fossils",
+                            "sounds": [
+                                "5d54fe3d5346f43fb66adb92138e3b12"
+                            ]
+                        },
+                        {
+                            "text": "A plant or animal from long ago that\nhas been saved in a rock.",
+                            "sounds": [
+                                "c0d0e42aa23c63c17d788a9522ca2620"
+                            ]
+                        }
+                    ]
+                }]
+            ],
+            "sentence": [
+                "Since a lot of paleontologists have\nalready been here searching for\nfossils, i doubt that i will ever find\none. I look down. I can't believe that\nthis was once a huge lake full of fish\nand tropical plants and even\nalligators"
+            ],
+            "time": [
+                [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400
+                ]
+            ],
+            "sentenceposition": [{
+                "x": 60,
+                "y": 150
+            }]
+        },
+        {
+            "fontSize": 16,
+            "image": "35ad1940a7d22321c96bf343618560dc.jpg",
+            "imageposition": {
+                "x": 450,
+                "y": 80
+            },
+            "sounds": [
+                "04b8f97276f584a820d12609e0c49aa3"
+            ],
+            "conterWord": [
+                []
+            ],
+            "sentence": [
+                "I'm trying to imagine an alligator\nclimbing this mountain. Then i see\nsomething through the trees that\nlooks like a rock on the ground width\nfaint marks on it. As i get closer, I can\nhardly believe what i see. A fish\n fossil! That little fish was hiding there\nin the rock for maybe a million years\nuntil i found it."
+            ],
+            "time": [
+                [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    400
+                ]
+            ],
+            "sentenceposition": [{
+                "x": 60,
+                "y": 150
+            }]
+        },
+        {
+            "fontSize": 16,
+            "image": "35ad1940a7d22321c96bf343618560dc.jpg",
+            "imageposition": {
+                "x": 450,
+                "y": 80
+            },
+            "sounds": [
+                "c244ea25ad3b5f8313cad5bf03e5ed1a"
+            ],
+            "conterWord": [
+                [],
+                []
+            ],
+            "sentence": [
+                "\"Have you discovered anything yet?\"\nAnut Megan calls. \"If we don't hurry,\nyou'll miss your favorite Ty show.\"",
+                "\"Who cares about Tv? You won't\nbelieve what i just found.\""
+            ],
+            "time": [
+                [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    40
+                ],
+                [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400,
+                    40
+                ]
+            ],
+            "sentenceposition": [{
+                "x": 60,
+                "y": 100
+            },
+            {
+                "x": 60,
+                "y": 180
+            }]
+        }
+    ]
+}

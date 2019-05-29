@@ -1,0 +1,68 @@
+{
+  "whatGoes":"What goes in the empty box?",
+  "seahorses":"A. Seahorses are becoming extinct",
+	"thereAre":"B. There are many extraordinary fish in the ocean.",
+  "arr":[
+		{
+			"keyword":"mostly about",
+			"question":"What is the article mostly about?",
+			"sound":"c27070da6ead7f88f19975bdc74286ca",
+			"options":[
+				{
+					"text":"A. Seahorses are becoming extinct"
+				},{
+					"text":"B. Seahorses can live very long in an\naquarium."
+				}
+			],
+			"aniPosition":{
+				"x":0.67,
+				"y":0.4
+			}
+		},{
+			"keyword":"another title",
+			"question":"What is another title for the article?",
+			"sound":"667c333d50df8584534f8b8ed0297eb7",
+			"options":[
+				{
+					"text":"A. Seagrass beds."
+				},{
+					"text":"B. Disappearing seahorses."
+				}
+			],
+			"aniPosition":{
+				"x":0.67,
+				"y":0.4
+			}
+		},{
+			"keyword":"summary",
+			"question":"What is the best summary for the article?",
+			"sound":"948b48d8e5166fa4e3a42e37cf56f286",
+			"options":[
+				{
+					"text":"A. It's important to sell Chinese medicines."
+				},{
+					"text":"B. Seahorses face threats to their existence."
+				}
+			],
+			"aniPosition":{
+				"x":0.67,
+				"y":0.4
+			}
+		},{
+			"keyword":"author's purpose",
+			"question":"What is the author's purpose in writing this\narticle?",
+			"sound":"4ca710738433b50e8ae103484e99f270",
+			"options":[
+				{
+					"text":"A. To point out that seahorses could\nbecome extinct."
+				},{
+					"text":"B. To describe seahorses so that you\nwill want to see one."
+				}
+			],
+			"aniPosition":{
+				"x":0.67,
+				"y":0.4
+			}
+		}
+	]
+}

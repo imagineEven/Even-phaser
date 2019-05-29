@@ -1,0 +1,41 @@
+{
+    "articleSound":{"sound":"a71e2b4d93f85f2a5b0463a360496507"},
+    "pages":[
+        {
+            "qesText":"What is the, main idea of this presentation?",
+            "qesSound":{"sound":"4f0cbf3853518b0c9fb0d71ad2e773d9"},
+
+            "chooseItem":[
+                {"text":"how and why people sneeze","sound":"49d1b16b4290c712844a5bc6ead86efd"},
+                {"text":"how fast sneezes are","sound":"a059b62e565bd43949419f9e5ddc7c74"},
+                {"text":"how to stop germs from spreading","sound":"bc0fceceded99eed1d4a31b8092f0b7c"},
+                {"text":"why sneezing is not like brushing your teeth","sound":"fa3c86e3d21aba289cbfe4bb425460c8"}
+            ]
+        },
+        {
+            "qesText":"What happens first when you sneeze?",
+            "qesSound":{"sound":"b540e312326482ed72deb538826d3194"},
+            "isShowClick":true,
+            "clickQes":[0,1,2,-1,0,1,2,0,1,-1],
+            "chooseItem":[
+                {"text":"something tickles your nose","sound":"4cf72b5a1ed6ca54522c193d5184b3e3"},
+                {"text":"you take a big breath","sound":"c91ef02487b8aa8dc5b5fd3b341db86f"},
+                {"text":"your chest and stomach muscles push air out","sound":"d5c08e6312e12ecd63098b5d03b20bb8"},
+                {"text":"your nose sends a message to your brain","sound":"57259d2931cec180cefcd57f0560ca92"}
+            ]
+        },
+        {
+            "qesText":"How do you prevent, or stop, spreading germs when you sneeze?",
+            "qesSound":{"sound":"040d36ae0993164de7b3c1e78a1ee51d"},
+            "isShowClick":true,
+            "clickQes":[0,1,2,-1,0,1,2,0,1,-1],
+            "chooseItem":[
+                {"text":"Cover your mouth.","sound":"fc8aa9b038aa250ae96ee5578582b2c7"},
+                {"text":"Don’t get a cat.","sound":"3b85ae0e4d3310f9a6832fe316ff230e"},
+                {"text":"Sneeze in a moving car.","sound":"c7e6b8ef3aa026cc4169bf548acfb5b8"},
+                {"text":"Stay away from dust and dirt.","sound":"6a4e187501e8ba935825ecbf7d5b52d2"}
+                
+            ]
+        }
+    ]
+}

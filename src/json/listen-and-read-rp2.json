@@ -1,0 +1,876 @@
+{
+  "pageSizePosition": {
+    "x": 375,
+    "y": 565
+  },
+  "firstPage": {
+    "bgImage": { "image": "c1f2f684bafc1be4189775795f6f3074.jpg" },
+    "staticImage": { "image": "cbcb3d277c27fc77b29a65300e5dc6b6.jpg" },
+    "greyStaticImage": { "image": "735e25e18b165e41973ca0bc9e1f63c1.png" },
+    "orignStaticImage": { "image": "5e4bd464437d0244cb5c876cf64e4ba1.png" },
+    "nextPageBtn": { "image": "aa404bfe8da09ad405d550ecaae6c339" },
+    "weBook": { "sound": "0da09ace1375de782c4c33d2c6e37515" },
+    "ifYouWantTo": { "sound": "c5414feafb818cbe7dbbe570c20faba1" }
+  },
+  "book": [{
+      "jsonIndex": "1",
+      "image": "4206efaac998c02d5153bd638232259e.jpg",
+      "wordSound": { "sound": "e393f2ab62c352f9e2fc7d6a10e668de" },
+      "wordAll": "lion was sleeping in the warm sun. Suddenly he\nfelt something run across his face.",
+      "position": { "x": 70, "y": 440 },
+      "fontStyle": {
+        "fill": "black",
+        "fontSize": "27px",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      },
+      "wordSoundDictionary": [{
+          "text": "lion",
+          "sound": "6582ea2a44e4dd264ed7a11e679fe280"
+        },
+        {
+          "text": "was",
+          "sound": "5ed8fde6f55a0b2dbd2d875bfb9cda4f"
+        },
+        {
+          "text": "sleeping",
+          "sound": "ce32e3287b9f202786283ca073e1d23e"
+        },
+        {
+          "text": "in",
+          "sound": "56050955092fcc60a57a67ca0bf23970"
+        },
+        {
+          "text": "the",
+          "sound": "4272f4a04fec9198c26f5e2e827f957b"
+        },
+        {
+          "text": "warm",
+          "sound": "900ae2d1bff73755cdf844992a161432"
+        },
+        {
+          "text": "sun",
+          "sound": "bc69a434612b1148139a171bb4166a12"
+        },
+        {
+          "text": "suddenly",
+          "sound": "d92c985438762b0d71f5ca4860ddf738"
+        },
+        {
+          "text": "he",
+          "sound": "82637118f3e6bd4be3bd5f3a55f95978"
+        },
+        {
+          "text": "felt",
+          "sound": "91d2603ea2e0520a11f6c87e884cef40"
+        },
+        {
+          "text": "something",
+          "sound": "fa31558d5e5838d15631f609ea29ebaa"
+        },
+        {
+          "text": "run",
+          "sound": "063c43498798fd9455c9695d1e65bd52"
+        },
+        {
+          "text": "across",
+          "sound": "4884c47d90bde11e95f0e567df6b6709"
+        },
+        {
+          "text": "his",
+          "sound": "4d88f5cb56eab2d3f4f3363dbd8fbeff"
+        },
+        {
+          "text": "face",
+          "sound": "9964fc69e51981a455be5e906e6c6559"
+        }
+      ]
+    },
+    {
+      "jsonIndex": "2",
+      "image": "eaafda7e46ada92cb087656cb2ddedd7.jpg",
+      "wordSound": { "sound": "f5ce191cd9e4c11d83c0ff34c8cf847b" },
+      "wordAll": "Lion opened his eyes and swiftly caught a tiny\nmouse. Lion was hungry and about to eat\nMouse when he heard her little voice.",
+      "position": { "x": 70, "y": 415 },
+      "fontStyle": {
+        "fill": "black",
+        "fontSize": "27px",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      },
+      "wordSoundDictionary": [{
+          "text": "lion",
+          "sound": "6582ea2a44e4dd264ed7a11e679fe280"
+        },
+        {
+          "text": "opened",
+          "sound": "259f7cfb87ec820b1094be47bf1823d2"
+        },
+        {
+          "text": "his",
+          "sound": "4d88f5cb56eab2d3f4f3363dbd8fbeff"
+        },
+        {
+          "text": "eyes",
+          "sound": "917ad723a8a89fca0fa97ac32cd64870"
+        },
+        {
+          "text": "and",
+          "sound": "3f1961a471f8f1863429db9369cfd4a5"
+        },
+        {
+          "text": "swiftly",
+          "sound": "32aa2f6c5bfb85f1042f8d738545d996"
+        },
+        {
+          "text": "caught",
+          "sound": "2beafd389da0d954b76e1db4771dc2d6"
+        },
+        {
+          "text": "a",
+          "sound": "f507b7b027a3dd39bc94071b8d6006a6"
+        },
+        {
+          "text": "tiny",
+          "sound": "e6ab5157fedc85e26b66b3220b3ab777"
+        },
+        {
+          "text": "mouse",
+          "sound": "21352a4c13dd65e815c8ba7545ec263e"
+        },
+        {
+          "text": "lion",
+          "sound": "6582ea2a44e4dd264ed7a11e679fe280"
+        },
+        {
+          "text": "was",
+          "sound": "5ed8fde6f55a0b2dbd2d875bfb9cda4f"
+        },
+        {
+          "text": "hungry",
+          "sound": "fbae3ed43180205d922c45ac90511ee1"
+        },
+        {
+          "text": "and",
+          "sound": "3f1961a471f8f1863429db9369cfd4a5"
+        },
+        {
+          "text": "about",
+          "sound": "2aada45ccd93c440cd013da7d963f213"
+        },
+        {
+          "text": "to",
+          "sound": "946aa8deaee94eb2d1ff661ea7a2d4b5"
+        },
+        {
+          "text": "eat",
+          "sound": "43876339a9545a276b55b9f03a340250"
+        },
+        {
+          "text": "mouse",
+          "sound": "21352a4c13dd65e815c8ba7545ec263e"
+        },
+        {
+          "text": "when",
+          "sound": "07db0de7ea428811cd1d1972d5076164"
+        },
+        {
+          "text": "he",
+          "sound": "82637118f3e6bd4be3bd5f3a55f95978"
+        },
+        {
+          "text": "heard",
+          "sound": "d6021e46927db6fb3ee7559a05b9f72b"
+        },
+        {
+          "text": "her",
+          "sound": "71814d047039883789d06d81a1e3043f"
+        },
+        {
+          "text": "little",
+          "sound": "09bc088a83915774c95dade557e16113"
+        },
+        {
+          "text": "voice",
+          "sound": "c45db60c7280da7f6d7ba6ccd8b74ebf"
+        }
+      ]
+    },
+    {
+      "jsonIndex": "3",
+      "image": "336b44c6b0566fd25768e013bd4593db.jpg",
+      "wordSound": { "sound": "e0ae14df9d31f0c911200b42aab80533" },
+      "wordAll": "Please don't eat me! If you let me go, one day\nI will help you! Mouse said.",
+      "position": { "x": 70, "y": 440 },
+      "fontStyle": {
+        "fill": "black",
+        "fontSize": "27px",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      },
+      "wordSoundDictionary": [{
+          "text": "please",
+          "sound": "cca7414d499378b41289e89b0abeb61d"
+        },
+        {
+          "text": "don't",
+          "sound": "a318dd246eefe8a2dcf714626ea7ed64"
+        },
+        {
+          "text": "eat",
+          "sound": "43876339a9545a276b55b9f03a340250"
+        },
+        {
+          "text": "me",
+          "sound": "a015c84f6018c88fab6c5dac58e40f92"
+        },
+        {
+          "text": "if",
+          "sound": "b62ff796dd690f651187d4507a62b3e5"
+        },
+        {
+          "text": "you",
+          "sound": "61eb20ea84c26bf1c3337032654ed58c"
+        },
+        {
+          "text": "let",
+          "sound": "3e5b79b14a4cc3c12659bb01ca5fa21e"
+        },
+        {
+          "text": "me",
+          "sound": "a015c84f6018c88fab6c5dac58e40f92"
+        },
+        {
+          "text": "go",
+          "sound": "d2b5d8edf1baf70319b3e631791d03b0"
+        },
+        {
+          "text": "one",
+          "sound": "37910d9194f8597ecf41a22ea2872c7f"
+        },
+        {
+          "text": "day",
+          "sound": "9031209e8ff6b6bded532e68129cf680"
+        },
+        {
+          "text": "i",
+          "sound": "d372df996194327b4b6745598f9aef95"
+        },
+        {
+          "text": "will",
+          "sound": "e78c91dfd91b56afbfcf4083e2291db2"
+        },
+        {
+          "text": "help",
+          "sound": "aba973db2500f53e930fdae81512c49d"
+        },
+        {
+          "text": "you",
+          "sound": "61eb20ea84c26bf1c3337032654ed58c"
+        },
+        {
+          "text": "mouse",
+          "sound": "21352a4c13dd65e815c8ba7545ec263e"
+        },
+        {
+          "text": "said",
+          "sound": "1928b1028d204b7ab30f73267bf7dc4a"
+        }
+      ]
+    },
+    {
+      "jsonIndex": "4",
+      "image": "15e1fd261271c4289543dd5d790a090d.jpg",
+      "wordSound": { "sound": "34a987decba16e3598700e4a700247e9" },
+      "wordAll": "Lion laughed. what can a little thing like you\ndo for me? You are so small, you could never\nhelp me.",
+      "position": { "x": 70, "y": 415 },
+      "fontStyle": {
+        "fill": "black",
+        "fontSize": "27px",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      },
+      "wordSoundDictionary": [{
+          "text": "lion",
+          "sound": "6582ea2a44e4dd264ed7a11e679fe280"
+        },
+        {
+          "text": "laughed",
+          "sound": "56ff5749f0049dfb6b6b0176b7ff1fc8"
+        },
+        {
+          "text": "what",
+          "sound": "3ff645435f47eade0ca74fcc318bd5ba"
+        },
+        {
+          "text": "can",
+          "sound": "a121b17ef61a0b70201f0e461e91a69f"
+        },
+        {
+          "text": "a",
+          "sound": "f507b7b027a3dd39bc94071b8d6006a6"
+        },
+        {
+          "text": "little",
+          "sound": "09bc088a83915774c95dade557e16113"
+        },
+        {
+          "text": "thing",
+          "sound": "afda1c5d1fc3e944f462907e20bfd5a1"
+        },
+        {
+          "text": "like",
+          "sound": "7064e44fa36892434db41617c776d21f"
+        },
+        {
+          "text": "you",
+          "sound": "61eb20ea84c26bf1c3337032654ed58c"
+        },
+        {
+          "text": "do",
+          "sound": "59909e6161b1d82087846ff5348c3db9"
+        },
+        {
+          "text": "for",
+          "sound": "d974cbe7f8fb76477ed1c7661f73cc71"
+        },
+        {
+          "text": "me",
+          "sound": "a015c84f6018c88fab6c5dac58e40f92"
+        },
+        {
+          "text": "you",
+          "sound": "61eb20ea84c26bf1c3337032654ed58c"
+        },
+        {
+          "text": "are",
+          "sound": "4be9cc6e082e5eabc40a1c49315ba6de"
+        },
+        {
+          "text": "so",
+          "sound": "4596c4052612deb0f286e5288c96f6a4"
+        },
+        {
+          "text": "small",
+          "sound": "e561885cada817bfd5b1585d3b556ec2"
+        },
+        {
+          "text": "you",
+          "sound": "61eb20ea84c26bf1c3337032654ed58c"
+        },
+        {
+          "text": "could",
+          "sound": "ee3a368a0d5564c9262f8be8db1abe82"
+        },
+        {
+          "text": "never",
+          "sound": "c60dfd4fa64ce334dc3fd4c1e7e68a47"
+        },
+        {
+          "text": "help",
+          "sound": "aba973db2500f53e930fdae81512c49d"
+        },
+        {
+          "text": "me",
+          "sound": "a015c84f6018c88fab6c5dac58e40f92"
+        }
+      ]
+    },
+    {
+      "jsonIndex": "5",
+      "image": "396124aed79a8b1d40c92036b60aa416.jpg",
+      "wordSound": { "sound": "92d8f47dd746fc2218ccbf7c9803874e" },
+      "wordAll": "But lion was in a good mood. He let Mouse go.",
+      "position": { "x": 70, "y": 440 },
+      "fontStyle": {
+        "fill": "black",
+        "fontSize": "27px",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      },
+      "wordSoundDictionary": [{
+          "text": "but",
+          "sound": "c68ea39423037c85597f801e991c8f8d"
+        },
+        {
+          "text": "lion",
+          "sound": "6582ea2a44e4dd264ed7a11e679fe280"
+        },
+        {
+          "text": "was",
+          "sound": "5ed8fde6f55a0b2dbd2d875bfb9cda4f"
+        },
+        {
+          "text": "in",
+          "sound": "56050955092fcc60a57a67ca0bf23970"
+        },
+        {
+          "text": "a",
+          "sound": "f507b7b027a3dd39bc94071b8d6006a6"
+        },
+        {
+          "text": "good",
+          "sound": "ead240d4d57f5a59d8cb63146d4e071b"
+        },
+        {
+          "text": "mood",
+          "sound": "11e75c00351fa677c013d7cb0d29fb4f"
+        },
+        {
+          "text": "he",
+          "sound": "82637118f3e6bd4be3bd5f3a55f95978"
+        },
+        {
+          "text": "let",
+          "sound": "3e5b79b14a4cc3c12659bb01ca5fa21e"
+        },
+        {
+          "text": "mouse",
+          "sound": "21352a4c13dd65e815c8ba7545ec263e"
+        },
+        {
+          "text": "go",
+          "sound": "d2b5d8edf1baf70319b3e631791d03b0"
+        }
+      ]
+    },
+    {
+      "jsonIndex": "6",
+      "image": "02665ab378db28c5b8664a298ee595b8.jpg",
+      "wordSound": { "sound": "8d31beb29e1f2c4bdf47133cc3ae9003" },
+      "wordAll": "Later one day, lion was hunting. He was so\nfocused on his prey that he didn't see a net.",
+      "position": { "x": 70, "y": 440 },
+      "fontStyle": {
+        "fill": "black",
+        "fontSize": "27px",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      },
+      "wordSoundDictionary": [{
+          "text": "later",
+          "sound": "29d07eaafb34da154762d6d732cab55f"
+        },
+        {
+          "text": "one",
+          "sound": "37910d9194f8597ecf41a22ea2872c7f"
+        },
+        {
+          "text": "day",
+          "sound": "9031209e8ff6b6bded532e68129cf680"
+        },
+        {
+          "text": "lion",
+          "sound": "6582ea2a44e4dd264ed7a11e679fe280"
+        },
+        {
+          "text": "was",
+          "sound": "5ed8fde6f55a0b2dbd2d875bfb9cda4f"
+        },
+        {
+          "text": "hunting",
+          "sound": "8a1ed11aff5aa8bce49f47a43078b3f9"
+        },
+        {
+          "text": "he",
+          "sound": "82637118f3e6bd4be3bd5f3a55f95978"
+        },
+        {
+          "text": "was",
+          "sound": "5ed8fde6f55a0b2dbd2d875bfb9cda4f"
+        },
+        {
+          "text": "so",
+          "sound": "4596c4052612deb0f286e5288c96f6a4"
+        },
+        {
+          "text": "focused",
+          "sound": "244bafbe76c90d1a08075b3ad55ac5df"
+        },
+        {
+          "text": "on",
+          "sound": "dad6f11fe5d1afee13093141e0d4e8a7"
+        },
+        {
+          "text": "his",
+          "sound": "4d88f5cb56eab2d3f4f3363dbd8fbeff"
+        },
+        {
+          "text": "prey",
+          "sound": "1268f91e02b7d00d0c821b999786c22b"
+        },
+        {
+          "text": "that",
+          "sound": "1c2884b06b4d364c8b897e0ab720bead"
+        },
+        {
+          "text": "he",
+          "sound": "82637118f3e6bd4be3bd5f3a55f95978"
+        },
+        {
+          "text": "didn't",
+          "sound": "6b3a0d51f349bb36d679cb909d23be35"
+        },
+        {
+          "text": "see",
+          "sound": "0e12b6ebb331bbaf1c837b7eeeceb8a7"
+        },
+        {
+          "text": "a",
+          "sound": "f507b7b027a3dd39bc94071b8d6006a6"
+        },
+        {
+          "text": "net",
+          "sound": "7b03a775326a40abdb240bbc2fdb1895"
+        }
+      ]
+    },
+    {
+      "jsonIndex": "7",
+      "image": "30c1055e10153e050e337a3393e47cde.jpg",
+      "wordSound": { "sound": "48576492128242390822b2ac40744191" },
+      "wordAll": "Lion got caught in the net. He roared and\nclawed at the ropes, but he could not get free",
+      "position": { "x": 70, "y": 440 },
+      "fontStyle": {
+        "fill": "black",
+        "fontSize": "27px",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      },
+      "wordSoundDictionary": [{
+          "text": "lion",
+          "sound": "6582ea2a44e4dd264ed7a11e679fe280"
+        },
+        {
+          "text": "got",
+          "sound": "c545be0919fae42c92d77f26790c6de6"
+        },
+        {
+          "text": "caught",
+          "sound": "2beafd389da0d954b76e1db4771dc2d6"
+        },
+        {
+          "text": "in",
+          "sound": "56050955092fcc60a57a67ca0bf23970"
+        },
+        {
+          "text": "the",
+          "sound": "4272f4a04fec9198c26f5e2e827f957b"
+        },
+        {
+          "text": "net",
+          "sound": "7b03a775326a40abdb240bbc2fdb1895"
+        },
+        {
+          "text": "he",
+          "sound": "82637118f3e6bd4be3bd5f3a55f95978"
+        },
+        {
+          "text": "roared",
+          "sound": "a0061642c8554c1bef8b17852e790d9b"
+        },
+        {
+          "text": "and",
+          "sound": "3f1961a471f8f1863429db9369cfd4a5"
+        },
+        {
+          "text": "clawed",
+          "sound": "20665c2ea63f893267826e1080a8d26f"
+        },
+        {
+          "text": "at",
+          "sound": "5a9872619bc8f052049353e9f1822b14"
+        },
+        {
+          "text": "the",
+          "sound": "4272f4a04fec9198c26f5e2e827f957b"
+        },
+        {
+          "text": "ropes",
+          "sound": "087aa5f37a19501626280f9f8b71f73f"
+        },
+        {
+          "text": "but",
+          "sound": "c68ea39423037c85597f801e991c8f8d"
+        },
+        {
+          "text": "he",
+          "sound": "82637118f3e6bd4be3bd5f3a55f95978"
+        },
+        {
+          "text": "could",
+          "sound": "ee3a368a0d5564c9262f8be8db1abe82"
+        },
+        {
+          "text": "not",
+          "sound": "91b63541d7001d62ee01a6ce3ef4c696"
+        },
+        {
+          "text": "get",
+          "sound": "176889b63a0c77a9e58b6679198aadbe"
+        },
+        {
+          "text": "free",
+          "sound": "86d7be54c2cbc968eefd314d88736dab"
+        }
+      ]
+    },
+    {
+      "jsonIndex": "8",
+      "image": "5b0eb4f8ab9a3f2aed8ce45a2b2b8ac6.jpg",
+      "wordSound": { "sound": "da13dc9ebf345453af9dbfe847f4707d" },
+      "wordAll": "Mouse heard Lion's mighty roar and ran to help. \nMouse began gnawing the rope with her teeth.",
+      "position": { "x": 70, "y": 440 },
+      "fontStyle": {
+        "fill": "black",
+        "fontSize": "27px",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      },
+      "wordSoundDictionary": [{
+          "text": "mouse",
+          "sound": "21352a4c13dd65e815c8ba7545ec263e"
+        },
+        {
+          "text": "heard",
+          "sound": "d6021e46927db6fb3ee7559a05b9f72b"
+        },
+        {
+          "text": "lion's",
+          "sound": "e59bcd6e12e48a5d4950d7aca016a3bf"
+        },
+        {
+          "text": "mighty",
+          "sound": "02032c3f98f240a88f8d42b9552a3bb9"
+        },
+        {
+          "text": "roar",
+          "sound": "783fd90fc99c086677d4b262e3265fa5"
+        },
+        {
+          "text": "and",
+          "sound": "3f1961a471f8f1863429db9369cfd4a5"
+        },
+        {
+          "text": "ran",
+          "sound": "39628364d7d8c87d7c05b1e0ad58ee7d"
+        },
+        {
+          "text": "to",
+          "sound": "946aa8deaee94eb2d1ff661ea7a2d4b5"
+        },
+        {
+          "text": "help",
+          "sound": "aba973db2500f53e930fdae81512c49d"
+        },
+        {
+          "text": "mouse",
+          "sound": "21352a4c13dd65e815c8ba7545ec263e"
+        },
+        {
+          "text": "began",
+          "sound": "d091f9c6ac8511ac527ad9740970e48c"
+        },
+        {
+          "text": "gnawing",
+          "sound": "d1ce5f164e1a7b075d6c74ab90eec482"
+        },
+        {
+          "text": "the",
+          "sound": "4272f4a04fec9198c26f5e2e827f957b"
+        },
+        {
+          "text": "rope",
+          "sound": "ef54431bbbb3a8296f42dddf37465907"
+        },
+        {
+          "text": "with",
+          "sound": "f8cd14ebb35b0527a62b034c6eebe9b7"
+        },
+        {
+          "text": "her",
+          "sound": "71814d047039883789d06d81a1e3043f"
+        },
+        {
+          "text": "teeth",
+          "sound": "ea722106a0502a721e9c8b410a15f348"
+        }
+      ]
+    },
+    {
+      "jsonIndex": "9",
+      "image": "cfa8c3b479e289f49d603171977c4e3c.jpg",
+      "wordSound": { "sound": "8c23d346f530041100880b2e880878b6" },
+      "wordAll": "Mouse chewed throngh the rope and set Lion\nfree. Lion was amazed and grateful.",
+      "position": { "x": 70, "y": 440 },
+      "fontStyle": {
+        "fill": "black",
+        "fontSize": "27px",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      },
+      "wordSoundDictionary": [{
+          "text": "mouse",
+          "sound": "21352a4c13dd65e815c8ba7545ec263e"
+        },
+        {
+          "text": "chewed",
+          "sound": "20665c2ea63f893267826e1080a8d26f"
+        },
+        {
+          "text": "throngh",
+          "sound": "dbeae9e9777fad975b1f8051cab5d58a"
+        },
+        {
+          "text": "the",
+          "sound": "4272f4a04fec9198c26f5e2e827f957b"
+        },
+        {
+          "text": "rope",
+          "sound": "ef54431bbbb3a8296f42dddf37465907"
+        },
+        {
+          "text": "and",
+          "sound": "3f1961a471f8f1863429db9369cfd4a5"
+        },
+        {
+          "text": "set",
+          "sound": "9afaf6cc0e051dbd63b69e7bb1e51414"
+        },
+        {
+          "text": "lion",
+          "sound": "6582ea2a44e4dd264ed7a11e679fe280"
+        },
+        {
+          "text": "free",
+          "sound": "86d7be54c2cbc968eefd314d88736dab"
+        },
+        {
+          "text": "lion",
+          "sound": "6582ea2a44e4dd264ed7a11e679fe280"
+        },
+        {
+          "text": "was",
+          "sound": "5ed8fde6f55a0b2dbd2d875bfb9cda4f"
+        },
+        {
+          "text": "amazed",
+          "sound": "0ecf9d1c13f696b5125cc83476b96ebf"
+        },
+        {
+          "text": "and",
+          "sound": "3f1961a471f8f1863429db9369cfd4a5"
+        },
+        {
+          "text": "grateful",
+          "sound": "1c40826230fba828b6b02d3f6353fe96"
+        }
+      ]
+    },
+    {
+      "jsonIndex": "10",
+      "image": "d03e9f0e434bd5af64eacef52c756d0e.jpg",
+      "wordSound": { "sound": "993f79f354896f1e578ec3c8d2366a27" },
+      "wordAll": "Even though you are small, you saved me! \nsaid Lion. \nFinally you see! said Mouse. Even something\nsmall can be a great help.",
+      "position": { "x": 70, "y": 380 },
+      "fontStyle": {
+        "fill": "black",
+        "fontSize": "27px",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      },
+      "wordSoundDictionary": [{
+          "text": "even",
+          "sound": "e8645ef79b2f02926e0327e09646f11b"
+        },
+        {
+          "text": "though",
+          "sound": "2060c1cf4567e2b7a1d8b615d7c166d3"
+        },
+        {
+          "text": "you",
+          "sound": "61eb20ea84c26bf1c3337032654ed58c"
+        },
+        {
+          "text": "are",
+          "sound": "4be9cc6e082e5eabc40a1c49315ba6de"
+        },
+        {
+          "text": "small",
+          "sound": "e561885cada817bfd5b1585d3b556ec2"
+        },
+        {
+          "text": "you",
+          "sound": "61eb20ea84c26bf1c3337032654ed58c"
+        },
+        {
+          "text": "saved",
+          "sound": "b30dc0e4f616eaabf2ce3f8f4b216050"
+        },
+        {
+          "text": "me",
+          "sound": "a015c84f6018c88fab6c5dac58e40f92"
+        },
+        {
+          "text": "said",
+          "sound": "1928b1028d204b7ab30f73267bf7dc4a"
+        },
+        {
+          "text": "lion",
+          "sound": "6582ea2a44e4dd264ed7a11e679fe280"
+        },
+        {
+          "text": "finally",
+          "sound": "ecd36748747b6596c16f5be343f1843e"
+        },
+        {
+          "text": "you",
+          "sound": "61eb20ea84c26bf1c3337032654ed58c"
+        },
+        {
+          "text": "see",
+          "sound": "0e12b6ebb331bbaf1c837b7eeeceb8a7"
+        },
+        {
+          "text": "said",
+          "sound": "1928b1028d204b7ab30f73267bf7dc4a"
+        },
+        {
+          "text": "mouse",
+          "sound": "21352a4c13dd65e815c8ba7545ec263e"
+        },
+        {
+          "text": "even",
+          "sound": "e8645ef79b2f02926e0327e09646f11b"
+        },
+        {
+          "text": "something",
+          "sound": "fa31558d5e5838d15631f609ea29ebaa"
+        },
+        {
+          "text": "small",
+          "sound": "e561885cada817bfd5b1585d3b556ec2"
+        },
+        {
+          "text": "can",
+          "sound": "a121b17ef61a0b70201f0e461e91a69f"
+        },
+        {
+          "text": "be",
+          "sound": "7cd3c060e502d8ddf1f72c3343abd94a"
+        },
+        {
+          "text": "a",
+          "sound": "f507b7b027a3dd39bc94071b8d6006a6"
+        },
+        {
+          "text": "great",
+          "sound": "a874a4052c9a3423013ded7b409e3924"
+        },
+        {
+          "text": "help",
+          "sound": "aba973db2500f53e930fdae81512c49d"
+        }
+      ]
+    }
+  ]
+}

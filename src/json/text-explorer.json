@@ -1,0 +1,139 @@
+{
+  "book": {
+    "image": "d705e6379606cf22da785b4adb53b1bd.png",
+    "sound": "3c0c927c671afa18709d206dce22af1f"
+  },
+  "firstPage": {
+    "title": "Living Things",
+    "sections": [
+      ["Section 1: Living or Not Living?", "2"],
+      ["Section 2: We Need Air", "4"],
+      ["Section 3: We Need Food and Water", "8"],
+      ["Grow", "12"],
+      ["Grossary", "15"],
+      ["Index", "18"]
+    ],
+    "sound": "7be541d4aea420f4e98d4ae45c21ad8c"
+  },
+  "mainPage": {
+    "title": {
+      "text": "Section 1: Living or Not Living?",
+      "x": 40,
+      "y": 19
+    },
+    "headings":[{
+      "text": "Living",
+      "x": 40,
+      "y": 135
+    }, {
+      "text": "Not Living",
+      "x": 417,
+      "y": 21
+    }],
+    "bodyContents": [{
+      "text": "The world is full of things that are \nliving and not living. How can you \ntell the difference?",
+      "x": 41,
+      "y": 50
+    }, {
+      "text": "All living things need food and air.\nPeople, animals, and plants need\nfood and air, so they are living\nthings. Living things also need to\nget *waste* out of their bodies.",
+      "x": 40,
+      "y": 163
+    },
+    {
+      "text": "All living things\nmove and grow.\nThey react to\nthings like light,\nheat, cold, and\nsound.",
+      "x": 40,
+      "y": 295
+    },
+    {
+      "text": "All living things make more living\nthings. Plants have seeds that\nmake more plants, and people and\nanimals have babies.",
+      "x": 40,
+      "y": 450
+    },
+    {
+      "text": "Many things are not living. These\nthings can be the same as living\nthings in some ways, but they will\nnever be the same in all ways.",
+      "x": 415,
+      "y": 45
+    },
+    {
+      "text": "Think about a clock. It moves, but it\ndoes not need food or air. So it is\nnot living.",
+      "x": 415,
+      "y": 155
+    }
+  ],
+    "picContents": [{
+        "image": "d89327850fc45d4306785ba99c0c33fb.jpg",
+        "x": 218,
+        "y": 300,
+        "text": "People, animals, and\nplants are living things",
+        "imageFrame": {
+          "image": "1aa7a162567a2f5e07ec599952f29bda"
+        }
+      },
+      {
+        "image": "bf6ebc4f0e0935d178c78c2e96bca1a0",
+        "x": 415,
+        "y": 270,
+        "imageFrame": {
+          "image": "695e4afe9130d12f5c14f14f26984981"
+        }
+      }
+    ],
+    "sideBarContents": {
+      "sideBar": "Did you know?",
+      "contents": "Elphants can spend up to 16 hours a day eating.",
+      "bg": {
+        "image": "765c76211663f5034448eaeb4aeb27ba",
+        "x": 655,
+        "y": 342,
+        "imageFrame": {
+          "image": "590abe089fe430abee87daf88a53b955"
+        }
+      },
+      "bgHighLight": {
+        "image": "590abe089fe430abee87daf88a53b955",
+        "imageFrame": {
+          "image": "d732d74911cab3ba8b36ea8ba3005b77"
+        }
+      }
+    }
+  },
+  "glossaryContents": [{
+      "text": ["grow:",
+        "To get bigger."
+      ],
+      "sounds": ["9ad3922063110802d1b6cd9fc3588284", "63667550bec54e099eecb1cf14d63058"]
+    },
+    {
+      "text": ["healthy:",
+        "Strong and not sick."
+      ],
+      "sounds": ["5c2d32352d5a1f6c37bc45c5bbda6734", "e7707912533a75ae9a71bbc7cc4bb712"]
+    },
+    {
+      "text": ["oxygen:",
+        "The air people, plants, and\n animals breathe to live."
+      ],
+      "sounds": ["d76f9d7067b1e7dc5165c1a43d6a58ed", "185e0c9c66c99179170c9447e61bd15b"]
+    },
+    {
+      "text": ["react:",
+        "To change because\n something else happens"
+      ],
+      "sounds": ["4fda09b88a75897efe511be4bb17cc4b", "04ef9fd1b577dcc940c26d9778407fa1"]
+    },
+    {
+      "text": ["waste:",
+        "What is left inside a living\n thing after it has used its food."
+      ],
+      "sounds": ["778c32d8388f88804d5174b4312b9ed3", "a49dee2a9cb8ab6523c1046e20e1faef"]
+    }
+  ],
+  "indexContents": [
+    "Air, 2-4, 4-8, 12-13\nAnimals, 2, 4-5, 8-9, 14",
+    "B\nBabies, 2, 12-14\nBody, 12-14",
+    "C\nChange, 14-15",
+    "E\nEating, 8-10\nEnergy, 11",
+    "F\nFood, 8-11",
+    "G\nGrowth, 12-15"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "startVideo": "7b7e53e84b61b5b1be46f72d349a1b74",
+    "mainVideo": "f55c5f3db8a516fb964de1b613689bbd",
+    "mainVideoImg": "79782a9242a026244ea24d79ac130840.jpg",
+    "videoArray": [{
+            "video": "a8c125ec2edde5604c7e959ec1433da6",
+            "sounds": ["57157384f36e4fa80868e5497b4df785"],
+            "img": "c1dce47dfb128fc941800bcc3536b471.jpg"
+        },
+        {
+            "video": "912c24de554b3a41b3bc3d7a0e881882",
+            "sounds": ["1f3b5755b66c3a1522086fc8fe719578"],
+            "img": "2b15d6649430ff03caa3fa009dfcf312.jpg"
+        },
+        {
+            "video": "ce877652d7c30245811deca201ebb599",
+            "sounds": ["1a0a32ccf7b2e44d52cb24dba76694b3"],
+            "img": "2b15d6649430ff03caa3fa009dfcf312.jpg"
+        }
+    ]
+}

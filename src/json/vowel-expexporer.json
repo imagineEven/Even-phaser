@@ -1,0 +1,94 @@
+{
+    "isNeedTip":true,
+    "isClickRead":false,
+    "isChooseWord":false,
+    "chooseBgSound":{"sound":"b478f5bdbe21837159d41a53d703833f"},
+    "bg":{"image":"35d394fde7c95360ec62c031caa56368"},
+    "pages": [
+        {
+            "fy": "u",
+            "longOrShort":"letter",
+            "sound": "5bbdc57fba83db6a2a3f5ae072527fd7",
+            "chooseItems": [
+                {
+                    "text": "u"
+                },
+                {
+                    "text": "e"
+                },
+                {
+                    "text": "o"
+                }
+            ],
+            "image": "965adb5e6a02c3c6098016a9e3599065.jpg"
+        },
+        {
+            "fy": "o",
+            "longOrShort":"letter",
+            "sound": "82bd4ad550f7b61f9eab4e3e837ca56a",
+            "chooseItems": [
+                {
+                    "text": "o"
+                },
+                {
+                    "text": "a"
+                },
+                {
+                    "text": "u"
+                }
+            ],
+            "image": "b7abe51d114495294e08568228cbe0da.jpg"
+        },
+        {
+            "fy": "i",
+            "longOrShort":"letter",
+            "sound": "09771401cbb460bdad81752e2e32dae7",
+            "chooseItems": [
+                {
+                    "text": "i"
+                },
+                {
+                    "text": "a"
+                },
+                {
+                    "text": "o"
+                }
+            ],
+            "image": "ef58802369832797dc2f42e2b97b1ea7"
+        },
+        {
+            "fy": "e",
+            "longOrShort":"letter",
+            "sound": "8c475d7d9b56d5123bbc23c6ad9174e3",
+            "chooseItems": [
+                {
+                    "text": "e"
+                },
+                {
+                    "text": "a"
+                },
+                {
+                    "text": "u"
+                }
+            ],
+            "image": "cde3bb504ab97a441cfac293656e9c85"
+        },
+        {
+            "fy": "a",
+            "longOrShort":"letter",
+            "sound": "259e5454fe3cfa0968fea631d4b4afeb",
+            "chooseItems": [
+                {
+                    "text": "a"
+                },
+                {
+                    "text": "e"
+                },
+                {
+                    "text": "i"
+                }
+            ],
+            "image": "6f65880a0c31c104437e3a6c643f0e33.jpg"
+        }
+    ]
+}

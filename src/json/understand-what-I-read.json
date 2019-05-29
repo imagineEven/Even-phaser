@@ -1,0 +1,76 @@
+ {
+     "topItems": [{
+         "pic": "ec45307fe4579ce6565f4f7f28a14179.jpg",
+         "titlePic": "53d34035f69357265bf20af9bd2331b5.png",
+         "titlePosition": [144, 12]
+     }, {
+         "pic": "f90efe39ec5fcf3f16db6be30794d6a2.jpg",
+         "str": "Roy came up to Sue and took out a blue ball.|40,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "1b8ffe75e7cc86e393d31e5d0206007f.jpg",
+         "str": "\"Look at this cool ball, Sue,\" said Roy.|120,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "fa23158056a08fcfdfe25156588b7893.jpg",
+         "str": "BANG. Sue jumped and laughed.|120,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "b5a2e2b04995201d338dbc7ea7dadec7.jpg",
+         "str": "\"What is that thing?\" asked Sue.|40,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "50b579969def62adfdc55785931c554f.jpg",
+         "str": "\"See, you put this gold ring on this string.\"|120,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "3e1e1da9cc0b0d288bdc50cdc045d7b9.jpg",
+         "str": "\"Then you push here, and BANG, it works.\"|120,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "7fa008f4a7cb753fc945d514286ae1d7.jpg",
+         "str": "\"Okay,\" smiled Sue, \"Let me try it.\"|40,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "9b5b1397d9e4a826bb9374877e1aea88.jpg",
+         "str": "Sue made the toy work and laughed.|40,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "76423c4082a0b8e9a114b60ef2966335.jpg",
+         "str": "Then she went up to Shane.|40,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "3633eb56ca245619b498eae153abc117.jpg",
+         "str": "BANG. Shane jumped, and\nSue and Roy laughed.|40,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "1b00995ec67e05e10a9c4cce1a578664.jpg",
+         "str": "\"Were you afraid Shane?\" asked Roy.|120,30",
+         "fontSize": 0.05
+     }, {
+         "pic": "2a36e2dedc24a149516cad85a933516e.jpg",
+         "str": "\"Not me,\" laughed Shane.|40,130",
+         "fontSize": 0.05
+     }],
+     "pages": [{
+         "q": "Why did Roy think Shane was afraid?",
+         "wavYes": "a7556d05cf20d3c76e8dfa23187764c8",
+         "sels": ["Shane jumped when he heard the noise.", "Shane laughed at Roy and Sue.", "Shane got up and ran away."],
+         "refItemIndex": "11,12",
+         "wavRef": "6b8a140ec8e2f2748d71633f2785b1ae,9648bde01e97c53e5dd75db0f360ded7"
+     }, {
+         "q": "Why did Shane and Sue laugh when the toy scared them?",
+         "wavYes": "6d7e1239b57dbf13437f6f2e7f017c94",
+         "sels": ["The toy was noisy, but it was safe.", "The toy told funny stories.", "The toy looked like a robot."],
+         "refItemIndex": "4,9,13",
+         "wavRef": "6b8a140ec8e2f2748d71633f2785b1ae,9f4cff1c702dacc4622259bc2679ff48,eb584671365250c1689c435c42988f3a"
+     }, {
+         "q": "What would be a good title for this story?",
+         "wavYes": "9ed5aee0031f29dd07d83d73d7143508",
+         "sels": ["The Joke Toy", "The Gold Ring", "Shane and His Friends"],
+         "refItemIndex": "3,4,11",
+         "wavRef": "57b108a6e4f1845988cad596eb47d02a,6b8a140ec8e2f2748d71633f2785b1ae,6b8a140ec8e2f2748d71633f2785b1ae"
+     }],
+     "phrases": "understand-what-i-read",
+     "key": "36"
+ }

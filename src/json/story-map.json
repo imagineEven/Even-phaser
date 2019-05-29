@@ -1,0 +1,506 @@
+{
+	"mapScale": {
+		"characters": 0.5,
+		"setting": 0.5,
+		"problem": 0.5,
+		"plot": 0.5,
+		"solution": 0.5
+	},
+  "firstVideo": {
+    "video": "5d2f6ec891344ef40d55eb6cdee0d116"
+  },
+  "firstIntro": {
+    "video": "fce420378a8c157fb53eaff8abaa9126"
+  },
+  "frameMap": {
+    "characters": {
+      "shiftY": 10,
+      "shiftY2": 0,
+      "title": {
+        "image": "096a788d1bd4345a01804ef46adb2a22"
+      },
+      "big": {
+        "image": "fea5ce33410d66b8b5f83cb91a59aae0"
+      },
+      "small": {
+        "image": "09b28a010d74e42970d7ac247fce9812"
+      },
+      "x": 0.32,
+      "y": 0.235,
+      "sound": "4f01fbac6f5b312f69801bc676dba3f5",
+      "wrong": {
+		  "sounds": ["cf80b4e124e0c06b13b9d7684aa2329b"]
+			},
+      "innerInfo": {
+        "sounds": [
+          "91d76c2693639ad797ac93d26e0d9248"
+        ],
+        "small": {
+          "image": "ef51c525d9dcc38dc406b851cca2b71e"
+        },
+        "big": {
+          "image": "773a4dc16f6a0888964a12614f94de1c"
+        }
+      },
+      "question": {
+        "sound": "bb6eab60fa54cd6850da289b1533a298"
+      }
+    },
+    "setting": {
+      "shiftY": 15,
+      "shiftY2": 10,
+      "title": {
+        "image": "97d3f9bc0ac114e70e67f3f05046b00c"
+      },
+      "big": {
+        "image": "1a52e3a720c74b82cbb7229b2e81d929"
+      },
+      "small": {
+        "image": "259a6aff9c22cb5047ecacc0308e0937"
+      },
+      "x": 0.68,
+      "y": 0.235,
+      "sound": "36124ccb45efe1074b2f193110236643",
+      "wrong": {
+				"sounds": [
+					"d6d82f85f6c4e7224214b6bd83eb4eba"
+				]
+			},
+      "innerInfo": {
+        "sounds": [
+          "795fbdce20cfb552dae604e740b32575"
+        ],
+        "small": {
+          "image": "7481f7e9c089fd18bc029e650c8ba966"
+        },
+        "big": {
+          "image": "6bcc6c017d3728a8ec9567015a724ab0"
+        }
+      },
+      "question": {
+        "sound": "464e256c87f7ee94f5084c4045b44106"
+      }
+    },
+    "problem": {
+      "shiftY": 15,
+      "title": {
+        "image": "6749deaaeef762d518325282032dec7e"
+      },
+      "big": {
+        "image": "638da3e583d2087f63767218f3eea935"
+      },
+      "small": {
+        "image": "a12b5877bcb80180316b67001913b3eb"
+      },
+      "x": 0.5,
+      "y": 0.44,
+      "sound": "8a1ccedea8d52074614b057d4e1097ae",
+      "wrong": {
+				"sounds": [
+					"1b3c55d69af6920b8b765b0ca3b766dc"
+				]
+			},
+      "innerInfo": {
+        "sounds": [
+          "21d759104172eb15311fe36cb1d4e2ed"
+        ],
+        "small": {
+          "image": "3925b94b6079f74907161c2fa6be7613"
+        },
+        "big": {
+          "image": "97cfcae776f9dfc2a1936b75407b79c4"
+        }
+      },
+      "question": {
+        "sound": "2432ba6edce5d6cfdceaf0f85622bdc3"
+      }
+    },
+    "plot": {
+      "shiftY": 15,
+      "shiftY2": -10,
+      "title": {
+        "image": "7cfbc5cf824ecdfb027e70ad289e5603"
+      },
+      "big": {
+        "image": "5a2b451d08a9e1f3881ec3f8fb1ecdb3"
+      },
+      "small": {
+        "image": "13f8876e99a918368b48571cafcf4ade"
+      },
+      "x": 0.5,
+      "y": 0.64,
+      "sound": "ddedcc5d0ab053e1c900b0dbf5ecfff9",
+      "wrong": {
+				"sounds": [
+					"037d7df08a9f7dac29b320e73e19deca"
+				]
+			},
+      "innerInfo": {
+        "sounds": [
+          "fcb248c778e085c16662485cdef1b472"
+        ],
+        "small": {
+          "image": "dc6c4f33dec29aee7e27f1b01d368b4c"
+        },
+        "big": {
+          "image": "5a9d629672a08c770f6315503b57869d"
+        }
+      },
+      "question": {
+        "sound": "e221ba0be1c5e3974c34ad2033619945"
+      }
+    },
+    "solution": {
+      "shiftY": 15,
+      "title": {
+        "image": "0f90c7ff29b6413972b2240e2af68714"
+      },
+      "big": {
+        "image": "d5be7ab179d9fca31ccfa3e3365dd93b"
+      },
+      "small": {
+        "image": "067688a876100fc0ed2a3083b6d3b0ac"
+      },
+      "x": 0.5,
+      "y": 0.84,
+      "sound": "a70bc522c8d7bb9667cee746992e7c75",
+      "wrong": {
+				"sounds": [
+					"df40458a0a7fa67f1a1ba12414afa454"
+				]
+			},
+      "innerInfo": {
+        "sounds": [
+          "9345196f969b075af64e009a6b0a361a"
+        ],
+        "small": {
+          "image": "fb7a94f4b5d76e2a0b292cd1f85bb840"
+        },
+        "big": {
+          "image": "3289dd37accc877dee7c816f56488f93"
+        }
+      },
+      "question": {
+        "sound": "1a14a002a04b13a13b3e15b4f3ec6900"
+      }
+    }
+  },
+  "passage": {
+    "pic": {
+      "image": "1a4fd1325b0ec195a2ec3ec75a0eee63",
+      "x": 0.6,
+      "y": 0.45
+    },
+    "title": {
+      "text": "Not Mice !",
+      "time": [
+        500,
+        500
+      ],
+      "sound": "21338fe034a683d003c079ba56074581",
+      "x": 0.4,
+      "y": 0.1
+    },
+    "article": [
+      {
+        "text": "The prince sat on his throne . He was not happy . Everywhere he\n looked, he saw mice . ",
+        "time": [
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500
+        ],
+        "sound": "6a7aa313f8fe9b907b6a0e43913ab4b3",
+        "x": 0.06,
+        "y": 0.15
+      },
+      {
+        "text": "\"What can I do about these mice ? \" he asked his wife .\"We should \nfind some cats to live with us . They will get rid of the mice , \"she said .",
+        "time": [
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500
+        ],
+        "sound": "b78cbb9bc6161bc75e5c50aae2ece7aa",
+        "x": 0.06,
+        "y": 0.25
+      },
+      {
+        "text": "So they invited a family of cats to live in the castle . The cats worked\n fast, chasing and catching as many mice as they could .",
+        "time": [
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500
+        ],
+        "sound": "d000703abf146cca7245272092a76c93",
+        "x": 0.06,
+        "y": 0.35
+      },
+      {
+        "text": "Within a few weeks , the mice were gone. The\nprince was very happy and all was peaceful . . .\nexcept for the sound of meoving kittens !",
+        "time": [
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500,
+          500
+        ],
+        "sound": "cbbcfc047d9e474888ac027c34d706be",
+        "x": 0.06,
+        "y": 0.45
+      }
+    ]
+  },
+  "completeStoryMap": [
+    {
+      "pic1": {
+        "image": "dfbdeeef49cc42e842b020a27a9a6332"
+      },
+      "pic2": {
+        "image": "20f57c39adad69eca5e0e01eb5e22184"
+      },
+      "pic3": {
+        "image": "e27ccc52d2160a892df63faf995cd60a"
+      },
+      "sound": "34d564107476f09de70c7c29604dfd08",
+      "right": {
+        "sound": "87ce45636220327cbf354c9f32b3af08"
+      },
+      "x": 0.5,
+      "y": 0.2,
+      "id": "characters"
+    },
+    {
+      "pic1": {
+        "image": "0cdb5a55bb3fad7b7cc0b470102e1bd4"
+      },
+      "pic2": {
+        "image": "0419df6a3a861a32df3b4796fd4e289d"
+      },
+      "pic3": {
+        "image": "b45157da2543355c4aafa30f7c3faeb4"
+      },
+      "sound": "2a8d2f267db5801e7d8d26dd15ee5e5f",
+      "right": {
+        "sound": "7724a0c9c1efb5c814aa864fc070dd9e"
+      },
+      "x": 0.5,
+      "y": 0.38,
+      "id": "setting"
+    },
+    {
+      "pic1": {
+        "image": "9b8250eb1b5e5c16e55950e89d81cadf"
+      },
+      "pic2": {
+        "image": "47b6309475e2769e72a2b724ed5cda9d"
+      },
+      "pic3": {
+        "image": "ea1c15aceaf8b61a9a0413df6d19485c"
+      },
+      "sound": "4c6923386eafae413b41afd2342a81ea",
+      "right": {
+        "sound": "09405021bfc713816859fee9d28a533e"
+      },
+      "x": 0.5,
+      "y": 0.51,
+      "id": "problem"
+    },
+    {
+      "pic1": {
+        "image": "badc62bdb6a440d9005ee07922ef9554"
+      },
+      "pic2": {
+        "image": "f8a96c67d90af508ef6afc105f7812ce"
+      },
+      "pic3": {
+        "image": "9aad3d8b6348b3e871a8a4d3b2c04564"
+      },
+      "sound": "8ba6ad33877cff6350b78c9f3d0cfd63",
+      "right": {
+        "sound": "549dd3ba2dfa040abc54a9646f074fd7"
+      },
+      "x": 0.5,
+      "y": 0.62,
+      "id": "plot"
+    },
+    {
+      "pic1": {
+        "image": "b13df173bd4820957a04cc070c179d3c"
+      },
+      "pic2": {
+        "image": "9e8b00542eaad917e39717164c6eacde"
+      },
+      "pic3": {
+        "image": "8e4215c44d77851feec133c38dabb2af"
+      },
+      "sound": "330e8dd044ffc26bccb35fdbc127bcd0",
+      "right": {
+        "sound": "ca3e009d92286663582115ed86e990b6"
+      },
+      "x": 0.5,
+      "y": 0.75,
+      "id": "solution"
+    }
+  ],
+  "completeMapVoice": {
+    "sound": "74597fc62b8dbc64293171689d460872"
+  },
+  "choicesQuestion": {
+    "questionPic1": {
+      "image": "6fcbeff6e9e4974212fe8b98fe7f01f2"
+    },
+    "questionPic2": {
+      "image": "9b8b5a6e25c041ae6b8d45510c901a98"
+    },
+    "question": {
+      "sound": "8ad46f11d41ace961dab5afbdffe6ffa"
+    }
+  },
+  "choiceArr": [
+    {
+      "pic1": {
+        "image": "2e064d6b53c6093da272952ae6c217ac"
+      },
+      "pic2": {
+        "image": "d6c1f10cb03f4d1112a2f3768bcb3d9e"
+      },
+      "sound": "cd21cd16ac180b426ace33c863d00346",
+      "x": 0.2,
+      "y": 0.75
+    },
+    {
+      "pic1": {
+        "image": "5e95dfe2c7631dd3ca990c9b921bf430"
+      },
+      "pic2": {
+        "image": "536ab7982d3e2cf8d0eb14ee1f929857"
+      },
+      "pic3": {
+        "image": "a1e3ee4febb63ad0ac92c5d4a204c3ee"
+      },
+      "sound": "9179a7763eecd13df54527386f87149c",
+      "x": 0.45,
+      "y": 0.75
+    },
+    {
+      "pic1": {
+        "image": "52b488a9e603a405c45daf854b11788d"
+      },
+      "pic2": {
+        "image": "4fb4aea5b2223a4c7891e1f26a57d8bd"
+      },
+      "pic3": {
+        "image": "290750d69e43ad8cf5945b8c4f0d9a3e"
+      },
+      "sound": "4bdb75e85d27777e8a19e4162f2b4c15",
+      "x": 0.7,
+      "y": 0.75
+    }
+  ],
+  "choiceAnswer": 0,
+  "choiceRight": {
+    "sound": "752f36c4d4b972e9ec285f0e0ae48d0a"
+  },
+  "answerWrong": {
+    "textRange": [
+      7,
+      19
+    ],
+    "paragraphIndex": 1,
+    "sounds": [
+      "a7db019aa4bd419e44989273ec65e632"
+    ]
+  },
+  "afterChoice": {
+    "video": "ca8ff38d5507ab357621e76e175b38f0"
+  }
+}

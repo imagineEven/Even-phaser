@@ -1,0 +1,26 @@
+{
+  "imageObj":{
+    "bg":"a7a3783333655a4431285d38f7372fb0",
+    "badge":"3bf0361271240a0a0a7401654eef830e",
+    "playRecordBtn":"bbb0304e27452e2752cea54acf7dc2f4",
+    "recordingBg":"2be02895a22f0b008b044273e8c09f72",
+    "recordingInner":"0888f200dbd7c3f6704df35d3ef50998",
+    "recordingBtn":"1073de6852f228dbcc0276d24d68199f",
+    "origSoundPlay":"0c3a9907884cd8ba7b0bc746073a70c7",
+    "origSoundPause":"4019feb3714cb9b77dccba6e9c0179c7",
+    "dot":"f5f471a9d027733d155540bb91f65e07",
+    "progressBar":"54ed78e41dadee0c7432305dc1d69dfe",
+    "recordBtn":"fa17b6e43887c334cfa25a1135296181",
+    "yellowBubble":"383d6fdd2e7b9bf60300b8a9233d2c5e",
+    "submitBtn":"4e61f2c3e1475451231a334b6d3bbbfb",
+    "finishBtn":"5c1abcfd2b8210c699135667344ec994",
+    "evaling":"dce63487bd877a595e90615260528791"
+  },
+  "soundObj":{
+    "tryAgain":"79da8e65030f9f83f026e87bd01c8b2d",
+    "greatJob":"b1b1e06c0dc5058783f3d43c23526a16",
+    "fantastic":"f3e0bc81edc7be813c74bd93a26c2d02",
+    "youAreDoingGreat":"f49418edd881aa5d8767405c354aed79",
+    "duang":"fc093116823c02a765e7408f9ade882e"
+  }
+}

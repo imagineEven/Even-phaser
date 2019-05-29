@@ -1,0 +1,74 @@
+{
+	"rightAmount": 21,
+	"levelUpArr": {
+		"7": 65280,
+		"14": 16711935
+	},
+	"time": 90000,
+	"words": [
+		{
+			"text": "that",
+			"sound": "1c2884b06b4d364c8b897e0ab720bead"
+		},
+		{
+			"text": "what",
+			"sound": "3ff645435f47eade0ca74fcc318bd5ba"
+		},
+		{
+			"text": "do",
+			"sound": "59909e6161b1d82087846ff5348c3db9"
+		},
+		{
+			"text": "or",
+			"sound": "103e380b4603638bfd903b9d87f6e0e0"
+		},
+		{
+			"text": "we",
+			"sound": "ffd5381ab31be1b4a737ed04d79c4dcc"
+		},
+		{
+			"text": "can",
+			"sound": "a121b17ef61a0b70201f0e461e91a69f"
+		}
+	],
+	"list0": [
+		"that",
+		"what",
+		"do",
+		"or",
+		"we",
+		"can"
+	],
+	"list1": [
+		"that",
+		"what",
+		"do",
+		"or",
+		"we",
+		"can",
+		"don't",
+		"she",
+		"well",
+		"rot",
+		"who",
+		"on",
+		"hat"
+	],
+	"list2": [
+		"that",
+		"what",
+		"do",
+		"or",
+		"we",
+		"can",
+		"the",
+		"dot",
+		"this",
+		"does",
+		"cane",
+		"whet",
+		"con",
+		"he",
+		"of"
+	]
+}

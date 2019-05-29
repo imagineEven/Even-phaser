@@ -1,0 +1,1024 @@
+{
+  "firstPage": {
+    "bgImage": { "image": "c494d4772cba2f50d6b11e0abe4e304e.jpg" },
+    "list": {
+      "hide": {
+        "image": "b436baaa9b9b586b92b80faa5c65cd98.png",
+        "current": { "image": "6b4cd2a5cb591700c0c9dfa29b427352.png" },
+        "sound": "c276a1f0fa68ae99a4ac30dcd5f87dc5",
+        "position": {
+          "x": 35,
+          "y": 70
+        },
+        "qPosition": {
+          "x": 35,
+          "y": 30
+        }
+      },
+      "write": {
+        "image": "d38eb61930328819738cd2c842bd0655.png",
+        "current": { "image": "7c9abadceedb4e1be9e7bd28d69241c1.png" },
+        "sound": "beaafa7b26a8c53578a29a75575637ac",
+        "position": {
+          "x": 72,
+          "y": 455
+        },
+        "qPosition": {
+          "x": 72,
+          "y": 345
+        }
+      },
+      "illustra": {
+        "image": "ded68242329c07442853aefef119b707.png",
+        "current": { "image": "8f1e25a46a51ae02091094d256148021" },
+        "sound": "5e2a720ae329ba51a6181c593a9f02a3",
+        "position": {
+          "x": 62,
+          "y": 528
+        },
+        "qPosition": {
+          "x": 62,
+          "y": 388
+        }
+      }
+    }
+  },
+  "pages": {
+    "questionArr": [{
+      "text": "Look at the cover of the book. What do you think the girl is\ndoing?",
+      "sound": "8f3202fc50d2cc83a428b2ca125a7620",
+      "autoScrollLen": 0,
+      "option": [{
+        "letter": "She is looking for treasure.",
+        "sound": "d654ada0fddc08c4441376208596badf",
+        "maybe": { "sound": "4b01bd8ef79b4561907add48e5b1cbcf" },
+        "isTrue": 0
+      }, {
+        "letter": "She is watching for birds.",
+        "sound": "28a3c770403067b834649f21bca6c3e0",
+        "maybe": { "sound": "84c62721126e8d82e31ddf2270dc34be" },
+        "isTrue": 0
+      }, {
+        "letter": "She is hiding from the boy.",
+        "sound": "fa17c6fd80eae090381f816b92000de5",
+        "maybe": { "sound": "2a8d7b7e316b73753d18d6a4812854bd" },
+        "isTrue": 1
+      }]
+    }, {
+      "text": "Why is the girl trying to get to the car?",
+      "keyWords": ["car"],
+      "sound": "b11a2a6984f0c69602c014b18803c830",
+      "secoudWrong": [{
+        "sound": "2bacbed0d65426f64c56eb379199fa2f",
+        "words": "I'd wait for him to pass, and then I'd *dash* for the car before\nhe could find me.",
+        "index": 7
+      }],
+      "autoScrollLen": 1,
+      "option": [{
+        "letter": "She will win the game if she can get to the car.",
+        "sound": "87f423b64f214e948c9cec7cae6b47d5",
+        "isTrue": 1
+      }, {
+        "letter": "She is trying to get to a place that isn't quite so hot.",
+        "sound": "1e96c14f9db2962248a0411ba06a4f44",
+        "wrongSound":{"sound":"8745a292a6863aab0ce76c15b49fc4b6"},
+        "isTrue": 0
+      }, {
+        "letter": "She wants to get something out of the car.",
+        "sound": "becbfd1fce3c288230a614bc5d6d588e",
+        "wrongSound":{"sound":"8745a292a6863aab0ce76c15b49fc4b6"},
+        "isTrue": 0
+      }]
+    }, {
+      "text": "Now that you have read the story carefully, what was the girl on\nthe cover doing?",
+      "sound": "406d205adac240080c7d2a3355a799fc",
+      "firstWrong": { "sound": "88696c6f53a0604ab015793054a62bbb" },
+      "keyWords": ["girl", "cover"],
+      "autoScrollLen": 8,
+      "secoudWrong": [{
+        "sound": "adfb1680c203e88b9b6e0a1a4a73800f",
+        "words": "If I made any noise at all, he'd find me.",
+        "index": 2
+      }, {
+        "sound": "76ba9c2e6c9137b3d74f84212baa57e6",
+        "words": "I planned to\nhide for a few secounds until Josh passed by, but then I saw\nsomething.",
+        "index": 8
+      }, {
+        "sound": "cbd1123125f62754dd0a3d13d961f398",
+        "words": "\"They're *petroglyphs*, Sandy.",
+        "index": 11
+      }],
+      "option": [{
+        "letter": "She was hiding from Josh, but she ended up finding some\npetroglyphs.",
+        "sound": "f7fa5263553d348a9a5cfe71e1ab07d4",
+        "isTrue": 1
+      }, {
+        "letter": "She was watching for birds, but she didn't see any.",
+        "sound": "5b3306348602f2ef377c065b3600cb08",
+        "isTrue": 0,
+        "wrongSound":{"sound":"88696c6f53a0604ab015793054a62bbb"}
+      }, {
+        "letter": "She was looking for treasure , and she found it.",
+        "sound": "9fb2ab2223c6cf33a36ca5ddbcf1dfa5",
+        "isTrue": 0,
+        "wrongSound":{"sound":"88696c6f53a0604ab015793054a62bbb"}
+      }]
+    }],
+    "storyBreakPoint": [6, 11],
+    "storyPages": [{
+      "bgImage": { "image": "8505c00be9339ac0a4ec00a158f59f23.jpg" },
+      "boldWord": [{
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "",
+          "position": {}
+        },
+        "color": "#36D138",
+        "keyWord": "scooting",
+        "data": {
+          "letterObj": {
+            "text": "scoot",
+            "sound": "1a398e331e4dfc45c7868aaebbf0018f",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "verb",
+            "sound": "87c995e56b74741ab0c258639f3204a9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "To move quickly in little bursts of speed.",
+            "sound": "ef9e8735aa86fd95fccdb086291342fa",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "",
+            "sound": [],
+            "position": {}
+          }
+        }
+      }],
+      "list": {
+        "letter": "I was *scooting* on my belly under the brush. I had to reach\nthe car before Josh found me. If I could touch it, I'd win the\ngame.",
+        "sounds": ["eaccb50e9b97c136770958057224a7ae", "b8c9801351e5b287e2ff5ceb79b4f887", "dbc7e55b16743b05a3fe4ee07f71837e"],
+        "position": { "x": 40, "y": 440 },
+        "time": 315
+      }
+    }, {
+      "bgImage": { "image": "3948f463b71051159a73856ec0ab8aec.jpg" },
+      "boldWord": [{
+        "bg": "1448ab601af0b083b35bd41e05195d09.png",
+        "extendImg": {
+          "image": "c9b90adfe4b26ec3102bbe00f23783d7.png",
+          "position": {
+            "x": 310,
+            "y": 250
+          }
+        },
+        "color": "#36D138",
+        "keyWord": "feet",
+        "data": {
+          "letterObj": {
+            "text": "foot",
+            "sound": "7a85e4e763d89320bd3964edf033397c",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "noun",
+            "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "A unit of measure, about\nas long as a man's foot.\nThere are twelve inches in\na foot and three feet in a\nyard.",
+            "sound": "2e0d99238a13df2b046f0eea7d047bab",
+            "position": {
+              "x": 50,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "",
+            "sound": [],
+            "position": {}
+          }
+        }
+      }],
+      "list": {
+        "letter": "I could hear Josh's *feet* steps just a few feet away from me.\nIf I made any noise at all, he'd find me. I'd be out of the\ngame.",
+        "sounds": ["6db57fff5c59f55131e27eb60898f707", "adfb1680c203e88b9b6e0a1a4a73800f", "492581f42c6e0157b4bc5bf3eb9654f4"],
+        "position": { "x": 40, "y": 440 },
+        "time": 310
+      }
+    }, {
+      "bgImage": { "image": "eac2397fe8681bc8da5d8deab567c9c6.jpg" },
+      "boldWord": [{
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "",
+          "position": {}
+        },
+        "color": "#36D138",
+        "keyWord": "holler",
+        "data": {
+          "letterObj": {
+            "text": "holler",
+            "sound": "891d3f69a62af3ce65fc834569e80e6f",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "verb",
+            "sound": "87c995e56b74741ab0c258639f3204a9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "To yell or speak loudly.",
+            "sound": "b9e65e8a3de6e5a6155c5bbafe035282",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "antonym:whisper",
+            "sound": ["10aa5aac6cb2144f69d67467e3140f91", "a59fd04962a1491b4041ebc4a83646a8"],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }],
+      "list": {
+        "letter": "\"I can hear you, Sandy, and I'm going to find you,\" I heard\nJosh *holler*",
+        "sounds": ["f5ed29686e90673f8f0e5589a7fb7911"],
+        "position": { "x": 40, "y": 440 },
+        "time": 315
+      }
+    }, {
+      "bgImage": { "image": "4f81f4c222c3713063afa942b6271dd6.jpg" },
+      "boldWord": [{
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#36D138",
+        "keyWord": "snaked",
+        "data": {
+          "letterObj": {
+            "text": "snake",
+            "sound": "5634dea10bcd771847af5f5090cf6970",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "verb",
+            "sound": "87c995e56b74741ab0c258639f3204a9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "To move like a snake.",
+            "sound": "506651867f0998876053f0671e05741e",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "antonym:slither",
+            "sound": ["b4a6f337865854069c7bc72933d73291"],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }],
+      "list": {
+        "letter": "As I *snaked* away from Josh, I made a wrong turn. A solid\nwall of rock blocked my way.",
+        "sounds": ["7e2f09ec5bd8c9ce3134886b285cd0f8", "7ce13ceb60f4b7346ee5b53e9fae2d0b"],
+        "position": { "x": 40, "y": 440 },
+        "time": 350
+      }
+    }, {
+      "bgImage": { "image": "d1c2b8ec3f0ecb7eb3f5b45b992768b5.jpg" },
+      "boldWord": [],
+      "list": {
+        "letter": "Quickly, I slid along the wall. There had to be a way around\nit somewhere. Or maybe there was a way through it.",
+        "sounds": ["0c7fbc60f08f335d4ac657b1f4a57655", "ea9bfe421e33b7a5f1719de9ca3e4315", "57b9b61e2c2bc70249e92f87e963552e"],
+        "position": { "x": 40, "y": 440 },
+        "time": 330
+      }
+    }, {
+      "bgImage": { "image": "89bab08c46e77fadea9f3038018ea2a1.jpg" },
+      "boldWord": [{
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "",
+          "position": {}
+        },
+        "color": "#36D138",
+        "keyWord": "barely make out",
+        "data": {
+          "letterObj": {
+            "text": "barely make out",
+            "sound": "dbc91f01f0f63a679b9fdca811042e30",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "verb",
+            "sound": "87c995e56b74741ab0c258639f3204a9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "To see something, but not very well.",
+            "sound": "5a03d696fa28fcffb1559235474bc0e7",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "idiom",
+            "sound": ["db9cd4821ec9333f47cdcb7814f16f1b"],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }],
+      "list": {
+        "letter": "Off to my left, I could *barely* *make* *out* a dark line on the rock.\nI inched over to it, hoping it was a crack that I could hide in.\nJosh waould never find me there.",
+        "sounds": ["f86851940c5b989be3cf1ec3e3f99b31", "d745ed83ca924ec4197e735685cb51d8", "0098dbb71c77f126cebdbc6a12d28a35"],
+        "position": { "x": 40, "y": 440 },
+        "time": 280
+      }
+    }, {
+      "bgImage": { "image": "0f5ea789c857625f6794df401a02d8b8.jpg" },
+      "boldWord": [{
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "",
+          "position": {}
+        },
+        "color": "#36D138",
+        "keyWord": "dash",
+        "data": {
+          "letterObj": {
+            "text": "dash",
+            "sound": "6092283d22f7df7090b67c003aa2e1fb",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "verb",
+            "sound": "87c995e56b74741ab0c258639f3204a9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "To run a short distance quickly",
+            "sound": "b379288446a5f3162a45b7d17061fab9",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "idiom",
+            "sound": ["db9cd4821ec9333f47cdcb7814f16f1b"],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }, {
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "",
+          "position": {}
+        },
+        "color": "#36D138",
+        "keyWord": "slithered",
+        "data": {
+          "letterObj": {
+            "text": "slither",
+            "sound": "b4a6f337865854069c7bc72933d73291",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "verb",
+            "sound": "87c995e56b74741ab0c258639f3204a9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "To slide along the ground like a\nsnake.",
+            "sound": "",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "aynonym:snake",
+            "sound": [],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }],
+      "list": {
+        "letter": "I'd wait for him to pass, and then I'd *dash* for the car before\nhe could find me. I *slithered* over to the line.",
+        "sounds": ["2bacbed0d65426f64c56eb379199fa2f", "d927783d3e9d086146dba25cb778da95"],
+        "position": { "x": 40, "y": 440 },
+        "time": 290
+      }
+    }, {
+      "bgImage": { "image": "093995b10af59ad4d101f2e775da181c.jpg" },
+      "boldWord": [{
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "de47eb7a3e243eae0fd2d02446e78c56.png",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#707DA0",
+        "keyWord": "sure enough",
+        "data": {
+          "letterObj": {
+            "text": "sure enough",
+            "sound": "1a1a6b4b88bc0ad0e9a64c5117127ca6",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "misc",
+            "sound": "",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "An idiom that means \"just what I\nexpected.\"",
+            "sound": "29dcc1d52e768830689a0cb3035b7a84",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "idiom",
+            "sound": ["db9cd4821ec9333f47cdcb7814f16f1b"],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }, {
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#DAC253",
+        "keyWord": "narrow",
+        "data": {
+          "letterObj": {
+            "text": "narrow",
+            "sound": "6de8a19eb98239051ed8dc1f49c7471f",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "adjective",
+            "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "Thin or skinny",
+            "sound": "39b25e9a39da24fa850e4ff6a0057fb3",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "aynonym:wide",
+            "sound": ["2ba6e0247e3b6f0ca51c50a19a4fda13"],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }],
+      "list": {
+        "letter": "*Sure enough*, it was a *narrow*  crack in the rock. I planned to\nhide for a few secounds until Josh passed by, but then I saw\nsomething.",
+        "sounds": ["8bfa8cb3f35d318650ac0f862960d49c", "76ba9c2e6c9137b3d74f84212baa57e6"],
+        "position": { "x": 40, "y": 440 },
+        "time": 310
+      }
+    }, {
+      "bgImage": { "image": "008307f904daa44dee2517badce1fa36.jpg" },
+      "boldWord": [{
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "de47eb7a3e243eae0fd2d02446e78c56.png",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#2C717A",
+        "keyWord": "secret",
+        "data": {
+          "letterObj": {
+            "text": "secret",
+            "sound": "b831760f075ef56f24f70f1cc1528de3",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "noun",
+            "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "Describes something that only a few\npeople know.",
+            "sound": "a65e1de2dd7407cd2d86ab8e934ef0d8",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "",
+            "sound": [],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }, {
+        "bg": "1448ab601af0b083b35bd41e05195d09.png",
+        "extendImg": {
+          "image": "de47eb7a3e243eae0fd2d02446e78c56.png",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#2C717A",
+        "keyWord": "entrance",
+        "data": {
+          "letterObj": {
+            "text": "entrance",
+            "sound": "fcb3d6889b1509dca03d1d4bf9af63fc",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "noun",
+            "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "A door or opening that\nyou go through to get\ninside something.",
+            "sound": "bdc379f9af18d00b65e4b2db593226de",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "",
+            "sound": [],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }, {
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "",
+          "position": {}
+        },
+        "color": "#DAC253",
+        "keyWord": "ancient",
+        "data": {
+          "letterObj": {
+            "text": "ancient",
+            "sound": "fcb3d6889b1509dca03d1d4bf9af63fc",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "adjective",
+            "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "Describes something that is very, very\nold.",
+            "sound": "dd1900e444152116d79112643f4a91bb",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "antonym:modern",
+            "sound": ["9d7ce49ee3d72593cb7030d71fb217b6"],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }],
+      "list": {
+        "letter": "  Wow! It wasn't just a crack in the rock. It was a *secret*\n*entrance* to an *ancient* room.",
+        "sounds": ["eec654fe1fc1ff949cf2f6b65b7a4d7d"],
+        "position": { "x": 52, "y": 447 },
+        "time": 325
+      }
+    }, {
+      "bgImage": { "image": "3e886a898df1418a73afc0d826c382ea.jpg" },
+      "boldWord": [],
+      "list": {
+        "letter": "The rock walls were covered with strange drawings. I forgot\nall about the game and yelled \"Hey, Josh~ Come over here.\nLook what I found! This is so cool!\".",
+        "sounds": ["436c59f748afcb58ab0809ab1929438d", "4d331ab952a002c3eeba057b462967a9", "d49cd3cf4a058af4500013fbd8b2f55d", "5b09a8ea0819640e62a08cd8943793a4"],
+        "position": { "x": 40, "y": 440 },
+        "time": 350
+      }
+    }, {
+      "bgImage": { "image": "cd365a690d12ae3e0e2c3154e2eb0561.jpg" },
+      "boldWord": [{
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "de47eb7a3e243eae0fd2d02446e78c56.png",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#DAC253",
+        "keyWord": "Awesome",
+        "data": {
+          "letterObj": {
+            "text": "awesome",
+            "sound": "89a580775c8a37c796d86ba0c76978fa",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "adjective",
+            "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "Very good; amazing.",
+            "sound": "0b0f9c31bba77765e65c5f187637da8d",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "",
+            "sound": [],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }, {
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "de47eb7a3e243eae0fd2d02446e78c56.png",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#DAC253",
+        "keyWord": "gasped",
+        "data": {
+          "letterObj": {
+            "text": "gasp",
+            "sound": "88969583ee2db6cee9bc7544989e6aa8",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "verb",
+            "sound": "87c995e56b74741ab0c258639f3204a9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "To take a quick,short breath in when\nyou ar surprised.",
+            "sound": "2f1c67e506baa9d7a1be86290d66fd08",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "",
+            "sound": [],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }, {
+        "bg": "1448ab601af0b083b35bd41e05195d09.png",
+        "extendImg": {
+          "image": "de47eb7a3e243eae0fd2d02446e78c56.png",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#DAC253",
+        "keyWord": "wiggled",
+        "data": {
+          "letterObj": {
+            "text": "wiggle",
+            "sound": "7fea139915103a3959290d824b69d9e4",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "verb",
+            "sound": "87c995e56b74741ab0c258639f3204a9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "To move from side to side in little\nmovements.",
+            "sound": "b2ad1d4c0824a4abce92d58c023fef62",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "",
+            "sound": [],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }, {
+        "bg": "1448ab601af0b083b35bd41e05195d09.png",
+        "extendImg": {
+          "image": "5e4b54309bd194200083133af490d847.png",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#2C717A",
+        "keyWord": "petroglyphs",
+        "data": {
+          "letterObj": {
+            "text": "petroglyph",
+            "sound": "5ae4aef85ac740ca283bc53a40368d6f",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "verb",
+            "sound": "87c995e56b74741ab0c258639f3204a9",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "A picture scratched on rocks by\npeople who lived long ago to tell a\nstory.",
+            "sound": "585272b97fcd50777231a0ff5c7f2481",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "",
+            "sound": [],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }],
+      "list": {
+        "letter": "\"*Awesome*!\" he *gasped* as he *wiggled* through the crack.\n\"They're *petroglyphs*, Sandy. Let's show Mom and Dad.\"",
+        "sounds": ["08ee428e2ed7c2a58299ca7e51a43d1f", "cbd1123125f62754dd0a3d13d961f398", "98017add2100fde21c81fe69f531591f"],
+        "position": { "x": 40, "y": 440 },
+        "time": 385
+      }
+    }, {
+      "bgImage": { "image": "cd365a690d12ae3e0e2c3154e2eb0561.jpg" },
+      "boldWord": [{
+        "bg": "d16186228229e68045f4f6e8b5379433.png",
+        "extendImg": {
+          "image": "de47eb7a3e243eae0fd2d02446e78c56.png",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#2C717A",
+        "keyWord": "by the way",
+        "data": {
+          "letterObj": {
+            "text": "by the way",
+            "sound": "233fa0185cdbd630191e4a39a9a4cef6",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "misc",
+            "sound": "",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "An idiom that means \"I have\nsomething more to say.\"",
+            "sound": "c7556df1a34a094ada2b8eb6e4c785f0",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "idiom",
+            "sound": ["db9cd4821ec9333f47cdcb7814f16f1b"],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }, {
+        "bg": "1448ab601af0b083b35bd41e05195d09.png",
+        "extendImg": {
+          "image": "d16186228229e68045f4f6e8b5379433.png",
+          "position": {
+            "x": 364,
+            "y": 200
+          }
+        },
+        "color": "#2C717A",
+        "keyWord": "you're out",
+        "data": {
+          "letterObj": {
+            "text": "you're out",
+            "sound": "e39c25758c97b347e209aa0aa9eb445b",
+            "position": {
+              "x": 70,
+              "y": 85
+            }
+          },
+          "type": {
+            "text": "misc",
+            "sound": "",
+            "position": {
+              "x": 450,
+              "y": 90
+            }
+          },
+          "descript": {
+            "text": "Short for \"you're out of the game,\" or\n\"you lost.\" If it is the game hide and\nseek, it means that someone caught\nyou.",
+            "sound": "14b89099020de4d5c12ee99ae35bb010",
+            "position": {
+              "x": 70,
+              "y": 150
+            }
+          },
+          "others": {
+            "text": "",
+            "sound": [],
+            "position": {
+              "x": 170,
+              "y": 400
+            }
+          }
+        }
+      }],
+      "list": {
+        "letter": "\"Oh, and *by* *the* *way* -- *you're out*. I win the game.\"",
+        "sounds": ["ea545c16aec1c8c74d94b3c715b3199b", "f0353eccbd7e2f0e7a9c6e8abd62dbab"],
+        "position": { "x": 40, "y": 440 },
+        "time": 280
+      }
+    }]
+  }
+}

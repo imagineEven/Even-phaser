@@ -1,0 +1,135 @@
+{
+  "keyboardBg": {"image": "144e2fb8e9356e2c660ea99e55ed31c4"},
+  "lowercase": {
+    "oneline": [
+      {"image": "e175f3d6bc498d48fb40838d33615976", "keyCode": "101", "key": "q", "children": {"image": "a449cc6f4b79832717b56be6872c4466"}},
+      {"image": "4a1c1af02d29e8bdd47a0175dd2b1cca", "keyCode": "102", "key": "w", "children": {"image": "3ffdebf283e4e7ed457b9940a164938d"}},
+      {"image": "a36a92a2285d2eee3f2024fb38bd04e0", "keyCode": "103", "key": "e", "children": {"image": "2a18fffe187a7c5a42ffa3fd14f83626"}},
+      {"image": "21dfbe22c058d23ab46e1d1552e0920a", "keyCode": "104", "key": "r", "children": {"image": "c1be2ec354914c44ddc4c781dcf34df0"}},
+      {"image": "7431190182abf43e77d4c9eaecc49c05", "keyCode": "105", "key": "t", "children": {"image": "ede61f95ab2515330adcbb376755166e"}},
+      {"image": "5170c861d447d84ae0904fcf8a960589", "keyCode": "106", "key": "y", "children": {"image": "4348e578d423aa808e05c2afe6dda06b"}},
+      {"image": "17a6a110ea090e1a7c4ab9a56fdbe470", "keyCode": "107", "key": "u", "children": {"image": "c7ff81b2e7941313ed58d64e0b21fdb7"}},
+      {"image": "1a955ef860d7d0672fb7718f64aa43e1", "keyCode": "108", "key": "i", "children": {"image": "53931706f75cbbd66e30dad97d907eba"}},
+      {"image": "46b293b0862883b54b65e9a7d5b2bcb8", "keyCode": "109", "key": "o", "children": {"image": "85ceda69714105d770f1fd63c5e43cf6"}},
+      {"image": "6a78a147827aa4c8c4375865caee04b6", "keyCode": "110", "key": "p", "children": {"image": "f2fda1771c6ff283ae08d846e97e8d5c"}}
+    ],
+    "twoline": [
+      {"image": "7ef086f55d2bf20faeeacc27cf42b8b3", "keyCode": "111", "key": "a", "children": {"image": "d97541083d6f460884bc14c56bfc45d8"}},
+      {"image": "8f33ed2e6825f60167743fc6f809af58", "keyCode": "112", "key": "s", "children": {"image": "e9487dea5c1eb0e86bcf5fae8f5a4954"}},
+      {"image": "873d2284a52f63eb8c75b2738ba13a5a", "keyCode": "113", "key": "d", "children": {"image": "4df2cd1492316ea619beb8d20f702c2d"}},
+      {"image": "04ec2ead7b1ccc259c42a761674c93e7", "keyCode": "114", "key": "f", "children": {"image": "68a3e0dc1ec292ccd2d7bc1eec0e1885"}},
+      {"image": "f716daf1138d540dc64e54926915eedd", "keyCode": "115", "key": "g", "children": {"image": "cfb614e6059a40bec15c403b689ae5dc"}},
+      {"image": "1d129f9546ebd1b37bd4c19ee6a243fc", "keyCode": "116", "key": "h", "children": {"image": "2de9a581c11df19a894ef94b62f6857a"}},
+      {"image": "93971a514edeacd7b7d4f67688f03865", "keyCode": "117", "key": "j", "children": {"image": "9c2d9a60f75d9fc06376033683fab0e3"}},
+      {"image": "a8fa50d31c98b62935f0425fd3153068", "keyCode": "118", "key": "k", "children": {"image": "d2f71c119441a74dada70a21b7a148d2"}},
+      {"image": "f900009d82c4eca07a0303542370c045", "keyCode": "119", "key": "l", "children": {"image": "9ff2860b2d590848e9decf313ddc8410"}}
+    ],
+    "threeline": [
+      {"image": "7a05e9bb00d17c6ec7fdeadfc34451d1", "keyCode": "401", "key": "shiftUpper", "children": {"image": "f2d9c4d6815f4b67069a742232fa7a33"}},
+      {"image": "4921d51c619b6d9e0b408b804243b472", "keyCode": "120", "key": "z", "length": 98, "children": {"image": "9c35fbd0b9634bbb8dd97889987c0ec0"}},
+      {"image": "0883100d400055fd3554aa0f2283307d", "keyCode": "121", "key": "x", "children": {"image": "e8e926463e53d3f28ad288db0dbc9ece"}},
+      {"image": "95fd7e606ff6563661f00331fad4f833", "keyCode": "122", "key": "c", "children": {"image": "d8b30d25d0ec6358e9288c7a5bf3eb1e"}},
+      {"image": "0b891e8cb382293878587cca0261b2ed", "keyCode": "123", "key": "v", "children": {"image": "714268b72cd982da56a697d78b75f22c"}},
+      {"image": "ec605b7c8d9eca1bbbe487db46e2e1d7", "keyCode": "124", "key": "b", "children": {"image": "713e218c987e4367327854148e892c7c"}},
+      {"image": "345ae7231efb021b899689ac4aa0a21b", "keyCode": "125", "key": "n", "children": {"image": "2e8398e7ad151f85efe04f2c98b51048"}},
+      {"image": "45a7d656f1c6d131daa50ee830da51c7", "keyCode": "126", "key": "m", "children": {"image": "f2e32a39282a2e9240775d561f9eda15"}},
+      {"image": "b543e50f84f1386550e7def5492772b9", "keyCode": "402", "key": "back", "children": {"image": "d7a18c62574497bb387b3e1112ec9299"}}
+    ],
+    "foreline": [
+      {"image": "efe189c678df310376ea34d19c753f6a", "keyCode": "403", "key": "number", "children": {"image": "36af0a58273776a39223cf2153ee2ad2"}},
+      {"image": "85eda3d291d21f024ec410820557bdb8", "keyCode": "404", "key": "left", "length": 98, "children": {"image": "485e0fe0922b3dc3b8c5c38b7b95cec1"}},
+      {"image": "024acc3d20445a5a601aca4e53de676b", "keyCode": "405", "key": "right", "children": {"image": "bd249d221c3a641e5db0786a5b8743f5"}},
+      {"image": "e1359afb9c07f192893cee011225cee2", "keyCode": "406", "key": "space", "children": {"image": "a6337b70ed8ff66c9bc20be42f8a6a1c"}},
+      {"image": "0eada77238f9144e2ee34eb5ed0fb3a2", "keyCode": "407", "key": "enter", "length": 216, "children": {"image": "a2f70f82b0c38cd76586dcce32540308"}},
+      {"image": "884c2f9d30ecba43d735cd2026b955b5", "keyCode": "408", "key": "disapplear", "length": 138, "children": {"image": "b30e572afdeb421dc08d58ae166b069f"}}
+    ]
+  },
+  "uppercase": {
+    "oneline": [
+      {"image": "302163b8ce6370acf52b5f436bd5e3b5", "keyCode": "101", "key": "Q", "children": {"image": "03848b20954096129d172c2c0bf1c0b2"}},
+      {"image": "4456d7b4cb17f59e37b3fbe45f6e7d4f", "keyCode": "102", "key": "W", "children": {"image": "5734a87173cedb95b4d5e2960ecd70af"}},
+      {"image": "9d8444edfdf2b30668f0f284ba142026", "keyCode": "103", "key": "E", "children": {"image": "e6abf1f4f7cf9e650deabe59af6c89eb"}},
+      {"image": "3928dad157cfb7fd814221764f5ff588", "keyCode": "104", "key": "R", "children": {"image": "276f0f943133cba553f6da445eb74a35"}},
+      {"image": "47c5df0407a88524869e4d4cee759b44", "keyCode": "105", "key": "T", "children": {"image": "25d540db9b164d18236ab2905635b6fa"}},
+      {"image": "5ef5078018d3871dc62eb8c85e1f034e", "keyCode": "106", "key": "Y", "children": {"image": "0756dad77f0c38d0f2164626e0e05836"}},
+      {"image": "2f1a9d62c785ebdf8c8c19037627582a", "keyCode": "107", "key": "U", "children": {"image": "85a0987f56a11b29274131f1d4d137b3"}},
+      {"image": "78edbb91614e69c85f9240973fd49f96", "keyCode": "108", "key": "I", "children": {"image": "d53ee3d32c2f87c4f90323d5050cba04"}},
+      {"image": "9436eb05efab5a01a2e8fdcca20585aa", "keyCode": "109", "key": "O", "children": {"image": "de90c1d86e890c73a2cb438a367b15dc"}},
+      {"image": "bb2957408876d562ffbb936eba21d1b3", "keyCode": "110", "key": "P", "children": {"image": "2a77dfe448b18de1124ef7a8bfa4b943"}}
+    ],
+    "twoline": [
+      {"image": "ff73d5675204eb305a753ea04fb6a891", "keyCode": "111", "key": "A", "children": {"image": "d5dff10202ef8f1c46bb35cad3123e7d"}},
+      {"image": "be676f14318005f12918b24cccf52818", "keyCode": "112", "key": "S", "children": {"image": "96c59976f30fa84e5afb01a585c14c5a"}},
+      {"image": "06e9cf2626dd3d05356749208d246c10", "keyCode": "113", "key": "D", "children": {"image": "007deb22dffb734b935b68b766faed30"}},
+      {"image": "b20175688ac417cab824f5bc42de72e4", "keyCode": "114", "key": "F", "children": {"image": "0e0b61db28886daa660374f7f578b371"}},
+      {"image": "657705cd834766d0205592a05399d28b", "keyCode": "115", "key": "G", "children": {"image": "28e6bde68e1ebf8f5b9bfc8d6eb4165d"}},
+      {"image": "3c36ab6cdf13455e37a27bd36bb8e907", "keyCode": "116", "key": "H", "children": {"image": "3d5e3fe32b240d3f3a76cb5fd7237a7a"}},
+      {"image": "74f72e1cfc26c9c8834d94eaaeaadab8", "keyCode": "117", "key": "J", "children": {"image": "f668fbc2ffe73c8067adb7eb61908be7"}},
+      {"image": "d719ceb010b4068bd1c7eee8f84357f7", "keyCode": "118", "key": "K", "children": {"image": "93e1d28221991ea9e353cd193e3e4acd"}},
+      {"image": "78edbb91614e69c85f9240973fd49f96", "keyCode": "119", "key": "L", "children": {"image": "9a59aa61166a3457e2e7b17ef1a02258"}}
+    ],
+    "threeline": [
+      {"image": "7a05e9bb00d17c6ec7fdeadfc34451d1", "keyCode": "401", "key": "shiftLower", "children": {"image": "f2d9c4d6815f4b67069a742232fa7a33"}},
+      {"image": "d5a4f39965e518688a6923846895168c", "keyCode": "120", "key": "Z", "length": 98, "children": {"image": "78413bfd1f146eec04f09cfc0720434d"}},
+      {"image": "b4a0d48450cc94a11bd91722e4abe618", "keyCode": "121", "key": "X", "children": {"image": "b948a6c4570933ffb7731b23b32ae2e9"}},
+      {"image": "cfef5a41d9e7f7c017b410acaf2d5317", "keyCode": "122", "key": "C", "children": {"image": "1076ab83f02fde240ff6ad36cf5f3046"}},
+      {"image": "b003c3d2497ca446d5872b64be8571a6", "keyCode": "123", "key": "V", "children": {"image": "dd7edefeedf96688fa7d37549b6eff9f"}},
+      {"image": "d863f13f33d3bfd94d7f678fbf0c9c9a", "keyCode": "124", "key": "B", "children": {"image": "7c561b3093565b6fd9293903eeecd35a"}},
+      {"image": "fa06833e9e821bf0cf87a9d524380442", "keyCode": "125", "key": "N", "children": {"image": "5f9a9147729f53a2e098c6dbf6558f64"}},
+      {"image": "2fb91e39b4baaab82ae534207d908339", "keyCode": "126", "key": "M", "children": {"image": "2811db5a04aef622ca0c884e20d3425c"}},
+      {"image": "b543e50f84f1386550e7def5492772b9", "keyCode": "402", "key": "back", "children": {"image": "d7a18c62574497bb387b3e1112ec9299"}}
+    ],
+    "foreline": [
+      {"image": "efe189c678df310376ea34d19c753f6a", "keyCode": "403", "key": "number", "children": {"image": "36af0a58273776a39223cf2153ee2ad2"}},
+      {"image": "85eda3d291d21f024ec410820557bdb8", "keyCode": "404", "key": "left", "length": 98, "children": {"image": "485e0fe0922b3dc3b8c5c38b7b95cec1"}},
+      {"image": "024acc3d20445a5a601aca4e53de676b", "keyCode": "405", "key": "right", "children": {"image": "bd249d221c3a641e5db0786a5b8743f5"}},
+      {"image": "e1359afb9c07f192893cee011225cee2", "keyCode": "406", "key": "space", "children": {"image": "a6337b70ed8ff66c9bc20be42f8a6a1c"}},
+      {"image": "0eada77238f9144e2ee34eb5ed0fb3a2", "keyCode": "407", "key": "enter", "length": 216, "children": {"image": "a2f70f82b0c38cd76586dcce32540308"}},
+      {"image": "884c2f9d30ecba43d735cd2026b955b5", "keyCode": "408", "key": "disapplear", "length": 138, "children": {"image": "b30e572afdeb421dc08d58ae166b069f"}}
+    ]
+  },
+  "spotcase": {
+    "oneline": [
+      {"image": "9d2ce4c3b737ad6d9ea3163211cee6e7", "keyCode": "101", "key": "1", "children": {"image": "fc0df937aabdbdbd3dfe4366695d34dd"}},
+      {"image": "60f188509a5d1512bf805013819c3e5f", "keyCode": "102", "key": "2", "children": {"image": "ce7a5843c010e16c84f747576a6fb216"}},
+      {"image": "779e7e9e6b5dcec2919b8e2688e8e527", "keyCode": "103", "key": "3", "children": {"image": "0511d39caa069cbe22a01cac7e22ddd2"}},
+      {"image": "a9be49614494beed9b04b8b47a6a95cd", "keyCode": "104", "key": "4", "children": {"image": "e9cd48fa25713906f9f1110a19adcc2b"}},
+      {"image": "5cdea4dd27067246a52358df7008305f", "keyCode": "105", "key": "5", "children": {"image": "2b39b32403945c5818835aab6f4ddf58"}},
+      {"image": "18c932aa3a11641335a24e029efabaf0", "keyCode": "106", "key": "6", "children": {"image": "5b5936f36d042daee51e2b47a2749f26"}},
+      {"image": "004d0ba573ecbfa86d077092b5fa39a5", "keyCode": "107", "key": "7", "children": {"image": "e36caa4947f8fdcef48aa19b57f864e7"}},
+      {"image": "9ad4ff55d9ae22729528b41e921d9e5c", "keyCode": "108", "key": "8", "children": {"image": "65be31f0f1b9d90261f70a7ee0db87bd"}},
+      {"image": "469354660cfea415addf3ee2be7fb5c5", "keyCode": "109", "key": "9", "children": {"image": "0bc8cca35b4f2d5cfc6340d4cd257139"}},
+      {"image": "cc6a0aa73fc722c70cfa8d7d2ad236f9", "keyCode": "110", "key": "0", "children": {"image": "721544f932ee601efe838de9e881adbb"}}
+    ],
+    "twoline": [
+      {"image": "a636d549a069df6ef049099842430301", "keyCode": "111", "key": ".", "children": {"image": "dd22735551049a7e0baf3ce7b41eafd7"}},
+      {"image": "26d489ead7bde4832ff31f21b892e670", "keyCode": "112", "key": ",", "children": {"image": "14b91954b7d0a8f85a244b2104da6afd"}},
+      {"image": "0bae5f96edcb3d28be014c10b490ed09", "keyCode": "113", "key": ":", "children": {"image": "5e084375a564a52e938a018d7c7eb3b2"}},
+      {"image": "e336d2f8f7e1ab7c9906f63d0382177a", "keyCode": "114", "key": ";", "children": {"image": "1f34b40ef8f7f24581e6c792999ebde4"}},
+      {"image": "d20521b841690b13a5391191eb8feb72", "keyCode": "115", "key": "?", "children": {"image": "0b07f29b17c1a48b7a1734ab00197b85"}},
+      {"image": "18a93cb2437f185be57764a67fa8aa07", "keyCode": "116", "key": "!", "children": {"image": "e8116c52f2fffc82637d058dbfa67994"}},
+      {"image": "e5009238b139b659b394851b59677fef", "keyCode": "117", "key": "-", "children": {"image": "878732034d8be29d62f9dbf6a04110f6"}},
+      {"image": "8d12962cc1908edc7b8c7f7d66ce14a9", "keyCode": "118", "key": "/", "children": {"image": "9b45bb5781b56efe11e098fe022c648c"}},
+      {"image": "6b54b7fab7bc1a98c5b6a7585fb8841f", "keyCode": "119", "key": "@", "children": {"image": "b22bf84169c13a65a46dfb39673d1255"}}
+    ],
+    "threeline": [
+      {"image": "7a05e9bb00d17c6ec7fdeadfc34451d1", "keyCode": "401", "key": "shiftLower", "children": {"image": "f2d9c4d6815f4b67069a742232fa7a33"}},
+      {"image": "00c196c6195e95c4b5e6cc00a00013ac", "keyCode": "120", "key": "<", "length": 98, "children": {"image": "3187709b9bd3eab3a65d9aab42a5e6ac"}},
+      {"image": "37b9060a8babff8af383575552ea295d", "keyCode": "121", "key": ">", "children": {"image": "f05bf5e33c708ec6df540392b5a151d0"}},
+      {"image": "5006e32bb6d0fefe79f27e022049bdf1", "keyCode": "122", "key": "(", "children": {"image": "afec405a1959280c4227bd6fc865c920"}},
+      {"image": "71c2edb6f464c2700622f7bcdb1484bd", "keyCode": "123", "key": ")", "children": {"image": "e679771c18faf45d7c869738e1ddee5f"}},
+      {"image": "36018e2352093c8fbe03223dd86edb3c", "keyCode": "124", "key": "'", "children": {"image": "6f27fa9aa9a78e0671b7c8039a190bdc"}},
+      {"image": "a6d3ac723dd77fff76faf68f68d2b35a", "keyCode": "125", "key": "'", "children": {"image": "ae6fc47c00f494a52247f26d3e85e720"}},
+      {"image": "ccd5b11a8c71d0a81bfc786797102288", "keyCode": "126", "key": "&", "children": {"image": "01e705c8cf55fa2bc66ffc67b6fab52f"}},
+      {"image": "b543e50f84f1386550e7def5492772b9", "keyCode": "402", "key": "back", "children": {"image": "d7a18c62574497bb387b3e1112ec9299"}}
+    ],
+    "foreline": [
+      {"image": "4bbe7aa3a9e772437e92fe38d9c078a5", "keyCode": "403", "key": "shiftLower", "children": {"image": "6168d71329a74f8e11916e67c9da16d5"}},
+      {"image": "85eda3d291d21f024ec410820557bdb8", "keyCode": "404", "key": "left", "length": 98, "children": {"image": "485e0fe0922b3dc3b8c5c38b7b95cec1"}},
+      {"image": "024acc3d20445a5a601aca4e53de676b", "keyCode": "405", "key": "right", "children": {"image": "bd249d221c3a641e5db0786a5b8743f5"}},
+      {"image": "e1359afb9c07f192893cee011225cee2", "keyCode": "406", "key": "space", "children": {"image": "a6337b70ed8ff66c9bc20be42f8a6a1c"}},
+      {"image": "0eada77238f9144e2ee34eb5ed0fb3a2", "keyCode": "407", "key": "enter", "length": 216, "children": {"image": "a2f70f82b0c38cd76586dcce32540308"}},
+      {"image": "884c2f9d30ecba43d735cd2026b955b5", "keyCode": "408", "key": "disapplear", "length": 138, "children": {"image": "b30e572afdeb421dc08d58ae166b069f"}}
+    ]
+  }
+}

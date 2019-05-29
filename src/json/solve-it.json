@@ -1,0 +1,73 @@
+{
+  "passageGraphic": {
+    "image": [
+      438,
+      92,
+      "20e4a0b329c243d5876fdbc9f4aa3c41"
+    ],
+    "introduceText": [
+      453,
+      307,
+      "A store employee scans a barcode. This symbol\nhelps the store to complete purchases and track\nitems."
+    ]
+  },
+  "introducePassage": {
+    "title": {
+      "value": "The Barcode Solution",
+      "pos": {
+        "x": 50,
+        "y": 67
+      },
+      "timer": [
+        500
+      ],
+      "sound": "e2cea2f3b7141a75e6f49eb740a115a3"
+    },
+    "content": {
+      "value": "In 1948, the owner of a small\nfood store had a problem\nkeeping track of everything he\nsold.He asked a group of\nscientists to help find a solution. \nThe scientists invented a\nspecial symbol that tracks items\nin a store.The symbol is called\na barcode.The barcode wasn't\npopular right away, but now it\nis used all over the world.",
+      "pos": {
+        "x": 50,
+        "y": 100
+      },
+      "timer": [
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "sound": "ae74e4a0974355d529b3b43ec62dd019"
+    }
+  },
+  "selectPassage": {
+    "content": {
+      "value": "In 1948, the owner of a small food store had a \nproblem keeping track of everything he sold. \nHe asked a group of scientists to help find a \nsolution. The scientists invented a special symbol that \ntracks items in a store.The symbol is called a barcode.\nThe barcode wasn't popular right away, but now it\nis used all over the world.",
+      "pos": {
+        "x": 80,
+        "y": 92
+      },
+      "timer": [
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "chioce":[
+        "In 1948, the owner of a small\n food store had a problem keeping\n track of everything he sold.",
+        "He asked a group of scientists\n to help find a solution.",
+        "The scientists invented a \nspecial symbol that \ntracks items in a store.",
+        "The symbol is called a barcode.",
+        "The barcode wasn't popular\n right away, but now it\nis used all over the world."
+      ],
+      "type": [
+        0,
+        1,
+        2,
+        2,
+        2
+      ],
+      "sound": "ae74e4a0974355d529b3b43ec62dd019"
+    }
+  }
+}

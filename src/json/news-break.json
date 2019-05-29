@@ -1,0 +1,278 @@
+{
+  "needIntro": true,
+  "info": {
+    "parts": [
+      {
+        "text": "How do you grow a 2,0000-pound\npumpkin? It's tricky",
+        "x": 0,
+        "y": 0,
+        "fontSize": "22px",
+        "fontWeight": "bold"
+      },
+      {
+        "text": "MICHELLER R.SMITH, Associated Press\nOctober 22, 2015",
+        "x": 0,
+        "y": 60
+      },
+      {
+        "text": "COVENTRY, R.I. (AP) — Ron Wallace has a\npumpkin patch in his backyard. And the\npumpkins he grows are giant. He broke a\nworld record in 2006. And in 2012, his prized\npumpkin weighed 2,009 pounds.",
+        "x": 0,
+        "y": 130
+      },
+      {
+        "text": "Wallace has spent 27 years growing\npumpkins. He conducts research and\nexperiments with new ideas. He shares\nideas with grows around the world.",
+        "x": 0,
+        "y": 290
+      },
+      {
+        "text": "Wallace believes that a good pumpkin\ncomes from the best seeds. Top growers\ncan trace their pumpkin seeds back many,\nmany years.",
+        "x": 0,
+        "y": 430
+      },
+      {
+        "text": "Pumpkins can put on 45 pounds each day,\nmostly from water. The best pumpkins every\nyear follow the weather. If the weather is\njust right, growers might see many huge\npumpkins.",
+        "x": 0,
+        "y": 570
+      },
+      {
+        "text": "But these pumpkins won't end up in\npumpkin pie. they're too big to be tasty.",
+        "x": 0,
+        "y": 730
+      },
+      {
+        "text": "Wallace took this season's biggest pumpkin\nto a weigh-off. It weighed a whopping\n2,230 pounds. It was the second-biggest\npumpkin ever grown.",
+        "x": 0,
+        "y": 820
+      },
+      {
+        "text": "\"I know my program is capable,\" he says.\n\"We're gonna give it a shot.\"",
+        "x": 0,
+        "y": 960
+      },
+      {
+        "text": "Copyright 2019 Associated Press. All rights reserved. This\nmaterial may not be published, broadcast, rewritten, or\nredistributed.",
+        "x": 0,
+        "y": 1030,
+        "fontSize": "16px"
+      }
+    ],
+    "news": [
+      {
+        "image": "d1a280a49c364b87585c1537a3f3a4dd.jpg",
+        "text": "Monkey gives first aid to\nelectrocuted friend",
+        "x": 30,
+        "y": 1150
+      },
+      {
+        "image": "6be1d8c3adfa7ba73e3f7f62a31a3d03.jpg",
+        "text": "Idaho agency finds historic\nfootage of parachuting\nbeavers",
+        "x": 225,
+        "y": 1150
+      },
+      {
+        "image": "212a40c521af2727db9203e67ea57f55.jpg",
+        "text": "Fireball! Meteor going 45,000\nmph lights up Pennsylvania\nsky",
+        "x": 385,
+        "y": 1150
+      },
+      {
+        "image": "be3155099095bd0d8d106b71a45b4231.jpg",
+        "text": "More students learning\ncomputer science",
+        "x": 555,
+        "y": 1150
+      },
+      {
+        "image": "8253585314da09fc4899d22b80255738.jpg",
+        "text": "(AP Photo/Charles Krupa)",
+        "scale": 1,
+        "align": "left",
+        "x": 435,
+        "y": 0
+      }
+    ],
+    "ils": [
+      {
+        "text": "More from Imagine Learning",
+        "x": 425,
+        "y": 190,
+        "fontSize": "16px",
+        "needBox": true
+      },
+      {
+        "text": "Better Measure\nby Amy Tao",
+        "x": 425,
+        "y": 220,
+        "fontSize": "14px"
+      },
+      {
+        "text": "How far can you jump? How long is your bed?\nAre the windows in your house as wide  as you\nare tall? You don't know until you measure.",
+        "x": 425,
+        "y": 260
+      },
+      {
+        "text": "A ruler is a tool that measures length in inches\nor feet. But a ruler isn't the only way you can\nmeasure something.",
+        "x": 425,
+        "y": 315
+      },
+      {
+        "text": "Stand against a wall and mark how tall you are\nwith a pencil. Then have an adult cut a piece\nof string that is exactly as long as you are tall.",
+        "x": 425,
+        "y": 370
+      },
+      {
+        "text": "Which do you think is greater-the distance\nfrom fingertip to fingertip or from your toes to\nthe top of your head? The answer may surprise\nyou. use a string to find out. Grab an end of\nthe string in each hand and hold out your arms\nas far as you can.",
+        "x": 425,
+        "y": 430
+      },
+      {
+        "text": "A ruler isn't good for measuring a wiggly line.\nbut string is. Then you can use a ruler to find out\nhow long the string is in inches.",
+        "x": 425,
+        "y": 535
+      }
+    ],
+    "submitPos": {
+      "x": 650,
+      "y": 1050
+    }
+  },
+  "title": "How do you grow a 2,000-pound pumpkin? It's tricky",
+  "pageTitle": "How do you grow a 2,000-p...",
+  "website": "www.imaginelearning.com/",
+  "article": {
+    "passages": [
+      {
+        "text": "How do you grow a 2,0000-pound\npumpkin? It's tricky",
+        "x": 0,
+        "y": 0,
+        "fontSize": "22px",
+        "fontWeight": "bold",
+        "sound": "55701696443c431f6d3ea72833f0d907"
+      },
+      {
+        "text": "MICHELLER R.SMITH, Associated Press",
+        "x": 0,
+        "y": 60,
+        "fontSize": "14px",
+        "sound": "1e914777634624a128937a070551d4ef"
+      },
+      {
+        "text": "October 22, 2015",
+        "x": 0,
+        "y": 75,
+        "fontSize": "14px",
+        "sound": "39c37211892bd6b66f652b8020123b99"
+      },
+      {
+        "text": "COVENTRY, R.I. (AP) — Ron Wallace has\na pumpkin patch in his backyard. And\nthe pumpkins he grows are giant. He\nbroke a world record in 2006. And in\n2012, his prized pumpkin weighed 2,009\npounds.",
+        "x": 0,
+        "y": 115,
+        "sound": "b473b1296e0ff3514924aca34a8b9342"
+      },
+      {
+        "text": "Wallace has spent 27 years growing\npumpkins. He conducts research and\nexperiments with new ideas. He shares\nideas with growers around the world.",
+        "x": 0,
+        "y": 290,
+        "sound": "1093d8946df66781a59129154e4a4418"
+      },
+      {
+        "text": "Wallace believes that a good pumpkin\ncomes from the best seeds. Top growers\ncan trace their pumpkin seeds back\nmany, many years.",
+        "x": 0,
+        "y": 420,
+        "sound": "e3dd094195c6861782ecf399190840e6"
+      },
+      {
+        "text": "Pumpkins can put on 45 pounds each\nday, mostly from water. The best\npumpkins every year follow the weather.\nIf the weather is just right, growers might\nsee many huge pumpkins.",
+        "x": 0,
+        "y": 555,
+        "sound": "49f2bc0f94af6c6524f90f9c317de73a"
+      },
+      {
+        "text": "But these pumpkins won't end up in\npumpkin pie. they're too big to be tasty.",
+        "x": 0,
+        "y": 715,
+        "sound": "54d53e7e568938161ea9a3ea9abae5cd"
+      },
+      {
+        "text": "Wallace took this season's biggest\npumpkin to a weigh-off. It weighed a\nwhopping 2,230 pounds. It was the\nsecond-biggest pumpkin ever grown.",
+        "x": 0,
+        "y": 790,
+        "sound": "33bc018edec61908bfe6a4c14d86c81a"
+      },
+      {
+        "text": "Wallace wants to grow a 2,500-pound\npumpkin next.",
+        "x": 0,
+        "y": 920,
+        "sound": "e4ccc68c50bb5fafaec3f86aa45376db"
+      },
+      {
+        "text": "\"I know my program is capable,\" he\nsays. \"We're gonna give it a shot.\"",
+        "x": 0,
+        "y": 995,
+        "sound": "e4ccc68c50bb5fafaec3f86aa45376db"
+      },
+      {
+        "text": "Copyright 2019 Associated Press. All rights reserved.\nThis material may not be published, broadcast,\nrewritten, or redistributed.",
+        "x": 0,
+        "y": 1063,
+        "fontSize": "14px"
+      }
+    ],
+    "questions": [
+      {
+        "question": "Choose the main idea of this article.",
+        "sound": "ebb9681fc8edf515725fb24614f76231",
+        "secondTip": {
+          "sound": "48ffea10c34d6866f368840b1ca48f1f"
+        },
+        "tipRightSound": {
+          "sound": "6cdce6b793493b282ca0878d9123194f"
+        },
+        "rightSound": {
+          "sound": ""
+        },
+        "options": [
+          {
+            "text": "Ron Wallace breaks records with his giant\npumpkins.",
+            "isRight": true
+          },
+          {
+            "text": "Ron Wallace helps people around the\nworld grow pumpkins."
+          },
+          {
+            "text": "Large pumpkins do not make good pies."
+          },
+          {
+            "text": "Pumpkins grow very quickly."
+          }
+        ]
+      }
+    ],
+    "questions2": [
+      {
+        "question": "2Choose the main idea of his article.",
+        "firstTip": {
+          "sound": "f8fda3d56a59da883a61bf214326138b",
+          "image": "384baf824cbb2b372d81edc405a86ad3"
+        },
+        "secondTip": {
+          "sound": "b17af274583624d61212d77f16de9b32"
+        },
+        "options": [
+          {
+            "text": "Ron Wallace breaks records with his giant\npumpkins.",
+            "isRight": true
+          },
+          {
+            "text": "Ron Wallace helps people around the\nworld grow pumpkins."
+          },
+          {
+            "text": "Large pumpkins do not make good pies."
+          },
+          {
+            "text": "Pumpkins grow very quickly."
+          }
+        ]
+      }
+    ]
+  }
+}

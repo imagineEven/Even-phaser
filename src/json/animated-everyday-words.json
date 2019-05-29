@@ -1,0 +1,145 @@
+{
+	"detail": "",
+	"beginSound": "",
+	"beginSoundAlias": "",
+	"bg": "90202b30f9190ecdf5b5879a373db8c8",
+	"bgAlias": "AEW_Body_Parts1_BG.png",
+	"outline": "e4377c8416bec3025435c6a7e7e9f442",
+	"outlineAlias": "B1U3_EWIS-BG2.png",
+	"msg": 0,
+	"spriteList": [{
+			"msg": 0,
+			"img": "910738ab327702645159508d877b0238",
+			"imgAlias": "eyes_ACT_EWIS.png",
+			"json": "a0bfb24bef8be37a33041b1139795dee",
+			"jsonAlias": "ANI_The_eyes_are_blue_The_eyes_are_brown_AEW.png",
+			"text": [
+				"blue",
+				"brown"
+			],
+			"sound": [
+				"f7ac83840197073fdd87ac6cdb8eb372",
+				"cd4d44ad28bad9a2a83112155df65011"
+			],
+			"soundAlias": [
+				"blue_LTW_AEW.mp3",
+				"brown_LTW_AEW.mp3"
+			],
+			"flashSound": [
+				"795d2de350dbf22c03e6baab2033d2c7",
+				"02069c1b96a96f6eaa6a1d7af5473e63",
+				"d496d51c85e3c3c014676916720259ee"
+			],
+			"flashSoundAlias": [
+				"blue_brown_sfx_AEW_(2).mp3",
+				"say_blue_say_brown_SFX_AEW.mp3",
+				"The_eyes_are_blue_The_eyes_are_brown_sfx_AEW.mp3"
+			],
+			"bool": false,
+			"x": 400,
+			"y": 97,
+			"silX": 400.075,
+			"silY": 93.5,
+			"spriteIndex": 0
+		},
+		{
+			"msg": 0,
+			"img": "44a93057038a1cc6f63f6d745ac5d93c",
+			"imgAlias": "hair_ACT_EWIS.png",
+			"json": "e4e009d9f0d5c02ec770a1b9f92f34c4",
+			"jsonAlias": "ANI_The_hair_is_curly_The_hair_is_straight_AEW.png",
+			"text": [
+				"curly",
+				"straight"
+			],
+			"sound": [
+				"8599b60ff499bb036feee3bb7d82da24",
+				"69c9bd15cb3619867e5a15112f4ea7cc"
+			],
+			"soundAlias": [
+				"curly_LTW_AEW.mp3",
+				"straight_LTW_AEW.mp3"
+			],
+			"flashSound": [
+				"e2e87cb705ef3eeb232f6a2987c58203",
+				"54e21b808c199519fe34d67a01054f0f",
+				"ecefcbde03d627dcbafbd023398784d3"
+			],
+			"flashSoundAlias": [
+				"curly_straight_sfx_AEW.mp3",
+				"say_curly_say_straight_SFX_AEW.mp3",
+				"The_hair_is_curly_The_hair_is_straight_sfx_AEW.mp3"
+			],
+			"bool": false,
+			"x": 380,
+			"y": 10,
+			"silX": 368.5,
+			"silY": 8.5,
+			"spriteIndex": 1
+		},
+		{
+			"msg": 0,
+			"img": "fa4010805d38492ec59174a606d834c8",
+			"imgAlias": "mouth_2_ACT_EWIS.png",
+			"json": "0da10c1f081d51c63dffc837c0070f5b",
+			"jsonAlias": "ANI_My_mouth_is_smiling_AEW.png",
+			"text": [
+				"smile"
+			],
+			"sound": [
+				"fcb11e7545de9ccc9dd0f337898cd81f"
+			],
+			"soundAlias": [
+				"smile_sfx_AEW.mp3"
+			],
+			"flashSound": [
+				"fcb11e7545de9ccc9dd0f337898cd81f",
+				"7985926268bb20906ed6d355867f3056",
+				"153e3a5f86b855b630fa0c835f6abd77"
+			],
+			"flashSoundAlias": [
+				"smile_sfx_AEW.mp3",
+				"say_smile_SFX_AEW.mp3",
+				"My_mouth_is_smiling_sfx_AEW.mp3"
+			],
+			"bool": true,
+			"x": 414,
+			"y": 158,
+			"silX": 412.5,
+			"silY": 158,
+			"spriteIndex": 2
+		},
+		{
+			"msg": 0,
+			"img": "e455be3d502ffc74ce16e782c236c7ad",
+			"imgAlias": "nose_ACT_EWIS.png",
+			"json": "4c41bfa620a19daf003fb040bc89c933",
+			"jsonAlias": "ANI_I_am_blowing_my_nose_AEW.png",
+			"text": [
+				"blow"
+			],
+			"sound": [
+				"4760a4b1f3a1290d9846c891e6ac011c"
+			],
+			"soundAlias": [
+				"blow_AEW.mp3"
+			],
+			"flashSound": [
+				"9dc5959107f6e5e6e77e228a07d73c58",
+				"6f39677ea3cd8aa72815dcb79fe8d2d1",
+				"26e6b2edd49635b1ca12ce65a1d2d01b"
+			],
+			"flashSoundAlias": [
+				"blow_sfx_AEW.mp3",
+				"say_blow_SFX_AEW.mp3",
+				"I_am_blowing_my_nose_sfx_AEW.mp3"
+			],
+			"bool": true,
+			"x": 441,
+			"y": 134,
+			"silX": 269,
+			"silY": 14,
+			"spriteIndex": 3
+		}
+	]
+}

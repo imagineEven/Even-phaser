@@ -1,0 +1,375 @@
+{
+	"funFactList": [
+		{
+			"title": [
+				260,
+				294,
+				"Fun Fact #1",
+				{
+					"font": "Century Gothic",
+					"fill": "#FF8C00",
+					"fontSize": 25,
+					"fontWeight": "bold"
+				}
+			],
+			"content": [
+				260,
+				326,
+				"A frog drink through its skin.",
+				{
+					"font": "Century Gothic",
+					"fill": "#333",
+					"fontSize": 20,
+					"fontWeight": "bold"
+				}
+			],
+			"wrongIndex": 2,
+			"answerList": [
+				"drinks",
+				"drinkes",
+				"drinking"
+			]
+		},
+		{
+			"title": [
+				260,
+				441,
+				"Fun Fact #2",
+				{
+					"font": "Century Gothic",
+					"fill": "#FF8C00",
+					"fontSize": 25,
+					"fontWeight": "bold"
+				}
+			],
+			"content": [
+				260,
+				472,
+				"Baby foxs are called cubs",
+				{
+					"font": "Century Gothic",
+					"fill": "#333",
+					"fontSize": 20,
+					"fontWeight": "bold"
+				}
+			],
+			"wrongIndex": 1,
+			"correctWord": "foxes"
+		}
+	],
+	"setting1": {
+		"titles": [
+			{
+				"image": "f6be8e30c512a77e0f619045f5cd2516",
+				"x": 60,
+				"y": 110
+			},
+			{
+				"image": "851962c9f597b50aaa256be571227622",
+				"x": 60,
+				"y": 210
+			},
+			{
+				"image": "e2a8d66956e99cf7d100dab24d506995",
+				"x": 60,
+				"y": 380
+			}
+		],
+		"banners": [
+			{
+				"littleIcon": {
+					"image": "0374ab1cbf93a803f52c800dba3a1221"
+				},
+				"lightLittleIcon": {
+					"image": "c4cfb934592ea719da5fddd45da9eda9"
+				},
+				"image": "0a493caf32732b6c3f44a5b077f9af49",
+				"x": 10,
+				"y": 140
+			},
+			{
+				"littleIcon": {
+					"image": "ac0a3b3ce0affba3f5a9cdcf670432bf"
+				},
+				"lightLittleIcon": {
+					"image": "105315754d605af7375f7588415b19ec"
+				},
+				"image": "836e6c2d407b34777ec6a16c74d255ce",
+				"x": 50,
+				"y": 140
+			},
+			{
+				"littleIcon": {
+					"image": "9912a8f2b6514b388549eb0c901ff5c1"
+				},
+				"lightLittleIcon": {
+					"image": "c4f431193d714bc88a3116c1c4f56263"
+				},
+				"image": "7368603b4937197f47aeddf12a28006a",
+				"x": 90,
+				"y": 140
+			},
+			{
+				"littleIcon": {
+					"image": "acc2888e47b55e703e9a0365f3286cc7"
+				},
+				"lightLittleIcon": {
+					"image": "e6409cde67bed8a72bc870b70bf96741"
+				},
+				"image": "5390ed005b9c9adbbdb433ed40052e65",
+				"x": 130,
+				"y": 140
+			}
+		],
+		"avatars": [
+			{
+				"littleIcon": {
+					"image": "51ce80e78b3daca9abbdf765c730a67d"
+				},
+				"lightLittleIcon": {
+					"image": "e75bfc668a1abb4154e6b3dd0695d7ad"
+				},
+				"image": "9ff193cfe8c917092a669128aae4ccae",
+				"x": 30,
+				"y": 230
+			},
+			{
+				"littleIcon": {
+					"image": "ca6407db7920c366ec8dd92ed4a23529"
+				},
+				"lightLittleIcon": {
+					"image": "f3cbf48aad3e1efa6ac2ef4df03760df"
+				},
+				"image": "30b038f6eca08c085c724449fe2bda22",
+				"x": 100,
+				"y": 230
+			},
+			{
+				"littleIcon": {
+					"image": "a1ec4752d6860f40ddc580725bd9b3ec"
+				},
+				"lightLittleIcon": {
+					"image": "98e4b82cc7edeba14e8960010b7787f4"
+				},
+				"image": "0b1acbe2afb5cee04a54b2399edaf9a0",
+				"x": 30,
+				"y": 300
+			},
+			{
+				"littleIcon": {
+					"image": "b359550bd5f247a7488486ac5fe6ec24"
+				},
+				"lightLittleIcon": {
+					"image": "7ea8b5f2456acf5c3d9c370c29e038b6"
+				},
+				"image": "55ec004ec9cce188baf3fd4ef9e971ad",
+				"x": 100,
+				"y": 300
+			}
+		],
+		"pics": [
+			{
+				"webPicPosition": {
+					"x": 50,
+					"y": 350
+				},
+				"icon": {
+					"image": "f6f4f70a0cf78ed2ebe3362145cd8396.jpg",
+					"x": 69,
+					"y": 472
+				}
+			},
+			{
+				"webPicPosition": {
+					"x": 50,
+					"y": 350
+				},
+				"icon": {
+					"image": "108d0fb9c2d73ee7e65c641adb482204.jpg",
+					"x": 154,
+					"y": 472
+				}
+			}
+		],
+		"applyButton": {
+			"x": 60,
+			"y": 500
+		}
+	},
+	"setting2": {
+		"titles": [
+			{
+				"image": "c9e2fa164fe720926c7fc79ee9f74617",
+				"x": 50,
+				"y": 20
+			},
+			{
+				"image": "0972354b3421a6060a5747e0c0800000",
+				"x": 50,
+				"y": 140
+			},
+			{
+				"image": "cdf586b49829acd8b6793b189f7a85f5",
+				"x": 60,
+				"y": 170
+			},
+			{
+				"image": "c022076c1157b9099233ef2f66348b61",
+				"x": 50,
+				"y": 260
+			},
+			{
+				"image": "e2a8d66956e99cf7d100dab24d506995",
+				"x": 70,
+				"y": 350
+			}
+		],
+		"headers": [
+			{
+				"littleIcon": {
+					"image": "0374ab1cbf93a803f52c800dba3a1221"
+				},
+				"lightLittleIcon": {
+					"image": "c4cfb934592ea719da5fddd45da9eda9"
+				},
+				"image": "d494073b2162f54c7184ad91b8930e3e",
+				"x": 10,
+				"y": 50
+			},
+			{
+				"littleIcon": {
+					"image": "ab8b2f2f4ee6a4290c118a617d8a71fc"
+				},
+				"lightLittleIcon": {
+					"image": "98a3080694fd527a1f8d2b341c7eb005"
+				},
+				"image": "890be191c46831a5f6cfbf1c87809aa7",
+				"x": 70,
+				"y": 50
+			},
+			{
+				"littleIcon": {
+					"image": "9912a8f2b6514b388549eb0c901ff5c1"
+				},
+				"lightLittleIcon": {
+					"image": "c4f431193d714bc88a3116c1c4f56263"
+				},
+				"image": "077fab5ec8f68ac1d9efe2221c6f44d2",
+				"x": 130,
+				"y": 50
+			}
+		],
+		"colors": [
+			{
+				"littleIcon": {
+					"image": "0374ab1cbf93a803f52c800dba3a1221"
+				},
+				"lightLittleIcon": {
+					"image": "c4cfb934592ea719da5fddd45da9eda9"
+				},
+				"key": "Green",
+				"x": 20,
+				"y": 200
+			},
+			{
+				"littleIcon": {
+					"image": "ab8b2f2f4ee6a4290c118a617d8a71fc"
+				},
+				"lightLittleIcon": {
+					"image": "98a3080694fd527a1f8d2b341c7eb005"
+				},
+				"key": "Purple",
+				"x": 80,
+				"y": 200
+			},
+			{
+				"littleIcon": {
+					"image": "9912a8f2b6514b388549eb0c901ff5c1"
+				},
+				"lightLittleIcon": {
+					"image": "c4f431193d714bc88a3116c1c4f56263"
+				},
+				"key": "Orange",
+				"x": 140,
+				"y": 200
+			}
+		],
+		"patterns": [
+			{
+				"littleIcon": {
+					"image": "3d820d89d6ca04ad7a8692815c3de248"
+				},
+				"lightLittleIcon": {
+					"image": "34e93dc0652a5a360271756de9c678e6"
+				},
+				"key": "Hearts",
+				"x": 20,
+				"y": 300
+			},
+			{
+				"littleIcon": {
+					"image": "1cdea267b6c366d626dcfbe16c89482a"
+				},
+				"lightLittleIcon": {
+					"image": "268383d30ec2bd8affc47d34a81654cf"
+				},
+				"key": "Plaid",
+				"x": 80,
+				"y": 300
+			},
+			{
+				"littleIcon": {
+					"image": "3cdba59f58821e6d282ff4a8a5149f45"
+				},
+				"lightLittleIcon": {
+					"image": "38abbb94bb029d5477b8a6e3fcd8c4b1"
+				},
+				"key": "Stars",
+				"x": 140,
+				"y": 300
+			}
+		],
+		"pics": [
+			{
+				"webPicPosition": {
+					"x": 50,
+					"y": 450
+				},
+				"icon": {
+					"image": "fb89ee2b84d9121323f3be6ab8a4cc6e.jpg",
+					"x": 50,
+					"y": 410
+				}
+			},
+			{
+				"webPicPosition": {
+					"x": 50,
+					"y": 450
+				},
+				"icon": {
+					"image": "388dbd476135850a3236617b3e078b10.jpg",
+					"x": 120,
+					"y": 410
+				}
+			}
+		],
+		"applyButton": {
+			"x": 100,
+			"y": 450
+		}
+	},
+	"url": [
+		166,
+		32,
+		"http://imaginelearning.com",
+		{
+			"fill": "#868686",
+			"fontSize": 12
+		}
+	],
+	"localDate": [
+		637,
+		284,
+		""
+	]
+}

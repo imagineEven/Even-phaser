@@ -1,0 +1,28 @@
+{
+    "firstAudio": {
+      "sound": "",
+      "soundAlias": ""
+    },
+    "detail": "",
+    "isRandom": true,
+    "pages": [
+      {
+        "msg": 0,
+        "text": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%26nbsp%3B%20%26nbsp%3B%20Ohj%uFF01%3C/p%3E%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E%26nbsp%3B%20%26nbsp%3B%20Mark%20lived%20in%20a%20village%26nbsp%3Bfar%20away.%20One%26nbsp%3Bday%26nbsp%3Bhe%20became%20very%20ill%20and%20everyone%20thought%20he%20_%20would%20soon.%20They%20%3Cspan%20style%3D%22text-decoration%3A%20underline%3B%22%3Esent%3C/span%3E%20for%20a%20doctor.%20Two%20days%20_%20the%20doctor%20came%20and%20looked%20over%20the%20sick%20man%20_%20asked%20for%20a%20pen%20%3Cspan%20style%3D%22text-decoration%3A%20underline%3B%22%3Eand%20some%20paper%20to%20write%3C/span%3E%20down%20the%20name%20of%20the%20medicine.%20But%20there%20%3Cspan%20style%3D%22text-decoration-line%3A%20underline%3B%22%3Ewas%3C/span%3E%20no%20_%20pen%26nbsp%3Bpaper%26nbsp%3Bin%20the%26nbsp%3Bvillage%26nbsp%3Bbecause%26nbsp%3Bno%20one%20could%20write.%3C/p%3E",
+        "options": [
+          {
+            "text": "1aaa"
+          },
+          {
+            "text": "2bbb"
+          },
+          {
+            "text": "3cccc"
+          },
+          {
+            "text": "ang"
+          }
+        ]
+      }
+    ]
+  }

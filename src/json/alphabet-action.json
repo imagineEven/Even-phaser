@@ -1,0 +1,105 @@
+{
+	"alphabet": {
+		"letter": "a",
+		"sound1": {
+			"sound": "721fc6e2558a186cc5bb75425d512921"
+		},
+		"sound2": {
+			"sound": "31cbbd238f790b4227e7db206cc0fe20"
+		},
+		"pronunce": {
+			"sound": "18c715312f885c610fd09254801c44a2"
+		},
+		"uppercase1": {
+			"image": "cf46c265b39ce49c5c1e4bbf5b71891e.png"
+		},
+		"uppercase2": {
+			"image": "e32a4158a68a26afc3629825f197dc77.png"
+		},
+		"lowercase1": {
+			"image": "4b11cbfe588d9fe0012db4c697f579aa.png"
+		},
+		"lowercase2": {
+			"image": "507ce17aba8d321acee2f57b6ead1c0d.png"
+		}
+	},
+	"logo": {
+		"image": "e74e0c3c95a536c98641144dbcdd12bd",
+		"sound": "8586430ba6ae112e2494acf9d74d5f64",
+		"words": [
+			"a",
+			"pple"
+		],
+		"clickIndex": 0,
+		"isLowerCase": true
+	},
+	"words": [
+		{
+			"image": "9b7c433e6cfb94fc7342bd20687985f5",
+			"sound": "0bd91969e9b0da83a4dcc4a872369bb2",
+			"words": [
+				"A",
+				"f",
+				"r",
+				"i",
+				"c",
+				"a"
+			],
+			"clickIndex": 0,
+			"isLowerCase": false
+		},
+		{
+			"image": "acffd0464728a6e22733e5b79cd3bb61",
+			"sound": "d6b4394357e911b82d5a1fcba9268ef2",
+			"words": [
+				"a",
+				"n",
+				"t"
+			],
+			"clickIndex": 0,
+			"isLowerCase": true
+		},
+		{
+			"image": "9b7c433e6cfb94fc7342bd20687985f5",
+			"sound": "0bd91969e9b0da83a4dcc4a872369bb2",
+			"words": [
+				"A",
+				"f",
+				"r",
+				"i",
+				"c",
+				"a"
+			],
+			"clickIndex": 0,
+			"isLowerCase": false
+		},
+		{
+			"image": "9b7c433e6cfb94fc7342bd20687985f5",
+			"sound": "0bd91969e9b0da83a4dcc4a872369bb2",
+			"words": [
+				"A",
+				"f",
+				"r",
+				"i",
+				"c",
+				"a"
+			],
+			"clickIndex": 0,
+			"isLowerCase": false
+		}
+	],
+	"writing": [
+		{
+			"word": "_frica",
+			"isLowerCase": true,
+			"image": "9b7c433e6cfb94fc7342bd20687985f5",
+			"sound": "0bd91969e9b0da83a4dcc4a872369bb2"
+		},
+		{
+			"word": "_ddress",
+			"isLowerCase": false,
+			"image": "10fea7968228fcc4f7304ee2871fd998",
+			"sound": "bca0bce443c27678b0a1f30859d0dc25"
+		}
+	]
+}

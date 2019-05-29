@@ -1,0 +1,45 @@
+{
+  "firstAudio": {
+    "sound": "",
+    "soundAlias": ""
+  },
+  "detail": "",
+  "isRandom": false,
+  "pages": [{
+      "msg": 1,
+      "longText": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3EA%3C/p%3E",
+      "time": 30,
+      "sound": "10caaa78c7b8b03bf0d4d8e0b5f56e23",
+      "soundAlias": "apple_Aa_LAS.mp3",
+      "image": "d91c541578251d9a9ea061765e21e898",
+      "imageAlias": "Capital_A_LTR-SHP.png"
+    },
+    {
+      "msg": 1,
+      "longText": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Eairplane%3C/p%3E",
+      "time": 30,
+      "sound": "5cb4916ada496006405ee562735d16bd",
+      "soundAlias": "airplane_B2U3.mp3",
+      "image": "d109188b78e20d65f1ce8629dfb3fbb6",
+      "imageAlias": "airplane_B2U3_LTW.png"
+    },
+    {
+      "msg": 0,
+      "longText": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Eapart%3C/p%3E",
+      "time": 15,
+      "sound": "91d4accdb57552c16dd085b052fa2d78",
+      "soundAlias": "apart_LTW_AEW.mp3",
+      "image": "5b2700120da60114f6f72542cef528be",
+      "imageAlias": "My_fingers_are_apart_AEW.png"
+    },
+    {
+      "msg": 0,
+      "longText": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3Eapple%3C/p%3E",
+      "time": 15,
+      "sound": "3769fcd9ec153d31988c3a25555552c8",
+      "soundAlias": "apple_B2U1.mp3",
+      "image": "a4d4ec0fb3c03003ba360a5a4c7b57df",
+      "imageAlias": "apple_B2U1_LTW.png"
+    }
+  ]
+}

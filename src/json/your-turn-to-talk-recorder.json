@@ -1,0 +1,20 @@
+{
+	"arr": [
+		{
+			"sound": "b329fb44b4c48f1868ab3a848b397ce2",
+			"image": "70d244d75da31e7b06845f989da52996",
+			"scale": 0.6 ,
+			"text" : "your turn to talk"
+			}, {
+			"sound": "ec4dc1a2e595f118d3e622e371d19372",
+			"image": "16ba6df1a2dee68f269b8fc059e46f34",
+			"scale": 0.6 ,
+			"text" : "come here"
+		}, {
+			"sound": "ec4dc1a2e595f118d3e622e371d19372",
+			"image": "16ba6df1a2dee68f269b8fc059e46f34",
+			"scale": 0.6 ,
+			"text" : "come here"
+		}
+	]
+}

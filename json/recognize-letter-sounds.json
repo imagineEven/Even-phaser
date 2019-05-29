@@ -1,0 +1,171 @@
+{
+	"imgObj": {
+		"bg": "db9674d2c0fa5bf6273a69aea85bdcd4.jpg",
+		"btn01": "2812b340172baee6f21764cd766dcbde.png",
+		"btn02": "f08ec889ac5f2efd3feb646ba0e8a6bd.png",
+		"btn11": "eb9a067865aff449d67c99b4c8b00d06.png",
+		"btn12": "7c8e14648758bf1f4b47b23e47774368.png",
+		"btn21": "3383ffd9dc6e394a105383d964667b2e.png",
+		"btn22": "f01d314cdb9e5cc56e2c3a071f17a7bf.png",
+		"btn31": "62826b080aac4591667845b66288ad38.png",
+		"btn32": "b313b186f83b24a1f5bb2f0093ec1732.png",
+		"btn41": "846c740f2a855b0e48782585c6e20323.png",
+		"btn42": "a0d446595e15a12828df46afc438b24b.png",
+		"btn51": "603bef18be668c858d799b0bb1856236.png",
+		"btn52": "e9a2728510ecf3df7e0331a2a065f551.png",
+		"lbClick1": "fa7b8d42e675b34f3ea5cf6c435d39cb.png",
+		"lbClick2": "177e73e2312b2c0dec850242bdb6c3f8.png",
+		"lbClick3": "3c9d644243169d07a7bb0629994f693b.png",
+		"bg2": "e9f0d0972532adcaaf51b208628a10a8.jpg",
+		"btnsBg": "47c74cee859d5e7897244cc76b5757d8.png",
+		"letterBg": "7a348a2de983e3f44f7f7e1003dc78d4",
+		"faceImg": "78dc46d0f1e4cab8fee18a448117206f.jpg",
+		"border0": "9450633f031a822e90fdb5cb419f9dd8",
+		"border1": "9310d2a706b10b686efb8fc6fa7b707d",
+		"border2": "b0201eb87d884ad0e2fa852ec56207c8",
+		"eightBtn": "14082ab10a57349766cf715128eec996",
+		"soundBtn00": "c66080fb1396a4e7652eaafd8bdb18fe",
+		"soundBtn01": "d30a5d4d80d1a5cf0a86c1b304e15fe4",
+		"soundBtn10": "05be7fc7112ae3431aabd0c9d80cf4d3",
+		"soundBtn11": "b8d43bce965ad73bd6ba20e09c692d3b",
+		"soundBtn20": "d25d5f97878702653958bd0b52f024a5",
+		"soundBtn21": "d6bd65f037c1e3a1ef62168b1f875014",
+		"soundBtn30": "0cf5ff45514837505a3e307431a5c7a8",
+		"soundBtn31": "9bfede8b23afa6df5b0d4228c7090d48"
+	},
+	"soundObj": {
+		"wrong": "d236261ba8ee91ca0b3aa36bce5e4b11",
+		"youPlayCrazyGame": "00c8aecdd247678319840a05fdcec6c3",
+		"bgMusic": "f9efd4c45bc392737cf1d06d0ee28785",
+		"wrongSound": "e16ffb24dfe31f9ba6f34170e7c5a6db",
+		"youCanClick": "eb47016a6b8f28b58c9e0bc8ce36a356",
+		"clickTheBtnToRead": "6b7395e5b362958474dc2bda488026bd",
+		"areYouReady": "4c336aad636b2d1f124ae783e44c2f9a",
+		"pickTheFaceYouWant": "31f302a5d17d9eb2f69c5abbe4cbeabd",
+		"thisGameMakesYouLaugh": "69627ecfabcba25907ac1ff0249d590d",
+		"itsTimeToFindOut": "edc094c479ee6676d2ea1b2f1614b3f1",
+		"moveTheCorrectLetterToTheSound": "07bfa1c797664d4a68fd3c4d6e8d4731",
+		"thatsRight": "1ae55f1f696df5fb1ea9d43c1bd2d80d",
+		"thisLetterMixTheSound": "6d53f7357c996d26edac8d465e0e4d66",
+		"theseLettersMakeTheSound": "7076c26636580d0e6537a536a3006132",
+		"letsTryAnotherOne": "e8e2d7179e088e39c8fc6877becc1d06",
+		"youGotIt": "3a10515f39046484d01e7917129c814f",
+		"oKLetsGetStarted": "3bb1d6cb253804a24bf7f203611b7070",
+		"youAreReallyGreatInLetterSound": "8daee6e83bdfb78a35e9b46addf8a934",
+		"wrong0": "3e3adeb9d713ba6c948d7ddd1092f81c",
+		"great0": "1a61e9e1bb4de0dcc07d179c2413a58f",
+		"great1": "1ae55f1f696df5fb1ea9d43c1bd2d80d",
+		"great2": "6f8f6d32ff3b1b9900c7d4b07c158c78",
+		"great3": "70922a502199c8067d92aec6ead15cb7",
+		"chooseThisOne": "afee3b100d2034395b97fde6b7dc1353",
+		"itTimeToMixCoolSounds": "a27633d56a026b73bc7ee32d126facca",
+		"letsGetStarted": "a9acf207906f0f7b3c0637c5acf728bc",
+		"iWillTellYouALetterAndYouFind": "8ffcd18d98acda2375ee8a7beb93ac6f",
+		"playAgain": "fdd3b960d7e7b7e73bc9bd79ac6185c9",
+		"clickLetsGoToMoveOn": "91bf54cdab0d3b6a1447b802e16ccba6",
+		"soundsLikeToHaveFun": "648c5f72f89416f240ee14955268a38b",
+		"whatCoolSoundYouWantToMake": "665e0a84e71d64db3981d12883354217",
+		"iCanWait": "f0b70e9fb71bebf709f2ec1f8232d7e1",
+		"theMoreYouRightTheMore": "677c16354ef4ba7ba995ae9cb524dcd6",
+		"theMoreTheMore": "1fe8154a1efc07aa439556932656486d",
+		"soHereWeGo": "2f4150433d670cf9229819446d94aa0f",
+		"letsSeeWhatComesUpToday": "3881de7cde2c26d981078be74d9f0eb8",
+		"thisIsTheRightSoundForThisLetter": "18f3da3166990ae4d97499fa65d9abcd"
+	},
+	"imgArr": [
+		"ff00ae200a2ede559855b41acafb6de2",
+		"a7271f4b4a292bf343d8455ad0b96643",
+		"9c2f90cc5851b269348692223fba97ff",
+		"1c5809574ffdae6e8eb3413eefd28e19",
+		"ba45c7719dde5400472e15be9c34c228",
+		"74561207f367931a7d3e238cc19e2ad2"
+	],
+	"beginSoundArr": [[
+			"youPlayCrazyGame",
+			"theMoreTheMore",
+			"soHereWeGo",
+			"thisGameMakesYouLaugh",
+			"itsTimeToFindOut"
+		],
+		[
+			"youPlayCrazyGame",
+			"theMoreTheMore",
+			"soHereWeGo",
+			"thisGameMakesYouLaugh",
+			"areYouReady"
+		],
+		[
+			"youPlayCrazyGame",
+			"theMoreTheMore",
+			"soHereWeGo",
+			"thisGameMakesYouLaugh",
+			"oKLetsGetStarted"
+		],
+		[
+			"youPlayCrazyGame",
+			"theMoreTheMore",
+			"soHereWeGo",
+			"letsSeeWhatComesUpToday",
+			"areYouReady"
+		],
+		[
+			"youPlayCrazyGame",
+			"theMoreTheMore",
+			"soHereWeGo",
+			"letsSeeWhatComesUpToday",
+			"oKLetsGetStarted"
+		],
+		[
+			"youPlayCrazyGame",
+			"theMoreTheMore",
+			"soHereWeGo",
+			"letsSeeWhatComesUpToday",
+			"itsTimeToFindOut"
+		]
+	],
+	"marginArr": [
+		{
+			"x": -1,
+			"y": -7
+		}, {
+			"x": -1,
+			"y": -7
+		}, {
+			"x": -1,
+			"y": -7
+		}, {
+			"x": -1,
+			"y": -7
+		}, {
+			"x": -1,
+			"y": -7
+		}, {
+			"x": -1,
+			"y": -7
+		}
+	],
+	"brow": [
+		{
+			"img": "cc359d90db418c0a3c9c8fabc3007b66",
+			"x": 390,
+			"y": 170
+		}, {
+			"img": "5ed6b62a423d9599d733bf1ebb6152eb",
+			"x": 340,
+			"y": 90
+		}, {
+			"img": "52073c5f90bb63de181b7bd5bd60c927",
+			"x": 375,
+			"y": 168
+		}, {
+			"img": "fd974e3c4cbd37633c3303b8ad3d61ff",
+			"x": 332,
+			"y": 123
+		}, {
+			"img": "928760aa8a608ae0ffec701c26a35ca0",
+			"x": 7,
+			"y": 3
+		},
+		null
+	]
+}

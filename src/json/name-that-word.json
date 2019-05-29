@@ -1,0 +1,90 @@
+{
+    "pages": [
+        {
+            "soundSentence": {
+                "sound": "0fd7b368a06c77eb7b14e9e88210fd37"
+            },
+            "allFalse": {
+                "sound": "4d1b6c71abf7ab1e648de790d347f017"
+            },
+            "choices": [
+                {
+                    "text": "street",
+                    "sound": "f0df9cdeca5ff9e146c786a0f66bbc47",
+                    "fontSize": 0.045
+                },
+                {
+                    "text": "pack",
+                    "sound": "46fc5b2e5e1a15fbc1dcc7ba099a0916",
+                    "fontSize": 0.045
+                },
+                {
+                    "text": "corner",
+                    "sound": "df7cd2db189c48d4addf845d4da4462d",
+                    "fontSize": 0.045
+                },
+                {
+                    "text": "farm",
+                    "sound": "2d308da1a8b7a381dfe2e6fe40f90d7b",
+                    "fontSize": 0.045
+                }
+            ],
+            "clues": [
+                {
+                    "type": "sound",
+                    "sounds": [
+                        "e552c4feb27364133d16704cf1c23854"
+                    ]
+                },
+                {
+                    "type": "video",
+                    "video": "e8079018ca5ddd602ad036f490874eae",
+                    "sound": "e8079018ca5ddd602ad036f490874eae"
+                }
+            ]
+        },
+        {
+            "soundSentence": {
+                "sound": "5525413519defa6dd59b0ed7841d7e8a"
+            },
+            "allFalse": {
+                "sound": "d63d7c1d31513aebdb5eb69fb2e94de9"
+            },
+            "choices": [
+                {
+                    "text": "bridge",
+                    "sound": "e62a574a35252a399e73cf5eeb78821d",
+                    "fontSize": 0.045
+                },
+                {
+                    "text": "trash can",
+                    "sound": "2206b30420fd11e94e38a3050660552c",
+                    "fontSize": 0.045
+                },
+                {
+                    "text": "city",
+                    "sound": "d77de7e9f64ff6a5d410e2ecd0d202d2",
+                    "fontSize": 0.045
+                },
+                {
+                    "text": "farm",
+                    "sound": "2d308da1a8b7a381dfe2e6fe40f90d7b",
+                    "fontSize": 0.045
+                }
+            ],
+            "clues": [
+                {
+                    "type": "sound",
+                    "sounds": [
+                        "95051134d222d3e95d1663ffdc31b318"
+                    ]
+                },
+                {
+                    "type": "video",
+                    "video": "760f55f9815bd2f96ed7e6d867b8efec",
+                    "sound": "760f55f9815bd2f96ed7e6d867b8efec"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "sentenceArray": "    Tom heard\na sudden\nnoise.",
+  "timeList": [500, 500, 500, 500, 500],
+  "people": { "image": "73b0ce8c809c7710d69d2f016cfc1612" },
+  "word": ["s","u","d","d","e","n"],
+  "colorWord": [1,4],
+  "bettewWord":[2,3],
+  "split": 2,
+  "distance":400
+}

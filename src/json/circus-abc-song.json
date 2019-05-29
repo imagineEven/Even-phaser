@@ -1,0 +1,188 @@
+{
+  "background": "33ae7344f73eb5e89993e7d7adaacc29.jpg",
+  "video": "d2da0332eddc26a4d85f0f29cfe646a9",
+  "word": [
+    {
+      "sound": "cf26f484e6108c462a2436ec21be78b1",
+      "img": "96288b02f7d612e3c6909b95af2bd6a8",
+      "greyImg":"d4462d24de1b5d1f99ebf7b044568cac",
+      "x": "0.1",
+      "y": "0.25"
+    },
+    {
+      "sound": "be15402ffeb1d8cf642a90098380acc9",
+      "img": "93da10b5b9a2fbd5f862e4fbfe23310b",
+      "greyImg":"d3d34ea71a40d87bbd25a77deab1174d",
+      "x": "0.2",
+      "y": "0.25"
+    },
+    {
+      "sound": "910a2264a2d46b33a8966019fb6ab018",
+      "img": "9ac554f7ff25e09c1464cee76deb1a4d",
+      "greyImg":"6a33fc9147efd8bd6939361de829b56d",
+      "x": "0.3",
+      "y": "0.25"
+    },
+    {
+      "sound": "590aef617a5829e08f2fa4ad3ff24f56",
+      "img": "69c65cc40d117a3701a7f2df8023bd01",
+      "greyImg":"3d6055bb36416a22f92f7fed4dac29ec",
+      "x": "0.4",
+      "y": "0.25"
+    },
+    {
+      "sound": "04c94db3ff13812d233b5b3c757de61e",
+      "img": "43fc4f34679f19a2baac2fccb3586727",
+      "greyImg":"f0f6bd052e87489bb4628a62a650cac4",
+      "x": "0.5",
+      "y": "0.25"
+    },
+    {
+      "sound": "49e3ae4db73e91b687803b502ed3b251",
+      "img": "8a3ba4cbfed48c1a29352e5329e2aac2",
+      "greyImg":"254a068dc427e368e9402f84ebc91817",
+      "x": "0.6",
+      "y": "0.25"
+    },
+    {
+      "sound": "df35d55c42967ac11a3fc45637affa97",
+      "img": "78172b3b80ef31227122a155eb6ab997",
+      "greyImg":"fabdbf853c8a745437ad7fc1ce39371a",
+      "x": "0.7",
+      "y": "0.25"
+    },
+    {
+      "sound": "ab66ada004191c1921ee0ca2ca064bb3",
+      "img": "d7f4c43eec8a9429ca13cb57eb279055",
+      "greyImg":"d5ea64d754fd9196623d5e0d84aa5e27",
+      "x": "0.8",
+      "y": "0.25"
+    },
+    {
+      "sound": "e10efaacd51c4d0cf5941d2d8ece54b1",
+      "img": "bf7ec913634a3d0295946cb0c527714b",
+      "greyImg":"d41cf5f1274b234856d222b1b2715276",
+      "x": "0.9",
+      "y": "0.25"
+    },
+    {
+      "sound": "4552933f9d01f58af223be9f02182699",
+      "img": "11826f4ffaddf9befff768b1cf12b53e",
+      "greyImg":"1c87f2a3513d6865a138f288c8fc6934",
+      "x": "0.15",
+      "y": "0.5"
+    },
+    {
+      "sound": "00d2c59a6a45bd85f3a7635132f39fbc",
+      "img": "e0c62b8c0ffe273842a85da9225be827",
+      "greyImg":"1de14bc8250668ee1f464a1011344b8c",
+      "x": "0.25",
+      "y": "0.5"
+    },
+    {
+      "sound": "2fb32a2c9db187ce75842b8124fca5fc",
+      "img": "0e0d7d930fd42b6f7159b7bba90427ba",
+      "greyImg":"2d19aeea209a87d69e5477ac18121005",
+      "x": "0.35",
+      "y": "0.5"
+    },
+    {
+      "sound": "056c69988b07f71729f916a1aed02a6f",
+      "img": "81c6b9296f87164a0e6e8cb816571772",
+      "greyImg":"3c4fc3b12c0211d7da1f9c9a8f61c8d0",
+      "x": "0.45",
+      "y": "0.5"
+    },
+    {
+      "sound": "d8a5f6d10b5d5701557881e2f5b28080",
+      "img": "c29b8074128f1d0b29b6b3c7e60c8e9a",
+      "greyImg":"ba7a515d8ca5d3feed5e8cae92a10808",
+      "x": "0.55",
+      "y": "0.5"
+    },
+    {
+      "sound": "d6c4fe155561f58819b6f0d8863fab7d",
+      "img": "543019aca32f5468fc3a51d1411b1ebc",
+      "greyImg":"945fee29ba9125769f8cb1a89b68bdd3",
+      "x": "0.65",
+      "y": "0.5"
+    },
+    {
+      "sound": "206f15e2ffcf401cefbb319b5812fd98",
+      "img": "579b1f01ee0e78e1bf629f49ed054200",
+      "greyImg":"902a881cf9c08ec72ebc79914b56b2d7",
+      "x": "0.75",
+      "y": "0.5"
+    },
+    {
+      "sound": "df77a18319977b491a477d2915af2aa2",
+      "img": "520930c2d1ba946f6f6b018352dfd9a1",
+      "greyImg":"8dac1a6021f78264aaa1d101596c7780",
+      "x": "0.85",
+      "y": "0.5"
+    },
+    {
+      "sound": "fcb8d21ad52bf09cddae0091df52c662",
+      "img": "17240eb3dff794fd628492413106878b",
+      "greyImg":"7869029a41a5a38aa63236a7c5396963",
+      "x": "0.1",
+      "y": "0.75"
+    },
+    {
+      "sound": "4997ed9a8b415ac29bd6054271c1dfe5",
+      "img": "69a5d5c00765143ea270e15254b38f0a",
+      "greyImg":"b9d0ff1c277a847c5a7959336177a734",
+      "x": "0.2",
+      "y": "0.75"
+    },
+    {
+      "sound": "8b3521d2e523f0efab0a3fd4205fa4a0",
+      "img": "fc80b3e3168d09aa3797df1737e6e32e",
+      "greyImg":"7ab9f057e8c5dbc184ff551e63a1047a",
+      "x": "0.3",
+      "y": "0.75"
+    },
+    {
+      "sound": "e23a1635668a45ee2bd176a882ab9565",
+      "img": "64c99e3fee4f6e813b6fc0468e0441ea",
+      "greyImg":"e3783bbf0e7f85d30b39b505f3544412",
+      "x": "0.4",
+      "y": "0.75"
+    },
+    {
+      "sound": "e50f0b3a3605f632eb180daa062ffe3e",
+      "img": "2a2bc843ac37e4499b874940019323fe",
+      "greyImg":"fcda8793effbe5d6d59b7f550e081dcb",
+      "x": "0.5",
+      "y": "0.75"
+    },
+    {
+      "sound": "722fca95a358c1b560d378e1bbc48332",
+      "img": "6f1a561cf0d0b65623b9fcd4f5a7ced2",
+      "greyImg":"5aefec5689e7fe75ff77bcf952a2cdb1",
+      "x": "0.6",
+      "y": "0.75"
+    },
+    {
+      "sound": "f1bab4205880b532a23a9a1e5c37908f",
+      "img": "c78b1731a5dc13bb5428f6c00e35be3b",
+      "greyImg":"0a1125fa63272045e731998f7a9eaccc",
+      "x": "0.7",
+      "y": "0.75"
+    },
+    {
+      "sound": "1e49b3748d21f0308b5a049efdd4a82d",
+      "img": "3c6ec94c997c28113aa6eaae99f24ef7",
+      "greyImg":"fca84b8bda66b7904e3b27011a2be8f3",
+      "x": "0.8",
+      "y": "0.75"
+    },
+    {
+      "sound": "0a8492c099424150bb057dd7c279cc76",
+      "img": "50ae774aa56856e8d9b7e69c3009ad97",
+      "greyImg":"2c528776c5b42093afe8063baeb6bf5e",
+      "x": "0.9",
+      "y": "0.75"
+    }
+  ]
+}

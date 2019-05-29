@@ -1,0 +1,66 @@
+{
+    "isNeedTip":false,
+    "isClickRead":false,
+    "isChooseWord":true,
+    "chooseBgSound":{"sound":"b478f5bdbe21837159d41a53d703833f"},
+    "bg":{"image":"8915108af2e014e04a0477949d922dbc"},
+    "peopleSil1":{
+        "image": "e9335271124c0a87ab011522094c10b8",
+        "json": "e9335271124c0a87ab011522094c10b8"
+    },
+    "peopleSil2": {
+        "image": "50a6e4eebd8929d0ee14bf6146822441",
+        "json": "50a6e4eebd8929d0ee14bf6146822441"
+    },
+    "player": {
+        "x": 240,
+        "y": 130
+    },
+    "centerImage":{ "image":"69fc6d842b5cc80ad422a1127048bcad","x": 242, "y": 140},
+    "centerImageDown":{ "image":"24916e837374334a21c6869a398b7d66","x": 242, "y": 140},
+    "pages": [
+        {
+            "fy": "u",
+            "longOrShort":"long",
+            "chooseItems": [
+                {
+                    "text": "clue",
+                    "sound": "4f1760d9cd32a75e0dfc326a172d47de"
+                },
+                {
+                    "text": "cups",
+                    "sound": "20781a03b1fb653edd79e487f5bbc233"
+                },
+                {
+                    "text": "club",
+                    "sound": "6167091df910452d29b7cdbaa78b722c"
+                },
+                {
+                    "text": "lump",
+                    "sound": "0f58a719553fc9eafde18e3b33337fe2"
+                }
+            ]
+        }, {
+            "fy": "o",
+            "longOrShort":"short",
+            "chooseItems": [
+                {
+                    "text": "pond",
+                    "sound": "50ab29d0cd96697249287967a516fbf8"
+                },
+                {
+                    "text": "show",
+                    "sound": "6d7a7d6a9e304bf549f03c2310761186"
+                },
+                {
+                    "text": "crow",
+                    "sound": "324a41eb3d73cfb2493a1330b15ef96f"
+                },
+                {
+                    "text": "bone",
+                    "sound": "38090d818ca9775d4675d68ae5960af4"
+                }
+            ]
+        }
+    ]
+}

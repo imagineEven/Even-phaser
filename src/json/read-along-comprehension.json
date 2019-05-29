@@ -1,0 +1,107 @@
+ {
+    "picbg": "da80167d0a46628941ac9043b460918b.jpg",
+    "detail": "",
+    "beginSound": "",
+    "beginSoundAlias": "",
+    "pages": [
+      {
+        "selected": "1",
+        "msg": 0,
+        "questionText": 24,
+        "answerText": 24,
+        "picq": "9110a38868b697a0fd75ec59fccff145",
+        "picqAlias": "Robots_clean_floors_RAC.png",
+        "strdict": "",
+        "wavdict": "",
+        "wavdictAlias": "",
+        "strq": "Robots clean _.",
+        "wavcomp": "efa5c3bd8400f59294743172d33ab31e",
+        "wavcompAlias": "Robots_clean_floors_RAC.mp3",
+        "wavq": "e3f186a4ef0d0c975b6cd22067cf71d4",
+        "wavqAlias": "Robots_clean-q_RAC.mp3",
+        "sels": [
+          [
+            "floors",
+            "ab2cf6e0d2c10d8b3f893c18d7ce8e3e",
+            "floors_RAC.mp3"
+          ],
+          [
+            "people",
+            "5fa1b052ebabe99abed806c4e5f12885",
+            "people_RAC.mp3"
+          ],
+          [
+            "boxes",
+            "08d3dd1e35e510d83cf25793f9e6f250",
+            "boxes_RAC.mp3"
+          ]
+        ]
+      },
+      {
+        "selected": "1",
+        "msg": 0,
+        "questionText": 24,
+        "answerText": 24,
+        "picq": "e5c37f939d3a997c8e7778e6db7386e2",
+        "picqAlias": "Robots_are_used_on_other_planets_to_explore_RAC.png",
+        "strdict": "",
+        "wavdict": "",
+        "wavdictAlias": "",
+        "strq": "Robots are used on other planets to _.",
+        "wavcomp": "62bf6eae02b1b1480c4033959f700e4a",
+        "wavcompAlias": "Robots_are_used_on_other_planets_to_explore_RAC.mp3",
+        "wavq": "b308b9a10c94a419a3c60085a1732538",
+        "wavqAlias": "Robots_are_used_on_other_planets_to-q_RAC.mp3",
+        "sels": [
+          [
+            "explore",
+            "f2d9585df57ef6ceb42ce5b5d74caf38",
+            "explore_RAC.mp3"
+          ],
+          [
+            "make cars",
+            "4c5d93adde39bf1f57f91f53fa92a7ce",
+            "make_cars_RAC.mp3"
+          ],
+          [
+            "swim",
+            "f69426f4e7d28c4d2a0ea583eb3c00d4",
+            "swim_RAC.mp3"
+          ]
+        ]
+      },
+      {
+        "selected": "1",
+        "msg": 0,
+        "questionText": 24,
+        "answerText": 24,
+        "picq": "85c3e4a2f62444cdfa04bb3a08de2f76",
+        "picqAlias": "Robots_make_cars_RAC.png",
+        "strdict": "",
+        "wavdict": "",
+        "wavdictAlias": "",
+        "strq": "Robots make _.",
+        "wavcomp": "838858bf32056cc4acb7bd9bc0173943",
+        "wavcompAlias": "Robots_make_cars_RAC.mp3",
+        "wavq": "6d34961d896305dd571e34f7fcbe1a7c",
+        "wavqAlias": "Robots_make-q_RAC.mp3",
+        "sels": [
+          [
+            "cars",
+            "0d287357459de25aec29c938beb124b8",
+            "cars_RAC.mp3"
+          ],
+          [
+            "floors",
+            "ab2cf6e0d2c10d8b3f893c18d7ce8e3e",
+            "floors_RAC.mp3"
+          ],
+          [
+            "houses",
+            "5d812271ec8d7d06b97285e103424692",
+            "houses_RAC.mp3"
+          ]
+        ]
+      }
+    ]
+  }

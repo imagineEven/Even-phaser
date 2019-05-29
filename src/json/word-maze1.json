@@ -1,0 +1,48 @@
+{
+  "pages": [{
+      "words": ["buamp", "beast", "juamp2"],
+      "sound": "fe7584b660a0bc453afd95e26fb5dd72"
+    },
+    {
+      "image": "213040ac6882bb21a7cf3ba3aae65594",
+      "sentence": "The bed will _ into the wall.",
+      "answerSound": { "sound": "56292653b6c31fa4eb83e7e6c222977e" },
+      "words": ["bump", "best", "jump"],
+      "times": [300, 300, 400, 450, 400, 300, 400],
+      "sound": "fe7584b660a0bc453afd95e26fb5dd72",
+      "needUpcase": 1
+    },
+    {
+      "image": "41f0c7ae057e1c2f02249ac05d582f19",
+      "sentence": "I go _ in the mud.",
+      "answerSound": { "sound": "4a6bed7624d622cdbc66ca51a9fdbe48" },
+      "times": [200, 300, 450, 300, 500],
+      "words": ["clump", "clasp", "stump"],
+      "sound": "60b8a9b2ca2c10aa00d2309114e707d2"
+    },
+    {
+      "image": "48015f0d9230b2ea0e8aa2578d2cef07",
+      "sentence": "Don't _ on the bed",
+      "answerSound": { "sound": "195318ca4a8860cbcb8a51b140c7963b" },
+      "times": [450, 450, 250, 300, 400],
+      "words": ["jump", "just", "pump"],
+      "sound": "6caf3e74dd7036c2863c047525b6d58d"
+    },
+    {
+      "image": "c3d7c581407cebb0065674c6effbe58b",
+      "sentence": "Don't _ on the floor.",
+      "answerSound": { "sound": "7077ec60fa1cd3eb1f6b6f327a84a0c5" },
+      "times": [450, 500, 250, 300, 500],
+      "words": ["stomp", "start", "chomp"],
+      "sound": "7c592644b3c211e496d0969df65d613b"
+    },
+    {
+      "image": "c56461e47e59e249881756d556c9da44",
+      "sentence": "I _ on the floor with my foot.",
+      "answerSound": { "sound": "7874ac98b353c7e9a0a8defd6d83a761" },
+      "times": [200, 500, 300, 450, 400, 200, 500],
+      "words": ["thump", "chump", "think"],
+      "sound": "49211d0462f080167cee704450be69ee"
+    }
+  ]
+}

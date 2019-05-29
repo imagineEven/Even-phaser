@@ -1,0 +1,13 @@
+{
+  "evidence":[
+    {"text":"- There is a\nhandprint small\nenough to be\nMargo's, and it's\ncovered in cookie\nicing.",
+    "sound":"a57b55373c752cc631acb8f3068ebc7a"},
+    {"text":"- Mon said,\"I saw\nMargo eating\nthem.\"",
+    "sound":"05c6433df32270ddcfd6bcca57000e28"},
+    {"text":"- Margo's jacket is\nright by the cookie\nplate, and it has\ncookie icing in it.",
+    "sound":"a3992aa3a8bc7a8aba56abc2c5532e9e"}
+  ],
+  "margo":"Margo",
+  "howDoyou":"Evidence - How\ndo you know?"
+ 
+}

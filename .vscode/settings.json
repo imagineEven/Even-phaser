@@ -1,0 +1,42 @@
+{
+  "files.autoSave": "off",
+  
+  "editor.formatOnSave": false,
+ // 控制字体系列。
+  "editor.fontFamily": "Consolas, 'Courier New', monospace,'宋体'",
+  // 以像素为单位控制字号。
+  "editor.fontSize": 18,
+  // 控制选取范围是否有圆角
+  "editor.roundedSelection": false,
+  // 建议小组件的字号
+  "editor.suggestFontSize": 16,
+  // 在“打开的编辑器”窗格中显示的编辑器数量。将其设置为 0 可隐藏窗格。
+  "explorer.openEditors.visible": 0,
+  // 是否已启用自动刷新
+  "git.autorefresh": true,
+  // 是否启用了自动提取。
+  "git.autofetch": false,
+  // 以像素为单位控制终端的字号，这是 editor.fontSize 的默认值。
+  "terminal.integrated.fontSize": 14,
+  // 控制终端游标是否闪烁。
+  "terminal.integrated.cursorBlinking": true,
+  // 一个制表符等于的空格数。该设置在 `editor.detectIndentation` 启用时根据文件内容进行重写。
+  "editor.tabSize": 2,
+  // Tab Size
+  //"beautify.tabSize": 2,
+  //"editor.wordWrap": "wordWrapColumn",
+  "editor.formatOnType": false,
+  //"window.zoomLevel": -1,
+  "eslint.options": {"configFile":"F:/brain/LearningExerciseTest/StudyExerciseAssess/.vscode/esling.json"},
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "git.autoRepositoryDetection": false,
+  "workbench.colorTheme": "Monokai",
+  //"window.zoomLevel": 1,
+  "vetur.format.defaultFormatterOptions": {
+      "js-beautify-html": {}
+  },
+  "vetur.validation.template": false,
+  "team.showWelcomeMessage": false,
+  "window.zoomLevel": 0
+}

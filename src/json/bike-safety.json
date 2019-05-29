@@ -1,0 +1,70 @@
+{
+  "pages": {
+    "firstpage": {
+      "text": "How do you know you should pay\nattention to the words helmet and\npath?",
+      "sound": "2c91dcaa21fdb979fff131be80625294",
+      "italic": ["helmet", "path"]
+    },
+    "read": [{
+      "text": "      A bike is fun. Are you safe\nwhen you ride your bike? Here are\nsome *rules* to keep you safe:",
+      "sound": "e31f7dbddf51dbe3db13c9964fa0fded",
+      "position": {
+        "x": 60,
+        "y": 70
+      }
+    }, {
+      "text": [
+        "Wear a *helmet*.",
+        "Do not ride your bike in the\nstreet.",
+        "Before you cross the street, look\nfor cars. Look left and right.",
+        "Ride on the sidewalk or on a\nbike *path*.",
+        "Keep both hands on your bike.",
+        "Know how to use the *brakes*.",
+        "Do not ride your bike in the\ndark."
+      ],
+      "sound": "9a64304e17d36d09268cbc799c32d580",
+      "position": {
+        "x": 84,
+        "y": 135
+      }
+    }, {
+      "text": "      Be safe and have fun!",
+      "sound": "a5370e57d160933c698778a331ad5f5f",
+      "position": {
+        "x": 60,
+        "y": 395
+      }
+    }],
+    "boldWord": [{
+      "letter": "path",
+      "text": "path",
+      "sound": "a0ba026b49268d5497cab1021881940c",
+      "descript": "A trail or road to travel on.",
+      "descriptSound": { "sound": "5e604dc8053a5d2bd8bf35458026b2bd" }
+    }, {
+      "letter": "brakes",
+      "text": "brake",
+      "sound": "d2bc099f3b7da9f496f0ca70442408ad",
+      "descript": "The part of a car or bicycle that helps you to stop.",
+      "descriptSound": { "sound": "6c6cff9fc7f7b65620f511f213d12016" }
+    }, {
+      "letter": "helmet",
+      "text": "helmet",
+      "sound": "e07e2582431e4b795aaa6911a6a7ce99",
+      "descript": "A hard hat you wear to protect your head.",
+      "descriptSound": { "sound": "d0469b7cef5ee3d61f072255f9caf877" }
+    }, {
+      "letter": "rules",
+      "text": "rule",
+      "sound": "9409ab2f712266f1de6fe5ffdb5ee4b6",
+      "descript": "An idea that tells you what you should do.",
+      "descriptSound": { "sound": "d008fd1be1ddcde165a5326c8549b6cd" }
+    }],
+    "style": {
+      "fill": "black",
+      "font": "normal Century Gothic",
+      "fontSize": "16px",
+      "lineHeight": 23
+    }
+  }
+}

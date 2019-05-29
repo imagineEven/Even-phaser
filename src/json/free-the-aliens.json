@@ -1,0 +1,19 @@
+{
+  "letter": {
+    "letter": "A",
+    "sound": "00c27fb7eb38d80b22309f272e1ae93f"
+  },
+  "letters": [
+    "A",
+    "A",
+    "A",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "gameTime": 60000,
+  "frequency": 750,
+  "life": 3500,
+  "max": 5
+}

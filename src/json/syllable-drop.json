@@ -1,0 +1,99 @@
+{
+    "syllablesOption": [
+        1,
+        2,
+        3
+    ],
+    "info": [{
+            "image": "3cc0bd52356f40c0c419b1d17e76c199.jpg",
+            "sound": [
+                "0fbe43bd89161fc8ab399eac8960381e",
+                "f92405e1360e50356356669361e0c71e"
+            ],
+            "answer": 1,
+            "syllablesOption": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "image": "a167ec0df617c723f4a1282afdb85ab8.jpg",
+            "sound": [
+                "6a770f17ec8db5ebb902d04dff200955",
+                "2ef06bfa5f256dde95549a6dacdc93f2"
+            ],
+            "answer": 1,
+            "syllablesOption": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "image": "2ec053379071c2d59bf99a5c80b65cda.png",
+            "sound": [
+                "b5d4bab63069efefbf9a345ec28df367",
+                "b7f869aebe4d463dbd05db6ced2362f0"
+            ],
+            "answer": 2,
+            "syllablesOption": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "image": "f28c01f7ce2a609da773b079ff95c987.jpg",
+            "sound": [
+                "83405493668cd73d560eaa2b363921fa",
+                "4682223d329f430747ab1c52056ca100"
+            ],
+            "answer": 1,
+            "syllablesOption": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "image": "620788b8ac61e91525ba03f75944a79b.jpg",
+            "sound": [
+                "dd3e347dc0d7306194e4cbf143bd3274",
+                "474bc9dc96ac1a25259ac49107a2a343"
+            ],
+            "answer": 2,
+            "syllablesOption": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "image": "fc2133ade88b641b2d82e4cfade9c2b2.jpg",
+            "sound": [
+                "bbf466022277071c8c59d6f5df1f0aef",
+                "8addd8163063b5d8ccf0ee319f16464f"
+            ],
+            "answer": 1,
+            "syllablesOption": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "image": "58ad6711aab5ce011c2ab0b94b39dde3.jpg",
+            "sound": [
+                "be306730b418774cce002ed71394b725",
+                "d246a2bec8d0de35aed70e45e4bbc505"
+            ],
+            "answer": 2,
+            "syllablesOption": [
+                1,
+                2,
+                3
+            ]
+        }
+    ]
+}

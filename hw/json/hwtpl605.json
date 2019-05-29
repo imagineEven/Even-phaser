@@ -1,0 +1,40 @@
+{
+  "firstAudio": {
+    "sound": "380f05df4d9e2e70824b872e53f3cdd2"
+  },
+  "isRandom": false,
+  "pages": [
+    {
+      "sentence": "%3Cp%20style%3D%22font-size%3A24px%3Bfont-family%3ACentury%20Gothic%3B%22%3E_____%20a%20horse%20....%3C/p%3E",
+      "items": [
+        "<p style='font-Size:12px;'>farm</p>",
+        "table",
+        "city",
+        "restanurant"
+      ],
+      "pic": {
+        "image": "965adb5e6a02c3c6098016a9e3599065.jpg"
+      }
+    },
+    {
+      "sentence": "Click the word that is an area of land uesd to keep animals or grow food",
+      "items": [
+        "farm",
+        "table"
+      ],
+      "pic": {
+        "image": "a942d454b9fc1f27f99010627f8b5140.jpg"
+      }
+    },
+    {
+      "sentence": "Click the word that is an area of land uesd to keep animals or grow food",
+      "items": [
+        "farm",
+        "table"
+      ],
+      "pic": {
+        "image": "a942d454b9fc1f27f99010627f8b5140.jpg"
+      }
+    }
+  ]
+}

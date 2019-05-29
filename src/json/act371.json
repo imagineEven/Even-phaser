@@ -1,0 +1,35 @@
+{
+  "firstAudio": {
+    "sound": "",
+    "soundAlias": "DIR_Say_the_sentences.mp3"
+  },
+  "pages": [{
+      "msg": 0,
+      "image": "cc786f61e5db6581c3b2bfb76afa26fd.png",
+      "imageAlias": "family_of_three_May_CLIL_PHO_IF1_U1.png",
+      "sound": "3fec798b18cb4650f819f8381d2524d9",
+      "soundAlias": "This_is_Mays_family_CLIL_IF_MAA.mp3",
+      "qiPaos": [{
+        "type": "left",
+        "isRight": false,
+        "sound": "87def48c9e427e0744c94c9bb08ee23b",
+        "soundAlias": "There_are_three_people_in_my_family_CLIL_IF_FCA.mp3",
+        "text": "%3Cp%20style%3D%22font-size%3A%2026px%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2032px%3B%22%3EThere%20are%20three%20people%20in%20my%20family.%3C/span%3E%3C/p%3E"
+      }]
+    },
+    {
+      "msg": 0,
+      "image": "302d3e7d27dfeec68b79204212c52156.png",
+      "imageAlias": "family_of_five_Jason_CLIL_PHO_IF1_U1.png",
+      "sound": "cee8188039f987ee800c57eab6e9d02d",
+      "soundAlias": "This_is_Jasons_family_CLIL_IF_MAA.mp3",
+      "qiPaos": [{
+        "type": "left",
+        "isRight": false,
+        "sound": "8dc164b6fe32046d1b0351e53e3f689f",
+        "soundAlias": "There_are_five_people_in_my_family_CLIL_IF_MCA.mp3",
+        "text": "%3Cp%20style%3D%22font-size%3A%2026px%3B%22%3E%3Cspan%20style%3D%22font-size%3A%2032px%3B%22%3EThere%20are%20five%20people%20in%20my%20family.%3C/span%3E%3C/p%3E"
+      }]
+    }
+  ]
+}

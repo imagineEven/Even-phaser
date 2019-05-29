@@ -1,0 +1,74 @@
+{
+  "bg": {
+    "image": "20af8f80fad61b246e85d5ecf501d97c.png"
+  },
+  "btn_finish": {
+    "image": "49bbf3b917caea8ba8d800567a9fa368.png"
+  },
+  "btn_finish_disable": {
+    "image": "ee84702caa19a5c66194b66ee02994ab.png"
+  },
+  "btn_next": {
+    "image": "c891ba348071e8582d661f0bff8004c3.png"
+  },
+  "btn_next_disable": {
+    "image": "411cb613b8a3db212f6114c617975dae.png"
+  },
+  "falseAudio": {
+    "sound": "fc093116823c02a765e7408f9ade882e.mp3"
+  },
+  "trueAudio": {
+    "sound": "406ff8a67e97315c58fa4235833ee032.mp3"
+  },
+  "audiobg": {
+    "xml": "f0881fa6d412574fb7b6a3f512ecd69c"
+  },
+  "img_pic_highlight": {
+    "image": "b345dd7f6328b9741b1e490ea97cd095.png"
+  },
+  "img_pic_normal": {
+    "image": "0f97ac04a2627437ea62242c2582d974.png"
+  },
+  "img_pic_select": {
+    "image": "66fd98333c60073d122306a6731551c9"
+  },
+  "img_pic_wrong": {
+    "image": "4e8f8053a3da9587c1ba9bd5c1771302.png"
+  },
+  "yellowSubmit": {"image": "9e7837127168effca395c4b5888fa345.png"},
+  "greenSubmit": {"image": "f85762e40695dd9514c6ffa5373fccf4.png"},
+  "position": {
+    "audiobg": {"x": 380, "y": 100},
+    "btn": {"x": 400, "y": 476},
+    "option": [
+      {
+        "sign": 2,
+        "value": [
+          [310, 270],
+          [500, 270]
+        ]
+      },
+      {
+        "sign": 3,
+        "value": [
+          [210, 270],
+          [400, 270],
+          [590, 270]
+        ]
+      },
+      {
+        "sign": 4,
+        "value": [
+          [120, 270],
+          [310, 270],
+          [500, 270],
+          [690, 270]
+        ]
+      }
+    ]
+  },
+  "playSound": {
+    "right": {"sound": "406ff8a67e97315c58fa4235833ee032.mp3"},
+    "err": {"sound": "fc093116823c02a765e7408f9ade882e.mp3"}
+  }
+}

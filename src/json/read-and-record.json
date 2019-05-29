@@ -1,0 +1,88 @@
+{
+  "bgPic": "e3250ce65226b582cd5aaded12232f6c",
+  "titleX": 450,
+  "titleY": 150,
+  "titlePic1": "2b86aef23e1c036239af869c6dec8d1a",
+  "titlePic2": "14fa968e3693b45bb01d45584a5e1e63",
+  "titleSound": [
+    "b7f1155b4809ad5f573409ee09946dc3",
+    "794d6d03b53cb20a2dc9831116ea0d83"
+  ],
+  "dictionary": {
+    "Where": [
+      "7a95617c4985c01533384dd084617d4b"
+    ],
+    "I": [
+      "d372df996194327b4b6745598f9aef95"
+    ],
+    "Here": [
+      "0fa1df740075c102c0865936f89d12cd"
+    ],
+    "am": [
+      "df40105098f477d2c0cb56a81b5c5667",
+      "7af4913b99af2fc231ac6a5191009c78"
+    ]
+  },
+  "pages": [
+    {
+      "pic": "1ee004f4fb9158d8cf8ab30a4e3ccc3f.jpg",
+      "subtitle": "Where am I?",
+      "sound": "b7f1155b4809ad5f573409ee09946dc3",
+      "wordTime": [
+        500,
+        200,
+        200
+      ],
+      "position": {
+        "x": 260,
+        "y": 45
+      },
+      "style": {
+        "fontSize": "21pt",
+        "fill": "#000",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      }
+    },
+    {
+      "pic": "e2dbeeeada98259da937fadfac54fbb0.jpg",
+      "subtitle": "Here I am!",
+      "sound": "b7f1155b4809ad5f573409ee09946dc3",
+      "wordTime": [
+        400,
+        200,
+        300
+      ],
+      "position": {
+        "x": 260,
+        "y": 45
+      },
+      "style": {
+        "fontSize": "21pt",
+        "fill": "#000",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      }
+    },
+    {
+      "pic": "3730b3bb1dcb36bf09ef186775af947a.jpg",
+      "subtitle": "Where am I?",
+      "sound": "b7f1155b4809ad5f573409ee09946dc3",
+      "wordTime": [
+        500,
+        200,
+        200
+      ],
+      "position": {
+        "x": 260,
+        "y": 45
+      },
+      "style": {
+        "fontSize": "21pt",
+        "fill": "#000",
+        "font": "Century Gothic",
+        "fontWeight": "bold"
+      }
+    }
+  ]
+}

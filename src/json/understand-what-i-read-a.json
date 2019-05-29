@@ -1,0 +1,1701 @@
+{
+  "firstPage": {
+    "bgImage": {
+      "image": "5a621f20e9a4a7069163255a31ca0bc0.jpg"
+    },
+    "list": {
+      "hide": {
+        "image": "1a4666c7d8e3d1e7c9ca5de761df51ef.png",
+        "current": {
+          "image": "6b4cd2a5cb591700c0c9dfa29b427352.png"
+        },
+        "sound": "c276a1f0fa68ae99a4ac30dcd5f87dc5",
+        "position": {
+          "x": 35,
+          "y": 70
+        },
+        "qPosition": {
+          "x": 35,
+          "y": 30
+        }
+      },
+      "write": {
+        "image": "5a99f600f1b0f8d63895a6a2a4a75fa3.png",
+        "current": {
+          "image": "7c9abadceedb4e1be9e7bd28d69241c1.png"
+        },
+        "sound": "beaafa7b26a8c53578a29a75575637ac",
+        "position": {
+          "x": 100,
+          "y": 245
+        },
+        "qPosition": {
+          "x": 100,
+          "y": 245
+        }
+      },
+      "illustra": {
+        "image": "",
+        "current": {
+          "image": "8f1e25a46a51ae02091094d256148021"
+        },
+        "sound": "5e2a720ae329ba51a6181c593a9f02a3",
+        "position": {
+          "x": 62,
+          "y": 528
+        },
+        "qPosition": {
+          "x": 62,
+          "y": 388
+        }
+      }
+    }
+  },
+  "pages": {
+    "questionArr": [
+      {
+        "text": "How did Tyrell think he injured his neck?",
+        "keyWords": [
+          "Tyrell think",
+          "injured his neck"
+        ],
+        "firstWrong": {
+          "sound": "efce16d97d03f0fbd04619e642eb999f",
+          "image": "85a0522be9ee9e084d8cb0d51589fb4f.png"
+        },
+        "secoudWrong": [
+          {
+            "sound": "9d41d421a12f2ad53d2f5b2241efe09e",
+            "words": "I think I *injured*\nmy neck from leaning\nback so far.",
+            "index": 4
+          }
+        ],
+        "extendImage": {
+          "image": ""
+        },
+        "option": [
+          {
+            "letter": "being scratched by birds.",
+            "sound": "d654ada0fddc08c4441376208596badf",
+            "maybe": {
+              "sound": "4b01bd8ef79b4561907add48e5b1cbcf"
+            },
+            "isTrue": 0
+          },
+          {
+            "letter": "sitting in an overcrowded theatre.",
+            "sound": "28a3c770403067b834649f21bca6c3e0",
+            "maybe": {
+              "sound": "84c62721126e8d82e31ddf2270dc34be"
+            },
+            "isTrue": 0
+          },
+          {
+            "letter": "learning back too far",
+            "sound": "fa17c6fd80eae090381f816b92000de5",
+            "maybe": {
+              "sound": "2a8d7b7e316b73753d18d6a4812854bd"
+            },
+            "isTrue": 1
+          }
+        ]
+      },
+      {
+        "text": "How is Kendall different from Tyrell?",
+        "keyWords": [
+          "Kendall different",
+          "Tyrell"
+        ],
+        "firstWrong": {
+          "sound": "3c9a1ae6d8a9d3b552976ccd3e4c65c8",
+          "image": "b4418782d1088a745e66ae57210766af.png"
+        },
+        "secoudWrong": [
+          {
+            "sound": "c5089acfdb15d105e8b10e4d0080055e",
+            "words": "So AWESOME",
+            "index": 1
+          },
+          {
+            "sound": "68f97a500b46ba39bf628480685b9ad0",
+            "words": "I don't see what's\nso *amazing*",
+            "index": 4
+          }
+        ],
+        "option": [
+          {
+            "letter": "Kendall injures his neck.",
+            "isTrue": 0
+          },
+          {
+            "letter": "Kendall believes in magic.",
+            "isTrue": 1
+          },
+          {
+            "letter": "Kendall understands the last trick.",
+            "isTrue": 0
+          }
+        ]
+      },
+      {
+        "text": "What did Tyrell want to find out?",
+        "keyWords": [
+          "What",
+          "Tyrell",
+          "find out"
+        ],
+        "firstWrong": {
+          "sound": "e68c59fa33a17463766ad09ef957435b",
+          "image": "02a4026fdf1fcbda32c15e3311917ba8.png"
+        },
+        "secoudWrong": [
+          {
+            "sound": "99686c8b8aa801e915e6730b82d8788d",
+            "words": "So Vanessa, how exactly did\nthat last trick work?",
+            "index": 6
+          }
+        ],
+        "option": [
+          {
+            "letter": "how Vanessa's last trick worked.",
+            "sound": "f7fa5263553d348a9a5cfe71e1ab07d4",
+            "isTrue": 1
+          },
+          {
+            "letter": "what the magician's name was",
+            "sound": "5b3306348602f2ef377c065b3600cb08",
+            "isTrue": 0
+          },
+          {
+            "letter": "how to escape from hyperactive  birds",
+            "sound": "9fb2ab2223c6cf33a36ca5ddbcf1dfa5",
+            "isTrue": 0
+          }
+        ]
+      }
+    ],
+    "storyPages": [
+      {
+        "bgImage": {
+          "image": "b04eef968d4f8243d276413bb6ba85b4.jpg"
+        },
+        "boldWord": [
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "taking forever",
+            "data": {
+              "letterObj": {
+                "text": "take forever",
+                "sound": "357b8ea7c215b57f4315a14ac8ed52be",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "verb",
+                "sound": "87c995e56b74741ab0c258639f3204a9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "A phraser that means your are waiting\nfor something for a very long time.",
+                "sound": "1320377f0cd6296e04933f2e93af7fd9",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "idiom",
+                "sound": [
+                  "db9cd4821ec9333f47cdcb7814f16f1b"
+                ],
+                "position": {
+                  "x": 170,
+                  "y": 400
+                }
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "magician's",
+            "data": {
+              "letterObj": {
+                "text": "magician",
+                "sound": "9721cc5a74d90b800ef2331283d211fd",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "noun",
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "Someone who entertains others by\ndoing magic tricks.",
+                "sound": "042da74e7c16c97e4ee40059f49f3803",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "assistant",
+            "data": {
+              "letterObj": {
+                "text": "assistant",
+                "sound": "f816782417ac16a80d68b3b082cd1668",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "noun",
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "Someone who helps someone else,\nespecially as a job.",
+                "sound": "c78f6bdab2a54abaadeb0c7cea534d49",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "synonym: helper",
+                "sound": [
+                  "10aa5aac6cb2144f69d67467e3140f91",
+                  "8e7f77725f25e620c9ac01249c4c0ca8"
+                ],
+                "position": {
+                  "x": 170,
+                  "y": 400
+                }
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "patience",
+            "data": {
+              "letterObj": {
+                "text": "patience",
+                "sound": "563e156b82aaa28bc011f9021eca73be",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "noun",
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "When you wait for something without\ncomplaining or being angry.",
+                "sound": "3e812128e658bc76e1064c2b32d1d053",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "support",
+            "data": {
+              "letterObj": {
+                "text": "support",
+                "sound": "9888116f90c9748444096930c9cd4b59",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "verb",
+                "sound": "87c995e56b74741ab0c258639f3204a9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "To help a person or an idea be\nsuccessful.",
+                "sound": "12ed46794eafa06b2dcf5e6d1c427b9c",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          }
+        ],
+        "list": [
+          {
+            "letter": "She's *taking\nFOREVER*! Why do\nwe have to wait\nfor her?",
+            "sounds": [
+              "2314df597819e7c4f700a7ac2c5aace8",
+              "392ab156190cf9654fe4db72c947820a"
+            ],
+            "position": {
+              "x": 40,
+              "y": 55
+            },
+            "time": 315
+          },
+          {
+            "letter": "It's your sister's\nfirst night as\nthe *magician's\nassistant*...",
+            "sounds": [
+              "fa805b2deee3b32722f6ac6607d38338"
+            ],
+            "position": {
+              "x": 330,
+              "y": 80
+            },
+            "time": 315
+          },
+          {
+            "letter": "...and we are here to\n*support* her. Have a\nlittle *patience*!",
+            "sounds": [
+              "fd1586ad7ae07e134d0050f7fb15d09f",
+              "1d529114cd057133aebf3f1a1a818fe8"
+            ],
+            "position": {
+              "x": 510,
+              "y": 0
+            },
+            "time": 315
+          },
+          {
+            "letter": "Yeah, well... it's all\nfake anyway",
+            "sounds": [
+              "c3cd971a49597b212e7545c34f73a182"
+            ],
+            "position": {
+              "x": 510,
+              "y": 210
+            },
+            "time": 315
+          },
+          {
+            "letter": "Tyrell! Do not\nruin this for\nyour brother.",
+            "sounds": [
+              "2c3d4bc7a6ac831b3510971ba38ea4fe"
+            ],
+            "position": {
+              "x": 670,
+              "y": 300
+            },
+            "time": 315
+          },
+          {
+            "letter": "Kendall, what did\nyou think of the\nmagic show?",
+            "sounds": [
+              "db95b1e7b0a311986c1477357b0b84c8"
+            ],
+            "position": {
+              "x": 610,
+              "y": 405
+            },
+            "time": 315
+          },
+          {
+            "letter": "So AWESOME!",
+            "sounds": [
+              "c5089acfdb15d105e8b10e4d0080055e"
+            ],
+            "position": {
+              "x": 510,
+              "y": 565
+            },
+            "time": 315
+          }
+        ]
+      },
+      {
+        "boldWord": [
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "dressed up",
+            "data": {
+              "letterObj": {
+                "text": "dressed up",
+                "sound": "0ea9272fb61d5f891125f594b0b58790",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "adjective",
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "Describes someone who is wearing\nclothes that are fancy or special.",
+                "sound": "87867fb59fe75fd7b3b58d31b9169fce",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "idiom",
+                "sound": [
+                  "db9cd4821ec9333f47cdcb7814f16f1b"
+                ],
+                "position": {
+                  "x": 170,
+                  "y": 400
+                }
+              }
+            }
+          }
+        ],
+        "bgImage": {
+          "image": "eae192ec84eece534e5b6cc07d781676.jpg"
+        },
+        "list": [
+          {
+            "letter": "The theater was huge! With\nmillions of lights all over! SO\nmany people *dressed up* all\nfancy!",
+            "sounds": [
+              "4470553002223133c1d01053274d3ee4",
+              "90a7d0511fabd432ad6515539d33bc97",
+              "8fb2b1efae342bf5ef6cb5e906ee4eee"
+            ],
+            "position": {
+              "x": 60,
+              "y": 10
+            },
+            "time": 315
+          },
+          {
+            "letter": "And we had the BEST seats! And\nVanessa looked so pretty and so\nvery sparkly!",
+            "sounds": [
+              "d3525ecabc7f502b5e908686e4d8f7c0",
+              "ebc5b543db148d5aa24f8e20c3350c41"
+            ],
+            "position": {
+              "x": 110,
+              "y": 285
+            },
+            "time": 315
+          },
+          {
+            "letter": "And there were doves\neverywhere, and some even\nlanded on me",
+            "sounds": [
+              "8e1907c6df0770a8596a286747d56620"
+            ],
+            "position": {
+              "x": 450,
+              "y": 325
+            },
+            "time": 315
+          }
+        ]
+      },
+      {
+        "bgImage": {
+          "image": "afe2e1151a8d8dc7d20a83f14e10f040.jpg"
+        },
+        "boldWord": [
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "magician",
+            "data": {
+              "letterObj": {
+                "text": "magician",
+                "sound": "9721cc5a74d90b800ef2331283d211fd",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "noun",
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "Someone who entertains others by\ndoing magic tricks.",
+                "sound": "042da74e7c16c97e4ee40059f49f3803",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "AMAZING",
+            "data": {
+              "letterObj": {
+                "text": "amazing",
+                "sound": "655a73fa6a66de7860d50a12899e7286",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "adjective",
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "Good and surprising.",
+                "sound": "2b6a167e50119d9848976f22dc61b2f7",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": "",
+                "position": {}
+              }
+            }
+          }
+        ],
+        "list": [
+          {
+            "letter": "But my favorite part\nwas at the end",
+            "sounds": [
+              "5861fa48f037a4351f8f8073870d4d77"
+            ],
+            "position": {
+              "x": 90,
+              "y": 5
+            },
+            "time": 315
+          },
+          {
+            "letter": "when Elvo the\n*magician*",
+            "sounds": [
+              "e703297daea952fb94f1d2bf7dd9e7a5"
+            ],
+            "position": {
+              "x": 320,
+              "y": 5
+            },
+            "time": 315
+          },
+          {
+            "letter": "chopped Vanessa\nin half!",
+            "sounds": [
+              "b3dd3847a7e7cb7203878acbf24619f5"
+            ],
+            "position": {
+              "x": 500,
+              "y": 5
+            },
+            "time": 315
+          },
+          {
+            "letter": "I mean, I was a little\nworried at first...",
+            "sounds": [
+              "bd1109700aa6256cf77f305ecb45ca2d"
+            ],
+            "position": {
+              "x": 580,
+              "y": 215
+            },
+            "time": 315
+          },
+          {
+            "letter": "But then Elvo put her\nback together, and it\n was *AMAZING*!",
+            "sounds": [
+              "501fd7c8599df229426cd8d505b67382"
+            ],
+            "position": {
+              "x": 580,
+              "y": 375
+            },
+            "time": 315
+          }
+        ]
+      },
+      {
+        "bgImage": {
+          "image": "40186d48d521d3eef42537fcf862c8fe.jpg"
+        },
+        "boldWord": [
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "amazing",
+            "data": {
+              "letterObj": {
+                "text": "amazing",
+                "sound": "655a73fa6a66de7860d50a12899e7286",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "adjective",
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "Good and surprising.",
+                "sound": "2b6a167e50119d9848976f22dc61b2f7",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": "",
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "injured",
+            "data": {
+              "letterObj": {
+                "text": "injure",
+                "sound": "dfa522598889d069c7f99a9ecd139204",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "verb",
+                "sound": "87c995e56b74741ab0c258639f3204a9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "To hurt someone or something.",
+                "sound": "7e97c28495382f08117f26a8ff7276f6",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "synonym:hurt",
+                "sound": [
+                  "10aa5aac6cb2144f69d67467e3140f91",
+                  "3174c80780572fc0ebe6e2a336ddcf54"
+                ],
+                "position": {
+                  "x": 170,
+                  "y": 400
+                }
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "illusion",
+            "data": {
+              "letterObj": {
+                "text": "illusion",
+                "sound": "4eb868dcff9e9d5be9f0776aa0401e1f",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "noun",
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "A trick that makes you see something\nthat isn't really happening.",
+                "sound": "90bc0d7d936356deba80c63e3038ffa1",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": "",
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "hyperactive",
+            "data": {
+              "letterObj": {
+                "text": "hyperactive",
+                "sound": "3c059aecd2b08903de8f238352a90f96",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "adjective",
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "Describes something or someone who\nis excited and does not stay still.",
+                "sound": "c0a08b135c9bbe4ccb6f5e522427fdfb",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": "",
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "average",
+            "data": {
+              "letterObj": {
+                "text": "average",
+                "sound": "3b3aaa4b1da9a599f36aed11dc3e9aa3",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "adjective",
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "About the same as everyone else.",
+                "sound": "f9066f7cbc67fe7ebe7ed574740d2eed",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": "",
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "impressive",
+            "data": {
+              "letterObj": {
+                "text": "impressive",
+                "sound": "25d9085bda3e2f136c4b6c2871089949",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "adjective",
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "Describes something that is good or\nreally important.",
+                "sound": "b7ec3061daeccae6ee50651f113aeb03",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "synonym:amazing",
+                "sound": [
+                  "10aa5aac6cb2144f69d67467e3140f91",
+                  "655a73fa6a66de7860d50a12899e7286"
+                ],
+                "position": {
+                  "x": 170,
+                  "y": 400
+                }
+              }
+            }
+          }
+        ],
+        "list": [
+          {
+            "letter": "I don't see what's\nso *amazing*. It's all\njust some big\n*illusion*.",
+            "sounds": [
+              "68f97a500b46ba39bf628480685b9ad0",
+              "94e59587ed50747b59911ed872c164a0"
+            ],
+            "position": {
+              "x": 25,
+              "y": 20
+            },
+            "time": 315
+          },
+          {
+            "letter": "There's no such\nthing as magic.",
+            "sounds": [
+              "30c6a16d8adb174d562064c691da7e4a"
+            ],
+            "position": {
+              "x": 48,
+              "y": 170
+            },
+            "time": 315
+          },
+          {
+            "letter": "And it was totally\nover-crowded.",
+            "sounds": [
+              "a56c341ea9b2a2dceadfdffab3e09d03"
+            ],
+            "position": {
+              "x": 240,
+              "y": 235
+            },
+            "time": 315
+          },
+          {
+            "letter": "And we were sitting\nway too close to the\nstage. I think I *injured*\nmy neck from leaning\nback so far.",
+            "sounds": [
+              "95553b69536b9407b221ee75d02ee01e",
+              "9d41d421a12f2ad53d2f5b2241efe09e"
+            ],
+            "position": {
+              "x": 420,
+              "y": 10
+            },
+            "time": 315
+          },
+          {
+            "letter": "ANd one of those\n*hyperactive* birds\nscratched my head!",
+            "sounds": [
+              "341aab5c13376266378e133cb697dcdb"
+            ],
+            "position": {
+              "x": 595,
+              "y": 255
+            },
+            "time": 315
+          },
+          {
+            "letter": "I just can't\nfigure out\nhow they did\nit...",
+            "sounds": [
+              "6d9dfe77f8f7f4225d78fa2d067f55ab"
+            ],
+            "position": {
+              "x": 685,
+              "y": 380
+            },
+            "time": 315
+          },
+          {
+            "letter": "But didn't you think\nchopping Vanessa in\nhalf was pretty cool?",
+            "sounds": [
+              "70e55996f0992041e2a23390e51b5692"
+            ],
+            "position": {
+              "x": 240,
+              "y": 500
+            },
+            "time": 315
+          },
+          {
+            "letter": "Well, yeah. I guess I'd\nrate it as *average*.\nNot really all THAT\n*impressive*.",
+            "sounds": [
+              "6ffe8767a54cfc6d6680265b21aeb1d9",
+              "137e129bddc69827dd7a3b7b2c180ff5"
+            ],
+            "position": {
+              "x": 470,
+              "y": 500
+            },
+            "time": 315
+          }
+        ]
+      },
+      {
+        "bgImage": {
+          "image": "a9cd4bf04903b13a4566059e3cbab9cd.jpg"
+        },
+        "boldWord": [
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "trapdoors",
+            "data": {
+              "letterObj": {
+                "text": "trapdoor",
+                "sound": "1013b7f38bbe54a9ed71b62d4a7c9d82",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "noun",
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "A secret door that is hidden.",
+                "sound": "6690a8d4e01d0e28b1bdf1afc2dc7d96",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "compound word",
+                "sound": [
+                  "eadfbae1af42e36097bae1178e5cca1e"
+                ],
+                "position": {
+                  "x": 170,
+                  "y": 400
+                }
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "suspicious",
+            "data": {
+              "letterObj": {
+                "text": "suspicious",
+                "sound": "694d40de6a2142a60929d2f38c938eb9",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "adjective",
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "Describes something that sems not\nquite right or may even seem wrong.",
+                "sound": "8482501a621c6117e50b4f8db3610840",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "average",
+            "data": {
+              "letterObj": {
+                "text": "average",
+                "sound": "3b3aaa4b1da9a599f36aed11dc3e9aa3",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "adjective",
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "About the same as everyone else.",
+                "sound": "f9066f7cbc67fe7ebe7ed574740d2eed",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "illusions",
+            "data": {
+              "letterObj": {
+                "text": "illusion",
+                "sound": "4eb868dcff9e9d5be9f0776aa0401e1f",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "noun",
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "A trick that makes you see something\nthat isn't really happening.",
+                "sound": "90bc0d7d936356deba80c63e3038ffa1",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "entire",
+            "data": {
+              "letterObj": {
+                "text": "entire",
+                "sound": "18c3f6845ade4f7d2f98df149f649804",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "adjective",
+                "sound": "6eaf337aa8603cc8f9138b6077fa5c46",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "All of something.",
+                "sound": "7636e4f016fd1f223455ed656a1c8cc5",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "synonym:whole",
+                "sound": [
+                  "10aa5aac6cb2144f69d67467e3140f91",
+                  "1057aebad7f7da351a65f4ef9351cf63"
+                ],
+                "position": {
+                  "x": 170,
+                  "y": 400
+                }
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "reasonable explanation",
+            "data": {
+              "letterObj": {
+                "text": "reasonable explanation",
+                "sound": "7795066c1abf5501e1cf472110f1adfe",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "noun",
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "An explanation for something that is\nhard to believe.",
+                "sound": "6447a1f41c34d5d48c6a8eca0b8dbc1b",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          }
+        ],
+        "list": [
+          {
+            "letter": "WHen Vanessa wheeled the\nbox onstage, I couldn't see any\nmirrors, *trapdoors*, or anything\nelse that seemed *suspicious*.",
+            "sounds": [
+              "30a61a1c77da33a80b60f6e163239246"
+            ],
+            "position": {
+              "x": 15,
+              "y": 5
+            },
+            "time": 315
+          },
+          {
+            "letter": "She jumped right in, and after Elvo\nlocked the box she even wiggled\nher feet. And those blades were\npretty solid-looking,so no *illusions*\nthere",
+            "sounds": [
+              "552d063c20decab5b730e162174fd00f",
+              "db09f3928574d77b16abc557a58a8029"
+            ],
+            "position": {
+              "x": 350,
+              "y": 5
+            },
+            "time": 315
+          },
+          {
+            "letter": "There's gotta be\na *reasonable\nexplanation*. But\nwhat is it?",
+            "sounds": [
+              "3348a5ca0abfbacbacba04b317c495d0",
+              "c66b17c32785809c1284463ef9f7c6cf"
+            ],
+            "position": {
+              "x": 650,
+              "y": 310
+            },
+            "time": 315
+          },
+          {
+            "letter": "Then Elvo walked between the two halves and even spun\nthem around a little. Vanessa was wiggling her feet the\n*entire* time...",
+            "sounds": [
+              "cf049963085c970d6c56370788e63c5c",
+              "413ad9e8859f0dd9a37253a1b496f594"
+            ],
+            "position": {
+              "x": 85,
+              "y": 525
+            },
+            "time": 315
+          }
+        ]
+      },
+      {
+        "bgImage": {
+          "image": "658b9b71eca199aef1e7d70d59861d09.jpg"
+        },
+        "boldWord": [
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "celebrate",
+            "data": {
+              "letterObj": {
+                "text": "celebrate",
+                "sound": "975df7a42a7feb59908b0505904451f5",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "verb",
+                "sound": "87c995e56b74741ab0c258639f3204a9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "To show that a day or event is\nimportant by doing something special\nor fun.",
+                "sound": "b098550b719a6d34c07b76b89624560a",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          }
+        ],
+        "list": [
+          {
+            "letter": "Maybe Vanessa\nwill tell me...",
+            "sounds": [
+              "05988c2f36df067f7ea1aec28afcf12e"
+            ],
+            "position": {
+              "x": 45,
+              "y": 33
+            },
+            "time": 315
+          },
+          {
+            "letter": "Finally!",
+            "sounds": [
+              "4257cbaada704d8d7391a42a5d209418"
+            ],
+            "position": {
+              "x": 220,
+              "y": 75
+            },
+            "time": 315
+          },
+          {
+            "letter": "Vanessa!",
+            "sounds": [
+              "cb9b190d9128b0afd20e318bbb856569"
+            ],
+            "position": {
+              "x": 349,
+              "y": 32
+            },
+            "time": 315
+          },
+          {
+            "letter": "Vanessa, honey,\nyou were\nfantastic!",
+            "sounds": [
+              "18094861797589168ba84eb7b746ac52"
+            ],
+            "position": {
+              "x": 505,
+              "y": 0
+            },
+            "time": 315
+          },
+          {
+            "letter": "That was\nAWESOME!",
+            "sounds": [
+              "d9392cee53e758a5c92c2360803b2a6e"
+            ],
+            "position": {
+              "x": 537,
+              "y": 230
+            },
+            "time": 315
+          },
+          {
+            "letter": "Yeah. Good\njob.",
+            "sounds": [
+              "ddceae88c2f1d320ff09847249cc0662"
+            ],
+            "position": {
+              "x": 695,
+              "y": 240
+            },
+            "time": 315
+          },
+          {
+            "letter": "Let's head home to *celebrate*.\nI've got your favorite strawberry\n cake waiting!",
+            "sounds": [
+              "96817c9e3c296d9b980e76f6cafddb5e"
+            ],
+            "position": {
+              "x": 10,
+              "y": 310
+            },
+            "time": 315
+          },
+          {
+            "letter": "Cake!",
+            "position": {
+              "x": 335,
+              "y": 335
+            },
+            "sounds": [
+              "0d6dcc1b76e0012327f04025db620e84"
+            ],
+            "time": 315
+          },
+          {
+            "letter": "So Vanessa, how exactly did\nthat last trick work?",
+            "sounds": [
+              "99686c8b8aa801e915e6730b82d8788d"
+            ],
+            "position": {
+              "x": 450,
+              "y": 320
+            },
+            "time": 315
+          },
+          {
+            "letter": "Well...",
+            "sounds": [
+              "40919586c35e2a3ac4c03239fa6f099b"
+            ],
+            "position": {
+              "x": 623,
+              "y": 530
+            },
+            "time": 315
+          }
+        ]
+      },
+      {
+        "bgImage": {
+          "image": "db68cff0e681a022b557a00b51ae0b8b.jpg"
+        },
+        "boldWord": [],
+        "list": []
+      },
+      {
+        "bgImage": {
+          "image": "e2ada3b88d8dd15c4dc7992278b520bc.jpg"
+        },
+        "boldWord": [
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "magician",
+            "data": {
+              "letterObj": {
+                "text": "magician",
+                "sound": "9721cc5a74d90b800ef2331283d211fd",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "noun",
+                "sound": "c8aff4b9e3f399f49a8cb064518da7c9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "Someone who entertains others by\ndoing magic tricks.",
+                "sound": "042da74e7c16c97e4ee40059f49f3803",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "reveals",
+            "data": {
+              "letterObj": {
+                "text": "reveal",
+                "sound": "a963a5089275e012f76567360cf53092",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "verb",
+                "sound": "87c995e56b74741ab0c258639f3204a9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "To tell or show sonething that nobody\nknew before.",
+                "sound": "a66999aa73c30aff9c561ea836086553",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          },
+          {
+            "bg": "d16186228229e68045f4f6e8b5379433.png",
+            "extendImg": {
+              "image": "",
+              "position": {}
+            },
+            "color": "#36D138",
+            "keyWord": "convinced",
+            "data": {
+              "letterObj": {
+                "text": "convince",
+                "sound": "efa30d4373275e5377d1d4e4ecbb2a15",
+                "position": {
+                  "x": 70,
+                  "y": 85
+                }
+              },
+              "type": {
+                "text": "verb",
+                "sound": "87c995e56b74741ab0c258639f3204a9",
+                "position": {
+                  "x": 450,
+                  "y": 90
+                }
+              },
+              "descript": {
+                "text": "To get someone to believe you or do\nwhat you want.",
+                "sound": "1a9dc0243a20d3dcbc317d2b7f0fb496",
+                "position": {
+                  "x": 70,
+                  "y": 150
+                }
+              },
+              "others": {
+                "text": "",
+                "sound": [],
+                "position": {}
+              }
+            }
+          }
+        ],
+        "list": [
+          {
+            "letter": "A *magician*\nNEVER *reveals*\nher secrets.",
+            "sounds": [
+              "04739a7d9ee3b585dd20409e0f6b8a27"
+            ],
+            "position": {
+              "x": 145,
+              "y": 5
+            },
+            "time": 315
+          },
+          {
+            "letter": "Doesn't matter. I'm still\n*convinced* there's no such\nthing as magic.",
+            "sounds": [
+              "8555ace707633062b90a3cb43a489afb",
+              "37f1d0896fee02fc6220a58ea29f3f5e"
+            ],
+            "position": {
+              "x": 540,
+              "y": 150
+            },
+            "time": 315
+          },
+          {
+            "letter": "Are you sure?",
+            "sounds": [
+              "9cfd632956e1b4bd85cff469fb524977"
+            ],
+            "position": {
+              "x": 532,
+              "y": 499
+            },
+            "time": 315
+          }
+        ]
+      }
+    ]
+  }
+}

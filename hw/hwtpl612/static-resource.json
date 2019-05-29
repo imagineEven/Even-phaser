@@ -1,0 +1,49 @@
+{
+  "background": {
+    "image": "20af8f80fad61b246e85d5ecf501d97c.png"
+  },
+  "question_bg": {
+    "image": "e78d11a55626d9cb193eab50da198b66.png"
+  },
+  "over_bg": {
+    "images": [
+      "fb9d094e27bc36ce00eaf19bae11034c",
+      "cd6f99a9c8a83b3f8119b238258cd4be",
+      "91a5f09f233f6d98fc42ced09fc35836"
+    ]
+  },
+  "img_option": {
+    "images": [
+      "d0de6c68f2c02da24109809eb699b43b",
+      "2366404410fda93312101171f110bd5c",
+      "36e168572dd153afbee74395007ca9c0",
+      "b9c292cd7e3662020fed464d348fb5cc"
+    ]
+  },
+  "img_scroll_bar": {
+    "image": "c500e24131c2956a32e8ed5ba059d9f6"
+  },
+  "right": {
+    "sound": "406ff8a67e97315c58fa4235833ee032"
+  },
+  "wrong": {
+    "sound": "fc093116823c02a765e7408f9ade882e"
+  },
+  "submit": {
+    "images": [
+      "66c583b640efc1f24046f69adcfd8bfc",
+      "0dd48232ded4f6cbf93e7b12d4dda84d"
+    ]
+  },
+  "button": {
+    "next": {
+      "image": "c891ba348071e8582d661f0bff8004c3"
+    },
+    "finish": {
+      "image": "49bbf3b917caea8ba8d800567a9fa368"
+    }
+  },
+  "color": {
+    "normal": "#000000"
+  }
+}

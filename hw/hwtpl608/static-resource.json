@@ -1,0 +1,72 @@
+{
+  "localSound": {
+    "correct": {"sound": "406ff8a67e97315c58fa4235833ee032"},
+    "wrong": {"sound": "fc093116823c02a765e7408f9ade882e"},
+    "dindin": {"sound": "811dcac971043032cb283773cbd0e553"},
+    "connection": {"sound": "4c8206f509adc9e670da41b214582cff"}
+  },
+  "localPage": {
+    "bg": {"image": "13318b63153a98f48ff7d63f64ce9af5.png"},
+    "whiteBg": {"image": "bd717319d3053665243754b527e80fcc.png"},
+    "grayBg": {"image": "afb1f75c6da5a1d90eda08eca6685fdc.png"},
+    "graySpeaker": {"image": "db28534c1ca9217b999183e5847ebf3c.png"},
+    "highLightSpeaker": {"image": "3dfa0a379bba5a0d6417d456f158d21a.png"},
+    "highLight": {"image": "4ba88f80b1a6bcb1acceb37ebd2d3259.png"},
+    "aboveWhiteEggshell": {"image": "d5c7bbd7aaad111cff2893816e19a203.png"},
+    "aboveYellowEggshell": {"image": "2c29c6024f15653bfde0263280bea1c5.png"},
+    "aboveGrayEggshell": {"image": "1c74c2e3ccabd53ff6b3ecb1ba4210ec.png"},
+    "belowWhiteEggshell": {"image": "5cda506a1cfcc57dfe03594114441964.png"},
+    "belowYellowEggshell": {"image": "bb58e17a78ea16c7e04d783fec5c3bb6.png"},
+    "belowGrayEggshell": {"image": "68ce1084e25014dc08b1036e4a2a5081.png"},
+    "yellowSubmit": {"image": "9e7837127168effca395c4b5888fa345.png"},
+    "greenSubmit": {"image": "f85762e40695dd9514c6ffa5373fccf4.png"},
+    "finish": {"image": "49bbf3b917caea8ba8d800567a9fa368"},
+    "next": {"image": "c891ba348071e8582d661f0bff8004c3"}
+  },
+  "localPosition": {
+    "twoOptions": [
+      [325, 366],
+      [475, 366]
+    ],
+    "threeOptions": [
+      [250, 366],
+      [400, 366],
+      [550, 366]
+    ],
+    "fourOptions": [
+      [175, 366],
+      [325, 366],
+      [475, 366],
+      [625, 366]
+    ],
+    "fiveoptions": [
+      [100, 366],
+      [250, 366],
+      [400, 366],
+      [550, 366],
+      [700, 366]
+    ],
+    "twoSpeakers": [
+      [325, 143],
+      [475, 143]
+    ],
+    "threeSpeakers": [
+      [250, 143],
+      [400, 143],
+      [550, 143]
+    ],
+    "fourSpeakers": [
+      [175, 143],
+      [325, 143],
+      [475, 143],
+      [625, 143]
+    ],
+    "fiveSpeakers": [
+      [100, 143],
+      [250, 143],
+      [400, 143],
+      [550, 143],
+      [700, 143]
+    ]
+  }
+}
