@@ -1,0 +1,207 @@
+{
+  "black": {
+    "image": "0b3306ed4f1b82a7ecdd4290f84163e8.png"
+  },
+  "video": "a48de5727a02575a9092b899890c6365",
+  "dance": {
+    "video": "5fe33ff17a3fb0668a82ac28a36c159f"
+  },
+  "dragon": {
+    "image": "0073d485f32188529a9ff17fea899b38"
+  },
+  "redDot": {
+    "image": "64490a5f93721f2b104cfa53507047b8"
+  },
+  "doorLeft": {
+    "image": "c0bbc8f477a8495754955b8faa9c0f4e.jpg"
+  },
+  "doorRight": {
+    "image": "e93a18281d2a90f0bfa2422295810172.jpg"
+  },
+  "checkBtn1": {
+    "image": "9c74d5514711f24400278df7c410b31c"
+  },
+  "checkBtn2": {
+    "image": "fbd71c51ffb6a29c97dadd1a605bb66c"
+  },
+  "checkBtn3": {
+    "image": "6238ececb4919650338ac925c2682a72"
+  },
+  "btn1": {
+    "image": "e91b14c67af02478667b32f0819699d6"
+  },
+  "btn2": {
+    "image": "21b0181d67f82057e7533445fa507316"
+  },
+  "btn3": {
+    "image": "e91b14c67af02478667b32f081969900"
+  },
+  "bg": {
+    "image": "a4ee27e7285c914913c2a6137195d73c.jpg"
+  },
+  "bgFfix": {
+    "image": "661e22f8bc69475da55b09d6ab7fbfd4.jpg"
+  },
+  "choiceBg": {
+    "image": "8055f8cef0b72c293b6158aaae141b77.jpg"
+  },
+  "stone": {
+    "image": "8865d130fd1600fd1db94ec855e92085"
+  },
+  "particeBg": {
+    "image": "661e22f8bc69475da55b09d6ab7fbfd4.jpg"
+  },
+  "submit0": {
+    "image": "fbd71c51ffb6a29c97dadd1a605bb66c"
+  },
+  "submit1": {
+    "image": "9c74d5514711f24400278df7c410b31c"
+  },
+  "submit2": {
+    "image": "6238ececb4919650338ac925c2682a72"
+  },
+  "thatDoesntFitContext": {
+    "sound": "f5edabe898c51b4636e552d1c604e372"
+  },
+  "nowItsYourTurnToChop": {
+    "sound": "e41846576e05891f4b5784d0e42a67e2"
+  },
+  "chopHereInstead": {
+    "sound": "4a97b9b2951c2a41d39546603a136821"
+  },
+  "ouch": {
+    "sound": "49811ed984e108072803869e9f7041f4"
+  },
+  "stoneWrong": {
+    "sound": "4fe7832552fa3b7f7307b1da71d8f7fb"
+  },
+  "useTheWordYouMakeToFixItUp": {
+    "sound": "d9fdb254d1d22ea04f5145e7a85f824b"
+  },
+  "niceTryButThatsNotTheWord": {
+    "sound": "cfadacd083a909b8539ab8d2d950f65e"
+  },
+  "wrongSound": {
+    "sound": "afda5f6fab7d2da2888e84d218165a43"
+  },
+  "thereIsASuffixInTheEndOfTheWord": {
+    "sound": "ae2549c07825f4e8913bd2de70fd17be"
+  },
+  "sorryThatsTheWordYouCannotAddTo": {
+    "sound": "ab3bd966c95de61bc1510bce825feccf"
+  },
+  "opsYouCannotAddEveryWhere": {
+    "sound": "436729224952171d28ccfa12c8ea4710"
+  },
+  "orIfYouThinkMistakeClickHere": {
+    "sound": "4834799681484f6a31865598ca905acd"
+  },
+  "gelele": {
+    "sound": "563817d2fb74bae85dc4583f31d9616c"
+  },
+  "greatJobYouFixIt": {
+    "sound": "9f678b98837542a64736004689723d01"
+  },
+  "duuuaaannnggg": {
+    "sound": "4fb259fbcf03b29be7319788b2df1d85"
+  },
+  "clickHereWhenYouReadyToCheckAnswer": {
+    "sound": "27387cd7eefb6c8c68fe23cc97970e07"
+  },
+  "tryANewOne": {
+    "sound": "144157e947ed9f2dbe5a702f348a42d1"
+  },
+  "AOTheseParagraphDontSense": {
+    "sound": "6cf5dde572f517629dd205979cdd327a"
+  },
+  "shortBg": {
+    "sound": "4fb259fbcf03b29be7319788b2df1d85"
+  },
+  "aya": {
+    "sound": "3fa2e815bf88f76a284bb2a731accf04"
+  },
+  "okIKnowThatSuffix": {
+    "sound": "4fae95e6e0b054e19b06a04d350bc427"
+  },
+  "okIKnowThatPreffix": {
+    "sound": "1c5b26c5b266d2d6651ead28fda90e9e"
+  },
+  "chopItOff": {
+    "sound": "1c1582d483ac2752c3c2c814e8f1a7f3"
+  },
+  "whenUnComes": {
+    "sound": "1b644a7bd8c149a81a481ea772699ebc"
+  },
+  "wordChop": {
+    "sound": "3994fb5380016dc40572b245684c1222"
+  },
+  "clickLetsGo": {
+    "sound": "f3fe0a4f69ab3acd7bead16b43453ebe"
+  },
+  "openDoor": {
+    "sound": "345e530659076ceffa60af5d2e4a566a"
+  },
+  "closeDoor": {
+    "sound": "6a3a6226d5fbb1eb9d002bcacfd9201c"
+  },
+  "clickHereToLearnMoreAboutIt": {
+    "sound": "19b6d65602b13feb02f4a8e32e821f3a"
+  },
+  "questionSound": {
+    "sound": "0eccbd6fb1cfe0b5f2536fc7f6c73982"
+  },
+  "theseWordWillHelpYouFigureOutAnswer": {
+    "sound": "1f61ebcb530415e0acfcef791cbe5b67"
+  },
+  "thereIsPreffixInFrontOfWord": {
+    "sound": "03bd98bf157060680dcd48a5f1b374bc"
+  },
+  "iWillFixSpelling": {
+    "sound": "44c58fc3357d07693cdc22a807f1c4ed"
+  },
+  "spellingCheck": {
+    "sound": "efce08a2a1b3988eafb73f5861fa937a"
+  },
+  "clickTheWordToAddPreffix": {
+    "sound": "045f380c9e0b3b335c4d9de47ffa4aec"
+  },
+  "clickTheWordToAddSuffix": {
+    "sound": "f414c91666b4481903691d905da1ffbd"
+  },
+  "nowYouKnowHowToAddSuffix": {
+    "sound": "1480e75bf4967511a12358fdca50a3dc"
+  },
+  "nowYouKnowHowToAddPreffix": {
+    "sound": "1480e75bf4967511a12358fdca50a3dc"
+  },
+  "sounds": [
+    "a48de5727a02575a9092b899890c6365"
+  ],
+  "question": {
+    "text": "What do you do when you\nsee a long word?",
+    "sound": "0eccbd6fb1cfe0b5f2536fc7f6c73982",
+    "choices": [{
+      "text": "Ask",
+      "sound": "2ab9cf721555159afe858d25834843d4"
+    }, {
+      "text": "Ask",
+      "sound": "2ab9cf721555159afe858d25834843d4"
+    }, {
+      "text": "Ask",
+      "sound": "2ab9cf721555159afe858d25834843d4"
+    }, {
+      "text": "Right",
+      "sound": "2ab9cf721555159afe858d25834843d4"
+    }]
+  },
+  "silStar": "69eb60cf5c42161182551104f308dde6",
+  "silMan": "69eb60cf5c42161182551104f308dde6",
+  "tryUsingDifferentWord": {
+    "sound": "df768e270bc1f39c32cb0c9afd60ed34"
+  },
+  "stones": [
+    [{ "stone": { "image": "4d1bdd0d9fe84f0a4ca2f08ae4940d6c", "x": 550 } }, { "stone": { "image": "c18693aebbcfd8ced9bb7cbb9a05e2ab", "x": 550 } }],
+    [{ "stone": { "image": "2c31bf5dd21bb150fb04e8777b49cab4", "x": 550 } }, { "stone": { "image": "9b15727fd0eff0b443ca41d8477b8bab", "x": 550 } }],
+    [{ "stone": { "image": "7e82d17a592277aefd4512be97cabea6", "x": 300 } }, { "stone": { "image": "6d176bfa2005a24758c5f3c9d0db9b25", "x": 550 } }]
+  ]
+}

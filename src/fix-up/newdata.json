@@ -1,0 +1,99 @@
+{
+	"ffix": {
+		"type": "Suffix",
+		"text": "ed",
+		"sound": "87e4711739c6f6e52aad28ee74c9b897",
+		"wholeWord": [
+			"un",
+			"walk",
+			"ed"
+		],
+		"stones": [
+			{
+				"stone": {
+					"image": "2c31bf5dd21bb150fb04e8777b49cab4",
+					"x": 300
+				}
+			}, {
+				"stone": {
+					"image": "71650ebe866a7b666bdbbf98af1a8550",
+					"x": 550
+				}
+			}
+		]
+	},
+	"reading": {
+		"image": "85309db122b21bbb3855bc623382a37f.jpg",
+		"questionArticle": {
+			"sound": "70b9d4633a2da6a588bddaaed208c0d9",
+			"time": [
+				500,
+				300,
+				400,
+				500
+			],
+			"helpWords": [
+				[
+					"clown"
+				],
+				[
+					"everyone"
+				],
+				[
+					"her"
+				]
+			],
+			"text": "When the clown __________ on stage everyone __________ . They __________ her funny tricks ."
+		},
+		"article": {
+			"sound": "ab5862fca8202f6a6f160fb87af20581",
+			"time": [
+				500,
+				300,
+				400,
+				500
+			],
+			"text": "When the clown walked on stage everyone cheered. They loved her funny tricks."
+		},
+		"choice": [
+			{
+				"text": "loved",
+				"answer": 2
+			}, {
+				"text": "cheered",
+				"answer": 1
+			}, {
+				"text": "walked",
+				"answer": 0
+			}
+		]
+	},
+	"practice": {
+		"anchorx": 1,
+		"x": 450,
+		"amount": 2,
+		"arr": [
+			{
+				"no": false,
+				"question": "cheer__",
+				"word": "cheered",
+				"sound": "cec59614aa7b8861b7669d6cfe40112d"
+			}, {
+				"no": true,
+				"question": "begin__",
+				"sound": "cec59614aa7b8861b7669d6cfe40112d"
+			}, {
+				"no": false,
+				"question": "love__",
+				"word": "loved",
+				"fix": [
+					"lov",
+					"e",
+					"ed"
+				],
+				"fixIndex": 1,
+				"sound": "16a1e95bd31d14592b197a70c798cd2b"
+			}
+		]
+	}
+}

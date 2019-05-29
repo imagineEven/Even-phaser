@@ -1,0 +1,251 @@
+{
+  "questionWordBg": {
+    "image": "9566be6376721639e35f18a3612b4da7",
+    "x": 410,
+    "y": 44
+  },
+  "redScoreBg": {
+    "image": "4f0e894989ba886b49dcd7eceb63d262",
+    "x": 309,
+    "y": 18
+  },
+  "colon": {
+    "image": "f13f2c13b562421c2be09c04fab52423"
+  },
+  "questionWordHoverBg": {
+    "image": "f32679a0234dd7e6a387cdea883f9c25"
+  },
+  "quesitionBg": {
+    "image": "4a6bf1cbe7c54638738487209caa3944.jpg"
+  },
+  "ballTarget": {
+    "image": "ddccee128d419b4efbe06811c347d862",
+    "x": 654,
+    "y": 177
+  },
+  "ballTargetActive": {
+    "image": "c456478e6b494a5a971fb8ac336e20b6"
+  },
+  "timeBg": {
+    "image": "e2811dc5e150f0cf5ca1b002468a13d6",
+    "x": 61,
+    "y": 35
+  },
+  "blueScoreBg": {
+    "image": "6e260c550f75179c39d0e12eee06fe0a",
+    "x": 408,
+    "y": 18
+  },
+  "redbalkInBg": {
+    "image": "7a104982c7b84d14fecdec39d1930cee"
+  },
+  "ball": {
+    "image": "f426d820284312f3e5bdd38952ca934d",
+    "x": 164,
+    "y": 178
+  },
+  "bluebalkInBg": {
+    "image": "e8152fc528667e4eda5d06ee1c126fe9"
+  },
+  "balkInBg": {
+    "image": "fb2b64d7073359471a0004e5ee248828"
+  },
+  "space": {
+    "image": "6273c7c2f8d4583c02bc8a5bb7d5fa42"
+  },
+  "keyhover": {
+    "image": "83ccc692fd0d19dd7fb6f569e4d0cc64"
+  },
+  "spacehover": {
+    "image": "d77afeae1dde1a1a4dd7bdaa96868dc7"
+  },
+  "timeBgHover": {
+    "image": "ef88208e1b96235bcf2ab1b46420d05a"
+  },
+  "keyboradBg": {
+    "x": 281,
+    "y": 18
+  },
+  "lastBg": {
+    "image": "ee440d18f8473e793353659dbc8854d6.jpg"
+  },
+  "quesitionBg2": {
+    "image": "820f9c6027092ddea633d604f0398e54"
+  },
+  "startVideo": {
+    "video": "dc9f2d41858e2bc0c4d534b45ba39fb0"
+  },
+  "youReady": {
+    "sound": "694c27d71b564619c3f4aa744b2acbd4"
+  },
+  "niceJob": {
+    "sound": "25c1b83e7fec23ddc5df9b6243e99f51"
+  },
+  "isCreateEnter": {
+    "sound": "0468d90d321bb17610a8dda3e857087e"
+  },
+  "looksYouNeed": {
+    "sound": "6f785c2d783497f142c3c510ba199215"
+  },
+  "fu": {
+    "sound": "63f5afa59d6eec2af7105e2c2308088b"
+  },
+  "dudu": {
+    "sound": "0307d94bd890e9283a1b4b1dc3dd79cc"
+  },
+  "du": {
+    "sound": "a1d610e92f36247a429b9d8c9067e228"
+  },
+  "di": {
+    "sound": "45245816326ef6b774bf0321a82b6e56"
+  },
+  "tong": {
+    "sound": "e0d42772a6ed5436ceb62bd9e948bf46"
+  },
+  "clickLetsGo": {
+    "sound": "ba39d9f9c7cc7e022209ee17b661116c"
+  },
+  "spealThelWord": {
+    "sound": "307fe556138228d1deec44c9d5c97956"
+  },
+  "youAndFiveSecend": {
+    "sound": "4ff52179b170a4c3ade212b88083b2ca"
+  },
+  "mu": {
+    "sound": "a6a9c728f46ef8e2c0311b75305812a4"
+  },
+  "didi": {
+    "sound": "e1bc8fc20de30fde87e31307ceb28f21"
+  },
+  "hitTheGoalWithTheWord": {
+    "sound": "48d3f87fb3dd5cd9ec7235938ab52c60"
+  },
+  "letsTryAnotherWord": {
+    "sound": "512c4dd20d011fa7425ac203124df288"
+  },
+  "tapHereToMoveThePlayer": {
+    "sound": "1d19899c660b105f20f634cede205ee7"
+  },
+  "pressTheSpaceBarToShoot": {
+    "sound": "d101a0be17b663fe88fa2c86f23ef59b"
+  },
+  "niceTry": {
+    "sound": "bbd1e5f2de3dd198e7a492f8e76bf0dc"
+  },
+  "whoosh": {
+    "sound": "3ee6b7a0fe1350775529096a8f45ad22"
+  },
+  "applause": {
+    "sound": "bf3f12ecaf8eadcb787dc88d892e8f57"
+  },
+  "crowdCheering": {
+    "sound": "d5d43821cdda67e6ecdb605f1de21c23"
+  },
+  "danceMusic": {
+    "sound": "fac5e84636d79fd1825f66d3741fb6d3"
+  },
+  "weAreOuttaSchool": {
+    "sound": "5ca4479120d7f1c8ccc5792dfa28cbf0"
+  },
+  "weAreOuttaSchoolWithABellRing": {
+    "sound": "c18b704c05540cd2ed7faade0dedb215"
+  },
+  "period": {
+    "sound": "e17c94cc19b904c89bc51b515535b9ed"
+  },
+  "sample": {
+    "sound": "4cb9a6c347da2b5de3249f3bb88d8090"
+  },
+  "foundAnArticle": {
+    "sound": "5d1b9d4a3fc87e4e80e5a339d089e5d7"
+  },
+  "article": {
+    "sound": "4f1b0ece76e22215445809e8c64a8d12"
+  },
+  "needSomeoneWithABellRing": {
+    "sound": "e70087e93aafb1f390642560a1de1eab"
+  },
+  "foundAnArticleWithABellRing": {
+    "sound": "54a464a79a392fda453d45eb8b1ba10a"
+  },
+  "needSomeoneToExplain": {
+    "sound": "657805ffc452c749ecff4c01006f19da"
+  },
+  "explain": {
+    "sound": "a521a68dae4fd482dafbc8ecf2c8f168"
+  },
+  "addMoreTime": {
+    "sound": "255ad35b740f9252cfe05d2ac9af79f4"
+  },
+  "pressDownArrow": {
+    "sound": "73607978dc336d3b23ba26f91fa4bba7"
+  },
+  "firstLetsLearnHow": {
+    "sound": "9468b3005288af47ee3d0b739f42e2fb"
+  },
+  "pressUpArrow": {
+    "sound": "964f63a056a45a12b86056c8a65ec452"
+  },
+  "greatJob": {
+    "sound": "426677f3439d0a8190332205687aab54"
+  },
+  "redTeamWon": {
+    "sound": "910bb43d1746407075f13468bd83d0f5"
+  },
+  "blueTeamWon": {
+    "sound": "ba1b625a5ffe097161e4fbbeeefac070"
+  },
+  "timeout":{
+    "sound":"6b9dd1ba8545e38b9d356bfcd842a258"
+  },
+  "redPeople": [
+    {
+      "image": "bfed21b12927d1768ccac1159a645668",
+      "json": "bfed21b12927d1768ccac1159a645668"
+    },
+    {
+      "image": "a3f11509da9311c46d9b8c9e242bbcb0",
+      "json": "a3f11509da9311c46d9b8c9e242bbcb0"
+    },
+    {
+      "image": "15e9fab53efe2ee06a77fac7b98e4024",
+      "json": "15e9fab53efe2ee06a77fac7b98e4024"
+    },
+    {
+      "image": "47ba50d96b941902e36f56be37ba964a",
+      "json": "47ba50d96b941902e36f56be37ba964a"
+    },
+    {
+      "image": "be377f8dbab3bc4cdf6353a65f07a383",
+      "json": "be377f8dbab3bc4cdf6353a65f07a383"
+    }
+  ],
+  "bluePeople": [
+    {
+      "image": "5afd64ada674fb9888ee030c6ef8638c",
+      "json": "5afd64ada674fb9888ee030c6ef8638c"
+    },
+    {
+      "image": "013cd23f68de5d0f43bb4b3a9ce278a5",
+      "json": "013cd23f68de5d0f43bb4b3a9ce278a5"
+    },
+    {
+      "image": "c78d8ae4456bce10660dad7763eda0e2",
+      "json": "c78d8ae4456bce10660dad7763eda0e2"
+    },
+    {
+      "image": "b3bdb835226dd03954bd3de7d1fb6dd6",
+      "json": "b3bdb835226dd03954bd3de7d1fb6dd6"
+    },
+    {
+      "image": "2333ce7e18aa31ab1485330537ff455d",
+      "json": "2333ce7e18aa31ab1485330537ff455d"
+    }
+  ],
+  "youLose": {
+    "image": "a4f10e4eda5d3d94daee52a40048890e.jpg"
+  },
+  "youTie": {
+    "image": "69584eb8009966d6bd31f0be23eb50f3.jpg"
+  }
+}

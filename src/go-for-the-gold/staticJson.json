@@ -1,0 +1,518 @@
+{
+  "beginVideo": {
+    "video": "d3c4ec9a992420f8a67b8e1a59a204f9",
+    "sound": "e061a788060267f9a1a580404bd738b1"
+  },
+  "beginTip": {
+    "sounds": [
+      "bbf27c8d8150c4fbbdfd4e435f77b91f",
+      "b1c2e51bbdd8531c305213c87b9c53e5"
+    ]
+  },
+  "clickFromVideo": {
+    "sound": "bc2f86e8e26c3cfa667746622ad3adcf"
+  },
+  "imgSource": {
+    "mian_img": {
+      "image": "5f944f81feed0fdec532d1eb951971e5.jpg"
+    },
+    "bnt_bg": {
+      "image": "5074b8c30c7003a734d2e74b8db08134"
+    },
+    "false_bnt_bg": {
+      "image": "91dc1a6a9904424f998425a7ef232b6a"
+    },
+    "bnt_video1": {
+      "image": "08fa518e2cddafb1a04228d2157039ec"
+    },
+    "bnt_video0": {
+      "image": "bc6b61475e7e799b8d54b154e545753a"
+    },
+    "bnt_flash": {
+      "image": "7b93a612c8d2ddf97246ace6b8cc3f2e"
+    },
+    "play_bnt": {
+      "image": "75cf06acc49eb9f663d68f2c198d1323"
+    },
+    "indexpage": {
+      "image": "701c3a3448f6985acdf47a9b04e06d81"
+    },
+    "indexpage_0": {
+      "image": "ce0558ba77c92d1dc10b39ff624d45fe"
+    },
+    "indexpage_1": {
+      "image": "cda0ec73b32723a67b756f9cdc70a96c"
+    },
+    "indexpage_2": {
+      "image": "43825d8d62284c3c582e1d198f4daa21"
+    },
+    "unsurebnt": {
+      "image": "1b6f0d0cf4380e560721ad5fcb8e76df"
+    },
+    "surebnt1": {
+      "image": "f99640256f3c5c456a0666ef1054e5dd"
+    },
+    "surebnt2": {
+      "image": "9b40780db62107689667c976aaf21b3f"
+    },
+    "score_meun": {
+      "image": "0c548390bc6854d45ed92fb9f202e531"
+    },
+    "score_meun_light": {
+      "image": "940f7d7a1ba27b9a0eccd465292fefee"
+    },
+    "game_1": {
+      "image": "39ecf664742e5f6c353e3e8e35c71c96.jpg"
+    },
+    "person_0": {
+      "image": "96b7e37c7dac5e9ecd46b942d7000ee3"
+    },
+    "coin": {
+      "image": "a5ea2643a800e4dcb0e208ad6a307a3f"
+    },
+    "blank_socre": {
+      "image": "3871e8740733511978d1bf7911721481"
+    },
+    "monster1": {
+      "image": "211f0182a42d744b764f15c81703a476"
+    },
+    "banner": {
+      "image": "c3f83e59ebe667d2c9ab915a202adb3c"
+    },
+    "ppp": {
+      "image": "60081d523a30adc0d22edc63ccb75f3b"
+    },
+    "toumin": {
+      "image": "9428372682f0bce7940323ba46af3c96"
+    },
+    "wormHole": {
+      "image": "efa7af7fd9cdc23a87978b7afdd49752"
+    },
+    "clearing": {
+      "image": "62c469ff36d59f5b0d473cf23b468eb1.jpg"
+    },
+    "goldHeap": {
+      "image": "5848a5dbd1393853b8a8201f438003c3"
+    }
+  },
+  "right": {
+    "sounds": [
+      "eeaa866d6002d18955c5529a325f803d",
+      "ab83b69641956e4de18f571ec4a59fbd",
+      "cde03788bc25037c2bdccaea8eac03bf",
+      "8a60d2932205067b0907ef8cab2ee11c",
+      "2b866ff684023654b2978c013deeb531",
+      "aeedf9c1113dcf8470216296b47c5d69",
+      "f618fad9075689f3d5ba863519172943"
+    ]
+  },
+  "scorePlus": {
+    "sound": "22575abe3f84abbef681ccf022bc704e"
+  },
+  "rightCheck": {
+    "sound": "6561e32f273963478e5dcb3c85ad7417"
+  },
+  "wrongCheck": {
+    "sound": "509f55c28f70e4a3031f0d8584d34898"
+  },
+  "whichFixVideo": {
+    "sound": "844e6a7607db97f88c5f44dc9ba12ffd"
+  },
+  "seeAgain": {
+    "sound": "a0b116d490f595f58a2feff88dd87885"
+  },
+  "seeWordMeans": {
+    "sound": "b8841356f96aa6df1f00c99d8dca2081"
+  },
+  "youEarnExtraTime": {
+    "sound": "337777f8d7da476ee14b53125bcb907b"
+  },
+  "chooseCharactor": {
+    "sound": "79d9e7123835881b57e3aabb9a9c12be"
+  },
+  "banner": {
+    "image": "2496010569e42117940cd67477c96dab.png"
+  },
+  "gameOver": {
+    "sound": "d8b8fb4e48d17d1252399743c5c40b45"
+  },
+  "howMuchGold": {
+    "sound": "d34d4777c4e4f23e7178c2d697d07868"
+  },
+  "reward": {
+    "sounds": [
+      "4a1e64efee0d7388f5adcdcd5c28f2ea",
+      "cdc9d27f27c85da558baac4ce528cb5d",
+      "1c0a947bfd9e1092572356234cbc5f0a",
+      "0f9453743b7b532f72e4d32b71dd222b",
+      "849077efaa01b7d1f779722c693d828a",
+      "b26831582645b74e684a9a87d469cc49",
+      "b85f77ebce7c5c2cda17c3bd0a095a9d"
+    ]
+  },
+  "clickLetsGo": {
+    "sound": "56e68aadfa5542deca3549d1064faff8"
+  },
+  "person": {
+    "images": [
+      "f38a95eae2ecb39d91982f783847249a.png",
+      "6d0261b0136981103573b6ba81c926eb.png",
+      "6018eb962e19fdab5a3465716ac44a48.png",
+      "b8f6c978889a974b3acdb68c3c97564f.png",
+      "511051a7f09bba9862567fd57f5eeafe.png",
+      "fb0475d7a90c0f76070d7e3ff91322ff.png"
+    ]
+  },
+  "letsSee": {
+    "sounds": [
+      "b68271badd474cbfc5fff1aa86da6e2e",
+      "f623410ae4656aa774ee08ebb29fcbc4"
+    ]
+  },
+  "sounds": [
+    "f90d8b7250a2cabfc129eddb6a075858",
+    "2d1d9ff8abce326c962dc85044e4fa2a",
+    "8fb1085d0f0bdf7d3d499d1b3d275a0e",
+    "509f55c28f70e4a3031f0d8584d34898",
+    "844e6a7607db97f88c5f44dc9ba12ffd",
+    "a0b116d490f595f58a2feff88dd87885",
+    "b8841356f96aa6df1f00c99d8dca2081",
+    "eeaa866d6002d18955c5529a325f803d"
+  ],
+  "map": [
+    {
+      "images": [
+        "a7612a2883937ff3f61181dd666bc157.png",
+        "39ecf664742e5f6c353e3e8e35c71c96.jpg"
+      ],
+      "startX": 100,
+      "startY": 150,
+      "circleList": [
+        {
+          "x": 50,
+          "y": 47,
+          "id": 1,
+          "nextid": 4
+        },
+        {
+          "x": 703,
+          "y": 51,
+          "id": 2,
+          "nextid": 3
+        },
+        {
+          "x": 552,
+          "y": 136,
+          "id": 3,
+          "nextid": 2
+        },
+        {
+          "x": 449,
+          "y": 349,
+          "id": 4,
+          "nextid": 1
+        },
+        {
+          "x": 46,
+          "y": 457,
+          "id": 5,
+          "nextid": 6
+        },
+        {
+          "x": 552,
+          "y": 463,
+          "id": 6,
+          "nextid": 5
+        }
+      ],
+      "monsters": [
+        {
+          "monster": [
+            {
+              "json": "b4d9c64ce01fbfa75c39e875a8e1d2dc",
+              "image": "b4d9c64ce01fbfa75c39e875a8e1d2dc"
+            },
+            {
+              "json": "e2c0c404cb4d519f5d3218ca93143921",
+              "image": "e2c0c404cb4d519f5d3218ca93143921"
+            },
+            {
+              "json": "364d90bd11e6b29821c347b718121a3a",
+              "image": "364d90bd11e6b29821c347b718121a3a"
+            }
+          ],
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "images": [
+        "7872b0431fbd54ae97f6969a816fbac7.png",
+        "2d6beb289da5e24ca6eb04e91fbf9728.jpg"
+      ],
+      "startX": 100,
+      "startY": 120,
+      "circleList": [
+        {
+          "x": 36,
+          "y": 35,
+          "id": 1,
+          "nextid": 3
+        },
+        {
+          "x": 764,
+          "y": 35,
+          "id": 2,
+          "nextid": 4
+        },
+        {
+          "x": 450,
+          "y": 460,
+          "id": 3,
+          "nextid": 1
+        },
+        {
+          "x": 764,
+          "y": 460,
+          "id": 4,
+          "nextid": 2
+        }
+      ],
+      "monsters": [
+        {
+          "monster": [
+            {
+              "json": "9a94d948744e890f7dc468efcff447cc",
+              "image": "9a94d948744e890f7dc468efcff447cc"
+            },
+            {
+              "json": "f2b7ce67c5c1ed69bec6e85df5d503b8",
+              "image": "f2b7ce67c5c1ed69bec6e85df5d503b8"
+            },
+            {
+              "json": "b8afb0dde45fe3a11f0dd6b07138b3b7",
+              "image": "b8afb0dde45fe3a11f0dd6b07138b3b7"
+            }
+          ],
+          "x": 500,
+          "y": 250
+        },
+        {
+          "monster": [
+            {
+              "json": "944b5b2813cc1a09aafe9513257e919b",
+              "image": "944b5b2813cc1a09aafe9513257e919b"
+            },
+            {
+              "json": "3bcc99cee730b9c013d6dc397c04cd72",
+              "image": "3bcc99cee730b9c013d6dc397c04cd72"
+            },
+            {
+              "json": "2ff95b9dafb11ef824e24768210c1c34",
+              "image": "2ff95b9dafb11ef824e24768210c1c34"
+            }
+          ],
+          "isDao": true,
+          "x": 400,
+          "y": 300
+        }
+      ]
+    },
+    {
+      "images": [
+        "04c7aefa69bb6156329eb81c3ad83daf.png",
+        "fee687169d0d7d9f69460e8796e2acbb.jpg"
+      ],
+      "startX": 100,
+      "startY": 120,
+      "circleList": [
+        {
+          "x": 50,
+          "y": 50,
+          "id": 1,
+          "nextid": 2
+        },
+        {
+          "x": 750,
+          "y": 460,
+          "id": 2,
+          "nextid": 1
+        }
+      ],
+      "monsters": [
+        {
+          "monster": [
+            {
+              "json": "3539047c02bd01e921d0f0c7b409c29a",
+              "image": "3539047c02bd01e921d0f0c7b409c29a"
+            },
+            {
+              "json": "6199083f35b2aeaec1fc53a3441c2c47",
+              "image": "6199083f35b2aeaec1fc53a3441c2c47"
+            },
+            {
+              "json": "75093541d2f8b625341fd7fdfcdd3dd6",
+              "image": "75093541d2f8b625341fd7fdfcdd3dd6"
+            }
+          ],
+          "isDao": true,
+          "x": 400,
+          "y": 100
+        }
+      ]
+    },
+    {
+      "images": [
+        "d5a1efe4b0f797d0a1b6e4ba540a71cc.png",
+        "7b02a654bcfa964b78f36a2390a09b23.jpg"
+      ],
+      "startX": 100,
+      "startY": 120,
+      "circleList": [],
+      "monsters": [
+        {
+          "monster": [
+            {
+              "json": "726df2f412081c78e366f14ad07bcabc",
+              "image": "726df2f412081c78e366f14ad07bcabc"
+            },
+            {
+              "json": "47cb85f49a8836caa9c95ca7caf62965",
+              "image": "47cb85f49a8836caa9c95ca7caf62965"
+            },
+            {
+              "json": "d72618a3649b159c6c44d7a3adbddd56",
+              "image": "d72618a3649b159c6c44d7a3adbddd56"
+            }
+          ],
+          "isDao": true,
+          "x": 400,
+          "y": 100
+        }
+      ]
+    },
+    {
+      "images": [
+        "cc775e23c910acc40cc055c3b111ef0f.png",
+        "0699ec46e0869d4e0356ccb30c9e88ca.jpg"
+      ],
+      "startX": 100,
+      "startY": 120,
+      "circleList": [],
+      "monsters": [
+        {
+          "monster": [
+            {
+              "json": "a05b496d24d6e210019835dbf8db4ffd",
+              "image": "a05b496d24d6e210019835dbf8db4ffd"
+            },
+            {
+              "json": "731c69724bc1f0fab05fa1bf8679c295",
+              "image": "731c69724bc1f0fab05fa1bf8679c295"
+            },
+            {
+              "json": "7e9a80f58fd5b24aa4ec219e951d6df0",
+              "image": "7e9a80f58fd5b24aa4ec219e951d6df0"
+            }
+          ],
+          "x": 550,
+          "y": 150
+        }
+      ]
+    }
+  ],
+  "score_array": {
+    "images": [
+      "ad5a2edadd9586a65f98eaa147b9c98e",
+      "012aaaf270a69d8edb9a3384f1860e03",
+      "54b5f5580b000f6616be5b59b5ab911f",
+      "df87ff847b134f979ebae5b6b9389c79",
+      "1c041f216362a9edef34f4283785dfe1",
+      "c7d7dd37cfde9b54cf49bf6fbb5b2f6f",
+      "85d0b836c55b16ba393d62dbfb984336",
+      "b77faf395bcb0999eac17d2f91262a01",
+      "23461c3541c3fcc2256210400433ea01",
+      "b4a7773252a59a741250d6ed35e5a8df"
+    ]
+  },
+  "gold_array": {
+    "images": [
+      "6b3a0508f5c8a93a6e370b0cef5fa671",
+      "6adb79162e6be74f72b5d20586bc8bf3",
+      "1e352c77d8e85db99b0689466903877b",
+      "907f8be74deef05f4982690b986fc20d",
+      "608a694c1a0d04b9453a71669571f335",
+      "99619c22642765bc88ba645c1f5e4852",
+      "b9800619f0946bbfb175eb3dbfb76400",
+      "69736e1cfe23b9b405e8ddc477be666d",
+      "02c3e968c29b7e0f2a1c24f711d4d439",
+      "527d9adf19a72411dfad76eda411f658"
+    ]
+  },
+  "personSil": [
+    [
+      "81a49035113cd7e49f08c3f3e8ce5f3f",
+      "2dc3dc7c69ec8d7f93ee18c24bfb1fde",
+      "e1b36a940d77a0ec4326bb71775dccd3",
+      "09cdebcf7bda97d5dffcdc480fb9c2c7",
+      "768816c1fecf30b1ede2d69e0cb946a3"
+    ],
+    [
+      "a3e0b79e54a82b5847ff9536bd33edc9",
+      "4205e7edcf9fcb5964866915878cba01",
+      "30eee532307a675b6f2d50b02b37fa60",
+      "ae46fe66663f3b1956b37049870f7d99",
+      "768816c1fecf30b1ede2d69e0cb946a3"
+    ],
+    [
+      "3a6a760b4d3d8f82f98071f555428094",
+      "c803dbd31466d1aca947acd5e98f5935",
+      "6a56b7054bd1dec9a419700147bd5a68",
+      "b35a2256a63456f1672c8ac8cefca832",
+      "768816c1fecf30b1ede2d69e0cb946a3"
+    ],
+    [
+      "1e2dcc6d28e2d7dac6e6895de097abae",
+      "d836cf87a59bfdac6881b446379c3a29",
+      "49784402e871d122cbb85331f66ad295",
+      "7e4250a27fa8be0e2af6edc9804e1db7",
+      "74cb67fe76ac041630fe1b66111dc7f4"
+    ],
+    [
+      "7785db8a9ba8bd7445867e2886e48335",
+      "0158f7b360d76f307f45a1e0e60811d7",
+      "1dd5ee604658e25fc0aecb78833f1ca6",
+      "98966a87813a855057f112f865429f8a",
+      "74cb67fe76ac041630fe1b66111dc7f4"
+    ],
+    [
+      "fade60f771944e39a35071504db12bae",
+      "51b505e04c0db94efd31ee9e90df22dd",
+      "0aa5bfa04bfd13215e06edb5b8bdb6fd",
+      "7a956bdef880d26fd47203d361da5a29",
+      "74cb67fe76ac041630fe1b66111dc7f4"
+    ]
+  ],
+  "person1": [
+    "7785db8a9ba8bd7445867e2886e48335",
+    "7785db8a9ba8bd7445867e2886e48335",
+    "944648f111fe097751cc774da369b2e7",
+    "21e7d655a3ba73eedfd23227270a3e32"
+  ],
+  "monster1": [
+    "9a560046621b972be1b32f27474fb7ec",
+    "5780bb0d98e804f24454517e2cb9201d",
+    "977352d2274f0f0f30c19dadfe906a21",
+    "5780bb0d98e804f24454517e2cb9201d"
+  ],
+  "eat": {
+    "sound": "65f475bc7a2545de5feb755078d1a5fd"
+  },
+  "dead": {
+    "sound": "f6cf1f4c1f32c782fb24f43ae9365665"
+  },
+  "gamebgSound": {
+    "sound": "8fb1085d0f0bdf7d3d499d1b3d275a0e"
+  }
+}
